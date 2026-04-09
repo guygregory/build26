@@ -1,39 +1,46 @@
-import { useReducer, useEffect } from 'react'
+import { useReducer, useEffect, useMemo } from 'react'
 
-const initialState = { sessions: [], loading: true, error: null }
+const initialState = { sessions: [], speakers: [], loading: true, error: null }
 
 function reducer(state, action) {
   switch (action.type) {
     case 'LOADING':
-      return { sessions: [], loading: true, error: null }
+      return { sessions: [], speakers: [], loading: true, error: null }
     case 'SUCCESS':
-      return { sessions: action.sessions, loading: false, error: null }
+      return { sessions: action.sessions, speakers: action.speakers, loading: false, error: null }
     case 'ERROR':
-      return { sessions: [], loading: false, error: action.error }
+      return { sessions: [], speakers: [], loading: false, error: action.error }
     default:
       return state
   }
 }
 
-export function useSessionData(url) {
+export function useSessionData(sessionsUrl, speakersUrl) {
   const [state, dispatch] = useReducer(reducer, initialState)
 
   useEffect(() => {
     let cancelled = false
     dispatch({ type: 'LOADING' })
 
-    fetch(url)
-      .then(res => {
-        if (!res.ok) throw new Error(`HTTP ${res.status}: ${res.statusText}`)
+    Promise.all([
+      fetch(sessionsUrl).then(res => {
+        if (!res.ok) throw new Error(`Sessions: HTTP ${res.status}: ${res.statusText}`)
         return res.json()
-      })
-      .then(data => {
+      }),
+      fetch(speakersUrl).then(res => {
+        if (!res.ok) throw new Error(`Speakers: HTTP ${res.status}: ${res.statusText}`)
+        return res.json()
+      }),
+    ])
+      .then(([sessionsData, speakersData]) => {
         if (cancelled) return
-        // API may return an array directly or wrapped in a property
-        const list = Array.isArray(data)
-          ? data
-          : data.sessions || data.data || data.items || []
-        dispatch({ type: 'SUCCESS', sessions: list })
+        const sessions = Array.isArray(sessionsData)
+          ? sessionsData
+          : sessionsData.sessions || sessionsData.data || sessionsData.items || []
+        const speakers = Array.isArray(speakersData)
+          ? speakersData
+          : speakersData.speakers || speakersData.data || speakersData.items || []
+        dispatch({ type: 'SUCCESS', sessions, speakers })
       })
       .catch(err => {
         if (cancelled) return
@@ -41,8 +48,16 @@ export function useSessionData(url) {
       })
 
     return () => { cancelled = true }
-  }, [url])
+  }, [sessionsUrl, speakersUrl])
 
-  return state
+  const speakerMap = useMemo(() => {
+    const map = new Map()
+    for (const sp of state.speakers) {
+      if (sp.speakerId) map.set(sp.speakerId, sp)
+    }
+    return map
+  }, [state.speakers])
+
+  return { ...state, speakerMap }
 }
 

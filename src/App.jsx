@@ -6,10 +6,11 @@ import SessionModal from './components/SessionModal'
 import { useSessionData } from './hooks/useSessionData'
 import { filterSessions } from './utils/filterSessions'
 
-const API_URL = '/sessions_all.json'
+const SESSIONS_URL = '/sessions_all.json'
+const SPEAKERS_URL = '/speakers_all.json'
 
 export default function App() {
-  const { sessions, loading, error } = useSessionData(API_URL)
+  const { sessions, loading, error, speakerMap } = useSessionData(SESSIONS_URL, SPEAKERS_URL)
   const [selectedSession, setSelectedSession] = useState(null)
   const [view, setView] = useState('grid')
   const [filters, setFilters] = useState({
@@ -121,7 +122,7 @@ export default function App() {
       </main>
 
       {selectedSession && (
-        <SessionModal session={selectedSession} onClose={() => setSelectedSession(null)} />
+        <SessionModal session={selectedSession} speakerMap={speakerMap} onClose={() => setSelectedSession(null)} />
       )}
     </div>
   )

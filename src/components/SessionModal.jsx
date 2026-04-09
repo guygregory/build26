@@ -11,7 +11,7 @@ const TYPE_ACCENT = {
   Demo: 'var(--accent-rose)',
 }
 
-export default function SessionModal({ session, onClose }) {
+export default function SessionModal({ session, speakerMap, onClose }) {
   useEffect(() => {
     const handler = e => { if (e.key === 'Escape') onClose() }
     document.addEventListener('keydown', handler)
@@ -25,7 +25,13 @@ export default function SessionModal({ session, onClose }) {
 
   const title = session.title || session.sessionTitle || 'Untitled Session'
   const description = session.description || session.sessionDescription || ''
-  const speakers = getSpeakers(session)
+  const rawSpeakers = getSpeakers(session)
+  // Enrich speakers with full data from speakerMap using speakerIds
+  const speakers = (session.speakerIds && speakerMap && speakerMap.size > 0)
+    ? session.speakerIds
+        .map(id => speakerMap.get(id))
+        .filter(Boolean)
+    : rawSpeakers
   const type = getSessionType(session)
   const tracks = getTrackList(session)
   const level = getSessionLevelCode(session)
@@ -195,30 +201,47 @@ function DetailBlock({ label, accent, children }) {
 }
 
 function SpeakerCard({ speaker, accent }) {
-  const name = speaker.name || speaker.speakerName || speaker.fullName || 'Unknown'
-  const role = speaker.role || speaker.jobTitle || speaker.title
+  const name = speaker.displayName || speaker.name || speaker.speakerName || speaker.fullName || 'Unknown'
+  const role = speaker.jobTitle || speaker.role || speaker.title
   const company = speaker.company || speaker.organization
   const bio = speaker.bio || speaker.biography
-  const photo = speaker.photoUrl || speaker.imageUrl || speaker.avatarUrl
+  const photo = speaker.photo || speaker.photoUrl || speaker.imageUrl || speaker.avatarUrl
+  const linkedIn = speaker.linkedIn
 
   return (
-    <div className="flex items-start gap-3 rounded-xl p-3.5" style={{ background: 'var(--bg-elevated)', border: '1px solid var(--border-subtle)' }}>
+    <div className="flex items-start gap-4 rounded-xl p-4" style={{ background: 'var(--bg-elevated)', border: '1px solid var(--border-subtle)' }}>
       {photo ? (
-        <img src={photo} alt={name} className="w-10 h-10 rounded-lg object-cover shrink-0" />
+        <img src={photo} alt={name} className="w-14 h-14 rounded-full object-cover shrink-0" style={{ border: '2px solid var(--border-medium)' }} />
       ) : (
-        <div className="w-10 h-10 rounded-lg flex items-center justify-center shrink-0 font-display font-bold text-sm" style={{ background: `color-mix(in srgb, ${accent} 15%, transparent)`, color: accent }}>
+        <div className="w-14 h-14 rounded-full flex items-center justify-center shrink-0 font-display font-bold text-lg" style={{ background: `color-mix(in srgb, ${accent} 15%, transparent)`, color: accent, border: '2px solid var(--border-medium)' }}>
           {name.charAt(0).toUpperCase()}
         </div>
       )}
       <div className="flex-1 min-w-0">
-        <p className="font-display text-sm font-semibold" style={{ color: 'var(--text-primary)' }}>{name}</p>
+        <div className="flex items-center gap-2">
+          <p className="font-display text-sm font-bold" style={{ color: 'var(--text-primary)' }}>{name}</p>
+          {linkedIn && (
+            <a
+              href={linkedIn.startsWith('http') ? linkedIn : `https://www.linkedin.com/in/${linkedIn}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="shrink-0 transition-opacity hover:opacity-80"
+              title={`${name} on LinkedIn`}
+              onClick={e => e.stopPropagation()}
+            >
+              <svg className="w-4 h-4" viewBox="0 0 24 24" fill="#f5a623">
+                <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 0 1-2.063-2.065 2.064 2.064 0 1 1 2.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z" />
+              </svg>
+            </a>
+          )}
+        </div>
         {(role || company) && (
-          <p className="text-xs mt-0.5" style={{ color: 'var(--text-muted)' }}>
-            {[role, company].filter(Boolean).join(' · ')}
+          <p className="text-xs mt-0.5 font-semibold" style={{ color: 'var(--text-secondary)' }}>
+            {role}{role && company ? ', ' : ''}<span style={{ color: 'var(--text-muted)' }}>{company}</span>
           </p>
         )}
         {bio && (
-          <p className="text-xs mt-1.5 line-clamp-3 leading-relaxed" style={{ color: 'var(--text-muted)' }}>{bio}</p>
+          <p className="text-xs mt-2 line-clamp-3 leading-relaxed" style={{ color: 'var(--text-muted)' }}>{bio}</p>
         )}
       </div>
     </div>
