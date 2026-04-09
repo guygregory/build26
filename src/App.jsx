@@ -6,7 +6,7 @@ import SessionModal from './components/SessionModal'
 import { useSessionData } from './hooks/useSessionData'
 import { filterSessions } from './utils/filterSessions'
 
-const API_URL = 'https://api-v2.build.microsoft.com/api/session/all'
+const API_URL = '/sessions_all.json'
 
 export default function App() {
   const { sessions, loading, error } = useSessionData(API_URL)
@@ -19,7 +19,7 @@ export default function App() {
     level: [],
     day: [],
     speaker: '',
-    onDemand: false,
+    deliveryType: [],
   })
   const [sortBy, setSortBy] = useState('time')
 
@@ -32,21 +32,24 @@ export default function App() {
     setFilters(prev => ({ ...prev, [key]: value }))
 
   const clearFilters = () =>
-    setFilters({ search: '', sessionType: [], track: [], level: [], day: [], speaker: '', onDemand: false })
+    setFilters({ search: '', sessionType: [], track: [], level: [], day: [], speaker: '', deliveryType: [] })
 
   return (
-    <div className="min-h-screen bg-gray-950 text-white">
+    <div className="min-h-screen" style={{ background: 'var(--bg-base)', color: 'var(--text-primary)' }}>
+      {/* Subtle radial glow behind content */}
+      <div className="fixed top-0 left-1/2 -translate-x-1/2 w-[1000px] h-[600px] pointer-events-none" style={{ background: 'radial-gradient(ellipse at center, rgba(0 212 255 / 0.04) 0%, transparent 70%)' }} />
+
       <Header sessionCount={filtered.length} totalCount={sessions.length} loading={loading} />
 
-      <main className="max-w-screen-2xl mx-auto px-4 py-6">
+      <main className="relative max-w-[1600px] mx-auto px-5 py-8">
         {error && (
-          <div className="mb-6 p-4 bg-red-900/40 border border-red-700 rounded-xl text-red-300 text-sm">
+          <div className="mb-6 p-4 rounded-xl text-sm animate-fade-up" style={{ background: 'rgba(251 113 133 / 0.08)', border: '1px solid rgba(251 113 133 / 0.2)', color: 'var(--accent-rose)' }}>
             <strong>Failed to load sessions:</strong> {error}
           </div>
         )}
 
-        <div className="flex flex-col lg:flex-row gap-6">
-          <aside className="w-full lg:w-72 xl:w-80 shrink-0">
+        <div className="flex flex-col lg:flex-row gap-7">
+          <aside className="w-full lg:w-72 xl:w-[296px] shrink-0 animate-slide-in">
             <FilterPanel
               sessions={sessions}
               filters={filters}
@@ -56,34 +59,49 @@ export default function App() {
             />
           </aside>
 
-          <div className="flex-1 min-w-0">
-            <div className="flex items-center justify-between mb-4 gap-4 flex-wrap">
-              <p className="text-gray-400 text-sm">
-                Showing <span className="text-white font-semibold">{filtered.length}</span> of{' '}
-                <span className="text-white font-semibold">{sessions.length}</span> sessions
+          <div className="flex-1 min-w-0 animate-fade-up" style={{ animationDelay: '0.1s' }}>
+            {/* Toolbar */}
+            <div className="flex items-center justify-between mb-5 gap-4 flex-wrap">
+              <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>
+                <span className="font-mono font-semibold" style={{ color: 'var(--text-primary)' }}>{filtered.length}</span>
+                <span style={{ color: 'var(--text-muted)' }}> / {sessions.length}</span>
+                {' '}sessions
               </p>
               <div className="flex items-center gap-3">
-                <label className="text-gray-400 text-sm">Sort:</label>
                 <select
                   value={sortBy}
                   onChange={e => setSortBy(e.target.value)}
-                  className="bg-gray-800 border border-gray-700 text-white text-sm rounded-lg px-3 py-1.5 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                  className="text-sm rounded-lg px-3 py-1.5 focus:outline-none transition-colors cursor-pointer"
+                  style={{
+                    background: 'var(--bg-elevated)',
+                    border: '1px solid var(--border-medium)',
+                    color: 'var(--text-primary)',
+                  }}
                 >
-                  <option value="time">Date &amp; Time</option>
-                  <option value="title">Title</option>
-                  <option value="track">Track</option>
+                  <option value="time">Sort: Date &amp; Time</option>
+                  <option value="title">Sort: Title</option>
+                  <option value="track">Sort: Track</option>
                 </select>
-                <div className="flex border border-gray-700 rounded-lg overflow-hidden">
+                <div className="flex rounded-lg overflow-hidden" style={{ border: '1px solid var(--border-medium)' }}>
                   <button
                     onClick={() => setView('grid')}
-                    className={`px-3 py-1.5 text-sm ${view === 'grid' ? 'bg-blue-600 text-white' : 'bg-gray-800 text-gray-400 hover:bg-gray-700'}`}
+                    className="px-3 py-1.5 text-sm transition-all duration-200"
+                    style={{
+                      background: view === 'grid' ? 'var(--accent-cyan-dim)' : 'var(--bg-elevated)',
+                      color: view === 'grid' ? 'var(--accent-cyan)' : 'var(--text-muted)',
+                    }}
                     title="Grid view"
                   >
                     <GridIcon />
                   </button>
                   <button
                     onClick={() => setView('list')}
-                    className={`px-3 py-1.5 text-sm ${view === 'list' ? 'bg-blue-600 text-white' : 'bg-gray-800 text-gray-400 hover:bg-gray-700'}`}
+                    className="px-3 py-1.5 text-sm transition-all duration-200"
+                    style={{
+                      background: view === 'list' ? 'var(--accent-cyan-dim)' : 'var(--bg-elevated)',
+                      color: view === 'list' ? 'var(--accent-cyan)' : 'var(--text-muted)',
+                      borderLeft: '1px solid var(--border-subtle)',
+                    }}
                     title="List view"
                   >
                     <ListIcon />

@@ -4,7 +4,7 @@ import { getSessionDate } from './sessionHelpers'
  * Return a normalised, filtered, and sorted subset of sessions.
  */
 export function filterSessions(sessions, filters, sortBy) {
-  const { search, sessionType, track, level, day, speaker, onDemand } = filters
+  const { search, sessionType, track, level, day, speaker, deliveryType } = filters
 
   const lower = search.toLowerCase().trim()
 
@@ -35,7 +35,7 @@ export function filterSessions(sessions, filters, sortBy) {
 
     // Level filter
     if (level.length > 0) {
-      const lvl = String(s.level || s.sessionLevel || s.levelId || '')
+      const lvl = getSessionLevelCode(s)
       if (!lvl || !level.includes(lvl)) return false
     }
 
@@ -48,14 +48,18 @@ export function filterSessions(sessions, filters, sortBy) {
     // Speaker name filter
     if (speaker.trim()) {
       const spLower = speaker.toLowerCase()
+      const speakerStr = (s.speakerNames || '').toLowerCase()
       const names = getSpeakers(s).map(sp =>
         (sp.name || sp.speakerName || sp.fullName || '').toLowerCase()
       )
-      if (!names.some(n => n.includes(spLower))) return false
+      if (!speakerStr.includes(spLower) && !names.some(n => n.includes(spLower))) return false
     }
 
-    // On-demand filter
-    if (onDemand && !s.isAvailableOnDemand) return false
+    // Delivery type filter
+    if (deliveryType.length > 0) {
+      const types = getDeliveryTypes(s)
+      if (!types.some(t => deliveryType.includes(t))) return false
+    }
 
     return true
   })
@@ -84,22 +88,20 @@ export function filterSessions(sessions, filters, sortBy) {
 // ---- helpers ----
 
 export function getSpeakers(session) {
-  return (
-    session.speakers ||
-    session.speakerList ||
-    session.presenters ||
-    []
-  )
+  if (session.speakers || session.speakerList || session.presenters) {
+    return session.speakers || session.speakerList || session.presenters
+  }
+  // Build API returns a comma-separated string
+  if (session.speakerNames) {
+    return session.speakerNames.split(',').map(n => ({ name: n.trim() })).filter(s => s.name)
+  }
+  return []
 }
 
 export function getSessionType(session) {
-  return (
-    session.sessionType ||
-    session.format ||
-    session.type ||
-    session.sessionFormat ||
-    null
-  )
+  const t = session.sessionType || session.format || session.type || session.sessionFormat || null
+  if (t && typeof t === 'object') return t.displayValue || t.logicalValue || null
+  return t
 }
 
 export function getTrackList(session) {
@@ -107,9 +109,32 @@ export function getTrackList(session) {
     session.tracks ||
     session.track ||
     session.sessionTracks ||
+    session.topic ||
     []
   if (Array.isArray(raw)) {
-    return raw.map(t => (typeof t === 'string' ? t : t.name || t.trackName || '')).filter(Boolean)
+    return raw.map(t => (typeof t === 'string' ? t : t.displayValue || t.name || t.trackName || '')).filter(Boolean)
+  }
+  if (typeof raw === 'string') return raw ? [raw] : []
+  return []
+}
+
+export function getSessionLevelCode(session) {
+  const lvl = session.level || session.sessionLevel || session.levelId
+  if (!lvl) return null
+  if (typeof lvl === 'number') return String(lvl)
+  if (typeof lvl === 'string') return lvl
+  if (Array.isArray(lvl) && lvl.length > 0) {
+    const val = lvl[0].logicalValue || lvl[0].displayValue || ''
+    const match = val.match(/\((\d+)\)/)
+    return match ? match[1] : null
+  }
+  return null
+}
+
+export function getDeliveryTypes(session) {
+  const raw = session.deliveryTypes || []
+  if (Array.isArray(raw)) {
+    return raw.map(t => (typeof t === 'string' ? t : t.displayValue || t.logicalValue || '')).filter(Boolean)
   }
   if (typeof raw === 'string') return raw ? [raw] : []
   return []

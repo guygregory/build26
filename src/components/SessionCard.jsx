@@ -1,22 +1,28 @@
 import { formatDateTime, formatDuration } from '../utils/sessionHelpers'
-import { getSpeakers, getSessionType, getTrackList } from '../utils/filterSessions'
+import { getSpeakers, getSessionType, getTrackList, getSessionLevelCode } from '../utils/filterSessions'
 
-const TYPE_COLORS = {
-  Keynote: 'bg-yellow-500/20 text-yellow-300 border-yellow-500/30',
-  Workshop: 'bg-green-500/20 text-green-300 border-green-500/30',
-  Breakout: 'bg-blue-500/20 text-blue-300 border-blue-500/30',
-  'Theater Session': 'bg-purple-500/20 text-purple-300 border-purple-500/30',
-  'Ask the Experts': 'bg-orange-500/20 text-orange-300 border-orange-500/30',
-  Demo: 'bg-pink-500/20 text-pink-300 border-pink-500/30',
+const TYPE_STYLES = {
+  Keynote:           { stripe: 'var(--accent-amber)',  bg: 'rgba(255 171 0 / 0.06)',   text: 'var(--accent-amber)',  border: 'rgba(255 171 0 / 0.15)' },
+  Workshop:          { stripe: 'var(--accent-emerald)', bg: 'rgba(52 211 153 / 0.06)',  text: 'var(--accent-emerald)', border: 'rgba(52 211 153 / 0.15)' },
+  Breakout:          { stripe: 'var(--accent-cyan)',   bg: 'rgba(0 212 255 / 0.06)',    text: 'var(--accent-cyan)',   border: 'rgba(0 212 255 / 0.15)' },
+  'Theater Session': { stripe: 'var(--accent-violet)', bg: 'rgba(167 139 250 / 0.06)', text: 'var(--accent-violet)', border: 'rgba(167 139 250 / 0.15)' },
+  'Ask the Experts': { stripe: 'var(--accent-amber)',  bg: 'rgba(255 171 0 / 0.06)',   text: 'var(--accent-amber)',  border: 'rgba(255 171 0 / 0.15)' },
+  Demo:              { stripe: 'var(--accent-rose)',   bg: 'rgba(251 113 133 / 0.06)', text: 'var(--accent-rose)',   border: 'rgba(251 113 133 / 0.15)' },
 }
+const DEFAULT_STYLE = { stripe: 'var(--text-muted)', bg: 'rgba(255 255 255 / 0.02)', text: 'var(--text-secondary)', border: 'var(--border-subtle)' }
 
-const DEFAULT_TYPE_COLOR = 'bg-gray-700/50 text-gray-300 border-gray-600/50'
+const LEVEL_COLORS = {
+  '100': 'var(--accent-emerald)',
+  '200': 'var(--accent-cyan)',
+  '300': 'var(--accent-amber)',
+  '400': 'var(--accent-rose)',
+}
 
 function TypeBadge({ type }) {
   if (!type) return null
-  const cls = TYPE_COLORS[type] || DEFAULT_TYPE_COLOR
+  const s = TYPE_STYLES[type] || DEFAULT_STYLE
   return (
-    <span className={`inline-flex items-center px-2 py-0.5 rounded-md text-xs font-medium border ${cls}`}>
+    <span className="inline-flex items-center px-2 py-0.5 rounded text-[11px] font-medium font-display tracking-wide" style={{ background: s.bg, color: s.text, border: `1px solid ${s.border}` }}>
       {type}
     </span>
   )
@@ -24,69 +30,70 @@ function TypeBadge({ type }) {
 
 function LevelBadge({ level }) {
   if (!level) return null
-  const n = String(level)
-  const colors = {
-    '100': 'bg-emerald-500/20 text-emerald-300',
-    '200': 'bg-blue-500/20 text-blue-300',
-    '300': 'bg-orange-500/20 text-orange-300',
-    '400': 'bg-red-500/20 text-red-300',
-  }
+  const color = LEVEL_COLORS[level] || 'var(--text-muted)'
   return (
-    <span className={`inline-flex items-center px-2 py-0.5 rounded-md text-xs font-medium ${colors[n] || 'bg-gray-700 text-gray-300'}`}>
-      L{n}
+    <span className="inline-flex items-center gap-1 text-[11px] font-mono font-medium" style={{ color }}>
+      <span className="w-1.5 h-1.5 rounded-full" style={{ background: color }} />
+      L{level}
     </span>
   )
 }
 
-export default function SessionCard({ session, view, onSelect }) {
+export default function SessionCard({ session, view, onSelect, index = 0 }) {
   const title = session.title || session.sessionTitle || 'Untitled Session'
   const description = session.description || session.sessionDescription || ''
   const speakers = getSpeakers(session)
   const type = getSessionType(session)
   const tracks = getTrackList(session)
-  const level = session.level || session.sessionLevel || session.levelId
+  const level = getSessionLevelCode(session)
   const startRaw = session.startDateTime || session.startDate || session.scheduledDateTime
   const duration = session.durationInMinutes || session.duration
-  const room = session.room || session.roomName || session.location
   const tags = session.tags || session.sessionTags || []
+  const sessionCode = session.sessionCode || session.code
+  const style = TYPE_STYLES[type] || DEFAULT_STYLE
 
   if (view === 'list') {
     return (
       <button
         onClick={() => onSelect(session)}
-        className="w-full text-left bg-gray-900 border border-gray-800 rounded-xl p-4 hover:border-blue-700 hover:bg-gray-900/80 transition-all group"
+        className="w-full text-left rounded-lg pl-4 pr-4 py-3.5 transition-all duration-200 group stripe-left"
+        style={{
+          '--stripe-color': style.stripe,
+          background: 'var(--bg-card)',
+          border: '1px solid var(--border-subtle)',
+        }}
+        onMouseEnter={e => { e.currentTarget.style.borderColor = style.stripe + '40'; e.currentTarget.style.background = 'var(--bg-elevated)' }}
+        onMouseLeave={e => { e.currentTarget.style.borderColor = 'var(--border-subtle)'; e.currentTarget.style.background = 'var(--bg-card)' }}
       >
         <div className="flex items-start gap-4">
-          <div className="flex-1 min-w-0">
+          <div className="flex-1 min-w-0 ml-2">
             <div className="flex items-center gap-2 mb-1 flex-wrap">
               <TypeBadge type={type} />
               <LevelBadge level={level} />
-              {session.isAvailableOnDemand && (
-                <span className="inline-flex items-center px-2 py-0.5 rounded-md text-xs bg-teal-500/20 text-teal-300">
-                  On Demand
-                </span>
+              {sessionCode && (
+                <span className="font-mono text-[10px] font-medium" style={{ color: 'var(--text-muted)' }}>{sessionCode}</span>
               )}
             </div>
-            <h3 className="font-semibold text-white group-hover:text-blue-300 transition-colors line-clamp-2 text-sm leading-snug">
+            <h3 className="font-display font-semibold text-sm leading-snug line-clamp-2 transition-colors duration-200" style={{ color: 'var(--text-primary)' }}>
               {title}
             </h3>
             {speakers.length > 0 && (
-              <p className="text-gray-400 text-xs mt-1">
+              <p className="text-xs mt-1" style={{ color: 'var(--text-muted)' }}>
                 {speakers.map(s => s.name || s.speakerName || s.fullName).filter(Boolean).join(', ')}
               </p>
             )}
           </div>
-          <div className="shrink-0 text-right space-y-1">
+          <div className="shrink-0 text-right space-y-1 pt-0.5">
             {startRaw && (
-              <p className="text-xs text-gray-400 whitespace-nowrap">
+              <p className="text-xs whitespace-nowrap" style={{ color: 'var(--text-secondary)' }}>
                 {formatDateTime(startRaw)}
               </p>
             )}
             {duration && (
-              <p className="text-xs text-gray-500">{formatDuration(duration)}</p>
+              <p className="text-xs font-mono" style={{ color: 'var(--text-muted)' }}>{formatDuration(duration)}</p>
             )}
             {tracks.length > 0 && (
-              <p className="text-xs text-blue-400 truncate max-w-32">{tracks[0]}</p>
+              <p className="text-[11px] truncate max-w-32" style={{ color: style.text }}>{tracks[0]}</p>
             )}
           </div>
         </div>
@@ -98,54 +105,54 @@ export default function SessionCard({ session, view, onSelect }) {
   return (
     <button
       onClick={() => onSelect(session)}
-      className="w-full text-left bg-gray-900 border border-gray-800 rounded-xl p-4 hover:border-blue-700 hover:bg-gray-900/80 transition-all group flex flex-col gap-3"
+      className="w-full text-left rounded-xl p-5 transition-all duration-200 group flex flex-col gap-3 stripe-left"
+      style={{
+        '--stripe-color': style.stripe,
+        background: 'var(--bg-card)',
+        border: '1px solid var(--border-subtle)',
+        animationDelay: `${Math.min(index * 30, 400)}ms`,
+      }}
+      onMouseEnter={e => { e.currentTarget.style.borderColor = style.stripe + '40'; e.currentTarget.style.transform = 'translateY(-2px)'; e.currentTarget.style.boxShadow = `0 8px 32px -8px ${style.stripe}15` }}
+      onMouseLeave={e => { e.currentTarget.style.borderColor = 'var(--border-subtle)'; e.currentTarget.style.transform = 'translateY(0)'; e.currentTarget.style.boxShadow = 'none' }}
     >
       {/* Badges */}
-      <div className="flex items-center gap-1.5 flex-wrap">
+      <div className="flex items-center gap-2 flex-wrap ml-2">
         <TypeBadge type={type} />
         <LevelBadge level={level} />
-        {session.isAvailableOnDemand && (
-          <span className="inline-flex items-center px-2 py-0.5 rounded-md text-xs bg-teal-500/20 text-teal-300">
-            On Demand
-          </span>
+        {sessionCode && (
+          <span className="font-mono text-[10px] font-medium" style={{ color: 'var(--text-muted)' }}>{sessionCode}</span>
         )}
       </div>
 
       {/* Title */}
-      <h3 className="font-semibold text-white group-hover:text-blue-300 transition-colors line-clamp-3 text-sm leading-snug flex-1">
+      <h3 className="font-display font-semibold leading-snug line-clamp-3 text-[15px] flex-1 ml-2 transition-colors duration-200" style={{ color: 'var(--text-primary)' }}>
         {title}
       </h3>
 
       {/* Description snippet */}
       {description && (
-        <p className="text-gray-500 text-xs line-clamp-2 leading-relaxed">
+        <p className="text-xs line-clamp-2 leading-relaxed ml-2" style={{ color: 'var(--text-muted)' }}>
           {description}
         </p>
       )}
 
-      {/* Meta row */}
-      <div className="flex flex-col gap-1 mt-auto pt-2 border-t border-gray-800">
+      {/* Meta */}
+      <div className="flex flex-col gap-1.5 mt-auto pt-3 ml-2" style={{ borderTop: '1px solid var(--border-subtle)' }}>
         {startRaw && (
-          <div className="flex items-center gap-1.5 text-xs text-gray-400">
+          <div className="flex items-center gap-1.5 text-xs" style={{ color: 'var(--text-secondary)' }}>
             <ClockIcon />
             <span>{formatDateTime(startRaw)}</span>
-            {duration && <span className="text-gray-600">· {formatDuration(duration)}</span>}
-          </div>
-        )}
-        {room && (
-          <div className="flex items-center gap-1.5 text-xs text-gray-500">
-            <LocationIcon />
-            <span className="truncate">{room}</span>
+            {duration && <span style={{ color: 'var(--text-muted)' }}>· {formatDuration(duration)}</span>}
           </div>
         )}
         {tracks.length > 0 && (
-          <div className="flex items-center gap-1.5 text-xs text-blue-400">
+          <div className="flex items-center gap-1.5 text-xs" style={{ color: style.text }}>
             <TagIcon />
             <span className="truncate">{tracks.join(', ')}</span>
           </div>
         )}
         {speakers.length > 0 && (
-          <div className="flex items-center gap-1.5 text-xs text-gray-400">
+          <div className="flex items-center gap-1.5 text-xs" style={{ color: 'var(--text-secondary)' }}>
             <SpeakerIcon />
             <span className="truncate">
               {speakers.map(s => s.name || s.speakerName || s.fullName).filter(Boolean).join(', ')}
@@ -156,14 +163,14 @@ export default function SessionCard({ session, view, onSelect }) {
 
       {/* Tags */}
       {Array.isArray(tags) && tags.length > 0 && (
-        <div className="flex flex-wrap gap-1">
-          {tags.slice(0, 4).map((tag, i) => (
-            <span key={i} className="text-xs px-1.5 py-0.5 bg-gray-800 text-gray-400 rounded">
-              {typeof tag === 'string' ? tag : tag.name || tag.tagName}
+        <div className="flex flex-wrap gap-1 ml-2">
+          {tags.slice(0, 3).map((tag, i) => (
+            <span key={i} className="text-[10px] px-1.5 py-0.5 rounded font-medium" style={{ background: 'rgba(255 255 255 / 0.04)', color: 'var(--text-muted)' }}>
+              {typeof tag === 'string' ? tag : tag.displayValue || tag.name || tag.tagName}
             </span>
           ))}
-          {tags.length > 4 && (
-            <span className="text-xs px-1.5 py-0.5 text-gray-600">+{tags.length - 4}</span>
+          {tags.length > 3 && (
+            <span className="text-[10px] px-1.5 py-0.5" style={{ color: 'var(--text-muted)' }}>+{tags.length - 3}</span>
           )}
         </div>
       )}
@@ -175,15 +182,6 @@ function ClockIcon() {
   return (
     <svg className="w-3 h-3 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
-    </svg>
-  )
-}
-
-function LocationIcon() {
-  return (
-    <svg className="w-3 h-3 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
     </svg>
   )
 }

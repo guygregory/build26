@@ -1,37 +1,58 @@
 export default function Header({ totalCount, loading }) {
   return (
-    <header className="bg-gray-900 border-b border-gray-800 sticky top-0 z-40 backdrop-blur-sm bg-gray-900/95">
-      <div className="max-w-screen-2xl mx-auto px-4 py-4 flex items-center justify-between gap-4 flex-wrap">
-        <div className="flex items-center gap-3">
-          <div className="flex items-center gap-2">
-            <svg className="w-8 h-8 text-blue-500" viewBox="0 0 24 24" fill="currentColor">
-              <path d="M11.5 2C6.25 2 2 6.25 2 11.5S6.25 21 11.5 21c1.63 0 3.16-.41 4.5-1.13V17.5c-1.28.95-2.87 1.5-4.5 1.5-3.86 0-7-3.14-7-7s3.14-7 7-7 7 3.14 7 7v1c0 .55-.45 1-1 1s-1-.45-1-1v-1c0-2.76-2.24-5-5-5s-5 2.24-5 5 2.24 5 5 5c1.38 0 2.63-.56 3.54-1.46.65.89 1.67 1.46 2.82 1.46 1.93 0 3.5-1.57 3.5-3.5v-1C22 6.25 17.75 2 11.5 2zM11.5 14.5c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/>
-            </svg>
-            <div>
-              <h1 className="text-lg font-bold text-white leading-none">Microsoft Build 2026</h1>
-              <p className="text-xs text-blue-400 font-medium">Session Browser</p>
+    <header className="sticky top-0 z-40 glass border-b" style={{ borderColor: 'var(--border-subtle)' }}>
+      {/* Accent gradient line at very top */}
+      <div className="h-[2px]" style={{ background: 'linear-gradient(90deg, var(--accent-cyan), var(--accent-violet), var(--accent-amber))' }} />
+
+      <div className="max-w-[1600px] mx-auto px-5 py-4 flex items-center justify-between gap-4 flex-wrap">
+        <div className="flex items-center gap-4">
+          {/* Logo mark */}
+          <div className="relative w-9 h-9 shrink-0">
+            <div className="absolute inset-0 rounded-lg" style={{ background: 'linear-gradient(135deg, var(--accent-cyan), var(--accent-violet))' }} />
+            <div className="absolute inset-[2px] rounded-[6px] flex items-center justify-center" style={{ background: 'var(--bg-base)' }}>
+              <svg className="w-4 h-4" viewBox="0 0 16 16" fill="none">
+                <path d="M1 1h6.5v6.5H1V1z" fill="var(--accent-cyan)" opacity="0.9" />
+                <path d="M8.5 1H15v6.5H8.5V1z" fill="var(--accent-cyan)" opacity="0.6" />
+                <path d="M1 8.5h6.5V15H1V8.5z" fill="var(--accent-cyan)" opacity="0.6" />
+                <path d="M8.5 8.5H15V15H8.5V8.5z" fill="var(--accent-cyan)" opacity="0.3" />
+              </svg>
             </div>
+          </div>
+
+          <div>
+            <h1 className="font-display text-lg font-bold tracking-tight leading-none" style={{ color: 'var(--text-primary)' }}>
+              Build <span style={{ color: 'var(--accent-cyan)' }}>2026</span>
+            </h1>
+            <p className="text-[11px] font-medium uppercase tracking-[0.2em] mt-0.5" style={{ color: 'var(--text-muted)' }}>
+              Session Catalog
+            </p>
           </div>
         </div>
 
-        <div className="flex items-center gap-4">
+        <div className="flex items-center gap-5">
           {loading ? (
-            <span className="flex items-center gap-2 text-sm text-gray-400">
-              <span className="inline-block w-4 h-4 border-2 border-blue-500 border-t-transparent rounded-full animate-spin" />
-              Loading sessions…
+            <span className="flex items-center gap-2.5 text-sm" style={{ color: 'var(--text-secondary)' }}>
+              <span className="inline-block w-3.5 h-3.5 rounded-full border-2 border-t-transparent animate-spin" style={{ borderColor: 'var(--accent-cyan)', borderTopColor: 'transparent' }} />
+              Loading…
             </span>
           ) : (
-            <span className="text-sm text-gray-400">
-              <span className="text-white font-semibold">{totalCount}</span> sessions available
+            <span className="text-sm" style={{ color: 'var(--text-secondary)' }}>
+              <span className="font-mono font-semibold" style={{ color: 'var(--accent-cyan)' }}>{totalCount}</span>
+              {' '}sessions
             </span>
           )}
           <a
             href="https://build.microsoft.com"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-xs bg-blue-600 hover:bg-blue-500 text-white px-3 py-1.5 rounded-lg transition-colors font-medium"
+            className="text-xs font-medium px-3.5 py-1.5 rounded-lg transition-all duration-200 hover:scale-[1.02]"
+            style={{
+              background: 'var(--accent-cyan-dim)',
+              color: 'var(--accent-cyan)',
+              border: '1px solid rgba(0 212 255 / 0.2)',
+            }}
           >
-            Microsoft Build ↗
+            build.microsoft.com ↗
           </a>
         </div>
       </div>

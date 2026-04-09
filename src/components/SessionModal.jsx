@@ -1,16 +1,23 @@
 import { useEffect } from 'react'
 import { formatDateTime, formatDuration, formatLevel } from '../utils/sessionHelpers'
-import { getSpeakers, getSessionType, getTrackList } from '../utils/filterSessions'
+import { getSpeakers, getSessionType, getTrackList, getSessionLevelCode } from '../utils/filterSessions'
+
+const TYPE_ACCENT = {
+  Keynote: 'var(--accent-amber)',
+  Workshop: 'var(--accent-emerald)',
+  Breakout: 'var(--accent-cyan)',
+  'Theater Session': 'var(--accent-violet)',
+  'Ask the Experts': 'var(--accent-amber)',
+  Demo: 'var(--accent-rose)',
+}
 
 export default function SessionModal({ session, onClose }) {
-  // Close on Escape key
   useEffect(() => {
     const handler = e => { if (e.key === 'Escape') onClose() }
     document.addEventListener('keydown', handler)
     return () => document.removeEventListener('keydown', handler)
   }, [onClose])
 
-  // Prevent background scroll
   useEffect(() => {
     document.body.style.overflow = 'hidden'
     return () => { document.body.style.overflow = '' }
@@ -21,52 +28,56 @@ export default function SessionModal({ session, onClose }) {
   const speakers = getSpeakers(session)
   const type = getSessionType(session)
   const tracks = getTrackList(session)
-  const level = session.level || session.sessionLevel || session.levelId
+  const level = getSessionLevelCode(session)
   const startRaw = session.startDateTime || session.startDate || session.scheduledDateTime
   const endRaw = session.endDateTime || session.endDate
   const duration = session.durationInMinutes || session.duration
   const room = session.room || session.roomName || session.location
-  const capacity = session.capacity || session.roomCapacity
-  const registered = session.registrationCount || session.attendeeCount
   const tags = session.tags || session.sessionTags || []
   const sessionId = session.sessionId || session.id
   const sessionCode = session.sessionCode || session.code
   const contentUrl = session.contentUrl || session.recordingUrl || session.sessionUrl
+  const accent = TYPE_ACCENT[type] || 'var(--accent-cyan)'
 
   return (
     <div
-      className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/70 backdrop-blur-sm"
+      className="fixed inset-0 z-50 flex items-center justify-center p-4 animate-fade-in"
+      style={{ background: 'rgba(0 0 0 / 0.75)', backdropFilter: 'blur(8px)' }}
       onClick={e => { if (e.target === e.currentTarget) onClose() }}
     >
-      <div className="bg-gray-900 border border-gray-700 rounded-2xl max-w-2xl w-full max-h-[90vh] overflow-y-auto shadow-2xl">
+      <div
+        className="w-full max-w-2xl max-h-[90vh] overflow-y-auto rounded-2xl shadow-2xl animate-modal-enter"
+        style={{ background: 'var(--bg-surface)', border: '1px solid var(--border-medium)' }}
+      >
+        {/* Accent top bar */}
+        <div className="h-1 rounded-t-2xl" style={{ background: `linear-gradient(90deg, ${accent}, ${accent}80, transparent)` }} />
+
         {/* Header */}
-        <div className="flex items-start justify-between p-6 border-b border-gray-800 gap-4">
+        <div className="flex items-start justify-between p-6 pb-4 gap-4">
           <div className="flex-1 min-w-0">
-            <div className="flex flex-wrap gap-2 mb-3">
+            <div className="flex flex-wrap items-center gap-2 mb-3">
               {type && (
-                <span className="inline-flex items-center px-2.5 py-0.5 rounded-md text-xs font-medium bg-blue-500/20 text-blue-300 border border-blue-500/30">
+                <span className="inline-flex items-center px-2.5 py-0.5 rounded text-[11px] font-medium font-display tracking-wide" style={{ background: `color-mix(in srgb, ${accent} 12%, transparent)`, color: accent, border: `1px solid color-mix(in srgb, ${accent} 20%, transparent)` }}>
                   {type}
                 </span>
               )}
               {level && (
-                <span className="inline-flex items-center px-2.5 py-0.5 rounded-md text-xs font-medium bg-orange-500/20 text-orange-300">
+                <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded text-[11px] font-mono font-medium" style={{ background: 'rgba(255 255 255 / 0.04)', color: 'var(--text-secondary)' }}>
                   {formatLevel(level)}
                 </span>
               )}
-              {session.isAvailableOnDemand && (
-                <span className="inline-flex items-center px-2.5 py-0.5 rounded-md text-xs font-medium bg-teal-500/20 text-teal-300">
-                  ✓ On Demand
-                </span>
+              {sessionCode && (
+                <span className="font-mono text-[11px] font-medium" style={{ color: 'var(--text-muted)' }}>{sessionCode}</span>
               )}
             </div>
-            <h2 className="text-xl font-bold text-white leading-snug">{title}</h2>
-            {sessionCode && (
-              <p className="text-gray-500 text-xs mt-1">Session code: {sessionCode}</p>
-            )}
+            <h2 className="font-display text-xl font-bold leading-snug" style={{ color: 'var(--text-primary)' }}>{title}</h2>
           </div>
           <button
             onClick={onClose}
-            className="shrink-0 p-2 rounded-lg text-gray-400 hover:text-white hover:bg-gray-800 transition-colors"
+            className="shrink-0 p-2 rounded-lg transition-colors duration-150"
+            style={{ color: 'var(--text-muted)' }}
+            onMouseEnter={e => { e.currentTarget.style.background = 'var(--bg-elevated)'; e.currentTarget.style.color = 'var(--text-primary)' }}
+            onMouseLeave={e => { e.currentTarget.style.background = 'transparent'; e.currentTarget.style.color = 'var(--text-muted)' }}
             aria-label="Close"
           >
             <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -76,96 +87,74 @@ export default function SessionModal({ session, onClose }) {
         </div>
 
         {/* Body */}
-        <div className="p-6 space-y-6">
-          {/* Key details grid */}
-          <div className="grid grid-cols-2 gap-3">
+        <div className="px-6 pb-6 space-y-6">
+          {/* Key details */}
+          <div className="grid grid-cols-2 gap-2.5">
             {startRaw && (
-              <DetailBlock icon="🗓" label="Start">
+              <DetailBlock label="Start" accent={accent}>
                 {formatDateTime(startRaw)}
               </DetailBlock>
             )}
             {endRaw && (
-              <DetailBlock icon="🏁" label="End">
+              <DetailBlock label="End" accent={accent}>
                 {formatDateTime(endRaw)}
               </DetailBlock>
             )}
             {duration && (
-              <DetailBlock icon="⏱" label="Duration">
+              <DetailBlock label="Duration" accent={accent}>
                 {formatDuration(duration)}
               </DetailBlock>
             )}
             {room && (
-              <DetailBlock icon="📍" label="Room">
+              <DetailBlock label="Room" accent={accent}>
                 {room}
-              </DetailBlock>
-            )}
-            {capacity && (
-              <DetailBlock icon="🪑" label="Capacity">
-                {capacity.toLocaleString()} seats
-              </DetailBlock>
-            )}
-            {registered !== undefined && registered !== null && (
-              <DetailBlock icon="👥" label="Registered">
-                {Number(registered).toLocaleString()}
-              </DetailBlock>
-            )}
-            {sessionId && (
-              <DetailBlock icon="🆔" label="Session ID">
-                <span className="font-mono text-xs">{sessionId}</span>
               </DetailBlock>
             )}
           </div>
 
           {/* Tracks */}
           {tracks.length > 0 && (
-            <div>
-              <h3 className="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-2">Tracks</h3>
+            <Section title="Topics">
               <div className="flex flex-wrap gap-2">
                 {tracks.map((t, i) => (
-                  <span key={i} className="px-2.5 py-1 bg-blue-500/10 border border-blue-500/20 text-blue-300 text-sm rounded-lg">
+                  <span key={i} className="px-3 py-1.5 rounded-lg text-sm font-medium" style={{ background: `color-mix(in srgb, ${accent} 8%, transparent)`, color: accent, border: `1px solid color-mix(in srgb, ${accent} 15%, transparent)` }}>
                     {t}
                   </span>
                 ))}
               </div>
-            </div>
+            </Section>
           )}
 
           {/* Description */}
           {description && (
-            <div>
-              <h3 className="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-2">Description</h3>
-              <p className="text-gray-300 text-sm leading-relaxed whitespace-pre-wrap">{description}</p>
-            </div>
+            <Section title="About">
+              <p className="text-sm leading-relaxed whitespace-pre-wrap" style={{ color: 'var(--text-secondary)' }}>{description}</p>
+            </Section>
           )}
 
           {/* Speakers */}
           {speakers.length > 0 && (
-            <div>
-              <h3 className="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-3">Speakers</h3>
-              <div className="grid gap-3">
+            <Section title="Speakers">
+              <div className="grid gap-2.5">
                 {speakers.map((sp, i) => (
-                  <SpeakerCard key={sp.speakerId || sp.id || i} speaker={sp} />
+                  <SpeakerCard key={sp.speakerId || sp.id || i} speaker={sp} accent={accent} />
                 ))}
               </div>
-            </div>
+            </Section>
           )}
 
           {/* Tags */}
           {Array.isArray(tags) && tags.length > 0 && (
-            <div>
-              <h3 className="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-2">Tags</h3>
+            <Section title="Tags">
               <div className="flex flex-wrap gap-1.5">
                 {tags.map((tag, i) => (
-                  <span key={i} className="px-2 py-1 bg-gray-800 text-gray-400 text-xs rounded-md">
-                    {typeof tag === 'string' ? tag : tag.name || tag.tagName}
+                  <span key={i} className="px-2 py-1 rounded text-xs font-medium" style={{ background: 'rgba(255 255 255 / 0.04)', color: 'var(--text-muted)' }}>
+                    {typeof tag === 'string' ? tag : tag.displayValue || tag.name || tag.tagName}
                   </span>
                 ))}
               </div>
-            </div>
+            </Section>
           )}
-
-          {/* Extra metadata (render any remaining fields) */}
-          <ExtraFields session={session} />
 
           {/* Link */}
           {contentUrl && (
@@ -174,7 +163,8 @@ export default function SessionModal({ session, onClose }) {
                 href={contentUrl}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 bg-blue-600 hover:bg-blue-500 text-white px-4 py-2 rounded-lg text-sm font-medium transition-colors"
+                className="inline-flex items-center gap-2 px-5 py-2.5 rounded-lg text-sm font-display font-semibold transition-all duration-200 hover:scale-[1.02]"
+                style={{ background: accent, color: 'var(--bg-base)' }}
               >
                 View Session ↗
               </a>
@@ -186,16 +176,25 @@ export default function SessionModal({ session, onClose }) {
   )
 }
 
-function DetailBlock({ icon, label, children }) {
+function Section({ title, children }) {
   return (
-    <div className="bg-gray-800/50 rounded-lg p-3">
-      <p className="text-xs text-gray-500 mb-0.5">{icon} {label}</p>
-      <p className="text-sm text-white font-medium">{children}</p>
+    <div>
+      <h3 className="font-display text-[11px] font-semibold uppercase tracking-[0.15em] mb-3" style={{ color: 'var(--text-muted)' }}>{title}</h3>
+      {children}
     </div>
   )
 }
 
-function SpeakerCard({ speaker }) {
+function DetailBlock({ label, accent, children }) {
+  return (
+    <div className="rounded-lg p-3" style={{ background: 'var(--bg-elevated)', border: '1px solid var(--border-subtle)' }}>
+      <p className="text-[11px] font-display font-medium uppercase tracking-wide mb-1" style={{ color: 'var(--text-muted)' }}>{label}</p>
+      <p className="text-sm font-medium" style={{ color: 'var(--text-primary)' }}>{children}</p>
+    </div>
+  )
+}
+
+function SpeakerCard({ speaker, accent }) {
   const name = speaker.name || speaker.speakerName || speaker.fullName || 'Unknown'
   const role = speaker.role || speaker.jobTitle || speaker.title
   const company = speaker.company || speaker.organization
@@ -203,79 +202,24 @@ function SpeakerCard({ speaker }) {
   const photo = speaker.photoUrl || speaker.imageUrl || speaker.avatarUrl
 
   return (
-    <div className="flex items-start gap-3 bg-gray-800/50 rounded-xl p-3">
+    <div className="flex items-start gap-3 rounded-xl p-3.5" style={{ background: 'var(--bg-elevated)', border: '1px solid var(--border-subtle)' }}>
       {photo ? (
-        <img src={photo} alt={name} className="w-10 h-10 rounded-full object-cover shrink-0" />
+        <img src={photo} alt={name} className="w-10 h-10 rounded-lg object-cover shrink-0" />
       ) : (
-        <div className="w-10 h-10 rounded-full bg-gray-700 flex items-center justify-center shrink-0 text-gray-400 text-sm font-semibold">
+        <div className="w-10 h-10 rounded-lg flex items-center justify-center shrink-0 font-display font-bold text-sm" style={{ background: `color-mix(in srgb, ${accent} 15%, transparent)`, color: accent }}>
           {name.charAt(0).toUpperCase()}
         </div>
       )}
       <div className="flex-1 min-w-0">
-        <p className="text-sm font-semibold text-white">{name}</p>
+        <p className="font-display text-sm font-semibold" style={{ color: 'var(--text-primary)' }}>{name}</p>
         {(role || company) && (
-          <p className="text-xs text-gray-400 mt-0.5">
+          <p className="text-xs mt-0.5" style={{ color: 'var(--text-muted)' }}>
             {[role, company].filter(Boolean).join(' · ')}
           </p>
         )}
         {bio && (
-          <p className="text-xs text-gray-500 mt-1.5 line-clamp-3 leading-relaxed">{bio}</p>
+          <p className="text-xs mt-1.5 line-clamp-3 leading-relaxed" style={{ color: 'var(--text-muted)' }}>{bio}</p>
         )}
-      </div>
-    </div>
-  )
-}
-
-const KNOWN_FIELDS = new Set([
-  'sessionId', 'id', 'title', 'sessionTitle', 'description', 'sessionDescription',
-  'speakers', 'speakerList', 'presenters',
-  'sessionType', 'format', 'type', 'sessionFormat',
-  'tracks', 'track', 'sessionTracks',
-  'level', 'sessionLevel', 'levelId',
-  'startDateTime', 'startDate', 'scheduledDateTime',
-  'endDateTime', 'endDate',
-  'durationInMinutes', 'duration',
-  'room', 'roomName', 'location',
-  'capacity', 'roomCapacity',
-  'registrationCount', 'attendeeCount',
-  'sessionCode', 'code',
-  'contentUrl', 'recordingUrl', 'sessionUrl',
-  'isAvailableOnDemand',
-  'tags', 'sessionTags',
-])
-
-function ExtraFields({ session }) {
-  const extra = Object.entries(session).filter(
-    ([key, val]) =>
-      !KNOWN_FIELDS.has(key) &&
-      val !== null &&
-      val !== undefined &&
-      val !== '' &&
-      !Array.isArray(val)
-  )
-
-  if (extra.length === 0) return null
-
-  return (
-    <div>
-      <h3 className="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-2">
-        Additional Details
-      </h3>
-      <div className="grid gap-2">
-        {extra.map(([key, val]) => (
-          <div key={key} className="flex gap-3 text-sm">
-            <span className="text-gray-500 shrink-0 min-w-32 capitalize">
-              {key.replace(/([A-Z])/g, ' $1').trim()}:
-            </span>
-            <span className="text-gray-300 break-all">
-              {typeof val === 'boolean'
-                ? val ? '✓ Yes' : '✗ No'
-                : typeof val === 'object'
-                ? JSON.stringify(val)
-                : String(val)}
-            </span>
-          </div>
-        ))}
       </div>
     </div>
   )
