@@ -1,4 +1,4 @@
-import { useState, useMemo } from 'react'
+import { useState, useMemo, useEffect } from 'react'
 import Header from './components/Header'
 import FilterPanel from './components/FilterPanel'
 import SessionGrid from './components/SessionGrid'
@@ -23,6 +23,19 @@ export default function App() {
     deliveryType: [],
   })
   const [sortBy, setSortBy] = useState('time')
+  const [theme, setTheme] = useState(() => localStorage.getItem('theme') || 'dark')
+
+  useEffect(() => {
+    const root = document.documentElement
+    if (theme === 'light') {
+      root.classList.add('light')
+    } else {
+      root.classList.remove('light')
+    }
+    localStorage.setItem('theme', theme)
+  }, [theme])
+
+  const toggleTheme = () => setTheme(t => t === 'dark' ? 'light' : 'dark')
 
   const filtered = useMemo(
     () => filterSessions(sessions, filters, sortBy),
@@ -40,7 +53,7 @@ export default function App() {
       {/* Subtle radial glow behind content */}
       <div className="fixed top-0 left-1/2 -translate-x-1/2 w-[1000px] h-[600px] pointer-events-none" style={{ background: 'radial-gradient(ellipse at center, rgba(0 212 255 / 0.04) 0%, transparent 70%)' }} />
 
-      <Header sessionCount={filtered.length} totalCount={sessions.length} loading={loading} />
+      <Header sessionCount={filtered.length} totalCount={sessions.length} loading={loading} theme={theme} onThemeToggle={toggleTheme} />
 
       <main className="relative max-w-[1600px] mx-auto px-5 py-8">
         {error && (
