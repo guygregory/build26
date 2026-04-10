@@ -11,7 +11,7 @@ A responsive, filterable web app that fetches and displays all sessions from [Mi
 - 📋 **Grid or list view** toggle
 - 🔀 **Sort** by date/time, title, or track
 - 📄 **Detailed modal** showing all session metadata (speakers with bios/photos, room, capacity, tags, and more)
-- 🌙 Dark theme, fully responsive
+- 🌙 **Dark / light mode** toggle with preference saved to localStorage, fully responsive
 - ⚡ Powered by [Vite](https://vite.dev) + [React](https://react.dev) + [Tailwind CSS v4](https://tailwindcss.com)
 
 ## Local Development

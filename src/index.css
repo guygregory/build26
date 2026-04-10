@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-/* ── Design tokens ── */
+/* ── Design tokens (dark, default) ── */
 :root {
   --bg-base: #06090f;
   --bg-surface: #0c1017;
@@ -22,6 +22,27 @@
   --font-display: 'Outfit', sans-serif;
   --font-body: 'DM Sans', sans-serif;
   --font-mono: 'JetBrains Mono', monospace;
+}
+
+/* ── Light mode tokens ── */
+html.light {
+  --bg-base: #f4f6fb;
+  --bg-surface: #eaeff7;
+  --bg-elevated: #dde4f0;
+  --bg-card: #e5ecf7;
+  --border-subtle: rgba(0 0 0 / 0.07);
+  --border-medium: rgba(0 0 0 / 0.13);
+  --accent-cyan: #007ea8;
+  --accent-cyan-dim: rgba(0 126 168 / 0.1);
+  --accent-amber: #b06800;
+  --accent-amber-dim: rgba(176 104 0 / 0.1);
+  --accent-violet: #6d41d4;
+  --accent-violet-dim: rgba(109 65 212 / 0.1);
+  --accent-emerald: #1a8f62;
+  --accent-rose: #d63352;
+  --text-primary: #0d1117;
+  --text-secondary: #3d4a5c;
+  --text-muted: #8493a8;
 }
 
 /* ── Base ── */
@@ -106,6 +127,9 @@ body::before {
   background: rgba(12 16 23 / 0.7);
   backdrop-filter: blur(16px) saturate(1.4);
   -webkit-backdrop-filter: blur(16px) saturate(1.4);
+}
+html.light .glass {
+  background: rgba(244 246 251 / 0.8);
 }
 
 /* ── Accent stripe ── */
