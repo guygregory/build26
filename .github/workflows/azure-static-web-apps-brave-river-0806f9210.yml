@@ -32,6 +32,36 @@ jobs:
           api_location: "" # Api source code path - optional
           output_location: "dist" # Built app content directory - optional
           ###### End of Repository/Build Configurations ######
+      - name: Comment Preview URL on PR
+        if: github.event_name == 'pull_request'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const prNumber = context.payload.pull_request.number;
+            const previewUrl = `https://brave-river-0806f9210-${prNumber}.centralus.6.azurestaticapps.net`;
+            const body = `🔗 **Preview site ready!**\n\nVisit your site at: ${previewUrl}`;
+            // Check for an existing comment to avoid duplicates on re-pushes
+            const { data: comments } = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: prNumber,
+            });
+            const existing = comments.find(c => c.body.includes('brave-river-0806f9210-'));
+            if (existing) {
+              await github.rest.issues.updateComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: existing.id,
+                body,
+              });
+            } else {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: prNumber,
+                body,
+              });
+            }
 
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
