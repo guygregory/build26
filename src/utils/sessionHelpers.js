@@ -63,6 +63,28 @@ export function formatLevel(level) {
 }
 
 /**
+ * Format a UTC datetime string as "11th April 2026" (no time).
+ */
+export function formatLastUpdated(raw) {
+  if (!raw) return null
+  try {
+    const date = new Date(raw)
+    const day = date.getUTCDate()
+    const month = date.toLocaleString('en-GB', { month: 'long', timeZone: 'UTC' })
+    const year = date.getUTCFullYear()
+    const suffix =
+      day >= 11 && day <= 13 ? 'th'
+      : day % 10 === 1 ? 'st'
+      : day % 10 === 2 ? 'nd'
+      : day % 10 === 3 ? 'rd'
+      : 'th'
+    return `${day}${suffix} ${month} ${year}`
+  } catch {
+    return null
+  }
+}
+
+/**
  * Collect unique values for a given field across all sessions.
  */
 export function uniqueValues(sessions, getter) {

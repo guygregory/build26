@@ -75,6 +75,14 @@ export function filterSessions(sessions, filters, sortBy) {
       const tb = getTrackList(b)[0] || ''
       return ta.localeCompare(tb)
     }
+    if (sortBy === 'lastUpdate') {
+      const da = a.lastUpdate || a.lastUpdated || a.updatedAt || ''
+      const db = b.lastUpdate || b.lastUpdated || b.updatedAt || ''
+      if (!da && !db) return 0
+      if (!da) return 1
+      if (!db) return -1
+      return da > db ? -1 : da < db ? 1 : 0
+    }
     // Default: sort by time
     const da = a.startDateTime || a.startDate || a.scheduledDateTime || ''
     const db = b.startDateTime || b.startDate || b.scheduledDateTime || ''
