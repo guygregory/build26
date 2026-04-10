@@ -1,4 +1,4 @@
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 import { formatDateTime, formatDuration, formatLevel } from '../utils/sessionHelpers'
 import { getSpeakers, getSessionType, getTrackList, getSessionLevelCode } from '../utils/filterSessions'
 
@@ -201,6 +201,7 @@ function DetailBlock({ label, accent, children }) {
 }
 
 function SpeakerCard({ speaker, accent }) {
+  const [bioExpanded, setBioExpanded] = useState(false)
   const name = speaker.displayName || speaker.name || speaker.speakerName || speaker.fullName || 'Unknown'
   const role = speaker.jobTitle || speaker.role || speaker.title
   const company = speaker.company || speaker.organization
@@ -241,7 +242,18 @@ function SpeakerCard({ speaker, accent }) {
           </p>
         )}
         {bio && (
-          <p className="text-xs mt-2 line-clamp-3 leading-relaxed" style={{ color: 'var(--text-muted)' }}>{bio}</p>
+          <div className="mt-2">
+            <p className={`text-xs leading-relaxed${bioExpanded ? '' : ' line-clamp-3'}`} style={{ color: 'var(--text-muted)' }}>{bio}</p>
+            <button
+              className="text-xs mt-1 font-semibold transition-opacity hover:opacity-80"
+              style={{ color: accent }}
+              aria-expanded={bioExpanded}
+              aria-label="Toggle speaker biography"
+              onClick={() => setBioExpanded(prev => !prev)}
+            >
+              {bioExpanded ? 'Less' : 'More'}
+            </button>
+          </div>
         )}
       </div>
     </div>
