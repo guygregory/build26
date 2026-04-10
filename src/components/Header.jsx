@@ -6,17 +6,14 @@ export default function Header({ totalCount, loading, theme, onThemeToggle }) {
 
       <div className="max-w-[1600px] mx-auto px-5 py-4 flex items-center justify-between gap-4 flex-wrap">
         <div className="flex items-center gap-4">
-          {/* Logo mark */}
-          <div className="relative w-9 h-9 shrink-0">
-            <div className="absolute inset-0 rounded-lg" style={{ background: 'linear-gradient(135deg, var(--accent-cyan), var(--accent-violet))' }} />
-            <div className="absolute inset-[2px] rounded-[6px] flex items-center justify-center" style={{ background: 'var(--bg-base)' }}>
-              <svg className="w-4 h-4" viewBox="0 0 16 16" fill="none">
-                <path d="M1 1h6.5v6.5H1V1z" fill="var(--accent-cyan)" opacity="0.9" />
-                <path d="M8.5 1H15v6.5H8.5V1z" fill="var(--accent-cyan)" opacity="0.6" />
-                <path d="M1 8.5h6.5V15H1V8.5z" fill="var(--accent-cyan)" opacity="0.6" />
-                <path d="M8.5 8.5H15V15H8.5V8.5z" fill="var(--accent-cyan)" opacity="0.3" />
-              </svg>
-            </div>
+          {/* Microsoft logo */}
+          <div className="w-9 h-9 shrink-0 flex items-center justify-center">
+            <svg className="w-5 h-5" viewBox="0 0 21 21" fill="none">
+              <rect x="0" y="0" width="10" height="10" fill="#F25022" />
+              <rect x="11" y="0" width="10" height="10" fill="#7FBA00" />
+              <rect x="0" y="11" width="10" height="10" fill="#00A4EF" />
+              <rect x="11" y="11" width="10" height="10" fill="#FFB900" />
+            </svg>
           </div>
 
           <div>
