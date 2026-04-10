@@ -75,7 +75,18 @@ export default function SessionCard({ session, view, onSelect, index = 0 }) {
               )}
             </div>
             <h3 className="font-display font-semibold text-sm leading-snug line-clamp-2 transition-colors duration-200" style={{ color: 'var(--text-primary)' }}>
-              {title}
+              {sessionCode ? (
+                <a
+                  href={`https://build.microsoft.com/sessions/${sessionCode}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onClick={e => e.stopPropagation()}
+                  className="no-underline hover:underline"
+                  style={{ color: 'inherit' }}
+                >
+                  {title}
+                </a>
+              ) : title}
             </h3>
             {speakers.length > 0 && (
               <p className="text-xs mt-1" style={{ color: 'var(--text-muted)' }}>
@@ -126,7 +137,18 @@ export default function SessionCard({ session, view, onSelect, index = 0 }) {
 
       {/* Title */}
       <h3 className="font-display font-semibold leading-snug line-clamp-3 text-[15px] flex-1 ml-2 transition-colors duration-200" style={{ color: 'var(--text-primary)' }}>
-        {title}
+        {sessionCode ? (
+          <a
+            href={`https://build.microsoft.com/sessions/${sessionCode}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            onClick={e => e.stopPropagation()}
+            className="no-underline hover:underline"
+            style={{ color: 'inherit' }}
+          >
+            {title}
+          </a>
+        ) : title}
       </h3>
 
       {/* Description snippet */}
