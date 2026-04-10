@@ -95,6 +95,7 @@ export default function App() {
                   <option value="time">Sort: Date &amp; Time</option>
                   <option value="title">Sort: Title</option>
                   <option value="track">Sort: Track</option>
+                  <option value="lastUpdate">Sort: Recently Updated</option>
                 </select>
                 <div className="flex rounded-lg overflow-hidden" style={{ border: '1px solid var(--border-medium)' }}>
                   <button

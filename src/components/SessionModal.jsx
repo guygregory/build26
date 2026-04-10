@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react'
-import { formatDateTime, formatDuration, formatLevel } from '../utils/sessionHelpers'
+import { formatDateTime, formatDuration, formatLevel, formatLastUpdated } from '../utils/sessionHelpers'
 import { getSpeakers, getSessionType, getTrackList, getSessionLevelCode } from '../utils/filterSessions'
 
 const TYPE_ACCENT = {
@@ -43,6 +43,8 @@ export default function SessionModal({ session, speakerMap, onClose }) {
   const sessionId = session.sessionId || session.id
   const sessionCode = session.sessionCode || session.code
   const contentUrl = session.contentUrl || session.recordingUrl || session.sessionUrl
+  const lastUpdate = session.lastUpdate || session.lastUpdated || session.updatedAt
+  const lastUpdatedFormatted = formatLastUpdated(lastUpdate)
   const accent = TYPE_ACCENT[type] || 'var(--accent-cyan)'
 
   return (
@@ -147,6 +149,13 @@ export default function SessionModal({ session, speakerMap, onClose }) {
                 ))}
               </div>
             </Section>
+          )}
+
+          {/* Last updated */}
+          {lastUpdatedFormatted && (
+            <p className="text-xs" style={{ color: 'var(--text-muted)' }}>
+              Last updated: {lastUpdatedFormatted}
+            </p>
           )}
 
           {/* Tags */}
