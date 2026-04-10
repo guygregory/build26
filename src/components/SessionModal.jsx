@@ -247,7 +247,9 @@ function SpeakerCard({ speaker, accent }) {
             <button
               className="text-xs mt-1 font-semibold transition-opacity hover:opacity-80"
               style={{ color: accent }}
-              onClick={() => setBioExpanded(e => !e)}
+              aria-expanded={bioExpanded}
+              aria-label="Toggle speaker biography"
+              onClick={() => setBioExpanded(prev => !prev)}
             >
               {bioExpanded ? 'Less' : 'More'}
             </button>
