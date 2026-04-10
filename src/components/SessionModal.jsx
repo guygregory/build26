@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { formatDateTime, formatDuration, formatLevel } from '../utils/sessionHelpers'
 import { getSpeakers, getSessionType, getTrackList, getSessionLevelCode } from '../utils/filterSessions'
 
@@ -202,12 +202,20 @@ function DetailBlock({ label, accent, children }) {
 
 function SpeakerCard({ speaker, accent }) {
   const [bioExpanded, setBioExpanded] = useState(false)
+  const [bioIsClamped, setBioIsClamped] = useState(false)
+  const bioRef = useRef(null)
   const name = speaker.displayName || speaker.name || speaker.speakerName || speaker.fullName || 'Unknown'
   const role = speaker.jobTitle || speaker.role || speaker.title
   const company = speaker.company || speaker.organization
   const bio = speaker.bio || speaker.biography
   const photo = speaker.photo || speaker.photoUrl || speaker.imageUrl || speaker.avatarUrl
   const linkedIn = speaker.linkedIn
+
+  useEffect(() => {
+    if (bioRef.current) {
+      setBioIsClamped(bioRef.current.scrollHeight > bioRef.current.clientHeight)
+    }
+  }, [bio, bioExpanded])
 
   return (
     <div className="flex items-start gap-4 rounded-xl p-4" style={{ background: 'var(--bg-elevated)', border: '1px solid var(--border-subtle)' }}>
@@ -243,16 +251,18 @@ function SpeakerCard({ speaker, accent }) {
         )}
         {bio && (
           <div className="mt-2">
-            <p className={`text-xs leading-relaxed${bioExpanded ? '' : ' line-clamp-3'}`} style={{ color: 'var(--text-muted)' }}>{bio}</p>
-            <button
-              className="text-xs mt-1 font-semibold transition-opacity hover:opacity-80"
-              style={{ color: accent }}
-              aria-expanded={bioExpanded}
-              aria-label="Toggle speaker biography"
-              onClick={() => setBioExpanded(prev => !prev)}
-            >
-              {bioExpanded ? 'Less' : 'More'}
-            </button>
+            <p ref={bioRef} className={`text-xs leading-relaxed${bioExpanded ? '' : ' line-clamp-3'}`} style={{ color: 'var(--text-muted)' }}>{bio}</p>
+            {(bioIsClamped || bioExpanded) && (
+              <button
+                className="text-xs mt-1 font-semibold transition-opacity hover:opacity-80"
+                style={{ color: accent }}
+                aria-expanded={bioExpanded}
+                aria-label="Toggle speaker biography"
+                onClick={() => setBioExpanded(prev => !prev)}
+              >
+                {bioExpanded ? 'Less' : 'More'}
+              </button>
+            )}
           </div>
         )}
       </div>
