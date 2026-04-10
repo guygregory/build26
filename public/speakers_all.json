@@ -376,6 +376,70 @@
   },
   {
     "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1772472228939001By6I",
+    "speakerId": "1768245294609build26-1772472228939001By6I",
+    "firstName": "Aaron",
+    "lastName": "Powell",
+    "displayName": "Aaron Powell",
+    "jobTitle": "Principal Developer Advocate",
+    "company": "Microsoft",
+    "bio": "Aaron is a Developer Advocate at Microsoft with a passion for .NET, GitHub Copilot, whacky ideas and running long distances.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1772472228939001By6I/attprofile/aaron-powell-13-small_1775794866448001SGIN.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/powell-aaron/",
+    "gitHub": "aaronpowell",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018711414001rPGE"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1774880387175001zXLI",
     "speakerId": "1768245294609build26-1774880387175001zXLI",
     "firstName": "Ellie",
@@ -471,6 +535,66 @@
       {
         "displayValue": "Agents & Apps",
         "logicalValue": "Agents & Apps"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774284994738001pPWz",
+    "speakerId": "1768245294609build26-1774284994738001pPWz",
+    "firstName": "Yun Jung",
+    "lastName": "Choi",
+    "displayName": "Yun Jung Choi",
+    "jobTitle": "Senior Product Manager",
+    "company": "Microsoft",
+    "bio": "Yun Jung Choi is a Senior Product Manager at Microsoft focused on GitHub Copilot for Azure and Azure MCP, simplifying how developers build, deploy, and manage cloud solutions through AI‑driven workflows in Azure.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774284994738001pPWz/attprofile/headshot_1775684273637001b7kC.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/yunjungcourtneychoi/",
+    "gitHub": "yunjchoi",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018710899001rSa9"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
       }
     ],
     "levels": [
@@ -771,6 +895,7 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
+      "en-US-1774018709436001rrGK",
       "en-US-1774018712237001rLex"
     ],
     "langLocale": "en-US",
@@ -778,6 +903,10 @@
     "ogTitle": "",
     "ogDescription": "",
     "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
       {
         "displayValue": "Lightning Talk",
         "logicalValue": "Lightning Talk"
@@ -787,9 +916,17 @@
       {
         "displayValue": "Developer Tools & Frameworks",
         "logicalValue": "Developer Tools & Frameworks"
+      },
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
       }
     ],
     "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
       {
         "displayValue": "(200) Intermediate",
         "logicalValue": "(200) Intermediate"
@@ -804,10 +941,22 @@
       {
         "displayValue": "",
         "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
       }
     ],
     "sessionLanguage": [],
     "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      },
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
@@ -1136,6 +1285,130 @@
   },
   {
     "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1767984616894001huFl",
+    "speakerId": "1768245294609build26-1767984616894001huFl",
+    "firstName": "Christopher",
+    "lastName": "Harrison",
+    "displayName": "Christopher Harrison",
+    "jobTitle": "Senior Developer Advocate",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "geektrainer",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018710738001rCVC"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774284995211001pJD3",
+    "speakerId": "1768245294609build26-1774284995211001pJD3",
+    "firstName": "Courtney",
+    "lastName": "Webster",
+    "displayName": "Courtney Webster",
+    "jobTitle": "Product Manager",
+    "company": "Microsoft",
+    "bio": "Product Manager working on GitHub Copilot and VS Code.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774284995211001pJD3/attprofile/headshot_1775253445234001GhUB.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/webstercourtney/",
+    "gitHub": "@cwebster-99",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018711578001riff"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1762250455017001UQP1",
     "speakerId": "1768245294609build26-1762250455017001UQP1",
     "firstName": "Ayca",
@@ -1260,6 +1533,91 @@
   },
   {
     "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1754963585693001VLHf",
+    "speakerId": "1768245294609build26-1754963585693001VLHf",
+    "firstName": "Henk",
+    "lastName": "Boelman",
+    "displayName": "Henk Boelman",
+    "jobTitle": "Principal Developer Advocate",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "hnky",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018701742001rOMi",
+      "en-US-1774018702532001rk3p"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
+      },
+      {
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1775670526436001p1Pd",
     "speakerId": "1768245294609build26-1775670526436001p1Pd",
     "firstName": "Satya",
@@ -1347,6 +1705,219 @@
       {
         "displayValue": "(200) Intermediate",
         "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1765804946228001vzRn",
+    "speakerId": "1768245294609build26-1765804946228001vzRn",
+    "firstName": "Denzil",
+    "lastName": "Ribeiro",
+    "displayName": "Denzil Ribeiro",
+    "jobTitle": "Group Product Manager",
+    "company": "Microsoft",
+    "bio": "Denzil Ribeiro is a Group Product Manager in the Azure Data PostgreSQL team at Microsoft working on Azure HorizonDB.  Most of his career has been spent at Microsoft working on databases — building products, architecting scalable solutions, and solving complex customer problems involving data.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1765804946228001vzRn/attprofile/DenzilPic2_1775676400272001xl3Z.JPG",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/denzilribeiro",
+    "gitHub": "denzilribeiro",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018706600001rvpY"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774284997876001pQKi",
+    "speakerId": "1768245294609build26-1774284997876001pQKi",
+    "firstName": "Cassidy",
+    "lastName": "Williams",
+    "displayName": "Cassidy Williams",
+    "jobTitle": "Senior Director, Developer Advocacy",
+    "company": "GitHub",
+    "bio": "Cassidy is Senior Director of Developer Advocacy at GitHub. She loves building open source and helping make things better for developers.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774284997876001pQKi/attprofile/cityleansquareframed_1775770560987001fUAx.png",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/cassidoo",
+    "gitHub": "https://github.com/cassidoo",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018710246001rN7y",
+      "en-US-1774018708754001rO1v"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      },
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      },
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(400) Expert",
+        "logicalValue": "(400) Expert"
+      }
+    ],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774284998933001poGL",
+    "speakerId": "1768245294609build26-1774284998933001poGL",
+    "firstName": "Pooja",
+    "lastName": "Trivedi",
+    "displayName": "Pooja Trivedi",
+    "jobTitle": "Principal Architect",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774284998933001poGL/attprofile/pooja-headshot_1775580184701001z091.png",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "ptrivedi",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018719239001rqgK"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Windows",
+        "logicalValue": "Windows"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(400) Expert",
+        "logicalValue": "(400) Expert"
       }
     ],
     "solutions": [],
@@ -1498,6 +2069,130 @@
   },
   {
     "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774284998022001prSB",
+    "speakerId": "1768245294609build26-1774284998022001prSB",
+    "firstName": "Dustin",
+    "lastName": "Campbell",
+    "displayName": "Dustin Campbell",
+    "jobTitle": "Principal Software Engineer",
+    "company": "Microsoft",
+    "bio": "Dustin Campbell is a principal software architect in .NET tooling. Passionate about coding productivity, Dustin's primary focus is on making .NET tooling great and helping design the next version of C# as part of the language design team.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774284998022001prSB/attprofile/Headshot-400x400_1775772514442001ya4c.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/dustincampbell/",
+    "gitHub": "DustinCampbell",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018710414001rtag"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(400) Expert",
+        "logicalValue": "(400) Expert"
+      }
+    ],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1771971894525001jZEo",
+    "speakerId": "1768245294609build26-1771971894525001jZEo",
+    "firstName": "Chris",
+    "lastName": "Harris",
+    "displayName": "Chris Harris",
+    "jobTitle": "Product Manager - Azure MCP & Skills",
+    "company": "Microsoft",
+    "bio": "Chris Harris is a Product Manager in Developer Experiences on Microsoft's Core AI team, focused on the intersection of AI coding agents and cloud infrastructure. He works on the Azure Skills Plugin and Azure MCP Server, which together give agents like GitHub Copilot the knowledge and tools to reason about Azure workflows — from service selection to deployment to troubleshooting.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1771971894525001jZEo/attprofile/Chris_Profile_1775680449052001Egwk.jpg",
+    "twitter": "",
+    "linkedIn": "linkedin.com/in/christopherjharris",
+    "gitHub": "seajhawk",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018710899001rSa9"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1774303544298001acRa",
     "speakerId": "1768245294609build26-1774303544298001acRa",
     "firstName": "Julia",
@@ -1513,7 +2208,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018711903001rZpY"
+      "en-US-1774018711903001rZpY",
+      "en-US-1774018708407001rAVo"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -1523,6 +2219,94 @@
       {
         "displayValue": "Lightning Talk",
         "logicalValue": "Lightning Talk"
+      },
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      },
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774635401576001naKZ",
+    "speakerId": "1768245294609build26-1774635401576001naKZ",
+    "firstName": "Peng",
+    "lastName": "Lyu",
+    "displayName": "Peng Lyu",
+    "jobTitle": "Principal Software Engineering Manager",
+    "company": "Microsoft",
+    "bio": "Principal Software Engineering Manager @ VS Code.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774635401576001naKZ/attprofile/IMG_9502_1775680981674001XgVJ.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/rebornix/",
+    "gitHub": "rebornix",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018708919001rKEA"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
       }
     ],
     "topic": [
@@ -1533,8 +2317,8 @@
     ],
     "levels": [
       {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
+        "displayValue": "(400) Expert",
+        "logicalValue": "(400) Expert"
       }
     ],
     "solutions": [],
@@ -1641,6 +2425,7 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
+      "en-US-1774018720726001rkqn",
       "en-US-1774018718946001r6o5"
     ],
     "langLocale": "en-US",
@@ -1649,11 +2434,19 @@
     "ogDescription": "",
     "sessionTypes": [
       {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      {
         "displayValue": "Demo",
         "logicalValue": "Demo"
       }
     ],
     "topic": [
+      {
+        "displayValue": "Windows",
+        "logicalValue": "Windows"
+      },
       {
         "displayValue": "Windows",
         "logicalValue": "Windows"
@@ -1674,10 +2467,22 @@
       {
         "displayValue": "",
         "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
       }
     ],
     "sessionLanguage": [],
     "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      },
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
