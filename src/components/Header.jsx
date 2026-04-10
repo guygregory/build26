@@ -5,7 +5,7 @@ export default function Header({ totalCount, loading, theme, onThemeToggle }) {
       <div className="h-[2px]" style={{ background: 'linear-gradient(90deg, var(--accent-cyan), var(--accent-violet), var(--accent-amber))' }} />
 
       <div className="max-w-[1600px] mx-auto px-5 py-4 flex items-center justify-between gap-4 flex-wrap">
-        <div className="flex items-center gap-4">
+        <div className="flex items-center gap-2">
           {/* Microsoft logo */}
           <div className="w-9 h-9 shrink-0 flex items-center justify-center">
             <svg className="w-5 h-5" viewBox="0 0 21 21" fill="none">
