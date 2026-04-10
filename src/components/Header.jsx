@@ -5,7 +5,7 @@ export default function Header({ totalCount, loading, theme, onThemeToggle }) {
       <div className="h-[2px]" style={{ background: 'linear-gradient(90deg, var(--accent-cyan), var(--accent-violet), var(--accent-amber))' }} />
 
       <div className="max-w-[1600px] mx-auto px-5 py-4 flex items-center justify-between gap-4 flex-wrap">
-        <div className="flex items-center gap-4">
+        <div className="flex items-center gap-1">
           {/* Microsoft logo */}
           <div className="w-9 h-9 shrink-0 flex items-center justify-center">
             <svg className="w-5 h-5" viewBox="0 0 21 21" fill="none">
@@ -16,14 +16,9 @@ export default function Header({ totalCount, loading, theme, onThemeToggle }) {
             </svg>
           </div>
 
-          <div>
-            <h1 className="font-display text-lg font-bold tracking-tight leading-none" style={{ color: 'var(--text-primary)' }}>
-              Microsoft Build <span style={{ color: 'var(--accent-cyan)' }}>2026</span>
-            </h1>
-            <p className="text-[11px] font-medium uppercase tracking-[0.2em] mt-0.5" style={{ color: 'var(--text-muted)' }}>
-              Session Catalog
-            </p>
-          </div>
+          <h1 className="text-lg font-semibold tracking-tight leading-none" style={{ color: 'var(--text-primary)', fontFamily: "'Segoe UI', -apple-system, system-ui, sans-serif" }}>
+            Microsoft Build <span style={{ color: 'var(--accent-cyan)' }}>2026</span>
+          </h1>
         </div>
 
         <div className="flex items-center gap-3">
