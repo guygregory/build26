@@ -21,7 +21,7 @@ export default function Header({ totalCount, loading }) {
 
           <div>
             <h1 className="font-display text-lg font-bold tracking-tight leading-none" style={{ color: 'var(--text-primary)' }}>
-              Build <span style={{ color: 'var(--accent-cyan)' }}>2026</span>
+              Microsoft Build <span style={{ color: 'var(--accent-cyan)' }}>2026</span>
             </h1>
             <p className="text-[11px] font-medium uppercase tracking-[0.2em] mt-0.5" style={{ color: 'var(--text-muted)' }}>
               Session Catalog
