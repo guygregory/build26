@@ -2,7 +2,7 @@
 
 A responsive, filterable web app that fetches and displays all sessions from [Microsoft Build 2026](https://build.microsoft.com).
 
-![Session Browser](https://github.com/user-attachments/assets/a76e7016-3927-4686-9cdc-784e675d921e)
+![Session Browser](./public/session-browser.png)
 
 ## Features
 
