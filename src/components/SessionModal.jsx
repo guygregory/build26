@@ -78,7 +78,20 @@ export default function SessionModal({ session, speakerMap, onClose }) {
                 <span className="font-mono text-[11px] font-medium" style={{ color: 'var(--text-muted)' }}>{sessionCode}</span>
               )}
             </div>
-            <h2 className="font-display text-xl font-bold leading-snug" style={{ color: 'var(--text-primary)' }}>{title}</h2>
+            <h2 className="font-display text-xl font-bold leading-snug" style={{ color: 'var(--text-primary)' }}>
+              {sessionCode ? (
+                <a
+                  href={`https://build.microsoft.com/sessions/${sessionCode}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onClick={e => e.stopPropagation()}
+                  className="no-underline hover:underline"
+                  style={{ color: 'inherit' }}
+                >
+                  {title}
+                </a>
+              ) : title}
+            </h2>
           </div>
           <button
             onClick={onClose}
