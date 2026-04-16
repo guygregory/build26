@@ -1673,8 +1673,8 @@
     "topic": [],
     "levels": [
       {
-        "displayValue": "(100) Foundational",
-        "logicalValue": "(100) Foundational"
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
       }
     ],
     "programmingLanguages": [],
@@ -2242,8 +2242,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018711903001rZpY",
-      "en-US-1774018708407001rAVo"
+      "en-US-1774018708407001rAVo",
+      "en-US-1774018711903001rZpY"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -2251,12 +2251,12 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Lightning Talk",
-        "logicalValue": "Lightning Talk"
-      },
-      {
         "displayValue": "Breakout",
         "logicalValue": "Breakout"
+      },
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
       }
     ],
     "topic": [
