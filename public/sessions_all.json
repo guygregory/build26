@@ -28,7 +28,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 1,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -42,7 +41,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -67,6 +66,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -128,7 +131,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -140,7 +142,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -179,6 +181,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -230,7 +236,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 2",
     "TimeSlot": "00:00 - 00:45",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -242,7 +247,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -281,6 +286,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 2",
+      "logicalValue": "Breakout 2"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -349,7 +358,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 3",
     "TimeSlot": "21:45 - 22:30",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -361,7 +369,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -405,6 +413,10 @@
         "logicalValue": "Python"
       }
     ],
+    "location": {
+      "displayValue": "Breakout 3",
+      "logicalValue": "Breakout 3"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -456,7 +468,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 3",
     "TimeSlot": "23:00 - 23:45",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -471,7 +482,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -510,6 +521,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 3",
+      "logicalValue": "Breakout 3"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -572,7 +587,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 4",
     "TimeSlot": "00:15 - 01:00",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -584,7 +598,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -623,6 +637,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 4",
+      "logicalValue": "Breakout 4"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -674,7 +692,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 2",
     "TimeSlot": "21:30 - 22:15",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -686,7 +703,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -725,6 +742,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 2",
+      "logicalValue": "Breakout 2"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -776,7 +797,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 2",
     "TimeSlot": "22:45 - 23:30",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -788,7 +808,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -832,18 +852,17 @@
         "logicalValue": "C#"
       }
     ],
+    "location": {
+      "displayValue": "Breakout 2",
+      "logicalValue": "Breakout 2"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -856,6 +875,10 @@
       {
         "displayValue": "AI",
         "logicalValue": "AI"
+      },
+      {
+        "displayValue": "Agents",
+        "logicalValue": "Agents"
       },
       {
         "displayValue": "Windows",
@@ -872,6 +895,30 @@
       {
         "displayValue": "VS Code",
         "logicalValue": "VS Code"
+      },
+      {
+        "displayValue": "Developer Technologies",
+        "logicalValue": "Developer Technologies"
+      },
+      {
+        "displayValue": "Windows Development",
+        "logicalValue": "Windows Development"
+      },
+      {
+        "displayValue": "Developer Frameworks",
+        "logicalValue": "Developer Frameworks"
+      },
+      {
+        "displayValue": "Developer Languages",
+        "logicalValue": "Developer Languages"
+      },
+      {
+        "displayValue": "WSL",
+        "logicalValue": "WSL"
+      },
+      {
+        "displayValue": "Terminal",
+        "logicalValue": "Terminal"
       }
     ]
   },
@@ -904,7 +951,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 4",
     "TimeSlot": "22:45 - 23:30",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -918,7 +964,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -957,6 +1003,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 4",
+      "logicalValue": "Breakout 4"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -1027,7 +1077,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 2",
     "TimeSlot": "16:00 - 16:45",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -1042,7 +1091,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1086,6 +1135,10 @@
         "logicalValue": "C#"
       }
     ],
+    "location": {
+      "displayValue": "Breakout 2",
+      "logicalValue": "Breakout 2"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -1185,7 +1238,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 2",
     "TimeSlot": "20:30 - 21:15",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -1197,7 +1249,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1236,6 +1288,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 2",
+      "logicalValue": "Breakout 2"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -1287,7 +1343,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 5",
     "TimeSlot": "19:30 - 20:15",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -1299,7 +1354,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1338,6 +1393,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 5",
+      "logicalValue": "Breakout 5"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -1389,7 +1448,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 1",
     "TimeSlot": "20:30 - 21:15",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -1401,7 +1459,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1440,6 +1498,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 1",
+      "logicalValue": "Breakout 1"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -1504,7 +1566,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 5",
     "TimeSlot": "00:00 - 00:45",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -1516,7 +1577,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1555,6 +1616,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 5",
+      "logicalValue": "Breakout 5"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -1606,7 +1671,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 1",
     "TimeSlot": "22:45 - 23:30",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -1618,7 +1682,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1657,6 +1721,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 1",
+      "logicalValue": "Breakout 1"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -1708,7 +1776,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 3",
     "TimeSlot": "00:15 - 01:00",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -1720,7 +1787,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1759,6 +1826,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 3",
+      "logicalValue": "Breakout 3"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -1810,7 +1881,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 4",
     "TimeSlot": "00:00 - 00:45",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -1822,7 +1892,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1861,6 +1931,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 4",
+      "logicalValue": "Breakout 4"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -1912,7 +1986,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 4",
     "TimeSlot": "16:00 - 16:45",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -1926,7 +1999,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1965,6 +2038,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 4",
+      "logicalValue": "Breakout 4"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -2022,7 +2099,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 1",
     "TimeSlot": "21:30 - 22:15",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -2037,7 +2113,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2076,6 +2152,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 1",
+      "logicalValue": "Breakout 1"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -2159,7 +2239,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 1",
     "TimeSlot": "18:30 - 19:15",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -2171,7 +2250,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2210,6 +2289,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 1",
+      "logicalValue": "Breakout 1"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -2261,7 +2344,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 4",
     "TimeSlot": "23:00 - 23:45",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -2273,7 +2355,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2312,6 +2394,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 4",
+      "logicalValue": "Breakout 4"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -2358,7 +2444,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 3",
     "TimeSlot": "20:30 - 21:15",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -2372,7 +2457,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2411,6 +2496,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 3",
+      "logicalValue": "Breakout 3"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -2468,7 +2557,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 5",
     "TimeSlot": "21:30 - 22:15",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -2480,7 +2568,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2519,6 +2607,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 5",
+      "logicalValue": "Breakout 5"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -2575,7 +2667,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 1",
     "TimeSlot": "00:00 - 00:45",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -2587,7 +2678,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2626,6 +2717,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 1",
+      "logicalValue": "Breakout 1"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -2690,7 +2785,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 1",
     "TimeSlot": "17:15 - 18:00",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -2702,7 +2796,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2741,6 +2835,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 1",
+      "logicalValue": "Breakout 1"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -2792,7 +2890,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 2",
     "TimeSlot": "21:45 - 22:30",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -2804,7 +2901,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2843,6 +2940,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 2",
+      "logicalValue": "Breakout 2"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -2894,7 +2995,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 4",
     "TimeSlot": "21:45 - 22:30",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -2906,7 +3006,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2945,6 +3045,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 4",
+      "logicalValue": "Breakout 4"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -2996,7 +3100,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 1",
     "TimeSlot": "23:00 - 23:45",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -3008,7 +3111,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3047,6 +3150,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 1",
+      "logicalValue": "Breakout 1"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -3111,7 +3218,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 4",
     "TimeSlot": "18:30 - 19:15",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -3125,7 +3231,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3164,6 +3270,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 4",
+      "logicalValue": "Breakout 4"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -3221,7 +3331,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 5",
     "TimeSlot": "22:45 - 23:30",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -3233,7 +3342,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3272,6 +3381,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 5",
+      "logicalValue": "Breakout 5"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -3328,7 +3441,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 2",
     "TimeSlot": "17:15 - 18:00",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -3342,7 +3454,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3381,6 +3493,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 2",
+      "logicalValue": "Breakout 2"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -3438,7 +3554,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 1",
     "TimeSlot": "21:45 - 22:30",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -3450,7 +3565,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3489,6 +3604,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 1",
+      "logicalValue": "Breakout 1"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -3549,7 +3668,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 1",
     "TimeSlot": "00:15 - 01:00",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -3561,7 +3679,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3600,6 +3718,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 1",
+      "logicalValue": "Breakout 1"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -3672,9 +3794,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "",
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "18:30 - 19:15",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -3684,7 +3805,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3712,8 +3833,8 @@
     },
     "topic": [
       {
-        "displayValue": "Model Training",
-        "logicalValue": "Model Training"
+        "displayValue": "Model Infrastructure & Applied Science",
+        "logicalValue": "Model Infrastructure & Applied Science"
       }
     ],
     "sessionLevel": [
@@ -3723,18 +3844,17 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 5",
+      "logicalValue": "Breakout 5"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -3774,7 +3894,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 1",
     "TimeSlot": "16:00 - 16:45",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -3786,7 +3905,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3825,6 +3944,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 1",
+      "logicalValue": "Breakout 1"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -3889,7 +4012,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 2",
     "TimeSlot": "18:30 - 19:15",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -3901,7 +4023,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3940,6 +4062,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 2",
+      "logicalValue": "Breakout 2"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -3991,7 +4117,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 4",
     "TimeSlot": "17:15 - 18:00",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -4005,7 +4130,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4044,6 +4169,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 4",
+      "logicalValue": "Breakout 4"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -4101,7 +4230,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 4",
     "TimeSlot": "19:30 - 20:15",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -4113,7 +4241,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4152,6 +4280,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 4",
+      "logicalValue": "Breakout 4"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -4203,7 +4335,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "location": "Breakout 4",
     "TimeSlot": "21:30 - 22:15",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
@@ -4215,7 +4346,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4254,6 +4385,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 4",
+      "logicalValue": "Breakout 4"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -4305,9 +4440,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 4,
-    "location": "",
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "22:00 - 23:15",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -4319,7 +4453,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4354,6 +4488,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Lab 6",
+      "logicalValue": "Lab 6"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -4366,12 +4504,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4428,9 +4561,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 4,
-    "location": "",
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "19:30 - 20:45",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -4443,7 +4575,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4467,8 +4599,8 @@
     },
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & AI-native Apps",
+        "logicalValue": "Agents & AI-native Apps"
       }
     ],
     "sessionLevel": [
@@ -4478,6 +4610,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Lab 5",
+      "logicalValue": "Lab 5"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -4495,12 +4631,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4540,9 +4671,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 4,
-    "location": "",
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "19:30 - 20:45",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -4554,7 +4684,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4594,6 +4724,10 @@
         "logicalValue": "C++"
       }
     ],
+    "location": {
+      "displayValue": "Lab 2",
+      "logicalValue": "Lab 2"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -4606,12 +4740,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4668,9 +4797,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 4,
-    "location": "",
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "22:00 - 23:15",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -4682,7 +4810,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4717,6 +4845,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Lab 4",
+      "logicalValue": "Lab 4"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -4729,12 +4861,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4761,7 +4888,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Henk Boelman, Gustavo Cordido",
+    "speakerNames": "Gustavo Cordido",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -4783,22 +4910,20 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 4,
-    "location": "",
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "22:00 - 23:15",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
     "speakerIds": [
-      "1768245294609build26-1754963585693001VLHf",
       "1768245294609build26-1756138101616001VtrM"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4822,8 +4947,8 @@
     },
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & AI-native Apps",
+        "logicalValue": "Agents & AI-native Apps"
       }
     ],
     "sessionLevel": [
@@ -4838,6 +4963,10 @@
         "logicalValue": "Python"
       }
     ],
+    "location": {
+      "displayValue": "Lab 5",
+      "logicalValue": "Lab 5"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -4855,12 +4984,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4900,9 +5024,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 4,
-    "location": "",
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "22:00 - 23:15",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -4915,7 +5038,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4950,6 +5073,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Lab 3",
+      "logicalValue": "Lab 3"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -4967,12 +5094,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5012,9 +5134,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 4,
-    "location": "",
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "19:30 - 20:45",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -5024,7 +5145,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5048,8 +5169,8 @@
     },
     "topic": [
       {
-        "displayValue": "Model Training",
-        "logicalValue": "Model Training"
+        "displayValue": "Model Infrastructure & Applied Science",
+        "logicalValue": "Model Infrastructure & Applied Science"
       }
     ],
     "sessionLevel": [
@@ -5059,18 +5180,17 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Lab 1",
+      "logicalValue": "Lab 1"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5100,9 +5220,9 @@
     "sessionInstanceId": "1774018706761001rzGW",
     "sessionCode": "LAB512",
     "sessionCodeNormalized": "EN-US-LAB512",
-    "title": "Hands-on with Azure Cobalt 200 – from code to cloud-native deployment",
-    "sortTitle": "hands-on with azure cobalt 200 – from code to cloud-native deployment",
-    "description": "Roll up your sleeves and get hands-on with Azure Cobalt 200. In this lab you'll provision your first Cobalt 200 VM and explore what makes Arm tick in the Cloud. From there you'll build multi-arch container images with Docker, push them to ACR, and deploy to AKS clusters running on Cobalt 200. Next, wire up a CI/CD pipeline that builds, tests, and deploys to Arm. Then go further—deploy a full-stack web app and serve AI predictions using ONNX Runtime on Arm. Walk out ready to build on Cobalt 200.",
+    "title": "Hands-on with the latest Cobalt VMs – from code to cloud deployment",
+    "sortTitle": "hands-on with the latest cobalt vms – from code to cloud deployment",
+    "description": "Roll up your sleeves and get hands-on with the latest Azure Cobalt VMs. Provision your first Cobalt VM and explore what makes Arm tick in the Cloud. From there you'll build multi-arch container images with Docker, push them to ACR, and deploy to AKS clusters running on Cobalt VMs. Next, wire up a CI/CD pipeline that builds, tests, and deploys to Arm. Then go further—deploy a full-stack web app and serve AI predictions using ONNX Runtime on Arm. Walk out ready to build on Cobalt VMs.",
     "aiDescription": "",
     "businessOutcome": "",
     "businessOutcomeTwo": "",
@@ -5110,9 +5230,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 4,
-    "location": "",
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "01:30 - 02:45",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -5122,7 +5241,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5162,18 +5281,17 @@
         "logicalValue": "Spark"
       }
     ],
+    "location": {
+      "displayValue": "Lab 6",
+      "logicalValue": "Lab 6"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5213,9 +5331,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 4,
-    "location": "",
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "19:30 - 20:45",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -5225,7 +5342,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5260,18 +5377,17 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Lab 3",
+      "logicalValue": "Lab 3"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5311,9 +5427,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 4,
-    "location": "",
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "19:30 - 20:45",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -5323,7 +5438,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5358,18 +5473,17 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Lab 4",
+      "logicalValue": "Lab 4"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5414,9 +5528,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 4,
-    "location": "",
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "19:30 - 20:45",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -5426,7 +5539,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5461,18 +5574,17 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Lab 6",
+      "logicalValue": "Lab 6"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5517,9 +5629,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 4,
-    "location": "",
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "23:45 - 01:00",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -5531,7 +5642,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5566,6 +5677,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Lab 3",
+      "logicalValue": "Lab 3"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -5578,12 +5693,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5623,9 +5733,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 4,
-    "location": "",
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "23:45 - 01:00",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -5635,7 +5744,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5659,8 +5768,8 @@
     },
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & AI-native Apps",
+        "logicalValue": "Agents & AI-native Apps"
       }
     ],
     "sessionLevel": [
@@ -5670,18 +5779,17 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "Lab 5",
+      "logicalValue": "Lab 5"
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5721,7 +5829,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -5733,7 +5840,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5777,6 +5884,10 @@
         "logicalValue": ".NET"
       }
     ],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -5798,6 +5909,111 @@
     ],
     "audienceTypes": [],
     "tags": []
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1776290163085001xflH",
+    "langLocale": "en-US",
+    "sessionId": "1776290163085001xflH",
+    "sessionInstanceId": "1776290163085001xflH",
+    "sessionCode": "DEM365",
+    "sessionCodeNormalized": "EN-US-DEM365",
+    "title": "Beyond REST: .NET Apps That Talk to Hardware",
+    "sortTitle": "beyond rest: .net apps that talk to hardware",
+    "description": "Most app demos stop at REST APIs. This live demo talks to real hardware. I’ll show a .NET app that discovers a device over BLE, exchanges data over NFC or serial, and turns raw device signals into a usable workflow. You’ll leave with a practical pattern for structuring device services, handling platform differences, and deciding when local connectivity beats the cloud.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 5,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Demo",
+      "logicalValue": "Demo"
+    },
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
+      }
+    ]
   },
   {
     "@search.score": 1.0,
@@ -5828,7 +6044,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -5842,7 +6057,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5881,6 +6096,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -5938,7 +6157,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -5950,7 +6168,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5989,6 +6207,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -6031,7 +6253,222 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Henk Boelman",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1774018717046001rNhm",
+    "langLocale": "en-US",
+    "sessionId": "1774018717046001rNhm",
+    "sessionInstanceId": "1774018717046001rNhm",
+    "sessionCode": "DEM340",
+    "sessionCodeNormalized": "EN-US-DEM340",
+    "title": "Build work-ready agents with Foundry + IQ, govern with Agent 365",
+    "sortTitle": "build work-ready agents with foundry + iq, govern with agent 365",
+    "description": "An agent that knows nothing about your work is only half an agent. In this demo, we connect a Foundry agent to Work IQ via MCP, giving it real context about your work and ecosystem, governed by Agent 365. See it run under agent identity, watch Work IQ tools invoked at runtime, and get full observability on every call. Then we run side-by-side evals context-aware vs. context-blind, with scores that prove the difference. Leave knowing how to ground, govern, and evaluate your Foundry agents.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 5,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Demo",
+      "logicalValue": "Demo"
+    },
+    "topic": [
+      {
+        "displayValue": "Responsible AI",
+        "logicalValue": "Responsible AI"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will be recorded",
+        "logicalValue": "Will be recorded"
+      }
+    ],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "Microsoft Foundry",
+        "logicalValue": "Microsoft Foundry"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1776288171535001NKxq",
+    "langLocale": "en-US",
+    "sessionId": "1776288171535001NKxq",
+    "sessionInstanceId": "1776288171535001NKxq",
+    "sessionCode": "DEM362",
+    "sessionCodeNormalized": "EN-US-DEM362",
+    "title": "Building a Multi-Agent Workflow in Microsoft Fabric",
+    "sortTitle": "building a multi-agent workflow in microsoft fabric",
+    "description": "Learn how Microsoft Fabric and the 3 IQs, Work IQ, Fabric IQ, and Foundry IQ, enable dynamic, context‑aware multi‑agent workflows. See how semantic models, lakehouses, and pipelines form agent‑ready foundations, and how specialized agents collaborate across planning, retrieval, summarization, and execution. Discover how natural language, automation, and orchestration power real multi‑agent scenarios in Microsoft Fabric.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 5,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Demo",
+      "logicalValue": "Demo"
+    },
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -6053,21 +6490,18 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [
-      "1768245294609build26-1754963585693001VLHf"
-    ],
+    "speakerIds": [],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6106,6 +6540,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -6147,6 +6585,216 @@
     "ssr": "",
     "excludeFromSessionScheduler": false,
     "doNotPublishVideo": false,
+    "localizedId": "en-US-1776290489938001Zds8",
+    "langLocale": "en-US",
+    "sessionId": "1776290489938001Zds8",
+    "sessionInstanceId": "1776290489938001Zds8",
+    "sessionCode": "DEM368",
+    "sessionCodeNormalized": "EN-US-DEM368",
+    "title": "Data Science & Machine Learning with Microsoft Fabric",
+    "sortTitle": "data science & machine learning with microsoft fabric",
+    "description": "Explore Microsoft Fabric’s unified Data Science experience in this fast-paced 25-minute demo. See how to ingest and prepare data with OneLake and Lakehouse, build models using Notebooks, Spark, and SynapseML, and track experiments with MLflow. Learn how to operationalize models with batch scoring and integrate results into Power BI. The session also showcases building a simple generative AI Q&A solution using Fabric Data Agents, giving you a practical end-to-end view in a short time.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 5,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Demo",
+      "logicalValue": "Demo"
+    },
+    "topic": [
+      {
+        "displayValue": "Model Training",
+        "logicalValue": "Model Training"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(100) Foundational",
+        "logicalValue": "(100) Foundational"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1776290078162001i6A7",
+    "langLocale": "en-US",
+    "sessionId": "1776290078162001i6A7",
+    "sessionInstanceId": "1776290078162001i6A7",
+    "sessionCode": "DEM360",
+    "sessionCodeNormalized": "EN-US-DEM360",
+    "title": "Discovering Power App Data with M365 Copilot using MCP",
+    "sortTitle": "discovering power app data with m365 copilot using mcp",
+    "description": "With millions of users world-wide, Power Apps and Dataverse now sit atop critical business data, but developers face challenges with discoverability and schema understanding. This session introduces Power Apps Model Context Protocol (MCP), which empowers M365 Copilot to access app metadata, Dataverse schemas, relationships, and permissions. Learn how MCP enables Copilot to answer natural-language queries, aggregate data, and deliver real-time insights, plus best practices for Copilot-ready apps.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 5,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Demo",
+      "logicalValue": "Demo"
+    },
+    "topic": [
+      {
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
     "localizedId": "en-US-1774018713721001rm1f",
     "langLocale": "en-US",
     "sessionId": "1774018713721001rm1f",
@@ -6163,7 +6811,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -6175,7 +6822,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6214,6 +6861,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -6265,7 +6916,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -6277,7 +6927,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6316,6 +6966,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -6367,7 +7021,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -6381,7 +7034,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6425,6 +7078,10 @@
         "logicalValue": "C#"
       }
     ],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -6505,6 +7162,111 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1776289484544001DLd6",
+    "langLocale": "en-US",
+    "sessionId": "1776289484544001DLd6",
+    "sessionInstanceId": "1776289484544001DLd6",
+    "sessionCode": "DEM363",
+    "sessionCodeNormalized": "EN-US-DEM363",
+    "title": "From the Field: Accelerate Your Development for Azure Marketplace",
+    "sortTitle": "from the field: accelerate your development for azure marketplace",
+    "description": "Gain practical insights and proven strategies for your development journey for Azure Marketplace. Streamline your solutions' development, packaging, and deployment while ensuring compliance with Microsoft’s requirements. Discover common pitfalls, best practices, and automation techniques to reduce time-to-market. Whether you're new to developing for the Azure Marketplace or looking to optimize your approach, this session delivers real-world guidance to help you develop and publish efficiently.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 5,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Demo",
+      "logicalValue": "Demo"
+    },
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
     "speakerNames": "Ellie Bennett",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
@@ -6527,7 +7289,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -6541,7 +7302,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6580,6 +7341,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -6637,7 +7402,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -6651,7 +7415,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6685,6 +7449,10 @@
     ],
     "sessionLevel": [],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -6742,7 +7510,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -6756,7 +7523,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6795,6 +7562,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -6852,7 +7623,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -6864,7 +7634,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6903,6 +7673,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -6924,6 +7698,216 @@
     ],
     "audienceTypes": [],
     "tags": []
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1776290371737001Dgv0",
+    "langLocale": "en-US",
+    "sessionId": "1776290371737001Dgv0",
+    "sessionInstanceId": "1776290371737001Dgv0",
+    "sessionCode": "DEM367",
+    "sessionCodeNormalized": "EN-US-DEM367",
+    "title": "Onboarding a Developer with AI: A Better First-Day Experience",
+    "sortTitle": "onboarding a developer with ai: a better first-day experience",
+    "description": "Onboarding is one of the most underestimated areas of Developer Experience. This session demonstrates how AI can help a new developer become productive faster by explaining a codebase, surfacing useful context, identifying key components, and supporting a first contribution. The demo shows how AI can reduce frustration and shorten the time to meaningful impact.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 5,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Demo",
+      "logicalValue": "Demo"
+    },
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1776290580466001XvvF",
+    "langLocale": "en-US",
+    "sessionId": "1776290580466001XvvF",
+    "sessionInstanceId": "1776290580466001XvvF",
+    "sessionCode": "DEM369",
+    "sessionCodeNormalized": "EN-US-DEM369",
+    "title": "Responsible AI in Action: From Principles to Real‑World Engineering",
+    "sortTitle": "responsible ai in action: from principles to real‑world engineering",
+    "description": "As AI moves into production, teams must keep models safe, compliant, and reliable without slowing delivery. This session shows how to implement Responsible AI directly in engineering workflows using Microsoft tools. Learn how to assess models, apply safety filters, enforce policies, and monitor risks in real time, plus explore new governance and explainability features that help you build trustworthy AI at scale.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 5,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Demo",
+      "logicalValue": "Demo"
+    },
+    "topic": [
+      {
+        "displayValue": "Responsible AI",
+        "logicalValue": "Responsible AI"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
+      }
+    ]
   },
   {
     "@search.score": 1.0,
@@ -6954,7 +7938,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -6968,7 +7951,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7007,6 +7990,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -7064,7 +8051,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -7076,7 +8062,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7120,6 +8106,10 @@
         "logicalValue": "C"
       }
     ],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -7176,7 +8166,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -7188,7 +8177,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7227,6 +8216,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -7291,7 +8284,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -7303,7 +8295,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7342,6 +8334,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -7393,7 +8389,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -7405,7 +8400,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7444,6 +8439,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -7495,7 +8494,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -7507,7 +8505,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7546,6 +8544,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -7567,6 +8569,106 @@
     ],
     "audienceTypes": [],
     "tags": []
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1776289863408001ZN64",
+    "langLocale": "en-US",
+    "sessionId": "1776289863408001ZN64",
+    "sessionInstanceId": "1776289863408001ZN64",
+    "sessionCode": "DEM361",
+    "sessionCodeNormalized": "EN-US-DEM361",
+    "title": "Understand and fix Agent Framework apps with observability and evals",
+    "sortTitle": "understand and fix agent framework apps with observability and evals",
+    "description": "Your AI apps are getting more complex, with multiple agents, tools, and different orchestration patterns. This makes them harder to understand, debug, and test. This session shows you how to visualize the decisions your LLMs are making in complex Microsoft Agent Framework applications, using open standards and open source tooling to provide you with instrumentation and observability. You'll also see how you can use another LLM as a judge to evaluate how well your AI app is working.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 5,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Demo",
+      "logicalValue": "Demo"
+    },
+    "topic": [
+      {
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
+      }
+    ],
+    "sessionLevel": [],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
+      }
+    ]
   },
   {
     "@search.score": 1.0,
@@ -7597,7 +8699,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -7612,7 +8713,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7651,6 +8752,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -7713,7 +8818,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -7728,7 +8832,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7767,6 +8871,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -7807,6 +8915,111 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1776294028217001xLPG",
+    "langLocale": "en-US",
+    "sessionId": "1776294028217001xLPG",
+    "sessionInstanceId": "1776294028217001xLPG",
+    "sessionCode": "LTG465",
+    "sessionCodeNormalized": "EN-US-LTG465",
+    "title": "10 Things You Didn't Know GitHub Could Do",
+    "sortTitle": "10 things you didn't know github could do",
+    "description": "GitHub has been the developer platform of choice for well over a decade. During that time, GitHub continues to add new features and often times people don't realize what's out there. This lightning talk will rapid fire through 10 different things GitHub can do that you might not have seen before. We'll cover AI, Agentic Workflows, Actions, Code Collaboration and more. By the end of this lightning talk, you'll walk away with a number of practical ideas to take back to apply at work immediately.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 6,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Lightning Talk",
+      "logicalValue": "Lightning Talk"
+    },
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(100) Foundational",
+        "logicalValue": "(100) Foundational"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "Community",
+        "logicalValue": "Community"
+      },
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
     "speakerNames": "Aaron Powell",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
@@ -7829,7 +9042,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -7843,7 +9055,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7882,6 +9094,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -7923,6 +9139,208 @@
     "ssr": "",
     "excludeFromSessionScheduler": false,
     "doNotPublishVideo": false,
+    "localizedId": "en-US-1776293184274001L59w",
+    "langLocale": "en-US",
+    "sessionId": "1776293184274001L59w",
+    "sessionInstanceId": "1776293184274001L59w",
+    "sessionCode": "LTG458",
+    "sessionCodeNormalized": "EN-US-LTG458",
+    "title": "Agentic Apps on Microsoft Fabric: Mind-Blowing Interactive Experiences",
+    "sortTitle": "agentic apps on microsoft fabric: mind-blowing interactive experiences",
+    "description": "Imagine turning your Microsoft Fabric semantic models into stunning, interactive apps in minutes. Less Clicking More Building. Discover the brand-new agentic development experience that lets you choose the agents to build reporting. No deep coding, no complex frameworks, just point, describe, and watch agents orchestrate everything. Visuals, custom navigation, writeback, you can have it all directly on your Fabric assets. Think no-holds-barred analytics experiences.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 6,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Lightning Talk",
+      "logicalValue": "Lightning Talk"
+    },
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1776292575600001CoIk",
+    "langLocale": "en-US",
+    "sessionId": "1776292575600001CoIk",
+    "sessionInstanceId": "1776292575600001CoIk",
+    "sessionCode": "LTG451",
+    "sessionCodeNormalized": "EN-US-LTG451",
+    "title": "Agentic FinOps: Governing Cost and Quality with Microsoft Foundry",
+    "sortTitle": "agentic finops: governing cost and quality with microsoft foundry",
+    "description": "Your agents are spending money you can't see. Traditional FinOps tooling was built for workloads humans start and stop, agents don't work that way. In this session, you'll learn how to use Microsoft Foundry's observability plane to get real-time visibility into token consumption, tool call chains, and reasoning traces, and how to turn that data into actual cost governance before your cloud bill becomes a surprise.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 6,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Lightning Talk",
+      "logicalValue": "Lightning Talk"
+    },
+    "topic": [
+      {
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
     "localizedId": "en-US-1774018707578001rTn5",
     "langLocale": "en-US",
     "sessionId": "1774018707578001rTn5",
@@ -7939,7 +9357,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -7951,7 +9368,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7995,6 +9412,10 @@
         "logicalValue": "CUDA"
       }
     ],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -8043,6 +9464,309 @@
     "ssr": "",
     "excludeFromSessionScheduler": false,
     "doNotPublishVideo": false,
+    "localizedId": "en-US-1776293340144001LRTb",
+    "langLocale": "en-US",
+    "sessionId": "1776293340144001LRTb",
+    "sessionInstanceId": "1776293340144001LRTb",
+    "sessionCode": "LTG460",
+    "sessionCodeNormalized": "EN-US-LTG460",
+    "title": "Agents Gone Wild: The Best (and Worst) AI Agents You Can Build Today",
+    "sortTitle": "agents gone wild: the best (and worst) ai agents you can build today",
+    "description": "AI agents are everywhere—but not all of them should exist.In this session, we’ll explore how to build powerful, practical AI agents using Microsoft’s modern AI stack, including Azure AI services, Microsoft Foundry, and Copilot-ready integrations.Through real-world examples, we’ll look at useful agents such as a support assistant that summarizes customer tickets, a knowledge agent that answers questions from internal docs, and an automation agent that triages alerts from the cloud infrastructure",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 6,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Lightning Talk",
+      "logicalValue": "Lightning Talk"
+    },
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1776293411668001DEZ6",
+    "langLocale": "en-US",
+    "sessionId": "1776293411668001DEZ6",
+    "sessionInstanceId": "1776293411668001DEZ6",
+    "sessionCode": "LTG461",
+    "sessionCodeNormalized": "EN-US-LTG461",
+    "title": "AI building using the VS Code AI Toolkit",
+    "sortTitle": "ai building using the vs code ai toolkit",
+    "description": "This session does a quick overview on how to create an Ai app using the Ai Toolkit. Attendees will see how to select an Ai model, compare models to select the most appropriate one for your app. Teaching you how to go from zero to hero in 15 minutes.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 6,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Lightning Talk",
+      "logicalValue": "Lightning Talk"
+    },
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1776293264752001CkVj",
+    "langLocale": "en-US",
+    "sessionId": "1776293264752001CkVj",
+    "sessionInstanceId": "1776293264752001CkVj",
+    "sessionCode": "LTG459",
+    "sessionCodeNormalized": "EN-US-LTG459",
+    "title": "Anatomy of a cloud based, multi tenant, SaaS product",
+    "sortTitle": "anatomy of a cloud based, multi tenant, saas product",
+    "description": "In this session, I’ll walk through the real-world process of designing and building a cloud-based, multi-tenant SaaS product on Azure. We’ll explore how we use Azure Service Bus, Azure Functions and Durable Functions, Cosmos DB, Microsoft Foundry, and MCP to build a scalable, maintainable system. Expect a practical, technical breakdown of architecture decisions, real challenges, and lessons you can apply when building modern SaaS solutions on Azure.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 6,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Lightning Talk",
+      "logicalValue": "Lightning Talk"
+    },
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
     "localizedId": "en-US-1774018712070001rAew",
     "langLocale": "en-US",
     "sessionId": "1774018712070001rAew",
@@ -8059,7 +9783,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -8071,7 +9794,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8110,6 +9833,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -8145,6 +9872,107 @@
     "ssr": "",
     "excludeFromSessionScheduler": false,
     "doNotPublishVideo": false,
+    "localizedId": "en-US-1776291899668001ijg4",
+    "langLocale": "en-US",
+    "sessionId": "1776291899668001ijg4",
+    "sessionInstanceId": "1776291899668001ijg4",
+    "sessionCode": "LTG447",
+    "sessionCodeNormalized": "EN-US-LTG447",
+    "title": "Breaking the Legacy Barrier: AI Agents on Mainframe & SQL",
+    "sortTitle": "breaking the legacy barrier: ai agents on mainframe & sql",
+    "description": "Legacy systems still power the enterprise, but they no longer need to limit AI innovation. In this live demo, see how GitHub Copilot accelerates the development of agent tools and schema integration while Microsoft Foundry orchestrates secure, multi-step reasoning over modernized mainframe and SQL data. Move beyond simple RAG and learn a practical Microsoft-native pattern for building agents that act on real enterprise data.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 6,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Lightning Talk",
+      "logicalValue": "Lightning Talk"
+    },
+    "topic": [
+      {
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
     "localizedId": "en-US-1774018717894001rgAt",
     "langLocale": "en-US",
     "sessionId": "1774018717894001rgAt",
@@ -8161,7 +9989,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -8173,7 +10000,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8207,6 +10034,10 @@
     ],
     "sessionLevel": [],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -8242,6 +10073,208 @@
     "ssr": "",
     "excludeFromSessionScheduler": false,
     "doNotPublishVideo": false,
+    "localizedId": "en-US-1776291995849001LVw2",
+    "langLocale": "en-US",
+    "sessionId": "1776291995849001LVw2",
+    "sessionInstanceId": "1776291995849001LVw2",
+    "sessionCode": "LTG448",
+    "sessionCodeNormalized": "EN-US-LTG448",
+    "title": "Build Intelligent Agents with Work IQ, Foundry IQ, and Fabric IQ",
+    "sortTitle": "build intelligent agents with work iq, foundry iq, and fabric iq",
+    "description": "What if your AI agents truly understood how your business works, had instant access to trusted enterprise data, and could take meaningful action from end to end? In this demo-driven session, we’ll cover how to build enterprise-ready AI agents that understand business context, use trusted data, and take real action. In this fast-paced session, we’ll bring Work IQ, Foundry IQ, and Fabric IQ together with Copilot Studio through best practices and live demos.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 6,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Lightning Talk",
+      "logicalValue": "Lightning Talk"
+    },
+    "topic": [
+      {
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1776292817165001Xnbo",
+    "langLocale": "en-US",
+    "sessionId": "1776292817165001Xnbo",
+    "sessionInstanceId": "1776292817165001Xnbo",
+    "sessionCode": "LTG453",
+    "sessionCodeNormalized": "EN-US-LTG453",
+    "title": "Building an End‑to‑End Enterprise AI Platform on Azure",
+    "sortTitle": "building an end‑to‑end enterprise ai platform on azure",
+    "description": "Enterprise AI systems span ingestion, embeddings, vector search, APIs, and partner integrations—often across serverless and container platforms. In this demo, see how Contoso builds a production‑ready, end‑to‑end AI solution on Azure using Azure Functions, Container Apps, AKS, Cosmos DB vector search. Learn proven patterns for scalability, observability, and secure operations with minimal dev effort.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 6,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Lightning Talk",
+      "logicalValue": "Lightning Talk"
+    },
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
     "localizedId": "en-US-1774018716247001rclm",
     "langLocale": "en-US",
     "sessionId": "1774018716247001rclm",
@@ -8258,7 +10291,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -8270,7 +10302,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8309,6 +10341,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -8360,7 +10396,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -8372,7 +10407,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8411,6 +10446,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -8431,10 +10470,110 @@
       }
     ],
     "audienceTypes": [],
+    "tags": []
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1776294107511001Z3tj",
+    "langLocale": "en-US",
+    "sessionId": "1776294107511001Z3tj",
+    "sessionInstanceId": "1776294107511001Z3tj",
+    "sessionCode": "LTG466",
+    "sessionCodeNormalized": "EN-US-LTG466",
+    "title": "Building your own MCP server",
+    "sortTitle": "building your own mcp server",
+    "description": "The Model Context Protocol (MCP) is all the rage and rightly so. As the USB-C for AI, it is an incredibly powerful tool that acts as a bridge between real-world systems and LLMs. But how do you get started with MCP and more importantly: how do you build your own MCP server? In this session we'll build an MCP server from scratch using the MCP C# SDK. We'll look at how to build tools, prompts and resources and how to leverage these with our own AI agent in Microsoft Foundry.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 6,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Lightning Talk",
+      "logicalValue": "Lightning Talk"
+    },
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(100) Foundational",
+        "logicalValue": "(100) Foundational"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
     "tags": [
       {
-        "displayValue": "Copilot Studio",
-        "logicalValue": "Copilot Studio"
+        "displayValue": "Community",
+        "logicalValue": "Community"
+      },
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
       }
     ]
   },
@@ -8467,7 +10606,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -8479,7 +10617,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8518,6 +10656,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -8558,6 +10700,107 @@
     "ssr": "",
     "excludeFromSessionScheduler": false,
     "doNotPublishVideo": false,
+    "localizedId": "en-US-1776292232227001Ltui",
+    "langLocale": "en-US",
+    "sessionId": "1776292232227001Ltui",
+    "sessionInstanceId": "1776292232227001Ltui",
+    "sessionCode": "LTG449",
+    "sessionCodeNormalized": "EN-US-LTG449",
+    "title": "Closing the Loop: Feedback based Learning for Agentic RAG on Azure",
+    "sortTitle": "closing the loop: feedback based learning for agentic rag on azure",
+    "description": "Search and retrieval quality is the foundation of effective agentic RAG. This session explores practical ways to improve RAG accuracy using human feedback across Microsoft Foundry and MAF patterns—from relevance rankings, preference signals and error tagging to LLM-as-a-judge, Simulation SDKs, semantic reranking, query refinement, and grounded evaluation. Learn how to turn user interactions into measurable signals that continuously improve retrieval, ranking, and answer quality in production.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 6,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Lightning Talk",
+      "logicalValue": "Lightning Talk"
+    },
+    "topic": [
+      {
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
     "localizedId": "en-US-1774018719827001r6Oh",
     "langLocale": "en-US",
     "sessionId": "1774018719827001r6Oh",
@@ -8574,7 +10817,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -8586,7 +10828,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8625,6 +10867,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -8677,6 +10923,107 @@
     "ssr": "",
     "excludeFromSessionScheduler": false,
     "doNotPublishVideo": false,
+    "localizedId": "en-US-1776292893312001WFRO",
+    "langLocale": "en-US",
+    "sessionId": "1776292893312001WFRO",
+    "sessionInstanceId": "1776292893312001WFRO",
+    "sessionCode": "LTG454",
+    "sessionCodeNormalized": "EN-US-LTG454",
+    "title": "Deploying Infrastructure and Turning on the Light: Bicep Beyond Azure",
+    "sortTitle": "deploying infrastructure and turning on the light: bicep beyond azure",
+    "description": "Take your Infrastructure as Code workflows to the next level with Bicep Local Deploy. In this demo-driven session, you’ll learn how to extend Bicep beyond Azure resources and treat external systems as declarative infrastructure. We walk through a custom Bicep extension in .NET that exposes new resource types and integrates with external REST APIs. A memorable live demo with practical insights! Leave with both the knowledge and the code needed to start building your own Bicep extensions.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 6,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Lightning Talk",
+      "logicalValue": "Lightning Talk"
+    },
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(400) Expert",
+        "logicalValue": "(400) Expert"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
     "localizedId": "en-US-1774018707249001r93j",
     "langLocale": "en-US",
     "sessionId": "1774018707249001r93j",
@@ -8693,7 +11040,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -8705,7 +11051,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8744,6 +11090,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -8808,7 +11158,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -8820,7 +11169,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8859,6 +11208,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -8910,7 +11263,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -8922,7 +11274,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8961,6 +11313,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -9012,7 +11368,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -9024,7 +11379,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9063,6 +11418,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -9127,7 +11486,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -9142,7 +11500,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9181,6 +11539,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -9243,7 +11605,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -9255,7 +11616,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9294,6 +11655,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -9362,6 +11727,309 @@
     "ssr": "",
     "excludeFromSessionScheduler": false,
     "doNotPublishVideo": false,
+    "localizedId": "en-US-1776293046515001L7PE",
+    "langLocale": "en-US",
+    "sessionId": "1776293046515001L7PE",
+    "sessionInstanceId": "1776293046515001L7PE",
+    "sessionCode": "LTG456",
+    "sessionCodeNormalized": "EN-US-LTG456",
+    "title": "From COBOL to AI: Using Azure AI to Modernize What You Can’t Observe",
+    "sortTitle": "from cobol to ai: using azure ai to modernize what you can’t observe",
+    "description": "Legacy systems hold decades of critical business logic — but they’re opaque, hard to evolve, and nearly impossible to instrument properly. In this session, you’ll see how uses AI to do what used to take years: intelligently discover your application’s business domains and dependencies, extract the rules buried inside COBOL programs, and generate a modern, decoupled application ready for the cloud-native world.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 6,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Lightning Talk",
+      "logicalValue": "Lightning Talk"
+    },
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1776292966476001xEB0",
+    "langLocale": "en-US",
+    "sessionId": "1776292966476001xEB0",
+    "sessionInstanceId": "1776292966476001xEB0",
+    "sessionCode": "LTG455",
+    "sessionCodeNormalized": "EN-US-LTG455",
+    "title": "From Code to Agents: Building Production MCP Servers on Azure Functions",
+    "sortTitle": "from code to agents: building production mcp servers on azure functions",
+    "description": "Agents are transforming how we build software but taking them from prototype to production remains the biggest challenge enterprise teams face. AI Agents need to call real tools- and today that means fragile, custom integrations that break when anything changes. MCP gives agents a standard way to discover and invoke tools at runtime. See real-world scenarios such as a DevOps CI/CD automation system where agents identify detect deployment issues, diagnose, and create rollback PRs in Azure DevOps.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 6,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Lightning Talk",
+      "logicalValue": "Lightning Talk"
+    },
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(400) Expert",
+        "logicalValue": "(400) Expert"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1776290805423001iw5c",
+    "langLocale": "en-US",
+    "sessionId": "1776290805423001iw5c",
+    "sessionInstanceId": "1776290805423001iw5c",
+    "sessionCode": "LTG450",
+    "sessionCodeNormalized": "EN-US-LTG450",
+    "title": "From Idea to Agent in Minutes: Copilot Studio + Claude Code",
+    "sortTitle": "from idea to agent in minutes: copilot studio + claude code",
+    "description": "Building AI agents usually involves writing instructions, defining skills, structuring knowledge sources, and configuring actions. In this session, we’ll explore a new development pattern where AI assists the creation of other AI agents by combining Copilot Studio with Claude Code, instead of manually configuring every element inside the Copilot Studio interface.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 6,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Lightning Talk",
+      "logicalValue": "Lightning Talk"
+    },
+    "topic": [
+      {
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
     "localizedId": "en-US-1774018717544001rIrk",
     "langLocale": "en-US",
     "sessionId": "1774018717544001rIrk",
@@ -9378,7 +12046,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -9390,7 +12057,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9429,6 +12096,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -9469,6 +12140,107 @@
     "ssr": "",
     "excludeFromSessionScheduler": false,
     "doNotPublishVideo": false,
+    "localizedId": "en-US-1776292748826001Cow2",
+    "langLocale": "en-US",
+    "sessionId": "1776292748826001Cow2",
+    "sessionInstanceId": "1776292748826001Cow2",
+    "sessionCode": "LTG452",
+    "sessionCodeNormalized": "EN-US-LTG452",
+    "title": "From Solo Agent to Agent Fleet: Production Multi-Agent Systems with Dapr",
+    "sortTitle": "from solo agent to agent fleet: production multi-agent systems with dapr",
+    "description": "Most AI agent demos work in a notebook - and collapse the moment they hit production. See how to build multi-agent systems that hold up at scale using Dapr as the distributed runtime backbone and Microsoft Foundry as the intelligence layer. Tackle three challenges developers hit when scaling from one agent to many: agent-to-agent communication without hardcoded credentials, reliable state and memory across long-running agent workflows, and full observability of what your agents are doing in production.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 6,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Lightning Talk",
+      "logicalValue": "Lightning Talk"
+    },
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(400) Expert",
+        "logicalValue": "(400) Expert"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
     "localizedId": "en-US-1774018712237001rLex",
     "langLocale": "en-US",
     "sessionId": "1774018712237001rLex",
@@ -9485,7 +12257,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -9497,7 +12268,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9536,6 +12307,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -9557,6 +12332,309 @@
     ],
     "audienceTypes": [],
     "tags": []
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1776293477835001KbIy",
+    "langLocale": "en-US",
+    "sessionId": "1776293477835001KbIy",
+    "sessionInstanceId": "1776293477835001KbIy",
+    "sessionCode": "LTG462",
+    "sessionCodeNormalized": "EN-US-LTG462",
+    "title": "Hidden gems of Microsoft tools: Dev Proxy and Dev Tunnel",
+    "sortTitle": "hidden gems of microsoft tools: dev proxy and dev tunnel",
+    "description": "In this session, you’ll discover two lesser-known Microsoft tools: Dev Proxy and Dev Tunnel. Learn how Dev Proxy enables reality-driven development by simulating failures, mock responses and giving you control over real-world conditions. You’ll also see how Dev Tunnel lets you expose locally running services to the cloud, making it easy to prototype, test and collaborate across environments. Walk away with practical techniques to build resilient applications and unlock new development workflows.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 6,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Lightning Talk",
+      "logicalValue": "Lightning Talk"
+    },
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1776293541060001kUtB",
+    "langLocale": "en-US",
+    "sessionId": "1776293541060001kUtB",
+    "sessionInstanceId": "1776293541060001kUtB",
+    "sessionCode": "LTG463",
+    "sessionCodeNormalized": "EN-US-LTG463",
+    "title": "In AI, Specifications Are Not Contracts — They’re Hypotheses",
+    "sortTitle": "in ai, specifications are not contracts — they’re hypotheses",
+    "description": "As generative AI becomes part of modern software development, teams are increasingly relying on specifications to guide the behavior of AI agents, copilots, and intelligent workflows powered by tools like GitHub Copilot. But there’s a subtle trap: treating specifications the same way we did in traditional software engineering.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 6,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Lightning Talk",
+      "logicalValue": "Lightning Talk"
+    },
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(100) Foundational",
+        "logicalValue": "(100) Foundational"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1776293115454001KHxE",
+    "langLocale": "en-US",
+    "sessionId": "1776293115454001KHxE",
+    "sessionInstanceId": "1776293115454001KHxE",
+    "sessionCode": "LTG457",
+    "sessionCodeNormalized": "EN-US-LTG457",
+    "title": "Infrastructure for AI: Deploying a Production-Ready Foundation",
+    "sortTitle": "infrastructure for ai: deploying a production-ready foundation",
+    "description": "AI workloads do not just change applications; they change what infrastructure needs to deliver. This session uses a practical demo to show how to provision and prepare an environment for AI-enabled applications, with attention to scalability, observability, resilience, and operational readiness. The aim is to make infrastructure strategy visible through a concrete example.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 6,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Lightning Talk",
+      "logicalValue": "Lightning Talk"
+    },
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
+      }
+    ]
   },
   {
     "@search.score": 1.0,
@@ -9587,7 +12665,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -9601,7 +12678,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9640,6 +12717,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -9697,7 +12778,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -9711,7 +12791,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9750,6 +12830,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -9807,7 +12891,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -9819,7 +12902,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9858,6 +12941,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -9909,7 +12996,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -9921,7 +13007,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9960,6 +13046,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -9995,6 +13085,111 @@
     "ssr": "",
     "excludeFromSessionScheduler": false,
     "doNotPublishVideo": false,
+    "localizedId": "en-US-1776295183936001WxNh",
+    "langLocale": "en-US",
+    "sessionId": "1776295183936001WxNh",
+    "sessionInstanceId": "1776295183936001WxNh",
+    "sessionCode": "LTG467",
+    "sessionCodeNormalized": "EN-US-LTG467",
+    "title": "Secure AI Agents in Azure: AI Gateway, Tools, and Trust",
+    "sortTitle": "secure ai agents in azure: ai gateway, tools, and trust",
+    "description": "See how to secure AI agents in Azure with controls developers can use immediately. In this live demo, we’ll protect agent-to-tool and agent-to-API interactions using Azure API Management as an AI gateway, govern MCP tools and registries with API Center, enforce identity and secret hygiene with Entra ID and Key Vault, and add observability for tracing and audit. You’ll learn practical ways to reduce prompt injection, over-permissioned tools, data leakage, and unsafe agent behavior.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 6,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Lightning Talk",
+      "logicalValue": "Lightning Talk"
+    },
+    "topic": [
+      {
+        "displayValue": "Responsible AI",
+        "logicalValue": "Responsible AI"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "Community",
+        "logicalValue": "Community"
+      },
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
     "localizedId": "en-US-1774018707747001rsJI",
     "langLocale": "en-US",
     "sessionId": "1774018707747001rsJI",
@@ -10011,7 +13206,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -10023,7 +13217,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10062,6 +13256,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -10142,7 +13340,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -10156,7 +13353,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10195,6 +13392,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -10261,7 +13462,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -10273,7 +13473,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10312,6 +13512,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -10347,6 +13551,111 @@
     "ssr": "",
     "excludeFromSessionScheduler": false,
     "doNotPublishVideo": false,
+    "localizedId": "en-US-1776293617419001kS86",
+    "langLocale": "en-US",
+    "sessionId": "1776293617419001kS86",
+    "sessionInstanceId": "1776293617419001kS86",
+    "sessionCode": "LTG464",
+    "sessionCodeNormalized": "EN-US-LTG464",
+    "title": "Stop Writing Prompts. Start Writing Specs.",
+    "sortTitle": "stop writing prompts. start writing specs.",
+    "description": "Prompt engineering got us started, but it often leads to fragile systems that are hard to maintain and do not inspire confidence. In this session, we explore a different path. Using GitHub Spec Kit we build an agent from a specification, treating the spec as the contract that defines capabilities, tools, and outputs. Instead of rewriting prompts, we evolve the system by evolving the spec.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 6,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Lightning Talk",
+      "logicalValue": "Lightning Talk"
+    },
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(100) Foundational",
+        "logicalValue": "(100) Foundational"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "Community",
+        "logicalValue": "Community"
+      },
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
     "localizedId": "en-US-1774018703337001rwWK",
     "langLocale": "en-US",
     "sessionId": "1774018703337001rwWK",
@@ -10363,7 +13672,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -10375,7 +13683,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10414,6 +13722,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -10465,7 +13777,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -10477,7 +13788,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10521,6 +13832,10 @@
         "logicalValue": "C"
       }
     ],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -10577,7 +13892,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -10589,7 +13903,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10628,6 +13942,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -10668,6 +13986,111 @@
       {
         "displayValue": "Post Quantum Cryptography",
         "logicalValue": "Post Quantum Cryptography"
+      },
+      {
+        "displayValue": "Agentic Security",
+        "logicalValue": "Agentic Security"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1776290734305001x7s6",
+    "langLocale": "en-US",
+    "sessionId": "1776290734305001x7s6",
+    "sessionInstanceId": "1776290734305001x7s6",
+    "sessionCode": "LTG446",
+    "sessionCodeNormalized": "EN-US-LTG446",
+    "title": "TypeScript LangChain agents on Microsoft Foundry Agents Service",
+    "sortTitle": "typescript langchain agents on microsoft foundry agents service",
+    "description": "Build TypeScript LangChain agents on Microsoft Foundry Agent Service without giving up your existing stack. You get managed agent runtime, tools, tracing, and enterprise-ready deployment while staying in TypeScript. Now it’s possible to connect LangChain/LangGraph to Microsoft Foundry by using the hosted agents offering and run real agent workflows, not just chat demos.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 6,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Lightning Talk",
+      "logicalValue": "Lightning Talk"
+    },
+    "topic": [
+      {
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
       }
     ]
   },
@@ -10700,7 +14123,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -10714,7 +14136,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10748,6 +14170,10 @@
     ],
     "sessionLevel": [],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -10805,7 +14231,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -10817,7 +14242,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10856,6 +14281,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -10907,7 +14336,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -10919,7 +14347,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10958,6 +14386,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
@@ -11009,7 +14441,6 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "location": "",
     "TimeSlot": "",
     "startDateTimeNullGroup": 0,
     "isMandatory": false,
@@ -11023,7 +14454,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-16T01:15:02.838Z",
+    "lastUpdate": "2026-04-17T01:10:07.709Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11062,6 +14493,10 @@
       }
     ],
     "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
