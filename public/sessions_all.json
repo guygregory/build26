@@ -41,7 +41,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -53,7 +53,16 @@
     "ogImage": "",
     "ogTitle": "",
     "ogDescription": "",
-    "deliveryTypes": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ],
     "sessionType": {
       "displayValue": "Keynote",
       "logicalValue": "Keynote"
@@ -89,7 +98,12 @@
       }
     ],
     "sessionLanguage": [],
-    "viewingOptions": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will be recorded",
+        "logicalValue": "Will be recorded"
+      }
+    ],
     "audienceTypes": [],
     "tags": [
       {
@@ -142,7 +156,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -247,7 +261,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -369,7 +383,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -482,7 +496,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -598,7 +612,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -703,7 +717,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -808,7 +822,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -964,7 +978,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1091,7 +1105,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1249,7 +1263,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1354,7 +1368,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1459,7 +1473,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1577,7 +1591,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1682,7 +1696,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1787,7 +1801,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1892,7 +1906,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1999,7 +2013,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2113,7 +2127,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2250,7 +2264,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2355,7 +2369,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2457,7 +2471,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2568,7 +2582,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2678,7 +2692,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2796,7 +2810,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2901,7 +2915,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3006,7 +3020,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3111,7 +3125,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3231,7 +3245,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3342,7 +3356,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3454,7 +3468,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3565,7 +3579,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3679,7 +3693,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3805,7 +3819,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3905,7 +3919,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4023,7 +4037,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4130,7 +4144,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4241,7 +4255,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4346,7 +4360,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4453,7 +4467,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4539,116 +4553,6 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Ayca Bas, Pamela Fox",
-    "canUserModifySchedule": true,
-    "hasFailoverVideoUrl": false,
-    "ssr": "",
-    "excludeFromSessionScheduler": false,
-    "doNotPublishVideo": false,
-    "localizedId": "en-US-1774979447835001AKSK",
-    "langLocale": "en-US",
-    "sessionId": "1774979447835001AKSK",
-    "sessionInstanceId": "1774979447835001AKSK",
-    "sessionCode": "LAB532",
-    "sessionCodeNormalized": "EN-US-LAB532",
-    "title": "Build your knowledge base with Foundry IQ, query it from Copilot CLI",
-    "sortTitle": "build your knowledge base with foundry iq, query it from copilot cli",
-    "description": "In this lab, you'll build a knowledge base in Foundry IQ using the Microsoft Foundry portal, then expose it as an MCP server and connect it to GitHub Copilot CLI. Along the way, you’ll see how Foundry IQ brings together knowledge from across the Microsoft IQ intelligence layer to deliver unified, agent‑ready context. By the end, you'll see how Foundry IQ and Copilot CLI work together to bring your knowledge base directly into your developer workflow.",
-    "aiDescription": "",
-    "businessOutcome": "",
-    "businessOutcomeTwo": "",
-    "registrationLink": "",
-    "targetAudience": "",
-    "contentArea": [],
-    "sortRank": 4,
-    "TimeSlot": "19:30 - 20:45",
-    "startDateTimeNullGroup": 1,
-    "isMandatory": false,
-    "hasLiveStream": false,
-    "hasOnDemand": false,
-    "onDemandThumbnail": "",
-    "speakerIds": [
-      "1768245294609build26-1762250455017001UQP1",
-      "1768245294609build26-1756137289765001yN8u"
-    ],
-    "sessionLinks": [],
-    "relatedSessionCodes": [],
-    "hasTeamsMeeting": false,
-    "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
-    "heroSession": false,
-    "restrictedScopes": [],
-    "associatedCompanies": [],
-    "captionLanguage": [],
-    "audioLanguage": [],
-    "aslSupported": false,
-    "isExternalUrlSession": false,
-    "isPopular": false,
-    "ogImage": "",
-    "ogTitle": "",
-    "ogDescription": "",
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      }
-    ],
-    "sessionType": {
-      "displayValue": "Lab",
-      "logicalValue": "Lab"
-    },
-    "topic": [
-      {
-        "displayValue": "Agents & AI-native Apps",
-        "logicalValue": "Agents & AI-native Apps"
-      }
-    ],
-    "sessionLevel": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
-    "programmingLanguages": [],
-    "location": {
-      "displayValue": "Lab 5",
-      "logicalValue": "Lab 5"
-    },
-    "theme": [],
-    "solutionArea": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "SpeakerTypes": [
-      {
-        "SpeakerType": "Speaker In-person",
-        "SpeakerId": "1768245294609build26-1762250455017001UQP1",
-        "RegistrantKey": "1768245294609build26-1762250455017001UQP1"
-      },
-      {
-        "SpeakerType": "Speaker In-person",
-        "SpeakerId": "1768245294609build26-1756137289765001yN8u",
-        "RegistrantKey": "1768245294609build26-1756137289765001yN8u"
-      }
-    ],
-    "nextStep": null,
-    "event": [],
-    "sessionLanguage": [],
-    "viewingOptions": [
-      {
-        "displayValue": "Will not be recorded",
-        "logicalValue": "Will not be recorded"
-      }
-    ],
-    "audienceTypes": [],
-    "tags": []
-  },
-  {
-    "@search.score": 1.0,
-    "partnerType": [],
-    "industry": [],
-    "businessFocus": [],
-    "product": [],
-    "lineOfBusiness": "",
     "speakerNames": "Robert Nishi",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
@@ -4684,7 +4588,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4810,7 +4714,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4888,7 +4792,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Gustavo Cordido",
+    "speakerNames": "Henk Boelman, Gustavo Cordido",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -4917,13 +4821,14 @@
     "hasOnDemand": false,
     "onDemandThumbnail": "",
     "speakerIds": [
+      "1768245294609build26-1754963585693001VLHf",
       "1768245294609build26-1756138101616001VtrM"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5002,6 +4907,116 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
+    "speakerNames": "Ayca Bas, Pamela Fox",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1774979447835001AKSK",
+    "langLocale": "en-US",
+    "sessionId": "1774979447835001AKSK",
+    "sessionInstanceId": "1774979447835001AKSK",
+    "sessionCode": "LAB532",
+    "sessionCodeNormalized": "EN-US-LAB532",
+    "title": "From data to context: Agent‑ready knowledge with Foundry IQ",
+    "sortTitle": "from data to context: agent‑ready knowledge with foundry iq",
+    "description": "What if your coding agent could reason over enterprise knowledge—across files, data, and work signals—without leaving your developer workflow? In this hands-on lab, you’ll build a reusable knowledge base in Foundry IQ using the Microsoft Foundry portal, expose it as an MCP server, and connect it to GitHub Copilot CLI—no custom RAG plumbing required. Experience how Foundry IQ and Copilot CLI work together to turn enterprise knowledge into live context, right where developers build and debug.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 4,
+    "TimeSlot": "19:30 - 20:45",
+    "startDateTimeNullGroup": 1,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [
+      "1768245294609build26-1762250455017001UQP1",
+      "1768245294609build26-1756137289765001yN8u"
+    ],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Lab",
+      "logicalValue": "Lab"
+    },
+    "topic": [
+      {
+        "displayValue": "Agents & AI-native Apps",
+        "logicalValue": "Agents & AI-native Apps"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "Lab 5",
+      "logicalValue": "Lab 5"
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1762250455017001UQP1",
+        "RegistrantKey": "1768245294609build26-1762250455017001UQP1"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1756137289765001yN8u",
+        "RegistrantKey": "1768245294609build26-1756137289765001yN8u"
+      }
+    ],
+    "nextStep": null,
+    "event": [],
+    "sessionLanguage": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will not be recorded",
+        "logicalValue": "Will not be recorded"
+      }
+    ],
+    "audienceTypes": [],
+    "tags": []
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
     "speakerNames": "Yun Jung Choi, Chris Harris",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
@@ -5038,7 +5053,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5112,7 +5127,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Aaron Powell",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -5140,12 +5155,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1772472228939001By6I"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5188,7 +5205,13 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1772472228939001By6I",
+        "RegistrantKey": "1768245294609build26-1772472228939001By6I"
+      }
+    ],
     "nextStep": null,
     "event": [],
     "sessionLanguage": [],
@@ -5230,7 +5253,7 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 4,
-    "TimeSlot": "01:30 - 02:45",
+    "TimeSlot": "22:00 - 23:15",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
@@ -5241,7 +5264,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5282,8 +5305,8 @@
       }
     ],
     "location": {
-      "displayValue": "Lab 6",
-      "logicalValue": "Lab 6"
+      "displayValue": "Lab 2",
+      "logicalValue": "Lab 2"
     },
     "theme": [],
     "solutionArea": [],
@@ -5342,7 +5365,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5438,7 +5461,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5539,7 +5562,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5642,7 +5665,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5744,7 +5767,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5829,8 +5852,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "17:00 - 17:25",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -5840,7 +5863,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5885,8 +5908,8 @@
       }
     ],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Demo Theater B",
+      "logicalValue": "Demo Theater B"
     },
     "theme": [],
     "solutionArea": [],
@@ -5894,12 +5917,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5939,8 +5957,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "17:30 - 17:55",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -5950,7 +5968,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5990,8 +6008,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Demo Theater A",
+      "logicalValue": "Demo Theater A"
     },
     "theme": [],
     "solutionArea": [],
@@ -5999,14 +6017,14 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
+    "event": [],
+    "sessionLanguage": [],
+    "viewingOptions": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "displayValue": "Will be recorded",
+        "logicalValue": "Will be recorded"
       }
     ],
-    "sessionLanguage": [],
-    "viewingOptions": [],
     "audienceTypes": [],
     "tags": [
       {
@@ -6044,8 +6062,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "19:00 - 19:25",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -6057,7 +6075,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6097,8 +6115,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Demo Theater A",
+      "logicalValue": "Demo Theater A"
     },
     "theme": [],
     "solutionArea": [],
@@ -6112,12 +6130,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -6157,8 +6170,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "19:30 - 19:55",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -6168,7 +6181,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6208,8 +6221,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Demo Theater A",
+      "logicalValue": "Demo Theater A"
     },
     "theme": [],
     "solutionArea": [],
@@ -6217,12 +6230,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -6275,8 +6283,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "22:00 - 22:25",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -6286,7 +6294,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6326,8 +6334,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Demo Theater C",
+      "logicalValue": "Demo Theater C"
     },
     "theme": [],
     "solutionArea": [],
@@ -6335,12 +6343,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -6385,8 +6388,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "23:30 - 23:55",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -6396,7 +6399,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6436,8 +6439,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Demo Theater A",
+      "logicalValue": "Demo Theater A"
     },
     "theme": [],
     "solutionArea": [],
@@ -6452,7 +6455,12 @@
       }
     ],
     "sessionLanguage": [],
-    "viewingOptions": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will be recorded",
+        "logicalValue": "Will be recorded"
+      }
+    ],
     "audienceTypes": [],
     "tags": [
       {
@@ -6468,7 +6476,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Henk Boelman",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -6490,18 +6498,20 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "18:20 - 18:45",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1754963585693001VLHf"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6529,8 +6539,8 @@
     },
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & AI-native Apps",
+        "logicalValue": "Agents & AI-native Apps"
       }
     ],
     "sessionLevel": [
@@ -6541,8 +6551,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Demo Theater B",
+      "logicalValue": "Demo Theater B"
     },
     "theme": [],
     "solutionArea": [],
@@ -6556,12 +6566,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -6601,8 +6606,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "21:30 - 21:55",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -6612,7 +6617,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6640,8 +6645,8 @@
     },
     "topic": [
       {
-        "displayValue": "Model Training",
-        "logicalValue": "Model Training"
+        "displayValue": "Model Infrastructure & Applied Science",
+        "logicalValue": "Model Infrastructure & Applied Science"
       }
     ],
     "sessionLevel": [
@@ -6652,8 +6657,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Demo Theater B",
+      "logicalValue": "Demo Theater B"
     },
     "theme": [],
     "solutionArea": [],
@@ -6668,7 +6673,12 @@
       }
     ],
     "sessionLanguage": [],
-    "viewingOptions": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will be recorded",
+        "logicalValue": "Will be recorded"
+      }
+    ],
     "audienceTypes": [],
     "tags": [
       {
@@ -6706,8 +6716,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "19:45 - 20:10",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -6717,7 +6727,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6745,8 +6755,8 @@
     },
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & AI-native Apps",
+        "logicalValue": "Agents & AI-native Apps"
       }
     ],
     "sessionLevel": [
@@ -6757,8 +6767,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Demo Theater C",
+      "logicalValue": "Demo Theater C"
     },
     "theme": [],
     "solutionArea": [],
@@ -6766,14 +6776,14 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
+    "event": [],
+    "sessionLanguage": [],
+    "viewingOptions": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "displayValue": "Will be recorded",
+        "logicalValue": "Will be recorded"
       }
     ],
-    "sessionLanguage": [],
-    "viewingOptions": [],
     "audienceTypes": [],
     "tags": [
       {
@@ -6811,8 +6821,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "17:30 - 17:55",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -6822,7 +6832,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6850,8 +6860,8 @@
     },
     "topic": [
       {
-        "displayValue": "Model Training",
-        "logicalValue": "Model Training"
+        "displayValue": "Model Infrastructure & Applied Science",
+        "logicalValue": "Model Infrastructure & Applied Science"
       }
     ],
     "sessionLevel": [
@@ -6862,8 +6872,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Demo Theater C",
+      "logicalValue": "Demo Theater C"
     },
     "theme": [],
     "solutionArea": [],
@@ -6871,12 +6881,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -6916,8 +6921,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "18:50 - 19:15",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -6927,7 +6932,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6955,8 +6960,8 @@
     },
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & AI-native Apps",
+        "logicalValue": "Agents & AI-native Apps"
       }
     ],
     "sessionLevel": [
@@ -6967,8 +6972,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Demo Theater C",
+      "logicalValue": "Demo Theater C"
     },
     "theme": [],
     "solutionArea": [],
@@ -6976,12 +6981,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7021,8 +7021,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "00:30 - 00:55",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -7034,7 +7034,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7079,8 +7079,8 @@
       }
     ],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Demo Theater B",
+      "logicalValue": "Demo Theater B"
     },
     "theme": [],
     "solutionArea": [],
@@ -7094,12 +7094,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7184,8 +7179,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "20:30 - 20:55",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -7195,7 +7190,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7235,8 +7230,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Demo Theater A",
+      "logicalValue": "Demo Theater A"
     },
     "theme": [],
     "solutionArea": [],
@@ -7251,7 +7246,12 @@
       }
     ],
     "sessionLanguage": [],
-    "viewingOptions": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will be recorded",
+        "logicalValue": "Will be recorded"
+      }
+    ],
     "audienceTypes": [],
     "tags": [
       {
@@ -7289,8 +7289,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "22:00 - 22:25",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -7302,7 +7302,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7342,8 +7342,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Demo Theater A",
+      "logicalValue": "Demo Theater A"
     },
     "theme": [],
     "solutionArea": [],
@@ -7357,12 +7357,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7402,8 +7397,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "23:00 - 23:25",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -7415,7 +7410,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7443,15 +7438,15 @@
     },
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & AI-native Apps",
+        "logicalValue": "Agents & AI-native Apps"
       }
     ],
     "sessionLevel": [],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Demo Theater B",
+      "logicalValue": "Demo Theater B"
     },
     "theme": [],
     "solutionArea": [],
@@ -7465,12 +7460,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7510,8 +7500,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "00:00 - 00:25",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -7523,7 +7513,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7563,8 +7553,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Demo Theater A",
+      "logicalValue": "Demo Theater A"
     },
     "theme": [],
     "solutionArea": [],
@@ -7578,12 +7568,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7623,8 +7608,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "17:00 - 17:25",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -7634,7 +7619,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7674,8 +7659,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Demo Theater A",
+      "logicalValue": "Demo Theater A"
     },
     "theme": [],
     "solutionArea": [],
@@ -7683,12 +7668,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7728,8 +7708,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "18:50 - 19:15",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -7739,7 +7719,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7779,8 +7759,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Demo Theater A",
+      "logicalValue": "Demo Theater A"
     },
     "theme": [],
     "solutionArea": [],
@@ -7788,14 +7768,14 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
+    "event": [],
+    "sessionLanguage": [],
+    "viewingOptions": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "displayValue": "Will be recorded",
+        "logicalValue": "Will be recorded"
       }
     ],
-    "sessionLanguage": [],
-    "viewingOptions": [],
     "audienceTypes": [],
     "tags": [
       {
@@ -7833,8 +7813,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "19:20 - 19:45",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -7844,7 +7824,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7884,8 +7864,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Demo Theater B",
+      "logicalValue": "Demo Theater B"
     },
     "theme": [],
     "solutionArea": [],
@@ -7893,14 +7873,14 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
+    "event": [],
+    "sessionLanguage": [],
+    "viewingOptions": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "displayValue": "Will be recorded",
+        "logicalValue": "Will be recorded"
       }
     ],
-    "sessionLanguage": [],
-    "viewingOptions": [],
     "audienceTypes": [],
     "tags": [
       {
@@ -7938,8 +7918,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "22:30 - 22:55",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -7951,7 +7931,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7991,8 +7971,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Demo Theater A",
+      "logicalValue": "Demo Theater A"
     },
     "theme": [],
     "solutionArea": [],
@@ -8006,12 +7986,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8051,8 +8026,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "00:00 - 00:25",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -8062,7 +8037,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8107,8 +8082,8 @@
       }
     ],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Demo Theater A",
+      "logicalValue": "Demo Theater A"
     },
     "theme": [],
     "solutionArea": [],
@@ -8116,12 +8091,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8166,8 +8136,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "23:30 - 23:55",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -8177,7 +8147,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8217,8 +8187,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Demo Theater A",
+      "logicalValue": "Demo Theater A"
     },
     "theme": [],
     "solutionArea": [],
@@ -8226,12 +8196,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8284,8 +8249,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "19:00 - 19:25",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -8295,7 +8260,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8323,8 +8288,8 @@
     },
     "topic": [
       {
-        "displayValue": "Model Training",
-        "logicalValue": "Model Training"
+        "displayValue": "Model Infrastructure & Applied Science",
+        "logicalValue": "Model Infrastructure & Applied Science"
       }
     ],
     "sessionLevel": [
@@ -8335,8 +8300,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Demo Theater B",
+      "logicalValue": "Demo Theater B"
     },
     "theme": [],
     "solutionArea": [],
@@ -8344,12 +8309,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8389,8 +8349,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "16:30 - 16:55",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -8400,7 +8360,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8440,8 +8400,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Demo Theater A",
+      "logicalValue": "Demo Theater A"
     },
     "theme": [],
     "solutionArea": [],
@@ -8449,12 +8409,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8494,8 +8449,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "16:30 - 16:55",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -8505,7 +8460,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8533,8 +8488,8 @@
     },
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & AI-native Apps",
+        "logicalValue": "Agents & AI-native Apps"
       }
     ],
     "sessionLevel": [
@@ -8545,8 +8500,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Demo Theater B",
+      "logicalValue": "Demo Theater B"
     },
     "theme": [],
     "solutionArea": [],
@@ -8554,12 +8509,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8599,8 +8549,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "22:30 - 22:55",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -8610,7 +8560,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8638,15 +8588,15 @@
     },
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & AI-native Apps",
+        "logicalValue": "Agents & AI-native Apps"
       }
     ],
     "sessionLevel": [],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Demo Theater B",
+      "logicalValue": "Demo Theater B"
     },
     "theme": [],
     "solutionArea": [],
@@ -8661,7 +8611,12 @@
       }
     ],
     "sessionLanguage": [],
-    "viewingOptions": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will be recorded",
+        "logicalValue": "Will be recorded"
+      }
+    ],
     "audienceTypes": [],
     "tags": [
       {
@@ -8699,8 +8654,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "23:00 - 23:25",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -8713,7 +8668,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8753,8 +8708,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Demo Theater A",
+      "logicalValue": "Demo Theater A"
     },
     "theme": [],
     "solutionArea": [],
@@ -8773,12 +8728,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8818,8 +8768,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "21:40 - 22:05",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -8832,7 +8782,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8872,8 +8822,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Demo Theater B",
+      "logicalValue": "Demo Theater B"
     },
     "theme": [],
     "solutionArea": [],
@@ -8892,12 +8842,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8937,8 +8882,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "17:10 - 17:25",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -8948,7 +8893,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8984,8 +8929,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 1",
+      "logicalValue": "Lightning Talk Theater 1"
     },
     "theme": [],
     "solutionArea": [],
@@ -8993,14 +8938,14 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
+    "event": [],
+    "sessionLanguage": [],
+    "viewingOptions": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "displayValue": "Will not be recorded",
+        "logicalValue": "Will not be recorded"
       }
     ],
-    "sessionLanguage": [],
-    "viewingOptions": [],
     "audienceTypes": [],
     "tags": [
       {
@@ -9042,8 +8987,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "22:30 - 22:45",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -9055,7 +9000,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9071,10 +9016,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ],
     "sessionType": {
@@ -9095,8 +9036,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 1",
+      "logicalValue": "Lightning Talk Theater 1"
     },
     "theme": [],
     "solutionArea": [],
@@ -9155,8 +9096,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "18:50 - 19:05",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -9166,7 +9107,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9202,8 +9143,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 2",
+      "logicalValue": "Lightning Talk Theater 2"
     },
     "theme": [],
     "solutionArea": [],
@@ -9211,14 +9152,14 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
+    "event": [],
+    "sessionLanguage": [],
+    "viewingOptions": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "displayValue": "Will not be recorded",
+        "logicalValue": "Will not be recorded"
       }
     ],
-    "sessionLanguage": [],
-    "viewingOptions": [],
     "audienceTypes": [],
     "tags": [
       {
@@ -9256,8 +9197,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "18:30 - 18:45",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -9267,7 +9208,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9303,8 +9244,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 1",
+      "logicalValue": "Lightning Talk Theater 1"
     },
     "theme": [],
     "solutionArea": [],
@@ -9319,7 +9260,12 @@
       }
     ],
     "sessionLanguage": [],
-    "viewingOptions": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will not be recorded",
+        "logicalValue": "Will not be recorded"
+      }
+    ],
     "audienceTypes": [],
     "tags": [
       {
@@ -9357,8 +9303,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "00:30 - 00:45",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -9368,7 +9314,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9384,10 +9330,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ],
     "sessionType": {
@@ -9413,8 +9355,8 @@
       }
     ],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 1",
+      "logicalValue": "Lightning Talk Theater 1"
     },
     "theme": [],
     "solutionArea": [],
@@ -9480,8 +9422,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "22:00 - 22:15",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -9491,7 +9433,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9527,8 +9469,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 2",
+      "logicalValue": "Lightning Talk Theater 2"
     },
     "theme": [],
     "solutionArea": [],
@@ -9536,14 +9478,14 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
+    "event": [],
+    "sessionLanguage": [],
+    "viewingOptions": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "displayValue": "Will not be recorded",
+        "logicalValue": "Will not be recorded"
       }
     ],
-    "sessionLanguage": [],
-    "viewingOptions": [],
     "audienceTypes": [],
     "tags": [
       {
@@ -9581,8 +9523,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "18:50 - 19:05",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -9592,7 +9534,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9628,8 +9570,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 1",
+      "logicalValue": "Lightning Talk Theater 1"
     },
     "theme": [],
     "solutionArea": [],
@@ -9644,7 +9586,12 @@
       }
     ],
     "sessionLanguage": [],
-    "viewingOptions": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will not be recorded",
+        "logicalValue": "Will not be recorded"
+      }
+    ],
     "audienceTypes": [],
     "tags": [
       {
@@ -9682,8 +9629,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "00:00 - 00:15",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -9693,7 +9640,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9729,8 +9676,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 2",
+      "logicalValue": "Lightning Talk Theater 2"
     },
     "theme": [],
     "solutionArea": [],
@@ -9738,14 +9685,14 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
+    "event": [],
+    "sessionLanguage": [],
+    "viewingOptions": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "displayValue": "Will not be recorded",
+        "logicalValue": "Will not be recorded"
       }
     ],
-    "sessionLanguage": [],
-    "viewingOptions": [],
     "audienceTypes": [],
     "tags": [
       {
@@ -9783,8 +9730,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "19:30 - 19:45",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -9794,7 +9741,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9810,10 +9757,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ],
     "sessionType": {
@@ -9834,8 +9777,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 1",
+      "logicalValue": "Lightning Talk Theater 1"
     },
     "theme": [],
     "solutionArea": [],
@@ -9888,8 +9831,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "22:20 - 22:35",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -9899,7 +9842,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9935,8 +9878,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 1",
+      "logicalValue": "Lightning Talk Theater 1"
     },
     "theme": [],
     "solutionArea": [],
@@ -9944,112 +9887,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
-    "sessionLanguage": [],
-    "viewingOptions": [],
-    "audienceTypes": [],
-    "tags": [
-      {
-        "displayValue": "MVP",
-        "logicalValue": "MVP"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "partnerType": [],
-    "industry": [],
-    "businessFocus": [],
-    "product": [],
-    "lineOfBusiness": "",
-    "speakerNames": "",
-    "canUserModifySchedule": true,
-    "hasFailoverVideoUrl": false,
-    "ssr": "",
-    "excludeFromSessionScheduler": false,
-    "doNotPublishVideo": false,
-    "localizedId": "en-US-1774018717894001rgAt",
-    "langLocale": "en-US",
-    "sessionId": "1774018717894001rgAt",
-    "sessionInstanceId": "1774018717894001rgAt",
-    "sessionCode": "LTG431",
-    "sessionCodeNormalized": "EN-US-LTG431",
-    "title": "Build and govern connected agents with Agent 365 + MCP",
-    "sortTitle": "build and govern connected agents with agent 365 + mcp",
-    "description": "In this lightning talk, attendees learn how to connect AI agents to real‑world work systems using Model Context Protocol (MCP), then bring those agents under Agent 365 management and observability. We’ll show how MCP enables agents to securely access tools and context, and how Agent 365 provides visibility, monitoring, and control as those agents run in production.",
-    "aiDescription": "",
-    "businessOutcome": "",
-    "businessOutcomeTwo": "",
-    "registrationLink": "",
-    "targetAudience": "",
-    "contentArea": [],
-    "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
-    "isMandatory": false,
-    "hasLiveStream": false,
-    "hasOnDemand": false,
-    "onDemandThumbnail": "",
-    "speakerIds": [],
-    "sessionLinks": [],
-    "relatedSessionCodes": [],
-    "hasTeamsMeeting": false,
-    "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
-    "heroSession": false,
-    "restrictedScopes": [],
-    "associatedCompanies": [],
-    "captionLanguage": [],
-    "audioLanguage": [],
-    "aslSupported": false,
-    "isExternalUrlSession": false,
-    "isPopular": false,
-    "ogImage": "",
-    "ogTitle": "",
-    "ogDescription": "",
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ],
-    "sessionType": {
-      "displayValue": "Lightning Talk",
-      "logicalValue": "Lightning Talk"
-    },
-    "topic": [
-      {
-        "displayValue": "Responsible AI",
-        "logicalValue": "Responsible AI"
-      }
-    ],
-    "sessionLevel": [],
-    "programmingLanguages": [],
-    "location": {
-      "displayValue": "",
-      "logicalValue": ""
-    },
-    "theme": [],
-    "solutionArea": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "SpeakerTypes": [],
-    "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -10058,7 +9896,12 @@
       }
     ],
     "audienceTypes": [],
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "MVP",
+        "logicalValue": "MVP"
+      }
+    ]
   },
   {
     "@search.score": 1.0,
@@ -10089,8 +9932,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "19:50 - 20:05",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -10100,7 +9943,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10136,8 +9979,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 1",
+      "logicalValue": "Lightning Talk Theater 1"
     },
     "theme": [],
     "solutionArea": [],
@@ -10152,7 +9995,12 @@
       }
     ],
     "sessionLanguage": [],
-    "viewingOptions": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will not be recorded",
+        "logicalValue": "Will not be recorded"
+      }
+    ],
     "audienceTypes": [],
     "tags": [
       {
@@ -10190,8 +10038,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "20:50 - 21:05",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -10201,7 +10049,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10237,8 +10085,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 3",
+      "logicalValue": "Lightning Talk Theater 3"
     },
     "theme": [],
     "solutionArea": [],
@@ -10253,7 +10101,12 @@
       }
     ],
     "sessionLanguage": [],
-    "viewingOptions": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will not be recorded",
+        "logicalValue": "Will not be recorded"
+      }
+    ],
     "audienceTypes": [],
     "tags": [
       {
@@ -10291,8 +10144,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "19:20 - 19:35",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -10302,7 +10155,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10318,10 +10171,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ],
     "sessionType": {
@@ -10342,8 +10191,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 3",
+      "logicalValue": "Lightning Talk Theater 3"
     },
     "theme": [],
     "solutionArea": [],
@@ -10396,8 +10245,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "21:20 - 21:35",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -10407,7 +10256,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10423,10 +10272,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ],
     "sessionType": {
@@ -10447,8 +10292,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 3",
+      "logicalValue": "Lightning Talk Theater 3"
     },
     "theme": [],
     "solutionArea": [],
@@ -10456,12 +10301,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -10501,8 +10341,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "16:30 - 16:45",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -10512,7 +10352,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10548,8 +10388,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 1",
+      "logicalValue": "Lightning Talk Theater 1"
     },
     "theme": [],
     "solutionArea": [],
@@ -10557,14 +10397,14 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
+    "event": [],
+    "sessionLanguage": [],
+    "viewingOptions": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "displayValue": "Will not be recorded",
+        "logicalValue": "Will not be recorded"
       }
     ],
-    "sessionLanguage": [],
-    "viewingOptions": [],
     "audienceTypes": [],
     "tags": [
       {
@@ -10606,8 +10446,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "23:10 - 23:25",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -10617,7 +10457,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10633,10 +10473,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ],
     "sessionType": {
@@ -10657,8 +10493,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 3",
+      "logicalValue": "Lightning Talk Theater 3"
     },
     "theme": [],
     "solutionArea": [],
@@ -10716,8 +10552,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "16:50 - 17:05",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -10727,7 +10563,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10763,8 +10599,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 1",
+      "logicalValue": "Lightning Talk Theater 1"
     },
     "theme": [],
     "solutionArea": [],
@@ -10772,14 +10608,14 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
+    "event": [],
+    "sessionLanguage": [],
+    "viewingOptions": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "displayValue": "Will not be recorded",
+        "logicalValue": "Will not be recorded"
       }
     ],
-    "sessionLanguage": [],
-    "viewingOptions": [],
     "audienceTypes": [],
     "tags": [
       {
@@ -10817,8 +10653,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "18:30 - 18:45",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -10828,7 +10664,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10844,10 +10680,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ],
     "sessionType": {
@@ -10868,8 +10700,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 2",
+      "logicalValue": "Lightning Talk Theater 2"
     },
     "theme": [],
     "solutionArea": [],
@@ -10939,8 +10771,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "23:50 - 00:05",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -10950,7 +10782,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10986,8 +10818,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 3",
+      "logicalValue": "Lightning Talk Theater 3"
     },
     "theme": [],
     "solutionArea": [],
@@ -11002,7 +10834,12 @@
       }
     ],
     "sessionLanguage": [],
-    "viewingOptions": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will not be recorded",
+        "logicalValue": "Will not be recorded"
+      }
+    ],
     "audienceTypes": [],
     "tags": [
       {
@@ -11040,8 +10877,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "23:10 - 23:25",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -11051,7 +10888,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11067,10 +10904,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ],
     "sessionType": {
@@ -11091,8 +10924,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 2",
+      "logicalValue": "Lightning Talk Theater 2"
     },
     "theme": [],
     "solutionArea": [],
@@ -11158,8 +10991,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "19:00 - 19:15",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -11169,7 +11002,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11185,10 +11018,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ],
     "sessionType": {
@@ -11209,8 +11038,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 2",
+      "logicalValue": "Lightning Talk Theater 2"
     },
     "theme": [],
     "solutionArea": [],
@@ -11218,12 +11047,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -11263,8 +11087,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "22:00 - 22:15",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -11274,7 +11098,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11290,10 +11114,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ],
     "sessionType": {
@@ -11314,8 +11134,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 3",
+      "logicalValue": "Lightning Talk Theater 3"
     },
     "theme": [],
     "solutionArea": [],
@@ -11323,12 +11143,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -11368,8 +11183,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "19:00 - 19:15",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -11379,7 +11194,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11395,10 +11210,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ],
     "sessionType": {
@@ -11419,8 +11230,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 3",
+      "logicalValue": "Lightning Talk Theater 3"
     },
     "theme": [],
     "solutionArea": [],
@@ -11486,8 +11297,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "21:50 - 22:05",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -11500,7 +11311,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11516,10 +11327,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ],
     "sessionType": {
@@ -11540,8 +11347,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 1",
+      "logicalValue": "Lightning Talk Theater 1"
     },
     "theme": [],
     "solutionArea": [],
@@ -11605,8 +11412,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "00:10 - 00:25",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -11616,7 +11423,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11632,10 +11439,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ],
     "sessionType": {
@@ -11656,8 +11459,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 2",
+      "logicalValue": "Lightning Talk Theater 2"
     },
     "theme": [],
     "solutionArea": [],
@@ -11743,8 +11546,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "00:30 - 00:45",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -11754,7 +11557,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11790,8 +11593,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 3",
+      "logicalValue": "Lightning Talk Theater 3"
     },
     "theme": [],
     "solutionArea": [],
@@ -11799,14 +11602,14 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
+    "event": [],
+    "sessionLanguage": [],
+    "viewingOptions": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "displayValue": "Will not be recorded",
+        "logicalValue": "Will not be recorded"
       }
     ],
-    "sessionLanguage": [],
-    "viewingOptions": [],
     "audienceTypes": [],
     "tags": [
       {
@@ -11844,8 +11647,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "22:10 - 22:25",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -11855,7 +11658,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11891,8 +11694,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 3",
+      "logicalValue": "Lightning Talk Theater 3"
     },
     "theme": [],
     "solutionArea": [],
@@ -11900,14 +11703,14 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
+    "event": [],
+    "sessionLanguage": [],
+    "viewingOptions": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "displayValue": "Will not be recorded",
+        "logicalValue": "Will not be recorded"
       }
     ],
-    "sessionLanguage": [],
-    "viewingOptions": [],
     "audienceTypes": [],
     "tags": [
       {
@@ -11945,8 +11748,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "17:30 - 17:45",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -11956,7 +11759,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11992,8 +11795,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 1",
+      "logicalValue": "Lightning Talk Theater 1"
     },
     "theme": [],
     "solutionArea": [],
@@ -12008,7 +11811,12 @@
       }
     ],
     "sessionLanguage": [],
-    "viewingOptions": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will not be recorded",
+        "logicalValue": "Will not be recorded"
+      }
+    ],
     "audienceTypes": [],
     "tags": [
       {
@@ -12046,8 +11854,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "21:50 - 22:05",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -12057,7 +11865,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12073,10 +11881,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ],
     "sessionType": {
@@ -12097,8 +11901,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 2",
+      "logicalValue": "Lightning Talk Theater 2"
     },
     "theme": [],
     "solutionArea": [],
@@ -12156,8 +11960,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "22:50 - 23:05",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -12167,7 +11971,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12203,8 +12007,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 1",
+      "logicalValue": "Lightning Talk Theater 1"
     },
     "theme": [],
     "solutionArea": [],
@@ -12212,14 +12016,14 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
+    "event": [],
+    "sessionLanguage": [],
+    "viewingOptions": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "displayValue": "Will not be recorded",
+        "logicalValue": "Will not be recorded"
       }
     ],
-    "sessionLanguage": [],
-    "viewingOptions": [],
     "audienceTypes": [],
     "tags": [
       {
@@ -12257,8 +12061,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "23:10 - 23:25",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -12268,7 +12072,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12284,10 +12088,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ],
     "sessionType": {
@@ -12308,8 +12108,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 1",
+      "logicalValue": "Lightning Talk Theater 1"
     },
     "theme": [],
     "solutionArea": [],
@@ -12362,8 +12162,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "21:40 - 21:55",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -12373,7 +12173,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12409,8 +12209,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 1",
+      "logicalValue": "Lightning Talk Theater 1"
     },
     "theme": [],
     "solutionArea": [],
@@ -12418,14 +12218,14 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
+    "event": [],
+    "sessionLanguage": [],
+    "viewingOptions": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "displayValue": "Will not be recorded",
+        "logicalValue": "Will not be recorded"
       }
     ],
-    "sessionLanguage": [],
-    "viewingOptions": [],
     "audienceTypes": [],
     "tags": [
       {
@@ -12463,8 +12263,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "23:00 - 23:15",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -12474,7 +12274,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12510,8 +12310,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 1",
+      "logicalValue": "Lightning Talk Theater 1"
     },
     "theme": [],
     "solutionArea": [],
@@ -12519,14 +12319,14 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
+    "event": [],
+    "sessionLanguage": [],
+    "viewingOptions": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "displayValue": "Will not be recorded",
+        "logicalValue": "Will not be recorded"
       }
     ],
-    "sessionLanguage": [],
-    "viewingOptions": [],
     "audienceTypes": [],
     "tags": [
       {
@@ -12564,8 +12364,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "17:10 - 17:25",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -12575,7 +12375,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12611,8 +12411,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 2",
+      "logicalValue": "Lightning Talk Theater 2"
     },
     "theme": [],
     "solutionArea": [],
@@ -12620,14 +12420,14 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
+    "event": [],
+    "sessionLanguage": [],
+    "viewingOptions": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "displayValue": "Will not be recorded",
+        "logicalValue": "Will not be recorded"
       }
     ],
-    "sessionLanguage": [],
-    "viewingOptions": [],
     "audienceTypes": [],
     "tags": [
       {
@@ -12665,8 +12465,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "18:10 - 18:25",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -12678,7 +12478,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12694,10 +12494,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ],
     "sessionType": {
@@ -12718,8 +12514,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 1",
+      "logicalValue": "Lightning Talk Theater 1"
     },
     "theme": [],
     "solutionArea": [],
@@ -12733,12 +12529,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -12778,8 +12569,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "00:30 - 00:45",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -12791,7 +12582,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12807,10 +12598,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ],
     "sessionType": {
@@ -12831,8 +12618,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 2",
+      "logicalValue": "Lightning Talk Theater 2"
     },
     "theme": [],
     "solutionArea": [],
@@ -12891,8 +12678,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "22:30 - 22:45",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -12902,7 +12689,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12918,10 +12705,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ],
     "sessionType": {
@@ -12942,8 +12725,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 3",
+      "logicalValue": "Lightning Talk Theater 3"
     },
     "theme": [],
     "solutionArea": [],
@@ -12996,8 +12779,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "00:10 - 00:25",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -13007,7 +12790,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13023,10 +12806,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ],
     "sessionType": {
@@ -13047,8 +12826,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 3",
+      "logicalValue": "Lightning Talk Theater 3"
     },
     "theme": [],
     "solutionArea": [],
@@ -13056,12 +12835,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -13101,8 +12875,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "17:30 - 17:45",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -13112,7 +12886,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13148,8 +12922,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 2",
+      "logicalValue": "Lightning Talk Theater 2"
     },
     "theme": [],
     "solutionArea": [],
@@ -13157,14 +12931,14 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
+    "event": [],
+    "sessionLanguage": [],
+    "viewingOptions": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "displayValue": "Will not be recorded",
+        "logicalValue": "Will not be recorded"
       }
     ],
-    "sessionLanguage": [],
-    "viewingOptions": [],
     "audienceTypes": [],
     "tags": [
       {
@@ -13206,8 +12980,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "22:10 - 22:25",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -13217,7 +12991,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13233,10 +13007,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ],
     "sessionType": {
@@ -13257,8 +13027,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 1",
+      "logicalValue": "Lightning Talk Theater 1"
     },
     "theme": [],
     "solutionArea": [],
@@ -13340,8 +13110,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "23:50 - 00:05",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -13353,7 +13123,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13369,10 +13139,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ],
     "sessionType": {
@@ -13393,8 +13159,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 1",
+      "logicalValue": "Lightning Talk Theater 1"
     },
     "theme": [],
     "solutionArea": [],
@@ -13462,8 +13228,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "23:30 - 23:45",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -13473,7 +13239,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13489,10 +13255,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ],
     "sessionType": {
@@ -13513,8 +13275,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 3",
+      "logicalValue": "Lightning Talk Theater 3"
     },
     "theme": [],
     "solutionArea": [],
@@ -13528,6 +13290,97 @@
         "logicalValue": ""
       }
     ],
+    "sessionLanguage": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will not be recorded",
+        "logicalValue": "Will not be recorded"
+      }
+    ],
+    "audienceTypes": [],
+    "tags": []
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1774018717894001rgAt",
+    "langLocale": "en-US",
+    "sessionId": "1774018717894001rgAt",
+    "sessionInstanceId": "1774018717894001rgAt",
+    "sessionCode": "LTG431",
+    "sessionCodeNormalized": "EN-US-LTG431",
+    "title": "Stop agent sprawl: Govern any framework with Agent 365",
+    "sortTitle": "stop agent sprawl: govern any framework with agent 365",
+    "description": "Create a new LangChain agent, enable Agent 365 observability, and integrate Agent 365 MCP servers. Register the agent with Agent 365 to bring it under a single control plane. We will demonstrate end-to-end invocation of the Ai teammate by triggering the agent from a comment in a Word document, using MCP servers, and emitting telemetry.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 6,
+    "TimeSlot": "16:50 - 17:05",
+    "startDateTimeNullGroup": 1,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Lightning Talk",
+      "logicalValue": "Lightning Talk"
+    },
+    "topic": [
+      {
+        "displayValue": "Responsible AI",
+        "logicalValue": "Responsible AI"
+      }
+    ],
+    "sessionLevel": [],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "Lightning Talk Theater 2",
+      "logicalValue": "Lightning Talk Theater 2"
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -13567,8 +13420,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "20:20 - 20:35",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -13578,7 +13431,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13614,8 +13467,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 2",
+      "logicalValue": "Lightning Talk Theater 2"
     },
     "theme": [],
     "solutionArea": [],
@@ -13623,14 +13476,14 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
+    "event": [],
+    "sessionLanguage": [],
+    "viewingOptions": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "displayValue": "Will not be recorded",
+        "logicalValue": "Will not be recorded"
       }
     ],
-    "sessionLanguage": [],
-    "viewingOptions": [],
     "audienceTypes": [],
     "tags": [
       {
@@ -13672,8 +13525,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "19:20 - 19:35",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -13683,7 +13536,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13699,10 +13552,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ],
     "sessionType": {
@@ -13723,8 +13572,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 2",
+      "logicalValue": "Lightning Talk Theater 2"
     },
     "theme": [],
     "solutionArea": [],
@@ -13777,8 +13626,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "19:20 - 19:35",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -13788,7 +13637,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13804,10 +13653,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ],
     "sessionType": {
@@ -13833,8 +13678,8 @@
       }
     ],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 1",
+      "logicalValue": "Lightning Talk Theater 1"
     },
     "theme": [],
     "solutionArea": [],
@@ -13903,7 +13748,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13919,10 +13764,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ],
     "sessionType": {
@@ -14033,7 +13874,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14085,7 +13926,12 @@
       }
     ],
     "sessionLanguage": [],
-    "viewingOptions": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will not be recorded",
+        "logicalValue": "Will not be recorded"
+      }
+    ],
     "audienceTypes": [],
     "tags": [
       {
@@ -14123,8 +13969,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "16:30 - 16:45",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -14136,7 +13982,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14152,10 +13998,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ],
     "sessionType": {
@@ -14171,8 +14013,8 @@
     "sessionLevel": [],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 2",
+      "logicalValue": "Lightning Talk Theater 2"
     },
     "theme": [],
     "solutionArea": [],
@@ -14186,12 +14028,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -14231,8 +14068,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "00:10 - 00:25",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -14242,7 +14079,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14258,10 +14095,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ],
     "sessionType": {
@@ -14282,8 +14115,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 1",
+      "logicalValue": "Lightning Talk Theater 1"
     },
     "theme": [],
     "solutionArea": [],
@@ -14336,8 +14169,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "22:10 - 22:25",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -14347,7 +14180,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14363,10 +14196,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ],
     "sessionType": {
@@ -14387,8 +14216,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 2",
+      "logicalValue": "Lightning Talk Theater 2"
     },
     "theme": [],
     "solutionArea": [],
@@ -14441,8 +14270,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "19:00 - 19:15",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -14454,7 +14283,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-17T01:10:07.709Z",
+    "lastUpdate": "2026-04-18T01:05:01.541Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14470,10 +14299,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ],
     "sessionType": {
@@ -14494,8 +14319,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lightning Talk Theater 1",
+      "logicalValue": "Lightning Talk Theater 1"
     },
     "theme": [],
     "solutionArea": [],
