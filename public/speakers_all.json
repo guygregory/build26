@@ -261,9 +261,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018719535001roIg",
-      "en-US-1776361968786001ZRmb",
       "en-US-1776362098748001Dfgl",
+      "en-US-1776361968786001ZRmb",
+      "en-US-1774018719535001roIg",
       "en-US-1776362026778001xCDa"
     ],
     "langLocale": "en-US",
@@ -438,9 +438,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018714689001r71M",
-      "en-US-1774018711414001rPGE",
       "en-US-1776359808899001Crgd",
+      "en-US-1774018711414001rPGE",
+      "en-US-1774018714689001r71M",
       "en-US-1776359765604001WmQt",
       "en-US-1776359702025001LwJ7"
     ],
@@ -627,8 +627,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018702532001rk3p",
       "en-US-1776360325086001HnPa",
+      "en-US-1774018702532001rk3p",
       "en-US-1776360405653001aIr8",
       "en-US-1776360366067001DqfL"
     ],
@@ -751,8 +751,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776358971772001LFiZ",
       "en-US-1774018710899001rSa9",
+      "en-US-1776358971772001LFiZ",
       "en-US-1776359074567001kHS1",
       "en-US-1776359029094001ZbMV"
     ],
@@ -1169,8 +1169,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776360817264001XOd9",
       "en-US-1776361002095001Etx9",
+      "en-US-1776360817264001XOd9",
       "en-US-1776360719583001Dofy",
       "en-US-1774979447835001AKSK"
     ],
@@ -1198,12 +1198,12 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & AI-native Apps",
-        "logicalValue": "Agents & AI-native Apps"
-      },
-      {
         "displayValue": "Agents & Apps",
         "logicalValue": "Agents & Apps"
+      },
+      {
+        "displayValue": "Agents & AI-native Apps",
+        "logicalValue": "Agents & AI-native Apps"
       },
       {
         "displayValue": "Agents & AI-native Apps",
@@ -1542,9 +1542,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
+      "en-US-1776358909696001FtYf",
       "en-US-1776358861989001xLtg",
       "en-US-1774018710738001rCVC",
-      "en-US-1776358909696001FtYf",
       "en-US-1776358774912001CUxy"
     ],
     "langLocale": "en-US",
@@ -1710,8 +1710,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776360817264001XOd9",
       "en-US-1776361002095001Etx9",
+      "en-US-1776360817264001XOd9",
       "en-US-1776360719583001Dofy",
       "en-US-1774979447835001AKSK"
     ],
@@ -1739,12 +1739,12 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & AI-native Apps",
-        "logicalValue": "Agents & AI-native Apps"
-      },
-      {
         "displayValue": "Agents & Apps",
         "logicalValue": "Agents & Apps"
+      },
+      {
+        "displayValue": "Agents & AI-native Apps",
+        "logicalValue": "Agents & AI-native Apps"
       },
       {
         "displayValue": "Agents & AI-native Apps",
@@ -1883,10 +1883,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018702532001rk3p",
       "en-US-1776360325086001HnPa",
-      "en-US-1776360405653001aIr8",
+      "en-US-1774018702532001rk3p",
       "en-US-1774018701742001rOMi",
+      "en-US-1776360405653001aIr8",
       "en-US-1776360366067001DqfL"
     ],
     "langLocale": "en-US",
@@ -1903,12 +1903,12 @@
         "logicalValue": "Lab"
       },
       {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
-      },
-      {
         "displayValue": "Demo",
         "logicalValue": "Demo"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
       },
       {
         "displayValue": "Lab",
@@ -1998,12 +1998,12 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
         "displayValue": "Online",
         "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       },
       {
         "displayValue": "In-person",
@@ -2153,9 +2153,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
+      "en-US-1774018706600001rvpY",
       "en-US-1776352246322001HrUv",
       "en-US-1776352569123001PtCu",
-      "en-US-1774018706600001rvpY",
       "en-US-1776352494301001L5z6"
     ],
     "langLocale": "en-US",
@@ -2406,8 +2406,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774304130264001mWLS",
       "en-US-1776358450469001HOyx",
+      "en-US-1774304130264001mWLS",
       "en-US-1776358396196001XdQD"
     ],
     "langLocale": "en-US",
@@ -2617,8 +2617,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776358971772001LFiZ",
       "en-US-1774018710899001rSa9",
+      "en-US-1776358971772001LFiZ",
       "en-US-1776359074567001kHS1",
       "en-US-1776359029094001ZbMV"
     ],
@@ -2935,8 +2935,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018720726001rkqn",
-      "en-US-1774018718946001r6o5"
+      "en-US-1774018718946001r6o5",
+      "en-US-1774018720726001rkqn"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -2944,12 +2944,12 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Lightning Talk",
-        "logicalValue": "Lightning Talk"
-      },
-      {
         "displayValue": "Demo",
         "logicalValue": "Demo"
+      },
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
       }
     ],
     "topic": [
@@ -2987,12 +2987,12 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
         "displayValue": "Online",
         "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   }
