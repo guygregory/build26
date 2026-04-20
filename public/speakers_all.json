@@ -261,10 +261,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776362098748001Dfgl",
       "en-US-1776361968786001ZRmb",
+      "en-US-1776362026778001xCDa",
       "en-US-1774018719535001roIg",
-      "en-US-1776362026778001xCDa"
+      "en-US-1776362098748001Dfgl"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -438,11 +438,11 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
+      "en-US-1774018714689001r71M",
+      "en-US-1776359702025001LwJ7",
       "en-US-1776359808899001Crgd",
       "en-US-1774018711414001rPGE",
-      "en-US-1774018714689001r71M",
-      "en-US-1776359765604001WmQt",
-      "en-US-1776359702025001LwJ7"
+      "en-US-1776359765604001WmQt"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -454,16 +454,16 @@
         "logicalValue": "Lab"
       },
       {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
         "displayValue": "Lightning Talk",
         "logicalValue": "Lightning Talk"
-      },
-      {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
-      },
-      {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
       },
       {
         "displayValue": "Lab",
@@ -476,16 +476,16 @@
         "logicalValue": "Model Infrastructure & Applied Science"
       },
       {
+        "displayValue": "Model Infrastructure & Applied Science",
+        "logicalValue": "Model Infrastructure & Applied Science"
+      },
+      {
+        "displayValue": "Model Infrastructure & Applied Science",
+        "logicalValue": "Model Infrastructure & Applied Science"
+      },
+      {
         "displayValue": "Developer Tools & Frameworks",
         "logicalValue": "Developer Tools & Frameworks"
-      },
-      {
-        "displayValue": "Model Infrastructure & Applied Science",
-        "logicalValue": "Model Infrastructure & Applied Science"
-      },
-      {
-        "displayValue": "Model Infrastructure & Applied Science",
-        "logicalValue": "Model Infrastructure & Applied Science"
       },
       {
         "displayValue": "Model Infrastructure & Applied Science",
@@ -498,16 +498,16 @@
         "logicalValue": "(300) Advanced"
       },
       {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
         "displayValue": "(200) Intermediate",
         "logicalValue": "(200) Intermediate"
-      },
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      },
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
       },
       {
         "displayValue": "(300) Advanced",
@@ -751,8 +751,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018710899001rSa9",
       "en-US-1776358971772001LFiZ",
+      "en-US-1774018710899001rSa9",
       "en-US-1776359074567001kHS1",
       "en-US-1776359029094001ZbMV"
     ],
@@ -1170,8 +1170,8 @@
     "website": "",
     "sessionsPresenting": [
       "en-US-1776361002095001Etx9",
-      "en-US-1776360817264001XOd9",
       "en-US-1776360719583001Dofy",
+      "en-US-1776360817264001XOd9",
       "en-US-1774979447835001AKSK"
     ],
     "langLocale": "en-US",
@@ -1542,10 +1542,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776358909696001FtYf",
-      "en-US-1776358861989001xLtg",
       "en-US-1774018710738001rCVC",
-      "en-US-1776358774912001CUxy"
+      "en-US-1776358909696001FtYf",
+      "en-US-1776358774912001CUxy",
+      "en-US-1776358861989001xLtg"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -1711,8 +1711,8 @@
     "website": "",
     "sessionsPresenting": [
       "en-US-1776361002095001Etx9",
-      "en-US-1776360817264001XOd9",
       "en-US-1776360719583001Dofy",
+      "en-US-1776360817264001XOd9",
       "en-US-1774979447835001AKSK"
     ],
     "langLocale": "en-US",
@@ -1885,8 +1885,8 @@
     "sessionsPresenting": [
       "en-US-1776360325086001HnPa",
       "en-US-1774018702532001rk3p",
-      "en-US-1774018701742001rOMi",
       "en-US-1776360405653001aIr8",
+      "en-US-1774018701742001rOMi",
       "en-US-1776360366067001DqfL"
     ],
     "langLocale": "en-US",
@@ -1903,12 +1903,12 @@
         "logicalValue": "Lab"
       },
       {
-        "displayValue": "Demo",
-        "logicalValue": "Demo"
-      },
-      {
         "displayValue": "Lab",
         "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
       },
       {
         "displayValue": "Lab",
@@ -1998,12 +1998,12 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      },
-      {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       },
       {
         "displayValue": "In-person",
@@ -2153,9 +2153,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018706600001rvpY",
-      "en-US-1776352246322001HrUv",
       "en-US-1776352569123001PtCu",
+      "en-US-1776352246322001HrUv",
+      "en-US-1774018706600001rvpY",
       "en-US-1776352494301001L5z6"
     ],
     "langLocale": "en-US",
@@ -2260,8 +2260,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018708754001rO1v",
-      "en-US-1774018710246001rN7y"
+      "en-US-1774018710246001rN7y",
+      "en-US-1774018708754001rO1v"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -2269,12 +2269,12 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      },
-      {
         "displayValue": "Demo",
         "logicalValue": "Demo"
+      },
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
       }
     ],
     "topic": [
@@ -2289,12 +2289,12 @@
     ],
     "levels": [
       {
-        "displayValue": "(400) Expert",
-        "logicalValue": "(400) Expert"
-      },
-      {
         "displayValue": "(300) Advanced",
         "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(400) Expert",
+        "logicalValue": "(400) Expert"
       }
     ],
     "programmingLanguages": [],
@@ -2407,8 +2407,8 @@
     "website": "",
     "sessionsPresenting": [
       "en-US-1776358450469001HOyx",
-      "en-US-1774304130264001mWLS",
-      "en-US-1776358396196001XdQD"
+      "en-US-1776358396196001XdQD",
+      "en-US-1774304130264001mWLS"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -2617,8 +2617,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018710899001rSa9",
       "en-US-1776358971772001LFiZ",
+      "en-US-1774018710899001rSa9",
       "en-US-1776359074567001kHS1",
       "en-US-1776359029094001ZbMV"
     ],
@@ -2724,8 +2724,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018711903001rZpY",
-      "en-US-1774018708407001rAVo"
+      "en-US-1774018708407001rAVo",
+      "en-US-1774018711903001rZpY"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -2733,12 +2733,12 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Lightning Talk",
-        "logicalValue": "Lightning Talk"
-      },
-      {
         "displayValue": "Breakout",
         "logicalValue": "Breakout"
+      },
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
       }
     ],
     "topic": [
@@ -2784,12 +2784,12 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
         "displayValue": "Online",
         "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   },
@@ -2935,8 +2935,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018718946001r6o5",
-      "en-US-1774018720726001rkqn"
+      "en-US-1774018720726001rkqn",
+      "en-US-1774018718946001r6o5"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -2944,12 +2944,12 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Demo",
-        "logicalValue": "Demo"
-      },
-      {
         "displayValue": "Lightning Talk",
         "logicalValue": "Lightning Talk"
+      },
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
       }
     ],
     "topic": [
@@ -2987,12 +2987,12 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      },
-      {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       }
     ]
   }
