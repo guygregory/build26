@@ -28,8 +28,8 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 1,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "17:00 - 18:30",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -41,7 +41,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -76,8 +76,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Festival",
+      "logicalValue": "Festival"
     },
     "theme": [],
     "solutionArea": [],
@@ -91,12 +91,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -123,7 +118,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "swyx (Shawn Wang)",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -145,18 +140,20 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "TimeSlot": "",
-    "startDateTimeNullGroup": 0,
+    "TimeSlot": "18:00 - 18:45",
+    "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1775516734838001pZmI"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -196,14 +193,20 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "",
-      "logicalValue": ""
+      "displayValue": "Lab 3",
+      "logicalValue": "Lab 3"
     },
     "theme": [],
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1775516734838001pZmI",
+        "RegistrantKey": "1768245294609build26-1775516734838001pZmI"
+      }
+    ],
     "nextStep": null,
     "event": [
       {
@@ -261,7 +264,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -350,7 +353,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Damian Edwards, David Fowler",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -378,12 +381,15 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1774982406816001cZ4a",
+      "1768245294609build26-1774982456082001foFO"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -435,7 +441,18 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1774982406816001cZ4a",
+        "RegistrantKey": "1768245294609build26-1774982406816001cZ4a"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1774982456082001foFO",
+        "RegistrantKey": "1768245294609build26-1774982456082001foFO"
+      }
+    ],
     "nextStep": null,
     "event": [
       {
@@ -496,7 +513,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -579,7 +596,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Peter Steinbeger",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -607,12 +624,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1772238022106001lZo4"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -659,7 +678,13 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1772238022106001lZo4",
+        "RegistrantKey": "1768245294609build26-1772238022106001lZo4"
+      }
+    ],
     "nextStep": null,
     "event": [
       {
@@ -717,7 +742,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -789,7 +814,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Shen Chauhan",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -817,12 +842,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1774374356763001C1Ra"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -874,9 +901,20 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1774374356763001C1Ra",
+        "RegistrantKey": "1768245294609build26-1774374356763001C1Ra"
+      }
+    ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -943,7 +981,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Marco Casalaina",
+    "speakerNames": "Marco Casalaina, Anagha Todalbagi",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -972,13 +1010,14 @@
     "hasOnDemand": false,
     "onDemandThumbnail": "",
     "speakerIds": [
-      "1768245294609build26-1758304897855001h9Qq"
+      "1768245294609build26-1758304897855001h9Qq",
+      "1768245294609build26-1774284995835001pUFk"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1030,6 +1069,11 @@
         "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1758304897855001h9Qq",
         "RegistrantKey": "1768245294609build26-1758304897855001h9Qq"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1774284995835001pUFk",
+        "RegistrantKey": "1768245294609build26-1774284995835001pUFk"
       }
     ],
     "nextStep": null,
@@ -1105,7 +1149,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1230,7 +1274,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Glenn Condron, Amanda Foster, Shawn Henry",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -1258,12 +1302,16 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1775581852702001WrWI",
+      "1768245294609build26-1768498845637001TuQh",
+      "1768245294609build26-1775078836270001Iwf7"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1310,7 +1358,23 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1775078836270001Iwf7",
+        "RegistrantKey": "1768245294609build26-1775078836270001Iwf7"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1768498845637001TuQh",
+        "RegistrantKey": "1768245294609build26-1768498845637001TuQh"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1775581852702001WrWI",
+        "RegistrantKey": "1768245294609build26-1775581852702001WrWI"
+      }
+    ],
     "nextStep": null,
     "event": [
       {
@@ -1335,7 +1399,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Yina Arenas",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -1363,12 +1427,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1768532909165001FoJl"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1415,7 +1481,13 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Executive (CVP+) In-person",
+        "SpeakerId": "1768245294609build26-1768532909165001FoJl",
+        "RegistrantKey": "1768245294609build26-1768532909165001FoJl"
+      }
+    ],
     "nextStep": null,
     "event": [
       {
@@ -1440,7 +1512,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Ben Zulauf",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -1468,12 +1540,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1774284988298001pfqa"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1520,7 +1594,13 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1774284988298001pfqa",
+        "RegistrantKey": "1768245294609build26-1774284988298001pfqa"
+      }
+    ],
     "nextStep": null,
     "event": [
       {
@@ -1558,7 +1638,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Alicia Frame",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -1586,12 +1666,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1772039473777001dTM9"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1638,7 +1720,13 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1772039473777001dTM9",
+        "RegistrantKey": "1768245294609build26-1772039473777001dTM9"
+      }
+    ],
     "nextStep": null,
     "event": [
       {
@@ -1696,7 +1784,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1801,7 +1889,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1906,7 +1994,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2013,7 +2101,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2127,7 +2215,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2231,7 +2319,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Mario Toffia",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -2259,12 +2347,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1776371578196001HCug"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2311,7 +2401,13 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1776371578196001HCug",
+        "RegistrantKey": "1768245294609build26-1776371578196001HCug"
+      }
+    ],
     "nextStep": null,
     "event": [
       {
@@ -2336,7 +2432,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Ronak Chokshi, Maria Naggaga",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -2364,12 +2460,15 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1751939918029001Ts21",
+      "1768245294609build26-1775078342403001SpDz"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2416,9 +2515,25 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1751939918029001Ts21",
+        "RegistrantKey": "1768245294609build26-1751939918029001Ts21"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1775078342403001SpDz",
+        "RegistrantKey": "1768245294609build26-1775078342403001SpDz"
+      }
+    ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -2436,7 +2551,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Mads Kristensen",
+    "speakerNames": "Nik Karpinsky, Mads Kristensen",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -2465,13 +2580,14 @@
     "hasOnDemand": false,
     "onDemandThumbnail": "",
     "speakerIds": [
+      "1768245294609build26-1774645705844001UesE",
       "1768245294609build26-1774284997266001pRH9"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2523,6 +2639,11 @@
         "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1774284997266001pRH9",
         "RegistrantKey": "1768245294609build26-1774284997266001pRH9"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1774645705844001UesE",
+        "RegistrantKey": "1768245294609build26-1774645705844001UesE"
       }
     ],
     "nextStep": null,
@@ -2582,7 +2703,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2659,7 +2780,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Devanshi Joshi, Jan Kalis",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -2687,12 +2808,15 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1750715119672001uIgP",
+      "1768245294609build26-1769104859708001i6bQ"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2739,7 +2863,18 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1750715119672001uIgP",
+        "RegistrantKey": "1768245294609build26-1750715119672001uIgP"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1769104859708001i6bQ",
+        "RegistrantKey": "1768245294609build26-1769104859708001i6bQ"
+      }
+    ],
     "nextStep": null,
     "event": [
       {
@@ -2810,7 +2945,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2915,7 +3050,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2987,7 +3122,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Scott Hanselman",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -3015,12 +3150,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1769008130185001WAvh"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3067,7 +3204,13 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1769008130185001WAvh",
+        "RegistrantKey": "1768245294609build26-1769008130185001WAvh"
+      }
+    ],
     "nextStep": null,
     "event": [
       {
@@ -3092,7 +3235,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Shobhit Garg, Abhimanyu Varma",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -3120,12 +3263,15 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1751119338056001FUds",
+      "1768245294609build26-1776283338867001xzBB"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3172,7 +3318,18 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1776283338867001xzBB",
+        "RegistrantKey": "1768245294609build26-1776283338867001xzBB"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1751119338056001FUds",
+        "RegistrantKey": "1768245294609build26-1751119338056001FUds"
+      }
+    ],
     "nextStep": null,
     "event": [
       {
@@ -3210,7 +3367,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Julia Kasper",
+    "speakerNames": "Julia Kasper, Harald Kirschner",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -3239,13 +3396,14 @@
     "hasOnDemand": false,
     "onDemandThumbnail": "",
     "speakerIds": [
-      "1768245294609build26-1774303544298001acRa"
+      "1768245294609build26-1774303544298001acRa",
+      "1768245294609build26-1774285000231001pWGh"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3297,6 +3455,11 @@
         "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1774303544298001acRa",
         "RegistrantKey": "1768245294609build26-1774303544298001acRa"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1774285000231001pWGh",
+        "RegistrantKey": "1768245294609build26-1774285000231001pWGh"
       }
     ],
     "nextStep": null,
@@ -3323,7 +3486,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Sebastian Kohlmeier",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -3351,12 +3514,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1775086360974001J4XY"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3403,7 +3568,13 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1775086360974001J4XY",
+        "RegistrantKey": "1768245294609build26-1775086360974001J4XY"
+      }
+    ],
     "nextStep": null,
     "event": [
       {
@@ -3433,7 +3604,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Rob Ferguson",
+    "speakerNames": "Rob Ferguson, Daniel Han, Mark Saroufim",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -3462,13 +3633,15 @@
     "hasOnDemand": false,
     "onDemandThumbnail": "",
     "speakerIds": [
-      "1768245294609build26-1774905889138001JtYZ"
+      "1768245294609build26-1774905889138001JtYZ",
+      "1768245294609build26-1775582336728001AON2",
+      "1768245294609build26-1775582375994001WvjJ"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3520,6 +3693,129 @@
         "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1774905889138001JtYZ",
         "RegistrantKey": "1768245294609build26-1774905889138001JtYZ"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1775582336728001AON2",
+        "RegistrantKey": "1768245294609build26-1775582336728001AON2"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1775582375994001WvjJ",
+        "RegistrantKey": "1768245294609build26-1775582375994001WvjJ"
+      }
+    ],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will be recorded",
+        "logicalValue": "Will be recorded"
+      }
+    ],
+    "audienceTypes": [],
+    "tags": []
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "Chip Huyen",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1774018713380001rxTK",
+    "langLocale": "en-US",
+    "sessionId": "1774018713380001rxTK",
+    "sessionInstanceId": "1774018713380001rxTK",
+    "sessionCode": "BRK233",
+    "sessionCodeNormalized": "EN-US-BRK233",
+    "title": "Software Defensibility in the era of AI coding",
+    "sortTitle": "software defensibility in the era of ai coding",
+    "description": "If the cost of building software is approaching 0, is the value of building software is also approaching 0? If most software can be easily replicated by AI, how can we defend our products after we've built it? This talk discusses what have traditionally been considered moats for software products, why they aren't really moats, and why we should, as builders, continue building.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 3,
+    "TimeSlot": "18:30 - 19:15",
+    "startDateTimeNullGroup": 1,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [
+      "1768245294609build26-1775514714965001BQ8v"
+    ],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Breakout",
+      "logicalValue": "Breakout"
+    },
+    "topic": [
+      {
+        "displayValue": "Model Training",
+        "logicalValue": "Model Training"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "Breakout 2",
+      "logicalValue": "Breakout 2"
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1775514714965001BQ8v",
+        "RegistrantKey": "1768245294609build26-1775514714965001BQ8v"
       }
     ],
     "nextStep": null,
@@ -3579,7 +3875,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3660,7 +3956,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Rishabh Saha",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -3688,12 +3984,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1776447112591001abTN"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3740,7 +4038,13 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1776447112591001abTN",
+        "RegistrantKey": "1768245294609build26-1776447112591001abTN"
+      }
+    ],
     "nextStep": null,
     "event": [
       {
@@ -3786,7 +4090,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Manoj Bableshwar",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -3808,18 +4112,20 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "TimeSlot": "18:30 - 19:15",
+    "TimeSlot": "21:45 - 22:30",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1775238034507001eQ13"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3866,7 +4172,13 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1775238034507001eQ13",
+        "RegistrantKey": "1768245294609build26-1775238034507001eQ13"
+      }
+    ],
     "nextStep": null,
     "event": [],
     "sessionLanguage": [],
@@ -3919,7 +4231,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4004,112 +4316,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
-    "canUserModifySchedule": true,
-    "hasFailoverVideoUrl": false,
-    "ssr": "",
-    "excludeFromSessionScheduler": false,
-    "doNotPublishVideo": false,
-    "localizedId": "en-US-1774018713380001rxTK",
-    "langLocale": "en-US",
-    "sessionId": "1774018713380001rxTK",
-    "sessionInstanceId": "1774018713380001rxTK",
-    "sessionCode": "BRK233",
-    "sessionCodeNormalized": "EN-US-BRK233",
-    "title": "What to build next when AI can build everything",
-    "sortTitle": "what to build next when ai can build everything",
-    "description": "Practical guidance on thinking through what to build that can be differentiated and defensible in the era of AI.",
-    "aiDescription": "",
-    "businessOutcome": "",
-    "businessOutcomeTwo": "",
-    "registrationLink": "",
-    "targetAudience": "",
-    "contentArea": [],
-    "sortRank": 3,
-    "TimeSlot": "18:30 - 19:15",
-    "startDateTimeNullGroup": 1,
-    "isMandatory": false,
-    "hasLiveStream": false,
-    "hasOnDemand": false,
-    "onDemandThumbnail": "",
-    "speakerIds": [],
-    "sessionLinks": [],
-    "relatedSessionCodes": [],
-    "hasTeamsMeeting": false,
-    "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
-    "heroSession": false,
-    "restrictedScopes": [],
-    "associatedCompanies": [],
-    "captionLanguage": [],
-    "audioLanguage": [],
-    "aslSupported": false,
-    "isExternalUrlSession": false,
-    "isPopular": false,
-    "ogImage": "",
-    "ogTitle": "",
-    "ogDescription": "",
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ],
-    "sessionType": {
-      "displayValue": "Breakout",
-      "logicalValue": "Breakout"
-    },
-    "topic": [
-      {
-        "displayValue": "Model Training",
-        "logicalValue": "Model Training"
-      }
-    ],
-    "sessionLevel": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
-    "programmingLanguages": [],
-    "location": {
-      "displayValue": "Breakout 2",
-      "logicalValue": "Breakout 2"
-    },
-    "theme": [],
-    "solutionArea": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "SpeakerTypes": [],
-    "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
-    "sessionLanguage": [],
-    "viewingOptions": [
-      {
-        "displayValue": "Will be recorded",
-        "logicalValue": "Will be recorded"
-      }
-    ],
-    "audienceTypes": [],
-    "tags": []
-  },
-  {
-    "@search.score": 1.0,
-    "partnerType": [],
-    "industry": [],
-    "businessFocus": [],
-    "product": [],
-    "lineOfBusiness": "",
-    "speakerNames": "Peng Lyu",
+    "speakerNames": "Pierce Boggan, Peng Lyu",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -4138,13 +4345,14 @@
     "hasOnDemand": false,
     "onDemandThumbnail": "",
     "speakerIds": [
+      "1768245294609build26-1775704791363001hLZq",
       "1768245294609build26-1774635401576001naKZ"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4196,6 +4404,11 @@
         "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1774635401576001naKZ",
         "RegistrantKey": "1768245294609build26-1774635401576001naKZ"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1775704791363001hLZq",
+        "RegistrantKey": "1768245294609build26-1775704791363001hLZq"
       }
     ],
     "nextStep": null,
@@ -4255,7 +4468,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4360,7 +4573,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4432,7 +4645,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Someleze Diko",
+    "speakerNames": "Matt Calder, Someleze Diko",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -4461,13 +4674,14 @@
     "hasOnDemand": false,
     "onDemandThumbnail": "",
     "speakerIds": [
+      "1768245294609build26-1753129132101001Cp9w",
       "1768245294609build26-1762290823994001cHor"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4513,12 +4727,22 @@
     "SpeakerTypes": [
       {
         "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1753129132101001Cp9w",
+        "RegistrantKey": "1768245294609build26-1753129132101001Cp9w"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1762290823994001cHor",
         "RegistrantKey": "1768245294609build26-1762290823994001cHor"
       }
     ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4553,7 +4777,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Robert Nishi",
+    "speakerNames": "Robert Nishi, Steve Thomas",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -4582,13 +4806,14 @@
     "hasOnDemand": false,
     "onDemandThumbnail": "",
     "speakerIds": [
-      "1768245294609build26-1768599320778001SufH"
+      "1768245294609build26-1768599320778001SufH",
+      "1768245294609build26-1775060213552001eZMs"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4639,12 +4864,22 @@
     "SpeakerTypes": [
       {
         "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1775060213552001eZMs",
+        "RegistrantKey": "1768245294609build26-1775060213552001eZMs"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1768599320778001SufH",
         "RegistrantKey": "1768245294609build26-1768599320778001SufH"
       }
     ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4679,7 +4914,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Denzil Ribeiro",
+    "speakerNames": "Jonathon Frost, Denzil Ribeiro",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -4708,13 +4943,14 @@
     "hasOnDemand": false,
     "onDemandThumbnail": "",
     "speakerIds": [
+      "1768245294609build26-1765362664415001iCOs",
       "1768245294609build26-1765804946228001vzRn"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4760,12 +4996,22 @@
     "SpeakerTypes": [
       {
         "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1765362664415001iCOs",
+        "RegistrantKey": "1768245294609build26-1765362664415001iCOs"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1765804946228001vzRn",
         "RegistrantKey": "1768245294609build26-1765804946228001vzRn"
       }
     ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4828,7 +5074,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4889,7 +5135,12 @@
       }
     ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4943,7 +5194,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4999,7 +5250,12 @@
       }
     ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5053,7 +5309,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5109,7 +5365,12 @@
       }
     ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5141,7 +5402,7 @@
     "sessionCodeNormalized": "EN-US-LAB520",
     "title": "Get Started with Models in Microsoft Foundry to Build AI Apps",
     "sortTitle": "get started with models in microsoft foundry to build ai apps",
-    "description": "In this hands‑on lab, you’ll build a production‑ready AI application using Microsoft Foundry, no fine‑tuning or deep ML expertise required. Starting with model discovery, you’ll provision a project, connect to a hosted model using the Azure AI Inference SDK, and implement a comment moderation workflow. You’ll compare outputs across models and package the logic into a hosted agent, leaving with working Python code ready for production integration.",
+    "description": "In this hands-on lab, you will build a production-ready AI application using Microsoft Foundry, with no fine-tuning or deep machine learning expertise required. You will discover and select models, provision a Foundry project, and connect to a hosted model using the OpenAI SDK. You’ll implement a comment moderation workflow, compare model outputs, and package the solution as a hosted agent using Python, ready for real-world integration.",
     "aiDescription": "",
     "businessOutcome": "",
     "businessOutcomeTwo": "",
@@ -5162,7 +5423,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5264,7 +5525,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5314,6 +5575,121 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will not be recorded",
+        "logicalValue": "Will not be recorded"
+      }
+    ],
+    "audienceTypes": [],
+    "tags": []
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "Alicia Frame, Bethany Jepchumba",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1774018714998001rxIG",
+    "langLocale": "en-US",
+    "sessionId": "1774018714998001rxIG",
+    "sessionInstanceId": "1774018714998001rxIG",
+    "sessionCode": "LAB521",
+    "sessionCodeNormalized": "EN-US-LAB521",
+    "title": "Improving agent behavior using reinforcement learning from traces",
+    "sortTitle": "improving agent behavior using reinforcement learning from traces",
+    "description": "AI agents often work, but their behavior can be inconsistent or hard to control with prompts alone. In this hands-on lab, you will start with a working agent, inspect execution traces, define “good behavior” using evaluation graders, and apply reinforcement learning to reinforce better decisions. By the end, you’ll have a practical workflow for improving agent behavior using feedback from agent runs, without redesigning your agent from scratch.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 4,
+    "TimeSlot": "22:00 - 23:15",
+    "startDateTimeNullGroup": 1,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [
+      "1768245294609build26-1772039473777001dTM9",
+      "1768245294609build26-1774284986797001pKsv"
+    ],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Lab",
+      "logicalValue": "Lab"
+    },
+    "topic": [
+      {
+        "displayValue": "Model Infrastructure & Applied Science",
+        "logicalValue": "Model Infrastructure & Applied Science"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "Lab 1",
+      "logicalValue": "Lab 1"
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1774284986797001pKsv",
+        "RegistrantKey": "1768245294609build26-1774284986797001pKsv"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1772039473777001dTM9",
+        "RegistrantKey": "1768245294609build26-1772039473777001dTM9"
+      }
+    ],
+    "nextStep": null,
     "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
@@ -5332,7 +5708,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Josh Johanning",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -5360,12 +5736,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1776108120297001raDy"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5408,9 +5786,20 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1776108120297001raDy",
+        "RegistrantKey": "1768245294609build26-1776108120297001raDy"
+      }
+    ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5428,7 +5817,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Nitya Narasimhan",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -5456,12 +5845,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1756141269010001LleM"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5504,9 +5895,20 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1756141269010001LleM",
+        "RegistrantKey": "1768245294609build26-1756141269010001LleM"
+      }
+    ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5529,7 +5931,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Paul Yu",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -5557,12 +5959,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1774284994279001pbAB"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5605,9 +6009,20 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1774284994279001pbAB",
+        "RegistrantKey": "1768245294609build26-1774284994279001pbAB"
+      }
+    ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5665,7 +6080,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5716,7 +6131,12 @@
       }
     ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5734,103 +6154,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
-    "canUserModifySchedule": true,
-    "hasFailoverVideoUrl": false,
-    "ssr": "",
-    "excludeFromSessionScheduler": false,
-    "doNotPublishVideo": false,
-    "localizedId": "en-US-1774018702689001rtsH",
-    "langLocale": "en-US",
-    "sessionId": "1774018702689001rtsH",
-    "sessionInstanceId": "1774018702689001rtsH",
-    "sessionCode": "LAB531",
-    "sessionCodeNormalized": "EN-US-LAB531",
-    "title": "Use agentic tools in Copilot Studio",
-    "sortTitle": "use agentic tools in copilot studio",
-    "description": "Join us for a hands‑on learning experience and see how Frontier organizations are using Work IQ MCP tools and Skills to power agentic experiences at enterprise scale. In this lab, you’ll explore how agents are grounded in real‑time organizational context and transform that insight into consistent, reusable actions across workflows and applications—moving beyond isolated prompts to deliver confident, governed outcomes.",
-    "aiDescription": "",
-    "businessOutcome": "",
-    "businessOutcomeTwo": "",
-    "registrationLink": "",
-    "targetAudience": "",
-    "contentArea": [],
-    "sortRank": 4,
-    "TimeSlot": "23:45 - 01:00",
-    "startDateTimeNullGroup": 1,
-    "isMandatory": false,
-    "hasLiveStream": false,
-    "hasOnDemand": false,
-    "onDemandThumbnail": "",
-    "speakerIds": [],
-    "sessionLinks": [],
-    "relatedSessionCodes": [],
-    "hasTeamsMeeting": false,
-    "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
-    "heroSession": false,
-    "restrictedScopes": [],
-    "associatedCompanies": [],
-    "captionLanguage": [],
-    "audioLanguage": [],
-    "aslSupported": false,
-    "isExternalUrlSession": false,
-    "isPopular": false,
-    "ogImage": "",
-    "ogTitle": "",
-    "ogDescription": "",
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      }
-    ],
-    "sessionType": {
-      "displayValue": "Lab",
-      "logicalValue": "Lab"
-    },
-    "topic": [
-      {
-        "displayValue": "Agents & AI-native Apps",
-        "logicalValue": "Agents & AI-native Apps"
-      }
-    ],
-    "sessionLevel": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [],
-    "location": {
-      "displayValue": "Lab 5",
-      "logicalValue": "Lab 5"
-    },
-    "theme": [],
-    "solutionArea": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "SpeakerTypes": [],
-    "nextStep": null,
-    "event": [],
-    "sessionLanguage": [],
-    "viewingOptions": [
-      {
-        "displayValue": "Will not be recorded",
-        "logicalValue": "Will not be recorded"
-      }
-    ],
-    "audienceTypes": [],
-    "tags": []
-  },
-  {
-    "@search.score": 1.0,
-    "partnerType": [],
-    "industry": [],
-    "businessFocus": [],
-    "product": [],
-    "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Hanchi Wang",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -5858,12 +6182,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1774284998317001piuN"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5915,9 +6241,20 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1774284998317001piuN",
+        "RegistrantKey": "1768245294609build26-1774284998317001piuN"
+      }
+    ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5935,7 +6272,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Jared Rhodes",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -5963,12 +6300,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1773856399900001oCPe"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6015,9 +6354,20 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1773856399900001oCPe",
+        "RegistrantKey": "1768245294609build26-1773856399900001oCPe"
+      }
+    ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -6075,7 +6425,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6130,7 +6480,12 @@
       }
     ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -6181,225 +6536,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
-    "heroSession": false,
-    "restrictedScopes": [],
-    "associatedCompanies": [],
-    "captionLanguage": [],
-    "audioLanguage": [],
-    "aslSupported": false,
-    "isExternalUrlSession": false,
-    "isPopular": false,
-    "ogImage": "",
-    "ogTitle": "",
-    "ogDescription": "",
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ],
-    "sessionType": {
-      "displayValue": "Demo",
-      "logicalValue": "Demo"
-    },
-    "topic": [
-      {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
-      }
-    ],
-    "sessionLevel": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
-    "programmingLanguages": [],
-    "location": {
-      "displayValue": "Demo Theater A",
-      "logicalValue": "Demo Theater A"
-    },
-    "theme": [],
-    "solutionArea": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "SpeakerTypes": [],
-    "nextStep": null,
-    "event": [],
-    "sessionLanguage": [],
-    "viewingOptions": [
-      {
-        "displayValue": "Will be recorded",
-        "logicalValue": "Will be recorded"
-      }
-    ],
-    "audienceTypes": [],
-    "tags": [
-      {
-        "displayValue": "Microsoft Fabric",
-        "logicalValue": "Microsoft Fabric"
-      },
-      {
-        "displayValue": "CP&D",
-        "logicalValue": "CP&D"
-      },
-      {
-        "displayValue": "Data",
-        "logicalValue": "Data"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "partnerType": [],
-    "industry": [],
-    "businessFocus": [],
-    "product": [],
-    "lineOfBusiness": "",
-    "speakerNames": "",
-    "canUserModifySchedule": true,
-    "hasFailoverVideoUrl": false,
-    "ssr": "",
-    "excludeFromSessionScheduler": false,
-    "doNotPublishVideo": false,
-    "localizedId": "en-US-1774018717046001rNhm",
-    "langLocale": "en-US",
-    "sessionId": "1774018717046001rNhm",
-    "sessionInstanceId": "1774018717046001rNhm",
-    "sessionCode": "DEM340",
-    "sessionCodeNormalized": "EN-US-DEM340",
-    "title": "Build work-ready agents with Foundry + IQ, govern with Agent 365",
-    "sortTitle": "build work-ready agents with foundry + iq, govern with agent 365",
-    "description": "An agent that knows nothing about your work is only half an agent. In this demo, we connect a Foundry agent to Work IQ via MCP, giving it real context about your work and ecosystem, governed by Agent 365. See it run under agent identity, watch Work IQ tools invoked at runtime, and get full observability on every call. Then we run side-by-side evals context-aware vs. context-blind, with scores that prove the difference. Leave knowing how to ground, govern, and evaluate your Foundry agents.",
-    "aiDescription": "",
-    "businessOutcome": "",
-    "businessOutcomeTwo": "",
-    "registrationLink": "",
-    "targetAudience": "",
-    "contentArea": [],
-    "sortRank": 5,
-    "TimeSlot": "22:00 - 22:25",
-    "startDateTimeNullGroup": 1,
-    "isMandatory": false,
-    "hasLiveStream": false,
-    "hasOnDemand": false,
-    "onDemandThumbnail": "",
-    "speakerIds": [],
-    "sessionLinks": [],
-    "relatedSessionCodes": [],
-    "hasTeamsMeeting": false,
-    "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
-    "heroSession": false,
-    "restrictedScopes": [],
-    "associatedCompanies": [],
-    "captionLanguage": [],
-    "audioLanguage": [],
-    "aslSupported": false,
-    "isExternalUrlSession": false,
-    "isPopular": false,
-    "ogImage": "",
-    "ogTitle": "",
-    "ogDescription": "",
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ],
-    "sessionType": {
-      "displayValue": "Demo",
-      "logicalValue": "Demo"
-    },
-    "topic": [
-      {
-        "displayValue": "Responsible AI",
-        "logicalValue": "Responsible AI"
-      }
-    ],
-    "sessionLevel": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
-    "programmingLanguages": [],
-    "location": {
-      "displayValue": "Demo Theater C",
-      "logicalValue": "Demo Theater C"
-    },
-    "theme": [],
-    "solutionArea": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "SpeakerTypes": [],
-    "nextStep": null,
-    "event": [],
-    "sessionLanguage": [],
-    "viewingOptions": [
-      {
-        "displayValue": "Will be recorded",
-        "logicalValue": "Will be recorded"
-      }
-    ],
-    "audienceTypes": [],
-    "tags": [
-      {
-        "displayValue": "Microsoft Foundry",
-        "logicalValue": "Microsoft Foundry"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "partnerType": [],
-    "industry": [],
-    "businessFocus": [],
-    "product": [],
-    "lineOfBusiness": "",
-    "speakerNames": "",
-    "canUserModifySchedule": true,
-    "hasFailoverVideoUrl": false,
-    "ssr": "",
-    "excludeFromSessionScheduler": false,
-    "doNotPublishVideo": false,
-    "localizedId": "en-US-1776288171535001NKxq",
-    "langLocale": "en-US",
-    "sessionId": "1776288171535001NKxq",
-    "sessionInstanceId": "1776288171535001NKxq",
-    "sessionCode": "DEM362",
-    "sessionCodeNormalized": "EN-US-DEM362",
-    "title": "Building a Multi-Agent Workflow in Microsoft Fabric",
-    "sortTitle": "building a multi-agent workflow in microsoft fabric",
-    "description": "Learn how Microsoft Fabric and the 3 IQs, Work IQ, Fabric IQ, and Foundry IQ, enable dynamic, context‑aware multi‑agent workflows. See how semantic models, lakehouses, and pipelines form agent‑ready foundations, and how specialized agents collaborate across planning, retrieval, summarization, and execution. Discover how natural language, automation, and orchestration power real multi‑agent scenarios in Microsoft Fabric.",
-    "aiDescription": "",
-    "businessOutcome": "",
-    "businessOutcomeTwo": "",
-    "registrationLink": "",
-    "targetAudience": "",
-    "contentArea": [],
-    "sortRank": 5,
-    "TimeSlot": "23:30 - 23:55",
-    "startDateTimeNullGroup": 1,
-    "isMandatory": false,
-    "hasLiveStream": false,
-    "hasOnDemand": false,
-    "onDemandThumbnail": "",
-    "speakerIds": [],
-    "sessionLinks": [],
-    "relatedSessionCodes": [],
-    "hasTeamsMeeting": false,
-    "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6464,6 +6601,245 @@
     "audienceTypes": [],
     "tags": [
       {
+        "displayValue": "Microsoft Fabric",
+        "logicalValue": "Microsoft Fabric"
+      },
+      {
+        "displayValue": "CP&D",
+        "logicalValue": "CP&D"
+      },
+      {
+        "displayValue": "Data",
+        "logicalValue": "Data"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "Srikumar Nair",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1774018717046001rNhm",
+    "langLocale": "en-US",
+    "sessionId": "1774018717046001rNhm",
+    "sessionInstanceId": "1774018717046001rNhm",
+    "sessionCode": "DEM340",
+    "sessionCodeNormalized": "EN-US-DEM340",
+    "title": "Build work-ready agents with Foundry + IQ, govern with Agent 365",
+    "sortTitle": "build work-ready agents with foundry + iq, govern with agent 365",
+    "description": "An agent that knows nothing about your work is only half an agent. In this demo, we connect a Foundry agent to Work IQ via MCP, giving it real context about your work and ecosystem, governed by Agent 365. See it run under agent identity, watch Work IQ tools invoked at runtime, and get full observability on every call. Then we run side-by-side evals context-aware vs. context-blind, with scores that prove the difference. Leave knowing how to ground, govern, and evaluate your Foundry agents.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 5,
+    "TimeSlot": "22:00 - 22:25",
+    "startDateTimeNullGroup": 1,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [
+      "1768245294609build26-1776362105831001L2PN"
+    ],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Demo",
+      "logicalValue": "Demo"
+    },
+    "topic": [
+      {
+        "displayValue": "Responsible AI",
+        "logicalValue": "Responsible AI"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "Demo Theater C",
+      "logicalValue": "Demo Theater C"
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1776362105831001L2PN",
+        "RegistrantKey": "1768245294609build26-1776362105831001L2PN"
+      }
+    ],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will be recorded",
+        "logicalValue": "Will be recorded"
+      }
+    ],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "Microsoft Foundry",
+        "logicalValue": "Microsoft Foundry"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "Alexander Wachtel",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1776288171535001NKxq",
+    "langLocale": "en-US",
+    "sessionId": "1776288171535001NKxq",
+    "sessionInstanceId": "1776288171535001NKxq",
+    "sessionCode": "DEM362",
+    "sessionCodeNormalized": "EN-US-DEM362",
+    "title": "Building a Multi-Agent Workflow in Microsoft Fabric",
+    "sortTitle": "building a multi-agent workflow in microsoft fabric",
+    "description": "Learn how Microsoft Fabric and the 3 IQs, Work IQ, Fabric IQ, and Foundry IQ, enable dynamic, context‑aware multi‑agent workflows. See how semantic models, lakehouses, and pipelines form agent‑ready foundations, and how specialized agents collaborate across planning, retrieval, summarization, and execution. Discover how natural language, automation, and orchestration power real multi‑agent scenarios in Microsoft Fabric.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 5,
+    "TimeSlot": "22:30 - 22:55",
+    "startDateTimeNullGroup": 1,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [
+      "1768245294609build26-1760032715730001qqSb"
+    ],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Demo",
+      "logicalValue": "Demo"
+    },
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "Demo Theater C",
+      "logicalValue": "Demo Theater C"
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1760032715730001qqSb",
+        "RegistrantKey": "1768245294609build26-1760032715730001qqSb"
+      }
+    ],
+    "nextStep": null,
+    "event": [],
+    "sessionLanguage": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will be recorded",
+        "logicalValue": "Will be recorded"
+      }
+    ],
+    "audienceTypes": [],
+    "tags": [
+      {
         "displayValue": "MVP",
         "logicalValue": "MVP"
       }
@@ -6511,7 +6887,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6566,7 +6942,12 @@
       }
     ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -6617,7 +6998,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6694,7 +7075,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Christine Flora",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -6722,12 +7103,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1772578847951001DH4K"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6774,9 +7157,20 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1772578847951001DH4K",
+        "RegistrantKey": "1768245294609build26-1772578847951001DH4K"
+      }
+    ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -6799,7 +7193,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Alicia Frame",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -6827,12 +7221,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1772039473777001dTM9"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6879,9 +7275,20 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1772039473777001dTM9",
+        "RegistrantKey": "1768245294609build26-1772039473777001dTM9"
+      }
+    ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -6932,7 +7339,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6981,7 +7388,12 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7034,7 +7446,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7094,7 +7506,12 @@
       }
     ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7157,7 +7574,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Freek Berson",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -7185,12 +7602,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1776289702978001L6Ff"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7237,7 +7656,13 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1776289702978001L6Ff",
+        "RegistrantKey": "1768245294609build26-1776289702978001L6Ff"
+      }
+    ],
     "nextStep": null,
     "event": [
       {
@@ -7302,7 +7727,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7357,7 +7782,12 @@
       }
     ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7375,7 +7805,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Facundo Santiago",
+    "speakerNames": "Nagkumar Arkalgud, Facundo Santiago",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -7404,13 +7834,14 @@
     "hasOnDemand": false,
     "onDemandThumbnail": "",
     "speakerIds": [
+      "1768245294609build26-1776181207688001qvOn",
       "1768245294609build26-1766703128481001X0K3"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7457,10 +7888,20 @@
         "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1766703128481001X0K3",
         "RegistrantKey": "1768245294609build26-1766703128481001X0K3"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1776181207688001qvOn",
+        "RegistrantKey": "1768245294609build26-1776181207688001qvOn"
       }
     ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7478,7 +7919,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Cassidy Williams",
+    "speakerNames": "Cassidy Williams, Martin Woodward",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -7507,13 +7948,14 @@
     "hasOnDemand": false,
     "onDemandThumbnail": "",
     "speakerIds": [
-      "1768245294609build26-1774284997876001pQKi"
+      "1768245294609build26-1774284997876001pQKi",
+      "1768245294609build26-1774894273753001F5kk"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7565,10 +8007,20 @@
         "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1774284997876001pQKi",
         "RegistrantKey": "1768245294609build26-1774284997876001pQKi"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1774894273753001F5kk",
+        "RegistrantKey": "1768245294609build26-1774894273753001F5kk"
       }
     ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7586,7 +8038,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Vini Soto",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -7614,12 +8066,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1775784866500001O4MP"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7666,9 +8120,20 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1775784866500001O4MP",
+        "RegistrantKey": "1768245294609build26-1775784866500001O4MP"
+      }
+    ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7719,7 +8184,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7768,7 +8233,12 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7791,7 +8261,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Alexander Wachtel",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -7819,12 +8289,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1760032715730001qqSb"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7871,9 +8343,20 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1760032715730001qqSb",
+        "RegistrantKey": "1768245294609build26-1760032715730001qqSb"
+      }
+    ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7918,7 +8401,7 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "TimeSlot": "22:30 - 22:55",
+    "TimeSlot": "23:30 - 23:55",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
@@ -7931,7 +8414,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8004,7 +8487,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Poorvi Narang, Jim Perrin",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -8032,12 +8515,15 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1775680212026001g2dP",
+      "1768245294609build26-1774284997117001po3o"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8089,9 +8575,25 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1774284997117001po3o",
+        "RegistrantKey": "1768245294609build26-1774284997117001po3o"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1775680212026001g2dP",
+        "RegistrantKey": "1768245294609build26-1775680212026001g2dP"
+      }
+    ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8114,7 +8616,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Sergiy Smyrnov",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -8142,12 +8644,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1776352718006001ATTV"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8194,9 +8698,20 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1776352718006001ATTV",
+        "RegistrantKey": "1768245294609build26-1776352718006001ATTV"
+      }
+    ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8227,7 +8742,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "William Liang",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -8255,12 +8770,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1774284998627001p6H4"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8307,9 +8824,20 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1774284998627001p6H4",
+        "RegistrantKey": "1768245294609build26-1774284998627001p6H4"
+      }
+    ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8327,7 +8855,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Nik Karpinsky",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -8355,12 +8883,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1774645705844001UesE"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8407,9 +8937,20 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1774645705844001UesE",
+        "RegistrantKey": "1768245294609build26-1774645705844001UesE"
+      }
+    ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8427,7 +8968,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Chu Lahlou",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -8455,12 +8996,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1775581764225001HWz2"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8507,9 +9050,20 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1775581764225001HWz2",
+        "RegistrantKey": "1768245294609build26-1775581764225001HWz2"
+      }
+    ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8527,7 +9081,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "James Bennett",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -8555,12 +9109,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1776289931354001kW0l"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8602,7 +9158,13 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1776289931354001kW0l",
+        "RegistrantKey": "1768245294609build26-1776289931354001kW0l"
+      }
+    ],
     "nextStep": null,
     "event": [
       {
@@ -8668,7 +9230,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8728,7 +9290,12 @@
       }
     ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8782,7 +9349,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8842,7 +9409,12 @@
       }
     ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8860,7 +9432,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Scott Sauber",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -8888,12 +9460,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1776294077207001CQFi"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8936,9 +9510,20 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1776294077207001CQFi",
+        "RegistrantKey": "1768245294609build26-1776294077207001CQFi"
+      }
+    ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -9000,7 +9585,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9074,7 +9659,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Mike Carlo",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -9102,12 +9687,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1776293231988001WPJb"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9150,9 +9737,20 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1776293231988001WPJb",
+        "RegistrantKey": "1768245294609build26-1776293231988001WPJb"
+      }
+    ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -9175,7 +9773,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Roelant Dieben",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -9203,12 +9801,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1770888477835001mAZA"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9251,7 +9851,13 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1770888477835001mAZA",
+        "RegistrantKey": "1768245294609build26-1770888477835001mAZA"
+      }
+    ],
     "nextStep": null,
     "event": [
       {
@@ -9281,7 +9887,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "James Codella",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -9309,12 +9915,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1776347675875001DHR6"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9362,7 +9970,13 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1776347675875001DHR6",
+        "RegistrantKey": "1768245294609build26-1776347675875001DHR6"
+      }
+    ],
     "nextStep": null,
     "event": [
       {
@@ -9400,7 +10014,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Baki Onur Okutucu",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -9428,12 +10042,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1765878443369001FyEA"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9476,9 +10092,20 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1765878443369001FyEA",
+        "RegistrantKey": "1768245294609build26-1765878443369001FyEA"
+      }
+    ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -9501,7 +10128,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Adnan Hendricks",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -9529,12 +10156,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1770479415883001tO49"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9577,7 +10206,13 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1770479415883001tO49",
+        "RegistrantKey": "1768245294609build26-1770479415883001tO49"
+      }
+    ],
     "nextStep": null,
     "event": [
       {
@@ -9607,7 +10242,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Nikolaos Delis",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -9635,12 +10270,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1772489713010001FU2l"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9683,9 +10320,20 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1772489713010001FU2l",
+        "RegistrantKey": "1768245294609build26-1772489713010001FU2l"
+      }
+    ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -9698,6 +10346,136 @@
       {
         "displayValue": "MVP",
         "logicalValue": "MVP"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "Cole Morrison",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1774392203158001IFbh",
+    "langLocale": "en-US",
+    "sessionId": "1774392203158001IFbh",
+    "sessionInstanceId": "1774392203158001IFbh",
+    "sessionCode": "LTGSP480",
+    "sessionCodeNormalized": "EN-US-LTGSP480",
+    "title": "Architecting and building cloud infrastructure in the AI Era",
+    "sortTitle": "architecting and building cloud infrastructure in the ai era",
+    "description": "What's changed in cloud infrastructure architecture and builds in the era of AI? Given that AI is rapidly changing everyday life in both consumer and business sectors, there are massive shifts occurring in cloud-based systems as well. In this talk, we'll explore how the patterns, principles, and pieces have changed—or stayed the same—for hosting scalable, production-ready systems in 2026.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 6,
+    "TimeSlot": "21:30 - 21:45",
+    "startDateTimeNullGroup": 1,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [
+      "1768245294609build26-1775526930403001fDTI"
+    ],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Lightning Talk",
+      "logicalValue": "Lightning Talk"
+    },
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "Lightning Talk Theater 3",
+      "logicalValue": "Lightning Talk Theater 3"
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1775526930403001fDTI",
+        "RegistrantKey": "1768245294609build26-1775526930403001fDTI"
+      }
+    ],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will not be recorded",
+        "logicalValue": "Will not be recorded"
+      }
+    ],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "AI",
+        "logicalValue": "AI"
+      },
+      {
+        "displayValue": "Automation",
+        "logicalValue": "Automation"
+      },
+      {
+        "displayValue": "Azure",
+        "logicalValue": "Azure"
+      },
+      {
+        "displayValue": "Developer",
+        "logicalValue": "Developer"
+      },
+      {
+        "displayValue": "AKS",
+        "logicalValue": "AKS"
       }
     ]
   },
@@ -9741,7 +10519,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9809,7 +10587,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Jonathan Castillo",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -9837,12 +10615,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1772570903878001GZwT"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9885,9 +10665,20 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1772570903878001GZwT",
+        "RegistrantKey": "1768245294609build26-1772570903878001GZwT"
+      }
+    ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -9943,7 +10734,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10016,7 +10807,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Ehsan Eskandari",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -10044,12 +10835,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1757087809738001nkEU"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10092,7 +10885,13 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1757087809738001nkEU",
+        "RegistrantKey": "1768245294609build26-1757087809738001nkEU"
+      }
+    ],
     "nextStep": null,
     "event": [
       {
@@ -10155,7 +10954,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10256,7 +11055,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10301,7 +11100,12 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -10352,7 +11156,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10397,7 +11201,12 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -10457,7 +11266,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10530,7 +11339,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Priyanka Shah",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -10558,12 +11367,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1773185276975001cATe"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10606,9 +11417,20 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1773185276975001cATe",
+        "RegistrantKey": "1768245294609build26-1773185276975001cATe"
+      }
+    ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -10664,7 +11486,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10749,7 +11571,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Freek Berson",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -10777,12 +11599,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1776289702978001L6Ff"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10825,7 +11649,13 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1776289702978001L6Ff",
+        "RegistrantKey": "1768245294609build26-1776289702978001L6Ff"
+      }
+    ],
     "nextStep": null,
     "event": [
       {
@@ -10888,7 +11718,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11002,7 +11832,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11047,7 +11877,12 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -11065,7 +11900,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Meng Tang",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -11093,12 +11928,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1774383196037001nAji"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11141,9 +11978,20 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1774383196037001nAji",
+        "RegistrantKey": "1768245294609build26-1774383196037001nAji"
+      }
+    ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -11194,7 +12042,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11311,7 +12159,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11390,7 +12238,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Maanav Dalal, Meng Tang",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -11418,12 +12266,15 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1774887302528001Bhs4",
+      "1768245294609build26-1774383196037001nAji"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11466,7 +12317,18 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1774383196037001nAji",
+        "RegistrantKey": "1768245294609build26-1774383196037001nAji"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1774887302528001Bhs4",
+        "RegistrantKey": "1768245294609build26-1774887302528001Bhs4"
+      }
+    ],
     "nextStep": null,
     "event": [
       {
@@ -11524,7 +12386,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Julio Arruda",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -11552,12 +12414,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1762906426121001M0Ri"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11600,9 +12464,20 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1762906426121001M0Ri",
+        "RegistrantKey": "1768245294609build26-1762906426121001M0Ri"
+      }
+    ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -11625,7 +12500,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Jonah Andersson",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -11653,12 +12528,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1776293017373001FIeV"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11701,9 +12578,20 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1776293017373001FIeV",
+        "RegistrantKey": "1768245294609build26-1776293017373001FIeV"
+      }
+    ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -11726,7 +12614,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Renato Romao de Souza",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -11754,12 +12642,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1756855668236001z806"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11802,7 +12692,13 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1756855668236001z806",
+        "RegistrantKey": "1768245294609build26-1756855668236001z806"
+      }
+    ],
     "nextStep": null,
     "event": [
       {
@@ -11865,7 +12761,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11971,7 +12867,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12016,7 +12912,12 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -12039,7 +12940,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Nik Karpinsky",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -12067,12 +12968,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1774645705844001UesE"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12115,7 +13018,13 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1774645705844001UesE",
+        "RegistrantKey": "1768245294609build26-1774645705844001UesE"
+      }
+    ],
     "nextStep": null,
     "event": [
       {
@@ -12140,7 +13049,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Alex Thissen",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -12168,12 +13077,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1772633942097001tO2F"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12216,9 +13127,20 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1772633942097001tO2F",
+        "RegistrantKey": "1768245294609build26-1772633942097001tO2F"
+      }
+    ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -12241,7 +13163,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Julio Arruda",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -12269,12 +13191,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1762906426121001M0Ri"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12317,9 +13241,20 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1762906426121001M0Ri",
+        "RegistrantKey": "1768245294609build26-1762906426121001M0Ri"
+      }
+    ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -12375,7 +13310,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12420,7 +13355,12 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -12478,7 +13418,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12529,7 +13469,12 @@
       }
     ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -12539,6 +13484,118 @@
     ],
     "audienceTypes": [],
     "tags": []
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1775841352678001DgCO",
+    "langLocale": "en-US",
+    "sessionId": "1775841352678001DgCO",
+    "sessionInstanceId": "1775841352678001DgCO",
+    "sessionCode": "LTGSP491",
+    "sessionCodeNormalized": "EN-US-LTGSP491",
+    "title": "Meet Your New Crew: The Future of Work Relies on Multimodal Coworkers",
+    "sortTitle": "meet your new crew: the future of work relies on multimodal coworkers",
+    "description": "What if every person on your team had a dozen competent coworkers available around the clock, across every function, ready to support them regardless of the task? The shift from copilots to coworkers is already underway. Napster Chief Technology and Product Officer Edo Segal will offer a look at what happens when AI actually shows up as part of the team. These multimodal coworkers combine video presence, real-time tool access, and relationship continuity to uplevel the employee experience.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 6,
+    "TimeSlot": "18:10 - 18:25",
+    "startDateTimeNullGroup": 1,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Lightning Talk",
+      "logicalValue": "Lightning Talk"
+    },
+    "topic": [],
+    "sessionLevel": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "Lightning Talk Theater 2",
+      "logicalValue": "Lightning Talk Theater 2"
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [],
+    "sessionLanguage": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will not be recorded",
+        "logicalValue": "Will not be recorded"
+      }
+    ],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "AI",
+        "logicalValue": "AI"
+      },
+      {
+        "displayValue": "Azure",
+        "logicalValue": "Azure"
+      },
+      {
+        "displayValue": "Copilot",
+        "logicalValue": "Copilot"
+      },
+      {
+        "displayValue": "Agents",
+        "logicalValue": "Agents"
+      },
+      {
+        "displayValue": "Windows APIs",
+        "logicalValue": "Windows APIs"
+      }
+    ]
   },
   {
     "@search.score": 1.0,
@@ -12582,7 +13639,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12689,7 +13746,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12757,7 +13814,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Sharmila Chockalingam",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -12785,12 +13842,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1752517267116001lWQS"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12833,9 +13892,20 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1752517267116001lWQS",
+        "RegistrantKey": "1768245294609build26-1752517267116001lWQS"
+      }
+    ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -12853,7 +13923,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "David Okeyode",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -12881,12 +13951,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1769864099959001hxn4"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12929,9 +14001,20 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1769864099959001hxn4",
+        "RegistrantKey": "1768245294609build26-1769864099959001hxn4"
+      }
+    ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -12958,7 +14041,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Krishna Sunkavalli",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -12986,12 +14069,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1751987253355001EQg3"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13034,7 +14119,13 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1751987253355001EQg3",
+        "RegistrantKey": "1768245294609build26-1751987253355001EQg3"
+      }
+    ],
     "nextStep": null,
     "event": [
       {
@@ -13123,7 +14214,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13206,7 +14297,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "William Liang",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -13234,12 +14325,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1774284998627001p6H4"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13282,7 +14375,13 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1774284998627001p6H4",
+        "RegistrantKey": "1768245294609build26-1774284998627001p6H4"
+      }
+    ],
     "nextStep": null,
     "event": [
       {
@@ -13340,7 +14439,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13380,7 +14479,12 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -13398,7 +14502,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Roelant Dieben",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -13426,12 +14530,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1770888477835001mAZA"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13474,9 +14580,20 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1770888477835001mAZA",
+        "RegistrantKey": "1768245294609build26-1770888477835001mAZA"
+      }
+    ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -13536,7 +14653,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13637,7 +14754,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13748,7 +14865,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13841,7 +14958,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Alex Pshul",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -13869,12 +14986,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1757087970341001aGw6"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13917,7 +15036,13 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1757087970341001aGw6",
+        "RegistrantKey": "1768245294609build26-1757087970341001aGw6"
+      }
+    ],
     "nextStep": null,
     "event": [
       {
@@ -13947,7 +15072,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Nikola Metulev",
+    "speakerNames": "Nikola Metulev, Beth Pan",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -13976,13 +15101,14 @@
     "hasOnDemand": false,
     "onDemandThumbnail": "",
     "speakerIds": [
-      "1768245294609build26-1774886013101001R9mk"
+      "1768245294609build26-1774886013101001R9mk",
+      "1768245294609build26-1775078130718001cIWp"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14025,10 +15151,20 @@
         "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1774886013101001R9mk",
         "RegistrantKey": "1768245294609build26-1774886013101001R9mk"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1775078130718001cIWp",
+        "RegistrantKey": "1768245294609build26-1775078130718001cIWp"
       }
     ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -14046,7 +15182,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Justin Chen",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -14074,12 +15210,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1774285001041001p103"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14122,7 +15260,13 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1774285001041001p103",
+        "RegistrantKey": "1768245294609build26-1774285001041001p103"
+      }
+    ],
     "nextStep": null,
     "event": [
       {
@@ -14180,7 +15324,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14248,7 +15392,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Courtney Webster",
+    "speakerNames": "Harald Kirschner, Courtney Webster",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -14277,13 +15421,14 @@
     "hasOnDemand": false,
     "onDemandThumbnail": "",
     "speakerIds": [
+      "1768245294609build26-1774285000231001pWGh",
       "1768245294609build26-1774284995211001pJD3"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-20T01:10:02.55Z",
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14329,6 +15474,11 @@
     "SpeakerTypes": [
       {
         "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1774285000231001pWGh",
+        "RegistrantKey": "1768245294609build26-1774285000231001pWGh"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1774284995211001pJD3",
         "RegistrantKey": "1768245294609build26-1774284995211001pJD3"
       }
@@ -14349,5 +15499,374 @@
     ],
     "audienceTypes": [],
     "tags": []
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1774396471341001jVyX",
+    "langLocale": "en-US",
+    "sessionId": "1774396471341001jVyX",
+    "sessionInstanceId": "1774396471341001jVyX",
+    "sessionCode": "ODSP911",
+    "sessionCodeNormalized": "EN-US-ODSP911",
+    "title": "From dashboards to decisions: AI-first business apps",
+    "sortTitle": "from dashboards to decisions: ai-first business apps",
+    "description": "Business apps are shifting from dashboards and filters to AI-driven experiences. In this session, we show how users can ask questions, get insights, and take action instantly. Using DevExpress components, we demonstrate how structured UI brings AI responses to life, turning data into clear, actionable outcomes.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 9,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Pre-recorded",
+      "logicalValue": "Pre-recorded"
+    },
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will be recorded",
+        "logicalValue": "Will be recorded"
+      }
+    ],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "AI",
+        "logicalValue": "AI"
+      },
+      {
+        "displayValue": "Developer",
+        "logicalValue": "Developer"
+      },
+      {
+        "displayValue": "Software Development Company",
+        "logicalValue": "Software Development Company"
+      },
+      {
+        "displayValue": "DevTools",
+        "logicalValue": "DevTools"
+      },
+      {
+        "displayValue": "Developer Frameworks",
+        "logicalValue": "Developer Frameworks"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1775841416367001DUGD",
+    "langLocale": "en-US",
+    "sessionId": "1775841416367001DUGD",
+    "sessionInstanceId": "1775841416367001DUGD",
+    "sessionCode": "ODSP926",
+    "sessionCodeNormalized": "EN-US-ODSP926",
+    "title": "The Relationship Layer: How APIs Bring Your AI Coworkers to Life",
+    "sortTitle": "the relationship layer: how apis bring your ai coworkers to life",
+    "description": "Every team in your company could have coworkers who never drop context, never lose a thread, and adapt to every person they work with. The technology to build them exists today. The challenge is connecting them in a way that actually creates value. PwC research confirms the top barrier to AI impact is integration, not model proficiency. This session explores how APIs form the relationship layer that turns isolated AI tools into embedded coworkers, with Napster's Companion API as a test case.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 9,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Pre-recorded",
+      "logicalValue": "Pre-recorded"
+    },
+    "topic": [],
+    "sessionLevel": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will be recorded",
+        "logicalValue": "Will be recorded"
+      }
+    ],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "AI",
+        "logicalValue": "AI"
+      },
+      {
+        "displayValue": "Azure",
+        "logicalValue": "Azure"
+      },
+      {
+        "displayValue": "API",
+        "logicalValue": "API"
+      },
+      {
+        "displayValue": "Agents",
+        "logicalValue": "Agents"
+      },
+      {
+        "displayValue": "Foundry Agents",
+        "logicalValue": "Foundry Agents"
+      },
+      {
+        "displayValue": "Developer Technologies",
+        "logicalValue": "Developer Technologies"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1774396814904001n5ex",
+    "langLocale": "en-US",
+    "sessionId": "1774396814904001n5ex",
+    "sessionInstanceId": "1774396814904001n5ex",
+    "sessionCode": "ODSP916",
+    "sessionCodeNormalized": "EN-US-ODSP916",
+    "title": "Your Users Are Not Just Human:​ Designing for People and LLMs​",
+    "sortTitle": "your users are not just human:​ designing for people and llms​",
+    "description": "Accessibility is often viewed as a usability feature or compliance requirement, important but secondary. In AI‑driven systems, that no longer holds. LLMs interpret the content we produce, and their reliability depends on structure, semantics, and clarity. Accessible content is easier for humans and machines to understand, process, and reuse. This session reframes accessibility as a systems‑level engineering concern, showing why it outperforms OCR and leads to safer, more predictable AI outcomes.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 9,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-04-21T01:10:06.377Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Pre-recorded",
+      "logicalValue": "Pre-recorded"
+    },
+    "topic": [
+      {
+        "displayValue": "Responsible AI",
+        "logicalValue": "Responsible AI"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will be recorded",
+        "logicalValue": "Will be recorded"
+      }
+    ],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "AI",
+        "logicalValue": "AI"
+      },
+      {
+        "displayValue": "Automation",
+        "logicalValue": "Automation"
+      },
+      {
+        "displayValue": "Platform Engineering",
+        "logicalValue": "Platform Engineering"
+      },
+      {
+        "displayValue": "Reliability",
+        "logicalValue": "Reliability"
+      },
+      {
+        "displayValue": "Developer",
+        "logicalValue": "Developer"
+      },
+      {
+        "displayValue": "Data",
+        "logicalValue": "Data"
+      }
+    ]
   }
 ]

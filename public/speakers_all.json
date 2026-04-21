@@ -1,6 +1,71 @@
 [
   {
     "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1772578847951001DH4K",
+    "speakerId": "1768245294609build26-1772578847951001DH4K",
+    "firstName": "Christine",
+    "lastName": "Flora",
+    "displayName": "Christine Flora",
+    "jobTitle": "BizApps Practice Director",
+    "company": "Microsoft MVP",
+    "bio": "ith over three decades of experience as a trainer, technology strategist, consultant, and recognized industry expert as a Microsoft MVP and MCT, I have mentored teams and implemented business solutions for a large variety of organizations in more than 16 countries. I've worked with large and small organizations alike, helping them (re)align their processes and systems with the organizational strategic vision. My main focus has always been on the people and processes at the root of any system to leverage the strategic benefits obtained by integrating individual applications and information silos into cohesive end-to-end systems. I started my career with a global distributed software company as a developer for ERP business solutions. I don't do idle well and am voraciously curious so I divide my time among helping businesses grow in fun and healthy ways, app design and development, writing, and speaking and training engagements.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1772578847951001DH4K/attprofile/6ca91e90-8e64-4a62-9b59-29b30792619f_1773091051049001RONd.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/christineflora/",
+    "gitHub": "@symnoian",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1776290078162001i6A7"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Agents & AI-native Apps",
+        "logicalValue": "Agents & AI-native Apps"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1774284995682001p4go",
     "speakerId": "1768245294609build26-1774284995682001p4go",
     "firstName": "Aditi",
@@ -71,6 +136,132 @@
   },
   {
     "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774284995835001pUFk",
+    "speakerId": "1768245294609build26-1774284995835001pUFk",
+    "firstName": "Anagha",
+    "lastName": "Todalbagi",
+    "displayName": "Anagha Todalbagi",
+    "jobTitle": "",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018700487001rXwu"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774285001041001p103",
+    "speakerId": "1768245294609build26-1774285001041001p103",
+    "firstName": "Justin",
+    "lastName": "Chen",
+    "displayName": "Justin Chen",
+    "jobTitle": "Software Engineer",
+    "company": "VS Code",
+    "bio": "Justin is a developer working on the VS Code team, focusing on UI/UX for GitHub Copilot Chat. Away from the keyboard, he's an avid traveler, boulderer, longtime Pokémon fan, and an artist with 15m+ streams on Spotify.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774285001041001p103/attprofile/JustinChen_1776122296179001I9Oe.jpeg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/justinshawnchen/",
+    "gitHub": "justschen",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018711240001rnkh"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1766703128481001X0K3",
     "speakerId": "1768245294609build26-1766703128481001X0K3",
     "firstName": "Facundo",
@@ -111,7 +302,77 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775086360974001J4XY",
+    "speakerId": "1768245294609build26-1775086360974001J4XY",
+    "firstName": "Sebastian",
+    "lastName": "Kohlmeier",
+    "displayName": "Sebastian Kohlmeier",
+    "jobTitle": "Principal PM Manager",
+    "company": "Microsoft",
+    "bio": "Sebastian Kohlmeier is a Principal PM Manager at Microsoft, leading work on AI agent observability spanning evaluation, tracing, monitoring and optimization to empower developers to build reliable and impactful AI agents and applications.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775086360974001J4XY/attprofile/updated%20headshot_1776275124102001kHiX.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/sebastiankohlmeier/",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018716883001rHBl"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Responsible AI",
+        "logicalValue": "Responsible AI"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -171,7 +432,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -181,6 +447,382 @@
       {
         "displayValue": "Online",
         "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776108120297001raDy",
+    "speakerId": "1768245294609build26-1776108120297001raDy",
+    "firstName": "Josh",
+    "lastName": "Johanning",
+    "displayName": "Josh Johanning",
+    "jobTitle": "Senior DevOps Architect",
+    "company": "GitHub",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "joshjohanning",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1776359255833001PeKh",
+      "en-US-1776359208408001Ltgx",
+      "en-US-1774018711063001rGl0",
+      "en-US-1776359309310001HGOK"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      },
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      },
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      },
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776283338867001xzBB",
+    "speakerId": "1768245294609build26-1776283338867001xzBB",
+    "firstName": "Abhimanyu",
+    "lastName": "Varma",
+    "displayName": "Abhimanyu Varma",
+    "jobTitle": "Principal Software Engineering Manager",
+    "company": "Microsoft",
+    "bio": "Principal Software Engineering Manager - Resiliency.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776283338867001xzBB/attprofile/Bio_1776324940469001JQzP.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/abhimanyu-varma-14393b14/",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018705660001rbvk"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1773856399900001oCPe",
+    "speakerId": "1768245294609build26-1773856399900001oCPe",
+    "firstName": "Jared",
+    "lastName": "Rhodes",
+    "displayName": "Jared Rhodes",
+    "jobTitle": "Principal, Technology Consulting",
+    "company": "Epam",
+    "bio": "Jared Rhodes is a Principal Consultant at EPAM Systems and Microsoft MVP with 15+ years in enterprise technology. He leads Azure-focused cloud architecture and AI initiatives for Fortune 100 clients, specializing in hybrid, edge, and IoT solutions.",
+    "photo": "https://eventtools.event.microsoft.com/build2026-prod/w326_8cc9f78b-21de-477d-8161-b6ac65e40d54.png?1776360420705",
+    "twitter": "https://www.x.com/qimata",
+    "linkedIn": "https://www.linkedin.com/in/qimata/",
+    "gitHub": "QiMata",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1776290163085001xflH"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776293017373001FIeV",
+    "speakerId": "1768245294609build26-1776293017373001FIeV",
+    "firstName": "Jonah",
+    "lastName": "Andersson",
+    "displayName": "Jonah Andersson",
+    "jobTitle": "",
+    "company": "Jonah Andersson Tech",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1776292966476001xEB0"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(400) Expert",
+        "logicalValue": "(400) Expert"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1772633942097001tO2F",
+    "speakerId": "1768245294609build26-1772633942097001tO2F",
+    "firstName": "Alex",
+    "lastName": "Thissen",
+    "displayName": "Alex Thissen",
+    "jobTitle": "Architect",
+    "company": "Microsoft MVP",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "alexthissen",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1776293477835001KbIy"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   },
@@ -231,9 +873,100 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774284998627001p6H4",
+    "speakerId": "1768245294609build26-1774284998627001p6H4",
+    "firstName": "William",
+    "lastName": "Liang",
+    "displayName": "William Liang",
+    "jobTitle": "Product Manager",
+    "company": "Microsoft",
+    "bio": "I’m a Product Manager at Microsoft working on AI model customization and post-training products, with a background spanning both technical infrastructure and product strategy. My work has focused on turning advanced AI capabilities like synthetic data generation, fine-tuning, and evaluation into scalable products that customers can actually adopt and use in production. Before this, I worked on AI supercomputing and GPU capacity tooling, which gave me a strong foundation in the systems side of AI.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774284998627001p6H4/attprofile/IMG_1774077283198_1776112586069001Vw8o.jpeg",
+    "twitter": "",
+    "linkedIn": "www.linkedin.com/in/william-jiaxiang-liang",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018715938001rF6X",
+      "en-US-1774018714376001r0Qn"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Model Training",
+        "logicalValue": "Model Training"
+      },
+      {
+        "displayValue": "Model Infrastructure & Applied Science",
+        "logicalValue": "Model Infrastructure & Applied Science"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(100) Foundational",
+        "logicalValue": "(100) Foundational"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
@@ -261,10 +994,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776361968786001ZRmb",
-      "en-US-1776362026778001xCDa",
       "en-US-1774018719535001roIg",
-      "en-US-1776362098748001Dfgl"
+      "en-US-1776361968786001ZRmb",
+      "en-US-1776362098748001Dfgl",
+      "en-US-1776362026778001xCDa"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -335,7 +1068,24 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -423,6 +1173,210 @@
   },
   {
     "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775582336728001AON2",
+    "speakerId": "1768245294609build26-1775582336728001AON2",
+    "firstName": "Daniel",
+    "lastName": "Han",
+    "displayName": "Daniel Han",
+    "jobTitle": "CEO",
+    "company": "Unsloth AI",
+    "bio": "Co-founder of Unsloth. 62K GitHub stars, 200M downloads on Hugging Face. Easily train and run open models.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775582336728001AON2/attprofile/Daniel%20headshot%20official_1776322346970001zXhY.png",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/danielhanchen/",
+    "gitHub": "https://github.com/danielhanchen",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018713555001rcaV"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Model Training",
+        "logicalValue": "Model Training"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775784866500001O4MP",
+    "speakerId": "1768245294609build26-1775784866500001O4MP",
+    "firstName": "Vini",
+    "lastName": "Soto",
+    "displayName": "Vini Soto",
+    "jobTitle": "Azure Container Apps | Engineering Manager",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "vinisoto",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018706129001r866"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776293231988001WPJb",
+    "speakerId": "1768245294609build26-1776293231988001WPJb",
+    "firstName": "Mike",
+    "lastName": "Carlo",
+    "displayName": "Mike Carlo",
+    "jobTitle": "",
+    "company": "Carlo Solutions & Microsoft MVP",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1776293184274001L59w",
+      "en-US-1774493285851001kTlq"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      {
+        "displayValue": "Table Talk",
+        "logicalValue": "Table Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1772472228939001By6I",
     "speakerId": "1768245294609build26-1772472228939001By6I",
     "firstName": "Aaron",
@@ -438,11 +1392,11 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018714689001r71M",
-      "en-US-1776359702025001LwJ7",
       "en-US-1776359808899001Crgd",
+      "en-US-1776359765604001WmQt",
       "en-US-1774018711414001rPGE",
-      "en-US-1776359765604001WmQt"
+      "en-US-1776359702025001LwJ7",
+      "en-US-1774018714689001r71M"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -458,12 +1412,12 @@
         "logicalValue": "Lab"
       },
       {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
-      },
-      {
         "displayValue": "Lightning Talk",
         "logicalValue": "Lightning Talk"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
       },
       {
         "displayValue": "Lab",
@@ -480,12 +1434,12 @@
         "logicalValue": "Model Infrastructure & Applied Science"
       },
       {
-        "displayValue": "Model Infrastructure & Applied Science",
-        "logicalValue": "Model Infrastructure & Applied Science"
-      },
-      {
         "displayValue": "Developer Tools & Frameworks",
         "logicalValue": "Developer Tools & Frameworks"
+      },
+      {
+        "displayValue": "Model Infrastructure & Applied Science",
+        "logicalValue": "Model Infrastructure & Applied Science"
       },
       {
         "displayValue": "Model Infrastructure & Applied Science",
@@ -502,12 +1456,12 @@
         "logicalValue": "(300) Advanced"
       },
       {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      },
-      {
         "displayValue": "(200) Intermediate",
         "logicalValue": "(200) Intermediate"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
       },
       {
         "displayValue": "(300) Advanced",
@@ -521,6 +1475,14 @@
     "theme": [],
     "solutionArea": [],
     "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
       {
         "displayValue": "",
         "logicalValue": ""
@@ -547,6 +1509,282 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774284994279001pbAB",
+    "speakerId": "1768245294609build26-1774284994279001pbAB",
+    "firstName": "Paul",
+    "lastName": "Yu",
+    "displayName": "Paul Yu",
+    "jobTitle": "",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "pauldotyu",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1776351873525001qXtv",
+      "en-US-1774017128575001xSbY",
+      "en-US-1776352166471001LgaH",
+      "en-US-1776351995050001EpMc"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      },
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      },
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      },
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774383196037001nAji",
+    "speakerId": "1768245294609build26-1774383196037001nAji",
+    "firstName": "Meng",
+    "lastName": "Tang",
+    "displayName": "Meng Tang",
+    "jobTitle": "Partner Group Product Manager",
+    "company": "Microsoft",
+    "bio": "A product manager at Microsoft focused on Foundry Local and cloud-to-edge AI. Over the past few years, Meng's work has centered on on-device AI, model distribution, developer runtimes, and enterprise deployments across Windows, mobile, and on-prem environments for developers, ISVs, and OEMs.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774383196037001nAji/attprofile/meng-headshot_1776136252489001e9Fb.jpg",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "metang",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018720412001rxAl",
+      "en-US-1774018703493001r10j"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Windows",
+        "logicalValue": "Windows"
+      },
+      {
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774374356763001C1Ra",
+    "speakerId": "1768245294609build26-1774374356763001C1Ra",
+    "firstName": "Shen",
+    "lastName": "Chauhan",
+    "displayName": "Shen Chauhan",
+    "jobTitle": "",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018718349001rCjG"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Windows",
+        "logicalValue": "Windows"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [
+      {
+        "displayValue": "C#",
+        "logicalValue": "C#"
+      }
+    ],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       }
     ]
   },
@@ -597,7 +1835,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -627,9 +1870,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776360325086001HnPa",
       "en-US-1774018702532001rk3p",
       "en-US-1776360405653001aIr8",
+      "en-US-1776360325086001HnPa",
       "en-US-1776360366067001DqfL"
     ],
     "langLocale": "en-US",
@@ -713,7 +1956,24 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -728,6 +1988,267 @@
         "displayValue": "In-person",
         "logicalValue": "In-person"
       },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775582375994001WvjJ",
+    "speakerId": "1768245294609build26-1775582375994001WvjJ",
+    "firstName": "Mark",
+    "lastName": "Saroufim",
+    "displayName": "Mark Saroufim",
+    "jobTitle": "Member of Technical Staff",
+    "company": "Stealth Startup",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "msaroufim",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018713555001rcaV"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Model Training",
+        "logicalValue": "Model Training"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775680212026001g2dP",
+    "speakerId": "1768245294609build26-1775680212026001g2dP",
+    "firstName": "Poorvi",
+    "lastName": "Narang",
+    "displayName": "Poorvi Narang",
+    "jobTitle": "Senior Program Manager",
+    "company": "Microsoft",
+    "bio": "Poorvi is a Senior Product Manager on the Azure Linux team at Microsoft, where she focuses on the strategy and direction of Azure Linux - Microsoft's cloud-optimized Linux distribution for Azure. Her work spans product vision, platform\narchitecture, and ecosystem partnerships, helping shape the next generation of Linux on Azure for customers and partners.\nBefore Azure Linux, Poorvi held roles across product management and engineering, building experience in cloud infrastructure, developer platforms, and open source ecosystems. She is passionate about making cloud-native Linux\naccessible, secure, and operationally simple for every Azure customer.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775680212026001g2dP/attprofile/headshot_1776187282293001XsW6.jpg",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "poorvi5",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018705970001rNQ0"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [
+      {
+        "displayValue": "C",
+        "logicalValue": "C"
+      }
+    ],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776289931354001kW0l",
+    "speakerId": "1768245294609build26-1776289931354001kW0l",
+    "firstName": "James",
+    "lastName": "Bennett",
+    "displayName": "James Bennett",
+    "jobTitle": "",
+    "company": "Arize AI",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1776289863408001ZN64"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Agents & AI-native Apps",
+        "logicalValue": "Agents & AI-native Apps"
+      }
+    ],
+    "levels": [],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776347675875001DHR6",
+    "speakerId": "1768245294609build26-1776347675875001DHR6",
+    "firstName": "James",
+    "lastName": "Codella",
+    "displayName": "James Codella",
+    "jobTitle": "",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018707578001rTn5"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(400) Expert",
+        "logicalValue": "(400) Expert"
+      }
+    ],
+    "programmingLanguages": [
+      {
+        "displayValue": "CUDA",
+        "logicalValue": "CUDA"
+      }
+    ],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
@@ -751,9 +2272,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776358971772001LFiZ",
-      "en-US-1774018710899001rSa9",
       "en-US-1776359074567001kHS1",
+      "en-US-1774018710899001rSa9",
+      "en-US-1776358971772001LFiZ",
       "en-US-1776359029094001ZbMV"
     ],
     "langLocale": "en-US",
@@ -820,7 +2341,24 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -888,7 +2426,285 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1751939918029001Ts21",
+    "speakerId": "1768245294609build26-1751939918029001Ts21",
+    "firstName": "Ronak",
+    "lastName": "Chokshi",
+    "displayName": "Ronak Chokshi",
+    "jobTitle": "",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018700806001rmT7"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Agents & AI-native Apps",
+        "logicalValue": "Agents & AI-native Apps"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1762906426121001M0Ri",
+    "speakerId": "1768245294609build26-1762906426121001M0Ri",
+    "firstName": "Julio",
+    "lastName": "Arruda",
+    "displayName": "Julio Arruda",
+    "jobTitle": "",
+    "company": "GFT Technologies",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1776293046515001L7PE",
+      "en-US-1776293541060001kUtB"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      },
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      },
+      {
+        "displayValue": "(100) Foundational",
+        "logicalValue": "(100) Foundational"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776362105831001L2PN",
+    "speakerId": "1768245294609build26-1776362105831001L2PN",
+    "firstName": "Srikumar",
+    "lastName": "Nair",
+    "displayName": "Srikumar Nair",
+    "jobTitle": "",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018717046001rNhm"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Responsible AI",
+        "logicalValue": "Responsible AI"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1772570903878001GZwT",
+    "speakerId": "1768245294609build26-1772570903878001GZwT",
+    "firstName": "Jonathan",
+    "lastName": "Castillo",
+    "displayName": "Jonathan Castillo",
+    "jobTitle": "AI Consultant",
+    "company": "OZ Digital",
+    "bio": "Microsoft MVP. Cloud, Data, and AI professional focused on helping organizations unlock value from their data through scalable, intelligent solutions. Passionate about democratizing technology and fostering innovation.",
+    "photo": "https://eventtools.event.microsoft.com/build2026-prod/w326_dbad4212-72ca-4423-8b10-c36b43101cd8.png?1776728425637",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/jona866/",
+    "gitHub": "@jona866",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1776291899668001ijg4"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -944,7 +2760,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -1089,6 +2910,249 @@
   },
   {
     "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775078130718001cIWp",
+    "speakerId": "1768245294609build26-1775078130718001cIWp",
+    "firstName": "Beth",
+    "lastName": "Pan",
+    "displayName": "Beth Pan",
+    "jobTitle": "Software Engineer",
+    "company": "Microsoft",
+    "bio": "Beth is an engineer passionate about empowering developers to build great experiences on and for Windows.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775078130718001cIWp/attprofile/02_square_1775861399602001LZZ4.png",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "beth-panx",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018720726001rkqn"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Windows",
+        "logicalValue": "Windows"
+      }
+    ],
+    "levels": [],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1768532909165001FoJl",
+    "speakerId": "1768245294609build26-1768532909165001FoJl",
+    "firstName": "Yina",
+    "lastName": "Arenas",
+    "displayName": "Yina Arenas",
+    "jobTitle": "CVP, Microsoft Foundry",
+    "company": "Microsoft",
+    "bio": "Yina Arenas leads product strategy and execution for Microsoft Foundry, overseeing the end to end AI platform across training, inference, infrastructure, developer experiences, and foundation model integration. Under her leadership, Microsoft Foundry powers how global enterprises build, deploy, and operate AI at scale, with security, reliability, and production readiness at its core.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1768532909165001FoJl/attprofile/Yina%20Arenas%20Headshot%20%281%29_1775747371088001XURh.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/yinaa/",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018712399001rOue"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Model Training",
+        "logicalValue": "Model Training"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1765878443369001FyEA",
+    "speakerId": "1768245294609build26-1765878443369001FyEA",
+    "firstName": "Baki Onur",
+    "lastName": "Okutucu",
+    "displayName": "Baki Onur Okutucu",
+    "jobTitle": "",
+    "company": "Microsoft MVP",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1776293340144001LRTb"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776294077207001CQFi",
+    "speakerId": "1768245294609build26-1776294077207001CQFi",
+    "firstName": "Scott",
+    "lastName": "Sauber",
+    "displayName": "Scott Sauber",
+    "jobTitle": "",
+    "company": "Lean TECHniques",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1776294028217001xLPG"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(100) Foundational",
+        "logicalValue": "(100) Foundational"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1774284997266001pRH9",
     "speakerId": "1768245294609build26-1774284997266001pRH9",
     "firstName": "Mads",
@@ -1154,6 +3218,206 @@
   },
   {
     "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774894273753001F5kk",
+    "speakerId": "1768245294609build26-1774894273753001F5kk",
+    "firstName": "Martin",
+    "lastName": "Woodward",
+    "displayName": "Martin Woodward",
+    "jobTitle": "VP of Developer Relations",
+    "company": "Microsoft",
+    "bio": "Martin is the Vice President of Developer Relations at GitHub where he helps developers and open source communities to create delightful things.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774894273753001F5kk/attprofile/Martin%20Woodward%20Headshot_1775748008466001EqTb.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/martinwoodward",
+    "gitHub": "https://github.com/martinwoodward",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018710246001rN7y"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774982406816001cZ4a",
+    "speakerId": "1768245294609build26-1774982406816001cZ4a",
+    "firstName": "Damian",
+    "lastName": "Edwards",
+    "displayName": "Damian Edwards",
+    "jobTitle": "Principal Architect",
+    "company": "Microsoft",
+    "bio": "Damian Edwards is a Principal Architect in the Dev Platform team at Microsoft working on Aspire.",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/damianpedwards",
+    "gitHub": "DamianEdwards",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018709091001rtSa"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [
+      {
+        "displayValue": "Python",
+        "logicalValue": "Python"
+      }
+    ],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775078836270001Iwf7",
+    "speakerId": "1768245294609build26-1775078836270001Iwf7",
+    "firstName": "Shawn",
+    "lastName": "Henry",
+    "displayName": "Shawn Henry",
+    "jobTitle": "Product Manager",
+    "company": "Microsoft",
+    "bio": "Shawn is a Principal Group Product Manager at Microsoft, where he leads the Microsoft Agent Framework and Foundry Agent orchestration services.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775078836270001Iwf7/attprofile/image%20%281%29_1775864767287001E8jp.png",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/shawn-patrick-henry/",
+    "gitHub": "sphenry",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018700963001rb5P"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(400) Expert",
+        "logicalValue": "(400) Expert"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1756137289765001yN8u",
     "speakerId": "1768245294609build26-1756137289765001yN8u",
     "firstName": "Pamela",
@@ -1170,9 +3434,9 @@
     "website": "",
     "sessionsPresenting": [
       "en-US-1776361002095001Etx9",
+      "en-US-1774979447835001AKSK",
       "en-US-1776360719583001Dofy",
-      "en-US-1776360817264001XOd9",
-      "en-US-1774979447835001AKSK"
+      "en-US-1776360817264001XOd9"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -1242,6 +3506,18 @@
       {
         "displayValue": "",
         "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
       }
     ],
     "sessionLanguage": [],
@@ -1306,6 +3582,292 @@
       }
     ],
     "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775514714965001BQ8v",
+    "speakerId": "1768245294609build26-1775514714965001BQ8v",
+    "firstName": "Chip",
+    "lastName": "Huyen",
+    "displayName": "Chip Huyen",
+    "jobTitle": "",
+    "company": "Stealth",
+    "bio": "",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775514714965001BQ8v/attprofile/ef18813f-839e-48a1-be9b-2aa857b7b23f_1775518890159001zh3I.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/chiphuyen/",
+    "gitHub": "https://github.com/chiphuyen",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018713380001rxTK"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Model Training",
+        "logicalValue": "Model Training"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1760032715730001qqSb",
+    "speakerId": "1768245294609build26-1760032715730001qqSb",
+    "firstName": "Alexander",
+    "lastName": "Wachtel",
+    "displayName": "Alexander Wachtel",
+    "jobTitle": "",
+    "company": "ESC Deutschland GmbH",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1776288171535001NKxq",
+      "en-US-1776290580466001XvvF"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      },
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      },
+      {
+        "displayValue": "Responsible AI",
+        "logicalValue": "Responsible AI"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776371578196001HCug",
+    "speakerId": "1768245294609build26-1776371578196001HCug",
+    "firstName": "Mario",
+    "lastName": "Toffia",
+    "displayName": "Mario Toffia",
+    "jobTitle": "",
+    "company": "Thiink Inc.",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018706445001rlk5"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774284997117001po3o",
+    "speakerId": "1768245294609build26-1774284997117001po3o",
+    "firstName": "Jim",
+    "lastName": "Perrin",
+    "displayName": "Jim Perrin",
+    "jobTitle": "Principal Program Manager Lead",
+    "company": "Microsoft",
+    "bio": "Jim Perrin is a Principal Program Manager at Microsoft, with over 20 years of experience building multiple Linux distros. Jim is a former CentOS Board member, working extensively at the intersection of enterprise Linux, cloud, and upstream community.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774284997117001po3o/attprofile/profile_1775932408101001PiWU.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/jim-perrin-msft/",
+    "gitHub": "jperrin",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018705970001rNQ0"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [
+      {
+        "displayValue": "C",
+        "logicalValue": "C"
+      }
+    ],
     "solutions": [],
     "communityTopic": [],
     "learningZoneTopic": [],
@@ -1527,6 +4089,420 @@
   },
   {
     "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1753129132101001Cp9w",
+    "speakerId": "1768245294609build26-1753129132101001Cp9w",
+    "firstName": "Matt",
+    "lastName": "Calder",
+    "displayName": "Matt Calder",
+    "jobTitle": "Sr GTM Manager",
+    "company": "Microsoft",
+    "bio": "Matthew Calder helps technical teams navigate platform transformation—from traditional systems to cloud‑native, agentic solutions—by translating emerging technologies into practical implementation strategies for real-world engineering environments.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1753129132101001Cp9w/attprofile/matt-calder-headshot_1776189849808001aQFi.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/matthewcalder/",
+    "gitHub": "https://github.com/MatthewCalder-msft",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774304130264001mWLS",
+      "en-US-1776358450469001HOyx",
+      "en-US-1776358396196001XdQD"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      },
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      },
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775581852702001WrWI",
+    "speakerId": "1768245294609build26-1775581852702001WrWI",
+    "firstName": "Glenn",
+    "lastName": "Condron",
+    "displayName": "Glenn Condron",
+    "jobTitle": "Builder",
+    "company": "Microsoft",
+    "bio": "I work on the Microsoft Foundry Agents team, helping build a platform for running agents in the cloud.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775581852702001WrWI/attprofile/Image_1776099957741001AgwI.jpeg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/glenncon/",
+    "gitHub": "glennc",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018700963001rb5P"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(400) Expert",
+        "logicalValue": "(400) Expert"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1756855668236001z806",
+    "speakerId": "1768245294609build26-1756855668236001z806",
+    "firstName": "Renato",
+    "lastName": "Romao de Souza",
+    "displayName": "Renato Romao de Souza",
+    "jobTitle": "Microsoft MVP",
+    "company": "Romao’s",
+    "bio": "6x Microsoft MVP (Microsoft Foundry & Copilot Studio), 5x MCT, Instructor & Public Speaker 🔷 Teaching organisations how to build AI that works by using AI, Microsoft Foundry, Generative AI, Power Platform, and Microsoft 365.",
+    "photo": "https://eventtools.event.microsoft.com/build2026-prod/w326_c3294f8d-3f56-41c7-b3a8-5ee4f72e8098.png?1776383729422",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/renatoromao/",
+    "gitHub": "renatoromao",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1776290805423001iw5c"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1757087809738001nkEU",
+    "speakerId": "1768245294609build26-1757087809738001nkEU",
+    "firstName": "Ehsan",
+    "lastName": "Eskandari",
+    "displayName": "Ehsan Eskandari",
+    "jobTitle": "",
+    "company": "Circle K: Convenience Store & Gas Station",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1776292817165001Xnbo"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1765362664415001iCOs",
+    "speakerId": "1768245294609build26-1765362664415001iCOs",
+    "firstName": "Jonathon",
+    "lastName": "Frost",
+    "displayName": "Jonathon Frost",
+    "jobTitle": "Principal Product Manager",
+    "company": "Microsoft",
+    "bio": "Jonathon J. Frost is a Principal Product Manager at Microsoft, leading Generative AI and developer experience initiatives for Azure Database for PostgreSQL, with 20+ years in cloud architecture, AI/ML, and enterprise software engineering.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1765362664415001iCOs/attprofile/7f7e515ceacd52eb_1776192771684001US2d.jpeg",
+    "twitter": "",
+    "linkedIn": "https://linkedin.com/in/jjfrost",
+    "gitHub": "jjfrost",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1776352246322001HrUv",
+      "en-US-1776352569123001PtCu",
+      "en-US-1774018706600001rvpY",
+      "en-US-1776352494301001L5z6"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      },
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      },
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      },
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1767984616894001huFl",
     "speakerId": "1768245294609build26-1767984616894001huFl",
     "firstName": "Christopher",
@@ -1542,10 +4518,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
+      "en-US-1776358861989001xLtg",
       "en-US-1774018710738001rCVC",
       "en-US-1776358909696001FtYf",
-      "en-US-1776358774912001CUxy",
-      "en-US-1776358861989001xLtg"
+      "en-US-1776358774912001CUxy"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -1611,7 +4587,209 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774284988298001pfqa",
+    "speakerId": "1768245294609build26-1774284988298001pfqa",
+    "firstName": "Ben",
+    "lastName": "Zulauf",
+    "displayName": "Ben Zulauf",
+    "jobTitle": "",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018704951001rHLF"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774284986797001pKsv",
+    "speakerId": "1768245294609build26-1774284986797001pKsv",
+    "firstName": "Bethany",
+    "lastName": "Jepchumba",
+    "displayName": "Bethany Jepchumba",
+    "jobTitle": "Cloud Advocate",
+    "company": "Microsoft",
+    "bio": "Bethany loves crafting user stories and enhancing user experiences! As a Cloud Advocate at Microsoft, she engages with students, developers and entrepreneurs to help them learn and grow in Artificial Intelligence (AI).",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774284986797001pKsv/attprofile/passport%20photo_1776332270123001mbl2.png",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/bethany-jep/",
+    "gitHub": "@bethanyjep",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018714998001rxIG",
+      "en-US-1776360092302001Lhai",
+      "en-US-1776360031907001bykn",
+      "en-US-1776359982094001PTZO"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Model Infrastructure & Applied Science",
+        "logicalValue": "Model Infrastructure & Applied Science"
+      },
+      {
+        "displayValue": "Model Infrastructure & Applied Science",
+        "logicalValue": "Model Infrastructure & Applied Science"
+      },
+      {
+        "displayValue": "Model Infrastructure & Applied Science",
+        "logicalValue": "Model Infrastructure & Applied Science"
+      },
+      {
+        "displayValue": "Model Infrastructure & Applied Science",
+        "logicalValue": "Model Infrastructure & Applied Science"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -1695,6 +4873,92 @@
   },
   {
     "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774285000231001pWGh",
+    "speakerId": "1768245294609build26-1774285000231001pWGh",
+    "firstName": "Harald",
+    "lastName": "Kirschner",
+    "displayName": "Harald Kirschner",
+    "jobTitle": "Principal PM",
+    "company": "Microsoft",
+    "bio": "Principal PM on VS Code and GitHub Copilot at Microsoft, building AI agent experiences for 40M+ developers. Previously led Firefox DevTools at Mozilla. Speaks on multi-agent patterns, context engineering, and making AI coding tools actually work.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774285000231001pWGh/attprofile/hk-headshot_1776200435715001buqW.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/digitarald/",
+    "gitHub": "digitarald",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018708407001rAVo",
+      "en-US-1774018711578001riff"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      },
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1762250455017001UQP1",
     "speakerId": "1768245294609build26-1762250455017001UQP1",
     "firstName": "Ayca",
@@ -1711,9 +4975,9 @@
     "website": "",
     "sessionsPresenting": [
       "en-US-1776361002095001Etx9",
+      "en-US-1774979447835001AKSK",
       "en-US-1776360719583001Dofy",
-      "en-US-1776360817264001XOd9",
-      "en-US-1774979447835001AKSK"
+      "en-US-1776360817264001XOd9"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -1780,6 +5044,18 @@
     "theme": [],
     "solutionArea": [],
     "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
       {
         "displayValue": "",
         "logicalValue": ""
@@ -1868,6 +5144,210 @@
   },
   {
     "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1769864099959001hxn4",
+    "speakerId": "1768245294609build26-1769864099959001hxn4",
+    "firstName": "David",
+    "lastName": "Okeyode",
+    "displayName": "David Okeyode",
+    "jobTitle": "",
+    "company": "CharisCloud Ltd.",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1776295183936001WxNh"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Responsible AI",
+        "logicalValue": "Responsible AI"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1770888477835001mAZA",
+    "speakerId": "1768245294609build26-1770888477835001mAZA",
+    "firstName": "Roelant",
+    "lastName": "Dieben",
+    "displayName": "Roelant Dieben",
+    "jobTitle": "Cloud & AI architect",
+    "company": "Microsoft MVP",
+    "bio": "I’m an AI architect, speaker, and Microsoft AI MVP who enjoys helping developers and organizations build practical AI solutions with Microsoft technologies. My work focuses on turning new capabilities in AI into solutions that can be used in real applications.\n\nI serve as a board member of the Global AI Community, where I help support and grow a worldwide network of local AI chapters. These community-led groups organize meetups, workshops, and events that bring AI learning and collaboration to developers in cities around the world.\n\nMy interests include AI agents, multi-agent systems, and the Model Context Protocol. I regularly share practical guidance and hands-on examples to help developers build and deploy AI applications.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1770888477835001mAZA/attprofile/RoelantDieben_1773694356487001n5sT.JPG",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/roelantdieben/",
+    "gitHub": "RoelantD",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1776292575600001CoIk",
+      "en-US-1776293617419001kS86"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
+      },
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      },
+      {
+        "displayValue": "(100) Foundational",
+        "logicalValue": "(100) Foundational"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1751987253355001EQg3",
+    "speakerId": "1768245294609build26-1751987253355001EQg3",
+    "firstName": "Krishna",
+    "lastName": "Sunkavalli",
+    "displayName": "Krishna Sunkavalli",
+    "jobTitle": "Sr. Solutions Engineer",
+    "company": "Microsoft",
+    "bio": "Sr. Solution Engineer at Microsoft specializing in securing AI applications at scale, with a focus on production readiness and Zero Trust.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1751987253355001EQg3/attprofile/44F3281F-CB8B-4044-AFCB-56FFA6D0EBAC_1764994392393001ZkbA_1776108216301001NnmW.png",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/krishna-sunkavalli/",
+    "gitHub": "https://github.com/krishna-sunkavalli",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018707747001rsJI"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1754963585693001VLHf",
     "speakerId": "1768245294609build26-1754963585693001VLHf",
     "firstName": "Henk",
@@ -1883,10 +5363,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776360325086001HnPa",
+      "en-US-1774018701742001rOMi",
       "en-US-1774018702532001rk3p",
       "en-US-1776360405653001aIr8",
-      "en-US-1774018701742001rOMi",
+      "en-US-1776360325086001HnPa",
       "en-US-1776360366067001DqfL"
     ],
     "langLocale": "en-US",
@@ -1895,20 +5375,20 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
-      },
-      {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
-      },
-      {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
-      },
-      {
         "displayValue": "Demo",
         "logicalValue": "Demo"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
       },
       {
         "displayValue": "Lab",
@@ -1982,21 +5462,30 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
@@ -2008,6 +5497,474 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774284998317001piuN",
+    "speakerId": "1768245294609build26-1774284998317001piuN",
+    "firstName": "Hanchi",
+    "lastName": "Wang",
+    "displayName": "Hanchi Wang",
+    "jobTitle": "Principal Software Engineer Manager",
+    "company": "Microsoft",
+    "bio": "Hanchi is an AI builder working on Microsoft Foundry. He focuses on AI agent observability, evaluation, and developer tooling, helping teams build reliable, production-grade AI systems.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774284998317001piuN/attprofile/IMG_3950_1775862443833001cHUV.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/hanchi-wang-74857450/",
+    "gitHub": "luigiw",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018717215001rOiT"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Responsible AI",
+        "logicalValue": "Responsible AI"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [
+      {
+        "displayValue": ".NET",
+        "logicalValue": ".NET"
+      }
+    ],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774887302528001Bhs4",
+    "speakerId": "1768245294609build26-1774887302528001Bhs4",
+    "firstName": "Maanav",
+    "lastName": "Dalal",
+    "displayName": "Maanav Dalal",
+    "jobTitle": "Product Manager",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774887302528001Bhs4/attprofile/square_1774978195766001bORd.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/maanavdalal/",
+    "gitHub": "MaanavD",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018720412001rxAl"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Windows",
+        "logicalValue": "Windows"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1750715119672001uIgP",
+    "speakerId": "1768245294609build26-1750715119672001uIgP",
+    "firstName": "Devanshi",
+    "lastName": "Joshi",
+    "displayName": "Devanshi Joshi",
+    "jobTitle": "Senior Product Marketing Manager",
+    "company": "Microsoft",
+    "bio": "Devanshi Joshi is a Product Marketing leader at Microsoft with a decade in tech strategy, cloud and AI, leading go-to-market for AI Apps and Agents runtime and empowering developers with a builder-first mindset at the frontier of cloud and AI.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1750715119672001uIgP/attprofile/Devanshi%20Joshi_24-10-30_4559_1776015960348001EIab.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/devanshijoshi/",
+    "gitHub": "devanshidiaries",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018704167001r1mq"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774982456082001foFO",
+    "speakerId": "1768245294609build26-1774982456082001foFO",
+    "firstName": "David",
+    "lastName": "Fowler",
+    "displayName": "David Fowler",
+    "jobTitle": "Distinguished Engineer",
+    "company": "Microsoft",
+    "bio": "Distinguished Engineer shaping developer platforms, cloud-native apps, and AI. Co-creator of NuGet, SignalR, and ASP.NET Core. Now leading Aspire, redefining how developers model, run, and deploy modern applications.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774982456082001foFO/attprofile/20241020_003434185_iOS_1776035994371001oz1f.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/davidfowl/",
+    "gitHub": "davidfowl",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018709091001rtSa"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [
+      {
+        "displayValue": "Python",
+        "logicalValue": "Python"
+      }
+    ],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1768498845637001TuQh",
+    "speakerId": "1768245294609build26-1768498845637001TuQh",
+    "firstName": "Amanda",
+    "lastName": "Foster",
+    "displayName": "Amanda Foster",
+    "jobTitle": "Product Manager",
+    "company": "Microsoft",
+    "bio": "Amanda Foster is a Product Manager on the Microsoft Foundry Agent Service team. She leads the Agent Distribution workstream, which includes Foundry's integration with Microsoft 365 Copilot, Teams, Microsoft Copilot Studio, Agent 365, and GitHub.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1768498845637001TuQh/attprofile/IMG_7275_1776105065616001fvRK.jpeg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/foster-amanda",
+    "gitHub": "fosteramanda",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018700963001rb5P"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(400) Expert",
+        "logicalValue": "(400) Expert"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775078342403001SpDz",
+    "speakerId": "1768245294609build26-1775078342403001SpDz",
+    "firstName": "Maria",
+    "lastName": "Naggaga",
+    "displayName": "Maria Naggaga",
+    "jobTitle": "",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "ladynaggaga",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018700806001rmT7"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Agents & AI-native Apps",
+        "logicalValue": "Agents & AI-native Apps"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775238034507001eQ13",
+    "speakerId": "1768245294609build26-1775238034507001eQ13",
+    "firstName": "Manoj",
+    "lastName": "Bableshwar",
+    "displayName": "Manoj Bableshwar",
+    "jobTitle": "Principal Product Manager",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "ManojBableshwar",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018713033001raz6"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Model Infrastructure & Applied Science",
+        "logicalValue": "Model Infrastructure & Applied Science"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       }
     ]
   },
@@ -2053,12 +6010,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2153,8 +6105,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776352569123001PtCu",
       "en-US-1776352246322001HrUv",
+      "en-US-1776352569123001PtCu",
       "en-US-1774018706600001rvpY",
       "en-US-1776352494301001L5z6"
     ],
@@ -2222,7 +6174,24 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2232,6 +6201,176 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1772039473777001dTM9",
+    "speakerId": "1768245294609build26-1772039473777001dTM9",
+    "firstName": "Alicia",
+    "lastName": "Frame",
+    "displayName": "Alicia Frame",
+    "jobTitle": "Principal Product Manager",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "AliciaFrame",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018714998001rxIG",
+      "en-US-1776360092302001Lhai",
+      "en-US-1774018713721001rm1f",
+      "en-US-1774018712707001rIUj",
+      "en-US-1776360031907001bykn",
+      "en-US-1776359982094001PTZO"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      },
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Model Infrastructure & Applied Science",
+        "logicalValue": "Model Infrastructure & Applied Science"
+      },
+      {
+        "displayValue": "Model Infrastructure & Applied Science",
+        "logicalValue": "Model Infrastructure & Applied Science"
+      },
+      {
+        "displayValue": "Model Infrastructure & Applied Science",
+        "logicalValue": "Model Infrastructure & Applied Science"
+      },
+      {
+        "displayValue": "Model Training",
+        "logicalValue": "Model Training"
+      },
+      {
+        "displayValue": "Model Infrastructure & Applied Science",
+        "logicalValue": "Model Infrastructure & Applied Science"
+      },
+      {
+        "displayValue": "Model Infrastructure & Applied Science",
+        "logicalValue": "Model Infrastructure & Applied Science"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      },
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       },
       {
         "displayValue": "In-person",
@@ -2260,8 +6399,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018710246001rN7y",
-      "en-US-1774018708754001rO1v"
+      "en-US-1774018708754001rO1v",
+      "en-US-1774018710246001rN7y"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -2269,12 +6408,12 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Demo",
-        "logicalValue": "Demo"
-      },
-      {
         "displayValue": "Breakout",
         "logicalValue": "Breakout"
+      },
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
       }
     ],
     "topic": [
@@ -2289,12 +6428,12 @@
     ],
     "levels": [
       {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      },
-      {
         "displayValue": "(400) Expert",
         "logicalValue": "(400) Expert"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
       }
     ],
     "programmingLanguages": [],
@@ -2304,6 +6443,10 @@
     "theme": [],
     "solutionArea": [],
     "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
       {
         "displayValue": "",
         "logicalValue": ""
@@ -2376,7 +6519,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2386,6 +6534,196 @@
       {
         "displayValue": "Online",
         "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775060213552001eZMs",
+    "speakerId": "1768245294609build26-1775060213552001eZMs",
+    "firstName": "Steve",
+    "lastName": "Thomas",
+    "displayName": "Steve Thomas",
+    "jobTitle": "Senior Product Manager",
+    "company": "Microsoft",
+    "bio": "Steve is currently a Product Manager at Microsoft with over 25 years of experience in IT and cloud technologies. He works on the Windows Cloud Experiences team focusing on experiences deploying, securing, managing, and using Windows in the cloud.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775060213552001eZMs/attprofile/1694873285682_1776121283163001vFP9.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/steveth/",
+    "gitHub": "thomassx",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018719535001roIg",
+      "en-US-1776361968786001ZRmb",
+      "en-US-1776362098748001Dfgl",
+      "en-US-1776362026778001xCDa"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Windows",
+        "logicalValue": "Windows"
+      },
+      {
+        "displayValue": "Windows",
+        "logicalValue": "Windows"
+      },
+      {
+        "displayValue": "Windows",
+        "logicalValue": "Windows"
+      },
+      {
+        "displayValue": "Windows",
+        "logicalValue": "Windows"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(400) Expert",
+        "logicalValue": "(400) Expert"
+      },
+      {
+        "displayValue": "(400) Expert",
+        "logicalValue": "(400) Expert"
+      },
+      {
+        "displayValue": "(400) Expert",
+        "logicalValue": "(400) Expert"
+      },
+      {
+        "displayValue": "(400) Expert",
+        "logicalValue": "(400) Expert"
+      }
+    ],
+    "programmingLanguages": [
+      {
+        "displayValue": "C++",
+        "logicalValue": "C++"
+      }
+    ],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1752517267116001lWQS",
+    "speakerId": "1768245294609build26-1752517267116001lWQS",
+    "firstName": "Sharmila",
+    "lastName": "Chockalingam",
+    "displayName": "Sharmila Chockalingam",
+    "jobTitle": "",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018715313001r3eu"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Model Training",
+        "logicalValue": "Model Training"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   },
@@ -2406,9 +6744,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
+      "en-US-1774304130264001mWLS",
       "en-US-1776358450469001HOyx",
-      "en-US-1776358396196001XdQD",
-      "en-US-1774304130264001mWLS"
+      "en-US-1776358396196001XdQD"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -2462,7 +6800,20 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2497,6 +6848,188 @@
     "website": "",
     "sessionsPresenting": [
       "en-US-1774018707907001rSTJ"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776181207688001qvOn",
+    "speakerId": "1768245294609build26-1776181207688001qvOn",
+    "firstName": "Nagkumar",
+    "lastName": "Arkalgud",
+    "displayName": "Nagkumar Arkalgud",
+    "jobTitle": "Senior Software Engineer",
+    "company": "Microsoft",
+    "bio": "Nagkumar is a Senior Software Engineer at Microsoft working on Foundry Observability, focused on making open-source AI frameworks work seamlessly with enterprise-grade infrastructure. An active OpenTelemetry contributor and core contributor to langchain-azure, he builds the tracing and auto-instrumentation layer connecting LangChain and LangGraph agents to Foundry's observability stack.",
+    "photo": "https://eventtools.event.microsoft.com/build2026-prod/w326_cd49405d-824e-45a6-998d-754947d35176.png?1776700518914",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018702220001rMvd"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Agents & AI-native Apps",
+        "logicalValue": "Agents & AI-native Apps"
+      }
+    ],
+    "levels": [],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1773185276975001cATe",
+    "speakerId": "1768245294609build26-1773185276975001cATe",
+    "firstName": "Priyanka",
+    "lastName": "Shah",
+    "displayName": "Priyanka Shah",
+    "jobTitle": "",
+    "company": "Microsoft MVP",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1776292232227001Ltui"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1772489713010001FU2l",
+    "speakerId": "1768245294609build26-1772489713010001FU2l",
+    "firstName": "Nikolaos",
+    "lastName": "Delis",
+    "displayName": "Nikolaos Delis",
+    "jobTitle": "",
+    "company": "Aristevin Consulting AB",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1776293264752001CkVj"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -2587,7 +7120,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2597,6 +7135,797 @@
       {
         "displayValue": "Online",
         "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774645705844001UesE",
+    "speakerId": "1768245294609build26-1774645705844001UesE",
+    "firstName": "Nik",
+    "lastName": "Karpinsky",
+    "displayName": "Nik Karpinsky",
+    "jobTitle": "Principal Software Engineer",
+    "company": "Microsoft",
+    "bio": "Nik is a Principal Software Engineer on the Visual Studio team at Microsoft, helping developers measure what matters and optimize their applications for performance.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774645705844001UesE/attprofile/VSLivePhoto_1776111367539001ys4D.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/karpinsn/",
+    "gitHub": "karpinsn",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018709436001rrGK",
+      "en-US-1774018709769001rxEg",
+      "en-US-1774018712237001rLex"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      },
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      },
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      },
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(400) Expert",
+        "logicalValue": "(400) Expert"
+      },
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1769008130185001WAvh",
+    "speakerId": "1768245294609build26-1769008130185001WAvh",
+    "firstName": "Scott",
+    "lastName": "Hanselman",
+    "displayName": "Scott Hanselman",
+    "jobTitle": "VP, Member of Technical Staff for Microsoft/GitHub",
+    "company": "Microsoft",
+    "bio": "Scott is as a VP, Member of Technical Staff for Microsoft/GitHub out of his home office in Portland, Oregon. Scott has been podcasting for more than 1000 episodes of http://hanselminutes.com and over 750 episodes of http://www.azurefriday.com.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1769008130185001WAvh/attprofile/hanselman-headshot_1775746932044001yRL1.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/shanselman/",
+    "gitHub": "shanselman",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018701589001rRKd"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775526930403001fDTI",
+    "speakerId": "1768245294609build26-1775526930403001fDTI",
+    "firstName": "Cole",
+    "lastName": "Morrison",
+    "displayName": "Cole Morrison",
+    "jobTitle": "Head of Brand Story & Principal Evangelist",
+    "company": "IBM",
+    "bio": "I focus on the craft of storytelling in technology — shaping narratives that cut through the noise, move audiences, and define how companies show up to the world. My work spans major conferences, keynotes, product launches, industry films, and strategy all grounded in a background in engineering, building, and startups.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775526930403001fDTI/attprofile/Celebrating%20Armon%2021-02-35_1776217329954001Ih9n.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/jcolemorrison/",
+    "gitHub": "jcolemorrison",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774392203158001IFbh"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775581764225001HWz2",
+    "speakerId": "1768245294609build26-1775581764225001HWz2",
+    "firstName": "Chu",
+    "lastName": "Lahlou",
+    "displayName": "Chu Lahlou",
+    "jobTitle": "Principal CoreAI Product Manager",
+    "company": "Microsoft",
+    "bio": "Chu Lahlou is the Product Manager of Azure Content Understanding and Azure Document Intelligence, as part of Microsoft Foundry Tools.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775581764225001HWz2/attprofile/Image_1776105996190001GVLX.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/chulahlou/",
+    "gitHub": "chulahlou",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018701907001r2xQ"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Agents & AI-native Apps",
+        "logicalValue": "Agents & AI-native Apps"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1769104859708001i6bQ",
+    "speakerId": "1768245294609build26-1769104859708001i6bQ",
+    "firstName": "Jan",
+    "lastName": "Kalis",
+    "displayName": "Jan Kalis",
+    "jobTitle": "PM @ Azure Container Apps",
+    "company": "Microsoft",
+    "bio": "Building AI infrastructure for humans and agents. Jan Kalis is a Product Manager at Microsoft's Core AI group, helping developers build, run, and scale cloud-native and AI-powered applications.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1769104859708001i6bQ/attprofile/jkalis_1776182493071001a8Wo.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/jankalis/",
+    "gitHub": "jkalis-MS",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018704167001r1mq"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1770479415883001tO49",
+    "speakerId": "1768245294609build26-1770479415883001tO49",
+    "firstName": "Adnan",
+    "lastName": "Hendricks",
+    "displayName": "Adnan Hendricks",
+    "jobTitle": "",
+    "company": "Microspecialist Consulting",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1776293411668001DEZ6"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776352718006001ATTV",
+    "speakerId": "1768245294609build26-1776352718006001ATTV",
+    "firstName": "Sergiy",
+    "lastName": "Smyrnov",
+    "displayName": "Sergiy Smyrnov",
+    "jobTitle": "",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018705815001rKG3"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776447112591001abTN",
+    "speakerId": "1768245294609build26-1776447112591001abTN",
+    "firstName": "Rishabh",
+    "lastName": "Saha",
+    "displayName": "Rishabh Saha",
+    "jobTitle": "",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018704684001rpfv"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1772238022106001lZo4",
+    "speakerId": "1768245294609build26-1772238022106001lZo4",
+    "firstName": "Peter",
+    "lastName": "Steinbeger",
+    "displayName": "Peter Steinbeger",
+    "jobTitle": "Clawfather",
+    "company": "OpenAI/OpenClaw",
+    "bio": "OpenClaw builder.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1772238022106001lZo4/attprofile/Avatar_2023_1774543145946001RCA4.png",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/steipete/",
+    "gitHub": "steipete",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018701283001rsNq"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1751119338056001FUds",
+    "speakerId": "1768245294609build26-1751119338056001FUds",
+    "firstName": "Shobhit",
+    "lastName": "Garg",
+    "displayName": "Shobhit Garg",
+    "jobTitle": "Senior Product Manager",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018705660001rbvk"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1756141269010001LleM",
+    "speakerId": "1768245294609build26-1756141269010001LleM",
+    "firstName": "Nitya",
+    "lastName": "Narasimhan",
+    "displayName": "Nitya Narasimhan",
+    "jobTitle": "Senior Developer Advocate, Core AI",
+    "company": "Microsoft",
+    "bio": "Nitya is a Senior AI Advocate on the Core AI team at Microsoft, focused on Microsoft Foundry & GitHub Copilot devs. She has a PhD in distributed systems and 25+ years of software research & development experience spanning mobile, web, cloud and AI.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1756141269010001LleM/attprofile/nitya-profile_1776225142953001m09B.jpeg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/nityan",
+    "gitHub": "nitya",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1776361410272001Daog",
+      "en-US-1776361357242001qdUU",
+      "en-US-1774018717379001rjIM"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Responsible AI",
+        "logicalValue": "Responsible AI"
+      },
+      {
+        "displayValue": "Responsible AI",
+        "logicalValue": "Responsible AI"
+      },
+      {
+        "displayValue": "Responsible AI",
+        "logicalValue": "Responsible AI"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   },
@@ -2617,9 +7946,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776358971772001LFiZ",
-      "en-US-1774018710899001rSa9",
       "en-US-1776359074567001kHS1",
+      "en-US-1774018710899001rSa9",
+      "en-US-1776358971772001LFiZ",
       "en-US-1776359029094001ZbMV"
     ],
     "langLocale": "en-US",
@@ -2686,7 +8015,24 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2724,8 +8070,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018708407001rAVo",
-      "en-US-1774018711903001rZpY"
+      "en-US-1774018711903001rZpY",
+      "en-US-1774018708407001rAVo"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -2733,12 +8079,12 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      },
-      {
         "displayValue": "Lightning Talk",
         "logicalValue": "Lightning Talk"
+      },
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
       }
     ],
     "topic": [
@@ -2784,12 +8130,12 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      },
-      {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       }
     ]
   },
@@ -2979,7 +8325,16 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2993,6 +8348,283 @@
       {
         "displayValue": "Online",
         "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775516734838001pZmI",
+    "speakerId": "1768245294609build26-1775516734838001pZmI",
+    "firstName": "swyx",
+    "lastName": "(Shawn Wang)",
+    "displayName": "swyx (Shawn Wang)",
+    "jobTitle": "",
+    "company": "Latent Space",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018701128001r9yb"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775704791363001hLZq",
+    "speakerId": "1768245294609build26-1775704791363001hLZq",
+    "firstName": "Pierce",
+    "lastName": "Boggan",
+    "displayName": "Pierce Boggan",
+    "jobTitle": "VS Code",
+    "company": "Microsoft",
+    "bio": "Pierce leads the VS Code product team. He has a long history in developer tools and joined via Microsoft's acquisition of Xamarin in 2016. He lives in Park City, UT and enjoys skiing and biking with his wife and two kids.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775704791363001hLZq/attprofile/J2bo0YB9_400x400_1775852732428001raCu.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/pierceboggan/",
+    "gitHub": "https://github.com/pierceboggan",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018708919001rKEA"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(400) Expert",
+        "logicalValue": "(400) Expert"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776289702978001L6Ff",
+    "speakerId": "1768245294609build26-1776289702978001L6Ff",
+    "firstName": "Freek",
+    "lastName": "Berson",
+    "displayName": "Freek Berson",
+    "jobTitle": "",
+    "company": "Parallels",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1776289484544001DLd6",
+      "en-US-1776292893312001WFRO"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      },
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      },
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(400) Expert",
+        "logicalValue": "(400) Expert"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1757087970341001aGw6",
+    "speakerId": "1768245294609build26-1757087970341001aGw6",
+    "firstName": "Alex",
+    "lastName": "Pshul",
+    "displayName": "Alex Pshul",
+    "jobTitle": "Software Architect | Consultant",
+    "company": "Impro.AI | Code.Digest();",
+    "bio": "Software Architect, consultant, Microsoft Foundry MVP, founder of Code.Digest(). Focused on Azure, .NET, TypeScript. Author of @nxazure/func and azure-functions-essentials. ❤️ Azure Functions.",
+    "photo": "https://eventtools.event.microsoft.com/build2026-prod/w326_7b263929-807d-4257-9c1c-70e6af07d3ff.png?1776402610036",
+    "twitter": "https://www.x.com/AlexPshul",
+    "linkedIn": "https://www.linkedin.com/in/AlexPshul",
+    "gitHub": "AlexPshul",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1776290734305001x7s6"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   }
