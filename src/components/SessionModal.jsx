@@ -38,9 +38,8 @@ export default function SessionModal({ session, speakerMap, onClose }) {
   const startRaw = session.startDateTime || session.startDate || session.scheduledDateTime
   const endRaw = session.endDateTime || session.endDate
   const duration = session.durationInMinutes || session.duration
-  const room = session.room || session.roomName || session.location
+  const room = getDisplayValue(session.room || session.roomName || session.location)
   const tags = session.tags || session.sessionTags || []
-  const sessionId = session.sessionId || session.id
   const sessionCode = session.sessionCode || session.code
   const contentUrl = session.contentUrl || session.recordingUrl || session.sessionUrl
   const lastUpdate = session.lastUpdate || session.lastUpdated || session.updatedAt
@@ -112,25 +111,25 @@ export default function SessionModal({ session, speakerMap, onClose }) {
           {/* Key details */}
           <div className="grid grid-cols-2 gap-2.5">
             {startRaw && (
-              <DetailBlock label="Start" accent={accent}>
-                {formatDateTime(startRaw)}
-              </DetailBlock>
-            )}
-            {endRaw && (
-              <DetailBlock label="End" accent={accent}>
-                {formatDateTime(endRaw)}
-              </DetailBlock>
-            )}
-            {duration && (
-              <DetailBlock label="Duration" accent={accent}>
-                {formatDuration(duration)}
-              </DetailBlock>
-            )}
-            {room && (
-              <DetailBlock label="Room" accent={accent}>
-                {room}
-              </DetailBlock>
-            )}
+                <DetailBlock label="Start">
+                  {formatDateTime(startRaw)}
+                </DetailBlock>
+              )}
+              {endRaw && (
+                <DetailBlock label="End">
+                  {formatDateTime(endRaw)}
+                </DetailBlock>
+              )}
+              {duration && (
+                <DetailBlock label="Duration">
+                  {formatDuration(duration)}
+                </DetailBlock>
+              )}
+              {room && (
+                <DetailBlock label="Room">
+                  {room}
+                </DetailBlock>
+              )}
           </div>
 
           {/* Tracks */}
@@ -213,13 +212,28 @@ function Section({ title, children }) {
   )
 }
 
-function DetailBlock({ label, accent, children }) {
+function DetailBlock({ label, children }) {
   return (
     <div className="rounded-lg p-3" style={{ background: 'var(--bg-elevated)', border: '1px solid var(--border-subtle)' }}>
       <p className="text-[11px] font-display font-medium uppercase tracking-wide mb-1" style={{ color: 'var(--text-muted)' }}>{label}</p>
       <p className="text-sm font-medium" style={{ color: 'var(--text-primary)' }}>{children}</p>
     </div>
   )
+}
+
+function getDisplayValue(value) {
+  if (!value) return null
+  if (typeof value === 'string' || typeof value === 'number') return String(value)
+  if (Array.isArray(value)) {
+    return value
+      .map(item => getDisplayValue(item))
+      .filter(Boolean)
+      .join(', ') || null
+  }
+  if (typeof value === 'object') {
+    return value.displayValue || value.logicalValue || value.name || value.title || null
+  }
+  return null
 }
 
 function SpeakerCard({ speaker, accent }) {
