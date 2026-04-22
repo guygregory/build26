@@ -41,7 +41,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -91,12 +91,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -158,7 +153,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -269,7 +264,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -318,12 +313,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -394,7 +384,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -459,12 +449,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -518,7 +503,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -631,7 +616,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -686,12 +671,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -742,7 +722,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -791,12 +771,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -849,7 +824,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -909,12 +884,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -1017,7 +987,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1077,12 +1047,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -1149,7 +1114,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1214,12 +1179,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -1309,7 +1269,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1364,12 +1324,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -1441,7 +1396,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1506,12 +1461,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -1564,7 +1514,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1619,12 +1569,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -1677,7 +1622,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1732,12 +1677,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -1803,7 +1743,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1858,12 +1798,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -1914,7 +1849,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2019,7 +1954,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2068,12 +2003,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -2091,7 +2021,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Pablo Castro",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -2119,12 +2049,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1774553037071001kDWR"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2171,14 +2103,15 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
-    "nextStep": null,
-    "event": [
+    "SpeakerTypes": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "SpeakerType": "Executive (CVP+) In-person",
+        "SpeakerId": "1768245294609build26-1774553037071001kDWR",
+        "RegistrantKey": "1768245294609build26-1774553037071001kDWR"
       }
     ],
+    "nextStep": null,
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -2231,7 +2164,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2286,12 +2219,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -2345,7 +2273,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2405,12 +2333,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -2484,7 +2407,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2539,12 +2462,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -2562,7 +2480,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Ronak Chokshi, Maria Naggaga",
+    "speakerNames": "Ronak Chokshi, Joe Filcik, Maria Naggaga",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -2592,13 +2510,14 @@
     "onDemandThumbnail": "",
     "speakerIds": [
       "1768245294609build26-1751939918029001Ts21",
+      "1768245294609build26-1776459863938001ayf1",
       "1768245294609build26-1775078342403001SpDz"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2608,7 +2527,7 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "",
+    "ogTitle": "Get the right tools for your agents with 1-click",
     "ogDescription": "",
     "deliveryTypes": [
       {
@@ -2626,8 +2545,8 @@
     },
     "topic": [
       {
-        "displayValue": "Agents & AI-native Apps",
-        "logicalValue": "Agents & AI-native Apps"
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
       }
     ],
     "sessionLevel": [
@@ -2655,15 +2574,15 @@
         "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1775078342403001SpDz",
         "RegistrantKey": "1768245294609build26-1775078342403001SpDz"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1776459863938001ayf1",
+        "RegistrantKey": "1768245294609build26-1776459863938001ayf1"
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -2717,7 +2636,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2828,7 +2747,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2877,12 +2796,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -2940,7 +2854,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2995,12 +2909,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -3064,7 +2973,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3113,12 +3022,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -3169,7 +3073,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3218,12 +3122,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -3276,7 +3175,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3331,12 +3230,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -3390,7 +3284,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3450,12 +3344,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -3522,7 +3411,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3582,12 +3471,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -3605,7 +3489,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Sebastian Kohlmeier",
+    "speakerNames": "Sebastian Kohlmeier, Filisha Shah",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -3634,13 +3518,14 @@
     "hasOnDemand": false,
     "onDemandThumbnail": "",
     "speakerIds": [
-      "1768245294609build26-1775086360974001J4XY"
+      "1768245294609build26-1775086360974001J4XY",
+      "1768245294609build26-1774284995366001pNmt"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3692,15 +3577,15 @@
         "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1775086360974001J4XY",
         "RegistrantKey": "1768245294609build26-1775086360974001J4XY"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1774284995366001pNmt",
+        "RegistrantKey": "1768245294609build26-1774284995366001pNmt"
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -3760,7 +3645,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3825,12 +3710,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -3883,7 +3763,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3938,12 +3818,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -3994,7 +3869,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4043,12 +3918,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4110,7 +3980,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4165,12 +4035,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4244,7 +4109,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4299,12 +4164,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4355,7 +4215,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4404,12 +4264,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4476,7 +4331,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4536,12 +4391,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4592,7 +4442,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4641,12 +4491,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4697,7 +4542,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4746,12 +4591,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4805,7 +4645,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4861,12 +4701,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4937,7 +4772,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4998,12 +4833,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5074,7 +4904,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5130,12 +4960,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5198,7 +5023,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5259,12 +5084,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5318,7 +5138,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5374,12 +5194,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5433,7 +5248,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5489,12 +5304,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5547,7 +5357,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5598,12 +5408,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5654,7 +5459,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5704,12 +5509,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5763,7 +5563,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5819,12 +5619,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5877,7 +5672,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5928,12 +5723,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5951,7 +5741,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Nitya Narasimhan",
+    "speakerNames": "Nitya Narasimhan, Filisha Shah",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -5980,13 +5770,14 @@
     "hasOnDemand": false,
     "onDemandThumbnail": "",
     "speakerIds": [
-      "1768245294609build26-1756141269010001LleM"
+      "1768245294609build26-1756141269010001LleM",
+      "1768245294609build26-1774284995366001pNmt"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6034,15 +5825,15 @@
         "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1756141269010001LleM",
         "RegistrantKey": "1768245294609build26-1756141269010001LleM"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1774284995366001pNmt",
+        "RegistrantKey": "1768245294609build26-1774284995366001pNmt"
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -6065,7 +5856,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Paul Yu",
+    "speakerNames": "Sertaç Özercan, Paul Yu",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -6094,13 +5885,14 @@
     "hasOnDemand": false,
     "onDemandThumbnail": "",
     "speakerIds": [
+      "1768245294609build26-1776333707806001tHSv",
       "1768245294609build26-1774284994279001pbAB"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6146,17 +5938,17 @@
     "SpeakerTypes": [
       {
         "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1776333707806001tHSv",
+        "RegistrantKey": "1768245294609build26-1776333707806001tHSv"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1774284994279001pbAB",
         "RegistrantKey": "1768245294609build26-1774284994279001pbAB"
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -6214,7 +6006,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6265,12 +6057,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -6323,7 +6110,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6383,12 +6170,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -6441,7 +6223,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6496,12 +6278,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -6559,7 +6336,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6614,12 +6391,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -6670,7 +6442,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6719,12 +6491,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -6790,7 +6557,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6845,12 +6612,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -6908,7 +6670,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6963,12 +6725,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7026,7 +6783,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7081,12 +6838,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7104,7 +6856,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Prashant G Bhoyar",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -7132,12 +6884,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1771723064928001lcoH"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7184,14 +6938,15 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
-    "nextStep": null,
-    "event": [
+    "SpeakerTypes": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1771723064928001lcoH",
+        "RegistrantKey": "1768245294609build26-1771723064928001lcoH"
       }
     ],
+    "nextStep": null,
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7249,7 +7004,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7304,12 +7059,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7367,7 +7117,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7422,12 +7172,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7478,7 +7223,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7527,12 +7272,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7550,7 +7290,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Nikola Metulev",
+    "speakerNames": "Nikola Metulev, Lei Xu",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -7579,13 +7319,14 @@
     "hasOnDemand": false,
     "onDemandThumbnail": "",
     "speakerIds": [
-      "1768245294609build26-1774886013101001R9mk"
+      "1768245294609build26-1774886013101001R9mk",
+      "1768245294609build26-1774385980999001nI1l"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7642,15 +7383,15 @@
         "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1774886013101001R9mk",
         "RegistrantKey": "1768245294609build26-1774886013101001R9mk"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1774385980999001nI1l",
+        "RegistrantKey": "1768245294609build26-1774385980999001nI1l"
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7748,7 +7489,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7803,12 +7544,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7866,7 +7602,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7921,12 +7657,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7980,7 +7711,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8035,12 +7766,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8094,7 +7820,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8154,12 +7880,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8213,7 +7934,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8273,12 +7994,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8296,7 +8012,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Michel Hubert",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -8324,12 +8040,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1757452741184001uVMn"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8376,14 +8094,15 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
-    "nextStep": null,
-    "event": [
+    "SpeakerTypes": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1757452741184001uVMn",
+        "RegistrantKey": "1768245294609build26-1757452741184001uVMn"
       }
     ],
+    "nextStep": null,
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8439,7 +8158,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8488,12 +8207,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8551,7 +8265,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8606,12 +8320,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8669,7 +8378,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8724,12 +8433,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8783,7 +8487,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8848,12 +8552,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8911,7 +8610,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8966,12 +8665,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -9037,7 +8731,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9092,12 +8786,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -9150,7 +8839,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9205,12 +8894,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -9263,7 +8947,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9318,12 +9002,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -9376,7 +9055,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9426,12 +9105,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -9490,7 +9164,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9550,12 +9224,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -9609,7 +9278,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9669,12 +9338,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -9727,7 +9391,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9778,12 +9442,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -9845,7 +9504,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9896,12 +9555,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -9954,7 +9608,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10005,12 +9659,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -10068,7 +9717,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10119,12 +9768,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -10182,7 +9826,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10238,12 +9882,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -10309,7 +9948,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10360,12 +9999,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -10423,7 +10057,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10474,12 +10108,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -10537,7 +10166,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10588,12 +10217,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -10651,7 +10275,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10702,12 +10326,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -10779,7 +10398,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10824,12 +10443,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -10882,7 +10496,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10933,12 +10547,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -10961,7 +10570,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Prashant G Bhoyar",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -10989,12 +10598,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1771723064928001lcoH"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11037,14 +10648,15 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
-    "nextStep": null,
-    "event": [
+    "SpeakerTypes": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1771723064928001lcoH",
+        "RegistrantKey": "1768245294609build26-1771723064928001lcoH"
       }
     ],
+    "nextStep": null,
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -11102,7 +10714,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11153,12 +10765,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -11214,7 +10821,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11259,12 +10866,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -11315,7 +10917,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11360,12 +10962,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -11416,7 +11013,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11461,12 +11058,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -11526,7 +11118,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11571,12 +11163,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -11634,7 +11221,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11685,12 +11272,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -11746,7 +11328,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11842,7 +11424,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11887,12 +11469,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -11962,7 +11539,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12013,12 +11590,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -12074,7 +11646,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12119,12 +11691,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -12188,7 +11755,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12233,12 +11800,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -12291,7 +11853,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12342,12 +11904,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -12398,7 +11955,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12443,12 +12000,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -12515,7 +12067,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12571,12 +12123,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -12630,7 +12177,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12686,12 +12233,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -12777,7 +12319,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12828,12 +12370,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -12891,7 +12428,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12942,12 +12479,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -13005,7 +12537,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13056,12 +12588,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -13084,7 +12611,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Nuzhat Minhaz",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -13112,12 +12639,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1775238360175001BzAn"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13160,14 +12689,15 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
-    "nextStep": null,
-    "event": [
+    "SpeakerTypes": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1775238360175001BzAn",
+        "RegistrantKey": "1768245294609build26-1775238360175001BzAn"
       }
     ],
+    "nextStep": null,
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -13190,7 +12720,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Ioan-Alexandru Mang",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -13218,12 +12748,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1776292787623001WDKL"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13266,14 +12798,15 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
-    "nextStep": null,
-    "event": [
+    "SpeakerTypes": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1776292787623001WDKL",
+        "RegistrantKey": "1768245294609build26-1776292787623001WDKL"
       }
     ],
+    "nextStep": null,
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -13331,7 +12864,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13382,12 +12915,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -13440,7 +12968,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13491,12 +13019,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -13554,7 +13077,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13605,12 +13128,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -13633,7 +13151,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Michel Hubert",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -13661,12 +13179,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1757452741184001uVMn"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13709,14 +13229,15 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
-    "nextStep": null,
-    "event": [
+    "SpeakerTypes": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1757452741184001uVMn",
+        "RegistrantKey": "1768245294609build26-1757452741184001uVMn"
       }
     ],
+    "nextStep": null,
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -13774,7 +13295,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13825,12 +13346,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -13881,7 +13397,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13921,12 +13437,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -14000,7 +13511,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14051,12 +13562,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -14107,7 +13613,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14152,12 +13658,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -14210,7 +13711,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14261,12 +13762,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -14284,7 +13780,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Surya Kukkapalli",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -14312,12 +13808,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1775834985858001az7i"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14360,7 +13858,13 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1775834985858001az7i",
+        "RegistrantKey": "1768245294609build26-1775834985858001az7i"
+      }
+    ],
     "nextStep": null,
     "event": [],
     "sessionLanguage": [],
@@ -14415,7 +13919,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14466,12 +13970,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -14498,7 +13997,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Krishna Sunkavalli",
+    "speakerNames": "Jason Berberich, Krishna Sunkavalli",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -14527,13 +14026,14 @@
     "hasOnDemand": false,
     "onDemandThumbnail": "",
     "speakerIds": [
+      "1768245294609build26-1739217805395001TeRF",
       "1768245294609build26-1751987253355001EQg3"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14581,15 +14081,15 @@
         "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1751987253355001EQg3",
         "RegistrantKey": "1768245294609build26-1751987253355001EQg3"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1739217805395001TeRF",
+        "RegistrantKey": "1768245294609build26-1739217805395001TeRF"
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -14672,7 +14172,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14728,12 +14228,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -14786,7 +14281,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14837,12 +14332,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -14904,7 +14394,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14955,12 +14445,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -15013,7 +14498,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15110,7 +14595,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15150,12 +14635,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -15208,7 +14688,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15259,12 +14739,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -15324,7 +14799,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15369,12 +14844,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -15425,7 +14895,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15475,12 +14945,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -15536,7 +15001,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15664,7 +15129,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15779,7 +15244,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15830,12 +15295,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -15888,7 +15348,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15939,12 +15399,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -15995,7 +15450,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16040,12 +15495,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -16099,7 +15549,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16155,12 +15605,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -16178,7 +15623,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Paul Usher",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -16206,12 +15651,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1776365404890001SeT6"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16254,7 +15701,13 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker Digital",
+        "SpeakerId": "1768245294609build26-1776365404890001SeT6",
+        "RegistrantKey": "1768245294609build26-1776365404890001SeT6"
+      }
+    ],
     "nextStep": null,
     "event": [
       {
@@ -16333,7 +15786,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16454,7 +15907,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-04-22T01:10:06.928Z",
+    "lastUpdate": "2026-04-22T09:35:02.309Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
