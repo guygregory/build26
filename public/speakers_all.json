@@ -30,8 +30,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & AI-native Apps",
-        "logicalValue": "Agents & AI-native Apps"
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
       }
     ],
     "levels": [
@@ -46,7 +46,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -56,6 +61,57 @@
       {
         "displayValue": "Online",
         "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1773319382603001KpW5",
+    "speakerId": "1768245294609build26-1773319382603001KpW5",
+    "firstName": "Maki",
+    "lastName": "Nagase",
+    "displayName": "Maki Nagase",
+    "jobTitle": "DevOps Specialist",
+    "company": "TBD",
+    "bio": "Microsoft MVP for Azure, Microsoft Foundry\nGitHub Star.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1773319382603001KpW5/attprofile/DSC02191_Original_1773453830690001AE7y.jpeg?1776517365983",
+    "twitter": "https://www.x.com/yuma_prog/",
+    "linkedIn": "https://www.linkedin.com/in/maki-nagase",
+    "gitHub": "@yuma-722",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774051400990001kVCn"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "levels": [],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   },
@@ -111,7 +167,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -171,7 +232,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -231,7 +297,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -271,8 +342,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & AI-native Apps",
-        "logicalValue": "Agents & AI-native Apps"
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
       }
     ],
     "levels": [],
@@ -282,7 +353,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -342,7 +418,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -402,7 +483,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -432,10 +518,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018711063001rGl0",
       "en-US-1776359255833001PeKh",
       "en-US-1776359309310001HGOK",
-      "en-US-1776359208408001Ltgx"
+      "en-US-1776359208408001Ltgx",
+      "en-US-1774018711063001rGl0"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -501,7 +587,20 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -569,7 +668,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -629,7 +733,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -689,7 +798,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -745,7 +859,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -795,7 +914,12 @@
         "logicalValue": "(400) Expert"
       }
     ],
-    "programmingLanguages": [],
+    "programmingLanguages": [
+      {
+        "displayValue": "C",
+        "logicalValue": "C"
+      }
+    ],
     "solutions": [],
     "communityTopic": [],
     "learningZoneTopic": [],
@@ -832,9 +956,9 @@
     "website": "",
     "sessionsPresenting": [
       "en-US-1776361410272001Daog",
+      "en-US-1776361357242001qdUU",
       "en-US-1774018717379001rjIM",
-      "en-US-1774018716883001rHBl",
-      "en-US-1776361357242001qdUU"
+      "en-US-1774018716883001rHBl"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -850,12 +974,12 @@
         "logicalValue": "Lab"
       },
       {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      },
-      {
         "displayValue": "Lab",
         "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
       }
     ],
     "topic": [
@@ -900,7 +1024,24 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -916,12 +1057,12 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      },
-      {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       }
     ]
   },
@@ -942,8 +1083,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018714376001r0Qn",
-      "en-US-1774018715938001rF6X"
+      "en-US-1774018715938001rF6X",
+      "en-US-1774018714376001r0Qn"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -951,32 +1092,32 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Demo",
-        "logicalValue": "Demo"
-      },
-      {
         "displayValue": "Lightning Talk",
         "logicalValue": "Lightning Talk"
+      },
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
       }
     ],
     "topic": [
       {
-        "displayValue": "Model Infrastructure & Applied Science",
-        "logicalValue": "Model Infrastructure & Applied Science"
-      },
-      {
         "displayValue": "Model Training",
         "logicalValue": "Model Training"
+      },
+      {
+        "displayValue": "Working with Models",
+        "logicalValue": "Working with Models"
       }
     ],
     "levels": [
       {
-        "displayValue": "(100) Foundational",
-        "logicalValue": "(100) Foundational"
-      },
-      {
         "displayValue": "(300) Advanced",
         "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(100) Foundational",
+        "logicalValue": "(100) Foundational"
       }
     ],
     "programmingLanguages": [],
@@ -985,7 +1126,16 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -993,12 +1143,12 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      },
-      {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       }
     ]
   },
@@ -1019,10 +1169,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776361968786001ZRmb",
       "en-US-1774018719535001roIg",
-      "en-US-1776362026778001xCDa",
-      "en-US-1776362098748001Dfgl"
+      "en-US-1776362098748001Dfgl",
+      "en-US-1776361968786001ZRmb",
+      "en-US-1776362026778001xCDa"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -1093,7 +1243,24 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -1161,7 +1328,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -1221,7 +1393,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -1281,7 +1458,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -1311,8 +1493,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774493285851001kTlq",
-      "en-US-1776293184274001L59w"
+      "en-US-1776293184274001L59w",
+      "en-US-1774493285851001kTlq"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -1320,12 +1502,12 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Table Talk",
-        "logicalValue": "Table Talk"
-      },
-      {
         "displayValue": "Lightning Talk",
         "logicalValue": "Lightning Talk"
+      },
+      {
+        "displayValue": "Table Talk",
+        "logicalValue": "Table Talk"
       }
     ],
     "topic": [
@@ -1347,6 +1529,10 @@
     "theme": [],
     "solutionArea": [],
     "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
       {
         "displayValue": "",
         "logicalValue": ""
@@ -1381,11 +1567,11 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018714689001r71M",
-      "en-US-1776359808899001Crgd",
       "en-US-1774018711414001rPGE",
-      "en-US-1776359765604001WmQt",
-      "en-US-1776359702025001LwJ7"
+      "en-US-1776359702025001LwJ7",
+      "en-US-1776359808899001Crgd",
+      "en-US-1774018714689001r71M",
+      "en-US-1776359765604001WmQt"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -1393,16 +1579,16 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
-      },
-      {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
-      },
-      {
         "displayValue": "Lightning Talk",
         "logicalValue": "Lightning Talk"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
       },
       {
         "displayValue": "Lab",
@@ -1415,38 +1601,38 @@
     ],
     "topic": [
       {
-        "displayValue": "Model Infrastructure & Applied Science",
-        "logicalValue": "Model Infrastructure & Applied Science"
-      },
-      {
-        "displayValue": "Model Infrastructure & Applied Science",
-        "logicalValue": "Model Infrastructure & Applied Science"
-      },
-      {
         "displayValue": "Developer Tools & Frameworks",
         "logicalValue": "Developer Tools & Frameworks"
       },
       {
-        "displayValue": "Model Infrastructure & Applied Science",
-        "logicalValue": "Model Infrastructure & Applied Science"
+        "displayValue": "Working with Models",
+        "logicalValue": "Working with Models"
       },
       {
-        "displayValue": "Model Infrastructure & Applied Science",
-        "logicalValue": "Model Infrastructure & Applied Science"
+        "displayValue": "Working with Models",
+        "logicalValue": "Working with Models"
+      },
+      {
+        "displayValue": "Working with Models",
+        "logicalValue": "Working with Models"
+      },
+      {
+        "displayValue": "Working with Models",
+        "logicalValue": "Working with Models"
       }
     ],
     "levels": [
       {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      },
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      },
-      {
         "displayValue": "(200) Intermediate",
         "logicalValue": "(200) Intermediate"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
       },
       {
         "displayValue": "(300) Advanced",
@@ -1463,7 +1649,28 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -1505,9 +1712,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
+      "en-US-1776352166471001LgaH",
       "en-US-1774017128575001xSbY",
       "en-US-1776351873525001qXtv",
-      "en-US-1776352166471001LgaH",
       "en-US-1776351995050001EpMc"
     ],
     "langLocale": "en-US",
@@ -1574,7 +1781,16 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -1655,7 +1871,16 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -1720,7 +1945,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -1780,7 +2010,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -1810,10 +2045,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776360325086001HnPa",
       "en-US-1776360405653001aIr8",
       "en-US-1774018702532001rk3p",
-      "en-US-1776360366067001DqfL"
+      "en-US-1776360366067001DqfL",
+      "en-US-1776360325086001HnPa"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -1839,20 +2074,20 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & AI-native Apps",
-        "logicalValue": "Agents & AI-native Apps"
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
       },
       {
-        "displayValue": "Agents & AI-native Apps",
-        "logicalValue": "Agents & AI-native Apps"
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
       },
       {
-        "displayValue": "Agents & AI-native Apps",
-        "logicalValue": "Agents & AI-native Apps"
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
       },
       {
-        "displayValue": "Agents & AI-native Apps",
-        "logicalValue": "Agents & AI-native Apps"
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
       }
     ],
     "levels": [
@@ -1896,7 +2131,24 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -1964,7 +2216,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2029,7 +2286,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2073,8 +2335,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & AI-native Apps",
-        "logicalValue": "Agents & AI-native Apps"
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
       }
     ],
     "levels": [],
@@ -2205,7 +2467,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2233,8 +2500,8 @@
     "sessionsPresenting": [
       "en-US-1774018710899001rSa9",
       "en-US-1776359074567001kHS1",
-      "en-US-1776359029094001ZbMV",
-      "en-US-1776358971772001LFiZ"
+      "en-US-1776358971772001LFiZ",
+      "en-US-1776359029094001ZbMV"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -2300,7 +2567,24 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2368,7 +2652,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2424,7 +2713,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2484,7 +2778,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2507,15 +2806,15 @@
     "jobTitle": "",
     "company": "GFT Technologies",
     "bio": "",
-    "photo": "",
+    "photo": "https://eventtools.event.microsoft.com/build2026-prod/w326_c7433df7-bd3a-40e0-934e-de771c55cdaf.png?1776903209610",
     "twitter": "",
     "linkedIn": "",
     "gitHub": "",
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776293046515001L7PE",
-      "en-US-1776293541060001kUtB"
+      "en-US-1776293541060001kUtB",
+      "en-US-1776293046515001L7PE"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -2533,22 +2832,22 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
-      },
-      {
         "displayValue": "Developer Tools & Frameworks",
         "logicalValue": "Developer Tools & Frameworks"
+      },
+      {
+        "displayValue": "Cloud Platform & Data",
+        "logicalValue": "Cloud Platform & Data"
       }
     ],
     "levels": [
       {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      },
-      {
         "displayValue": "(100) Foundational",
         "logicalValue": "(100) Foundational"
+      },
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
       }
     ],
     "programmingLanguages": [],
@@ -2557,7 +2856,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2617,7 +2921,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2738,7 +3047,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2794,7 +3108,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2854,7 +3173,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2914,7 +3238,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2962,8 +3291,18 @@
         "logicalValue": "Windows"
       }
     ],
-    "levels": [],
-    "programmingLanguages": [],
+    "levels": [
+      {
+        "displayValue": "(400) Expert",
+        "logicalValue": "(400) Expert"
+      }
+    ],
+    "programmingLanguages": [
+      {
+        "displayValue": "C#",
+        "logicalValue": "C#"
+      }
+    ],
     "solutions": [],
     "communityTopic": [],
     "learningZoneTopic": [],
@@ -3025,7 +3364,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -3045,12 +3389,12 @@
     "firstName": "Nuzhat",
     "lastName": "Minhaz",
     "displayName": "Nuzhat Minhaz",
-    "jobTitle": "",
+    "jobTitle": "Product Manager @ CoreAI",
     "company": "Microsoft",
-    "bio": "",
-    "photo": "",
+    "bio": "Nuzhat drives Apps & Agents Platform Observability at CoreAI, leading Azure Managed Grafana, agent insights, safe agent rollout on Microsoft Foundry, Code Optimization: products that shape how developers ship, monitor, diagnose, and scale responsibly.",
+    "photo": "https://eventtools.event.microsoft.com/build2026-prod/w326_85cb5a3c-f17a-4c73-9ff1-ffa12e023f50.png?1776899887127",
     "twitter": "",
-    "linkedIn": "",
+    "linkedIn": "https://www.linkedin.com/in/nuzhatminhaz/",
     "gitHub": "",
     "facebook": "",
     "website": "",
@@ -3085,7 +3429,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -3141,7 +3490,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -3197,7 +3551,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -3253,7 +3612,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -3279,9 +3643,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
+      "en-US-1776352166471001LgaH",
       "en-US-1774017128575001xSbY",
       "en-US-1776351873525001qXtv",
-      "en-US-1776352166471001LgaH",
       "en-US-1776351995050001EpMc"
     ],
     "langLocale": "en-US",
@@ -3348,7 +3712,16 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -3416,7 +3789,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -3481,7 +3859,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -3541,7 +3924,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -3606,7 +3994,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -3666,7 +4059,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -3696,10 +4094,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776361002095001Etx9",
-      "en-US-1776360817264001XOd9",
       "en-US-1776360719583001Dofy",
-      "en-US-1774979447835001AKSK"
+      "en-US-1774979447835001AKSK",
+      "en-US-1776360817264001XOd9",
+      "en-US-1776361002095001Etx9"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -3729,16 +4127,16 @@
         "logicalValue": "Agents & Apps"
       },
       {
-        "displayValue": "Agents & AI-native Apps",
-        "logicalValue": "Agents & AI-native Apps"
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
       },
       {
-        "displayValue": "Agents & AI-native Apps",
-        "logicalValue": "Agents & AI-native Apps"
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
       },
       {
-        "displayValue": "Agents & AI-native Apps",
-        "logicalValue": "Agents & AI-native Apps"
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
       }
     ],
     "levels": [
@@ -3765,7 +4163,24 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -3833,7 +4248,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -3893,7 +4313,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -3953,7 +4378,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -3969,12 +4399,12 @@
     "firstName": "Alexander",
     "lastName": "Wachtel",
     "displayName": "Alexander Wachtel",
-    "jobTitle": "",
+    "jobTitle": "Microsoft AI MVP, MCT & CEO",
     "company": "ESC Deutschland GmbH",
-    "bio": "",
-    "photo": "",
+    "bio": "Alexander Wachtel is a Microsoft AI MVP and Microsoft Certified Trainer with nearly two decades of experience across AI, cloud platforms and developer productivity. He holds a Ph.D. from Karlsruhe Institute of Technology with research in HCI, NLP, and Cognitive Services. Alexander advises industry and public sector organizations on AI-enabled Azure architectures, Microsoft 365 platforms, and scalable cloud models and delivers advanced technical and executive training aligned with Microsoft certifications.",
+    "photo": "https://eventtools.event.microsoft.com/build2026-prod/w326_14ba9d12-8f5c-425a-9cc0-bfd55cf5f15e.png?1776870962514",
     "twitter": "",
-    "linkedIn": "",
+    "linkedIn": "https://www.linkedin.com/in/alxwachtel",
     "gitHub": "",
     "facebook": "",
     "website": "",
@@ -4022,7 +4452,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -4060,8 +4495,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776290489938001Zds8",
-      "en-US-1776291995849001LVw2"
+      "en-US-1776291995849001LVw2",
+      "en-US-1776290489938001Zds8"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -4069,32 +4504,32 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Demo",
-        "logicalValue": "Demo"
-      },
-      {
         "displayValue": "Lightning Talk",
         "logicalValue": "Lightning Talk"
+      },
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
       }
     ],
     "topic": [
       {
-        "displayValue": "Model Infrastructure & Applied Science",
-        "logicalValue": "Model Infrastructure & Applied Science"
-      },
-      {
         "displayValue": "Agents & Apps",
         "logicalValue": "Agents & Apps"
+      },
+      {
+        "displayValue": "Working with Models",
+        "logicalValue": "Working with Models"
       }
     ],
     "levels": [
       {
-        "displayValue": "(100) Foundational",
-        "logicalValue": "(100) Foundational"
-      },
-      {
         "displayValue": "(300) Advanced",
         "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(100) Foundational",
+        "logicalValue": "(100) Foundational"
       }
     ],
     "programmingLanguages": [],
@@ -4103,7 +4538,16 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -4111,12 +4555,12 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      },
-      {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       }
     ]
   },
@@ -4167,7 +4611,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -4232,7 +4681,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -4292,7 +4746,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -4353,7 +4812,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -4413,7 +4877,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -4499,7 +4968,20 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -4563,7 +5045,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -4623,7 +5110,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -4679,7 +5171,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -4705,10 +5202,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776352569123001PtCu",
       "en-US-1776352246322001HrUv",
-      "en-US-1774018706600001rvpY",
-      "en-US-1776352494301001L5z6"
+      "en-US-1776352569123001PtCu",
+      "en-US-1776352494301001L5z6",
+      "en-US-1774018706600001rvpY"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -4774,7 +5271,24 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -4814,8 +5328,8 @@
     "sessionsPresenting": [
       "en-US-1776358909696001FtYf",
       "en-US-1776358861989001xLtg",
-      "en-US-1776358774912001CUxy",
-      "en-US-1774018710738001rCVC"
+      "en-US-1774018710738001rCVC",
+      "en-US-1776358774912001CUxy"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -4881,7 +5395,24 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -4949,7 +5480,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -4979,9 +5515,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776360031907001bykn",
-      "en-US-1776360092302001Lhai",
       "en-US-1774018714998001rxIG",
+      "en-US-1776360092302001Lhai",
+      "en-US-1776360031907001bykn",
       "en-US-1776359982094001PTZO"
     ],
     "langLocale": "en-US",
@@ -5008,20 +5544,20 @@
     ],
     "topic": [
       {
-        "displayValue": "Model Infrastructure & Applied Science",
-        "logicalValue": "Model Infrastructure & Applied Science"
+        "displayValue": "Working with Models",
+        "logicalValue": "Working with Models"
       },
       {
-        "displayValue": "Model Infrastructure & Applied Science",
-        "logicalValue": "Model Infrastructure & Applied Science"
+        "displayValue": "Working with Models",
+        "logicalValue": "Working with Models"
       },
       {
-        "displayValue": "Model Infrastructure & Applied Science",
-        "logicalValue": "Model Infrastructure & Applied Science"
+        "displayValue": "Working with Models",
+        "logicalValue": "Working with Models"
       },
       {
-        "displayValue": "Model Infrastructure & Applied Science",
-        "logicalValue": "Model Infrastructure & Applied Science"
+        "displayValue": "Working with Models",
+        "logicalValue": "Working with Models"
       }
     ],
     "levels": [
@@ -5048,7 +5584,24 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -5116,7 +5669,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -5142,8 +5700,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018708407001rAVo",
-      "en-US-1774018711578001riff"
+      "en-US-1774018711578001riff",
+      "en-US-1774018708407001rAVo"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -5151,12 +5709,12 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      },
-      {
         "displayValue": "Lightning Talk",
         "logicalValue": "Lightning Talk"
+      },
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
       }
     ],
     "topic": [
@@ -5185,7 +5743,16 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -5193,12 +5760,12 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      },
-      {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       }
     ]
   },
@@ -5249,7 +5816,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -5279,10 +5851,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776361002095001Etx9",
-      "en-US-1776360817264001XOd9",
       "en-US-1776360719583001Dofy",
-      "en-US-1774979447835001AKSK"
+      "en-US-1774979447835001AKSK",
+      "en-US-1776360817264001XOd9",
+      "en-US-1776361002095001Etx9"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -5312,16 +5884,16 @@
         "logicalValue": "Agents & Apps"
       },
       {
-        "displayValue": "Agents & AI-native Apps",
-        "logicalValue": "Agents & AI-native Apps"
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
       },
       {
-        "displayValue": "Agents & AI-native Apps",
-        "logicalValue": "Agents & AI-native Apps"
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
       },
       {
-        "displayValue": "Agents & AI-native Apps",
-        "logicalValue": "Agents & AI-native Apps"
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
       }
     ],
     "levels": [
@@ -5348,7 +5920,24 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -5416,7 +6005,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -5472,7 +6066,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -5541,7 +6140,16 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -5601,7 +6209,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -5627,11 +6240,11 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776360325086001HnPa",
       "en-US-1776360405653001aIr8",
       "en-US-1774018702532001rk3p",
+      "en-US-1774018701742001rOMi",
       "en-US-1776360366067001DqfL",
-      "en-US-1774018701742001rOMi"
+      "en-US-1776360325086001HnPa"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -5647,38 +6260,38 @@
         "logicalValue": "Lab"
       },
       {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
-      },
-      {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
-      },
-      {
         "displayValue": "Demo",
         "logicalValue": "Demo"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
       }
     ],
     "topic": [
       {
-        "displayValue": "Agents & AI-native Apps",
-        "logicalValue": "Agents & AI-native Apps"
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
       },
       {
-        "displayValue": "Agents & AI-native Apps",
-        "logicalValue": "Agents & AI-native Apps"
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
       },
       {
-        "displayValue": "Agents & AI-native Apps",
-        "logicalValue": "Agents & AI-native Apps"
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
       },
       {
-        "displayValue": "Agents & AI-native Apps",
-        "logicalValue": "Agents & AI-native Apps"
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
       },
       {
-        "displayValue": "Agents & AI-native Apps",
-        "logicalValue": "Agents & AI-native Apps"
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
       }
     ],
     "levels": [
@@ -5726,7 +6339,28 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -5742,16 +6376,16 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
         "displayValue": "Online",
         "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   },
@@ -5807,7 +6441,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -5867,7 +6506,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -5923,7 +6567,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -5988,7 +6637,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -6048,7 +6702,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -6108,7 +6767,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -6152,8 +6816,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Model Infrastructure & Applied Science",
-        "logicalValue": "Model Infrastructure & Applied Science"
+        "displayValue": "Working with Models",
+        "logicalValue": "Working with Models"
       }
     ],
     "levels": [
@@ -6168,7 +6832,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -6223,7 +6892,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -6283,7 +6957,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -6313,10 +6992,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776352569123001PtCu",
       "en-US-1776352246322001HrUv",
-      "en-US-1774018706600001rvpY",
-      "en-US-1776352494301001L5z6"
+      "en-US-1776352569123001PtCu",
+      "en-US-1776352494301001L5z6",
+      "en-US-1774018706600001rvpY"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -6382,7 +7061,24 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -6420,11 +7116,11 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776360031907001bykn",
-      "en-US-1774018713721001rm1f",
-      "en-US-1774018712707001rIUj",
-      "en-US-1776360092302001Lhai",
       "en-US-1774018714998001rxIG",
+      "en-US-1774018713721001rm1f",
+      "en-US-1776360092302001Lhai",
+      "en-US-1774018712707001rIUj",
+      "en-US-1776360031907001bykn",
       "en-US-1776359982094001PTZO"
     ],
     "langLocale": "en-US",
@@ -6441,12 +7137,12 @@
         "logicalValue": "Demo"
       },
       {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      },
-      {
         "displayValue": "Lab",
         "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
       },
       {
         "displayValue": "Lab",
@@ -6459,28 +7155,28 @@
     ],
     "topic": [
       {
-        "displayValue": "Model Infrastructure & Applied Science",
-        "logicalValue": "Model Infrastructure & Applied Science"
+        "displayValue": "Working with Models",
+        "logicalValue": "Working with Models"
       },
       {
-        "displayValue": "Model Infrastructure & Applied Science",
-        "logicalValue": "Model Infrastructure & Applied Science"
+        "displayValue": "Working with Models",
+        "logicalValue": "Working with Models"
+      },
+      {
+        "displayValue": "Working with Models",
+        "logicalValue": "Working with Models"
       },
       {
         "displayValue": "Model Training",
         "logicalValue": "Model Training"
       },
       {
-        "displayValue": "Model Infrastructure & Applied Science",
-        "logicalValue": "Model Infrastructure & Applied Science"
+        "displayValue": "Working with Models",
+        "logicalValue": "Working with Models"
       },
       {
-        "displayValue": "Model Infrastructure & Applied Science",
-        "logicalValue": "Model Infrastructure & Applied Science"
-      },
-      {
-        "displayValue": "Model Infrastructure & Applied Science",
-        "logicalValue": "Model Infrastructure & Applied Science"
+        "displayValue": "Working with Models",
+        "logicalValue": "Working with Models"
       }
     ],
     "levels": [
@@ -6493,12 +7189,12 @@
         "logicalValue": "(200) Intermediate"
       },
       {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      },
-      {
         "displayValue": "(300) Advanced",
         "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
       },
       {
         "displayValue": "(300) Advanced",
@@ -6515,7 +7211,32 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -6535,12 +7256,12 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      },
-      {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       },
       {
         "displayValue": "In-person",
@@ -6612,7 +7333,16 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -6674,7 +7404,12 @@
         "logicalValue": "(400) Expert"
       }
     ],
-    "programmingLanguages": [],
+    "programmingLanguages": [
+      {
+        "displayValue": "C",
+        "logicalValue": "C"
+      }
+    ],
     "solutions": [],
     "communityTopic": [],
     "learningZoneTopic": [],
@@ -6710,10 +7445,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776361968786001ZRmb",
       "en-US-1774018719535001roIg",
-      "en-US-1776362026778001xCDa",
-      "en-US-1776362098748001Dfgl"
+      "en-US-1776362098748001Dfgl",
+      "en-US-1776361968786001ZRmb",
+      "en-US-1776362026778001xCDa"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -6784,7 +7519,24 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -6852,7 +7604,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -6934,7 +7691,20 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -6998,7 +7768,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -7038,8 +7813,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & AI-native Apps",
-        "logicalValue": "Agents & AI-native Apps"
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
       }
     ],
     "levels": [],
@@ -7049,7 +7824,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -7109,7 +7889,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -7159,6 +7944,62 @@
         "logicalValue": "(300) Advanced"
       }
     ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776361485371001HMvG",
+    "speakerId": "1768245294609build26-1776361485371001HMvG",
+    "firstName": "Fatih Kadir",
+    "lastName": "Akin",
+    "displayName": "Fatih Kadir Akin",
+    "jobTitle": "Developer Advocate at WordPress",
+    "company": "Automattic, WordPress",
+    "bio": "",
+    "photo": "https://eventtools.event.microsoft.com/build2026-prod/w326_d64fa296-a594-4f6a-a417-ca8744b9ce77.png?1776493167716",
+    "twitter": "https://www.x.com/fkadev",
+    "linkedIn": "https://www.linkedin.com/in/fatihkadirakin",
+    "gitHub": "f",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774051373338001BTGG"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
+      }
+    ],
+    "levels": [],
     "programmingLanguages": [],
     "solutions": [],
     "communityTopic": [],
@@ -7221,7 +8062,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -7277,7 +8123,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -7307,9 +8158,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018709436001rrGK",
+      "en-US-1774018712237001rLex",
       "en-US-1774018709769001rxEg",
-      "en-US-1774018712237001rLex"
+      "en-US-1774018709436001rrGK"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -7317,16 +8168,16 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
       },
       {
         "displayValue": "Demo",
         "logicalValue": "Demo"
       },
       {
-        "displayValue": "Lightning Talk",
-        "logicalValue": "Lightning Talk"
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
       }
     ],
     "topic": [
@@ -7345,16 +8196,16 @@
     ],
     "levels": [
       {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
       },
       {
         "displayValue": "(400) Expert",
         "logicalValue": "(400) Expert"
       },
       {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
       }
     ],
     "programmingLanguages": [],
@@ -7363,7 +8214,20 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -7371,10 +8235,6 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      },
-      {
         "displayValue": "In-person",
         "logicalValue": "In-person"
       },
@@ -7385,6 +8245,10 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       }
     ]
   },
@@ -7435,7 +8299,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -7495,7 +8364,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -7535,8 +8409,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & AI-native Apps",
-        "logicalValue": "Agents & AI-native Apps"
+        "displayValue": "Agents & Apps",
+        "logicalValue": "Agents & Apps"
       }
     ],
     "levels": [
@@ -7551,7 +8425,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -7611,7 +8490,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -7659,14 +8543,24 @@
         "logicalValue": "Agents & Apps"
       }
     ],
-    "levels": [],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
     "programmingLanguages": [],
     "solutions": [],
     "communityTopic": [],
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -7722,7 +8616,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -7778,7 +8677,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -7838,7 +8742,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -7898,7 +8807,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -7916,8 +8830,8 @@
     "localizedId": "en-US-1768245294609build26-1772238022106001lZo4",
     "speakerId": "1768245294609build26-1772238022106001lZo4",
     "firstName": "Peter",
-    "lastName": "Steinbeger",
-    "displayName": "Peter Steinbeger",
+    "lastName": "Steinberger",
+    "displayName": "Peter Steinberger",
     "jobTitle": "Clawfather",
     "company": "OpenAI/OpenClaw",
     "bio": "OpenClaw builder.",
@@ -7958,7 +8872,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -8018,7 +8937,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -8049,8 +8973,8 @@
     "website": "",
     "sessionsPresenting": [
       "en-US-1776361410272001Daog",
-      "en-US-1774018717379001rjIM",
-      "en-US-1776361357242001qdUU"
+      "en-US-1776361357242001qdUU",
+      "en-US-1774018717379001rjIM"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -8104,7 +9028,20 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -8140,8 +9077,8 @@
     "sessionsPresenting": [
       "en-US-1774018710899001rSa9",
       "en-US-1776359074567001kHS1",
-      "en-US-1776359029094001ZbMV",
-      "en-US-1776358971772001LFiZ"
+      "en-US-1776358971772001LFiZ",
+      "en-US-1776359029094001ZbMV"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -8207,7 +9144,24 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -8288,7 +9242,16 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -8352,7 +9315,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -8412,7 +9380,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -8473,9 +9446,17 @@
       {
         "displayValue": "(400) Expert",
         "logicalValue": "(400) Expert"
+      },
+      {
+        "displayValue": "(400) Expert",
+        "logicalValue": "(400) Expert"
       }
     ],
     "programmingLanguages": [
+      {
+        "displayValue": "C#",
+        "logicalValue": "C#"
+      },
       {
         "displayValue": "C#",
         "logicalValue": "C#"
@@ -8486,7 +9467,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -8550,12 +9536,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -8615,7 +9596,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -8675,7 +9661,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -8744,7 +9735,16 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -8778,8 +9778,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776290371737001Dgv0",
-      "en-US-1776293115454001KHxE"
+      "en-US-1776293115454001KHxE",
+      "en-US-1776290371737001Dgv0"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -8787,22 +9787,22 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Demo",
-        "logicalValue": "Demo"
-      },
-      {
         "displayValue": "Lightning Talk",
         "logicalValue": "Lightning Talk"
+      },
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
       }
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
-      },
-      {
         "displayValue": "Cloud Platform & Data",
         "logicalValue": "Cloud Platform & Data"
+      },
+      {
+        "displayValue": "Developer Tools & Frameworks",
+        "logicalValue": "Developer Tools & Frameworks"
       }
     ],
     "levels": [
@@ -8821,7 +9821,16 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -8829,12 +9838,12 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      },
-      {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       }
     ]
   },
@@ -8885,12 +9894,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
