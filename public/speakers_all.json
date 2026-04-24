@@ -30,8 +30,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [
@@ -74,7 +74,7 @@
     "jobTitle": "DevOps Specialist",
     "company": "TBD",
     "bio": "Microsoft MVP for Azure, Microsoft Foundry\nGitHub Star.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1773319382603001KpW5/attprofile/DSC02191_Original_1773453830690001AE7y.jpeg?1776517365983",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1773319382603001KpW5/attprofile/DSC02191_Original_1773453830690001AE7y.jpeg?1776979419803",
     "twitter": "https://www.x.com/yuma_prog/",
     "linkedIn": "https://www.linkedin.com/in/maki-nagase",
     "gitHub": "@yuma-722",
@@ -95,11 +95,16 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
-    "levels": [],
+    "levels": [
+      {
+        "displayValue": "(100) Foundational",
+        "logicalValue": "(100) Foundational"
+      }
+    ],
     "programmingLanguages": [],
     "solutions": [],
     "communityTopic": [],
@@ -146,8 +151,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Windows",
-        "logicalValue": "Windows"
+        "displayValue": "Window",
+        "logicalValue": "Window"
       }
     ],
     "levels": [
@@ -167,12 +172,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -216,8 +216,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [
@@ -232,12 +232,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -281,8 +276,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
@@ -297,12 +292,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -342,8 +332,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [],
@@ -353,12 +343,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -402,8 +387,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Responsible AI",
-        "logicalValue": "Responsible AI"
+        "displayValue": "",
+        "logicalValue": ""
       }
     ],
     "levels": [
@@ -418,12 +403,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -467,8 +447,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
@@ -483,12 +463,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -519,9 +494,9 @@
     "website": "",
     "sessionsPresenting": [
       "en-US-1776359255833001PeKh",
+      "en-US-1774018711063001rGl0",
       "en-US-1776359309310001HGOK",
-      "en-US-1776359208408001Ltgx",
-      "en-US-1774018711063001rGl0"
+      "en-US-1776359208408001Ltgx"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -547,20 +522,20 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       },
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       },
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       },
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
@@ -652,8 +627,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
@@ -668,12 +643,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -717,8 +687,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
@@ -782,8 +752,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
@@ -798,12 +768,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -843,8 +808,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
@@ -859,12 +824,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -904,8 +864,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Windows",
-        "logicalValue": "Windows"
+        "displayValue": "Window",
+        "logicalValue": "Window"
       }
     ],
     "levels": [
@@ -916,8 +876,8 @@
     ],
     "programmingLanguages": [
       {
-        "displayValue": "C",
-        "logicalValue": "C"
+        "displayValue": "C#",
+        "logicalValue": "C#"
       }
     ],
     "solutions": [],
@@ -940,25 +900,25 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1774284995366001pNmt",
-    "speakerId": "1768245294609build26-1774284995366001pNmt",
-    "firstName": "Filisha",
-    "lastName": "Shah",
-    "displayName": "Filisha Shah",
-    "jobTitle": "",
+    "localizedId": "en-US-1768245294609build26-1774284985889001po0v",
+    "speakerId": "1768245294609build26-1774284985889001po0v",
+    "firstName": "Jamshed",
+    "lastName": "Damkewala",
+    "displayName": "Jamshed Damkewala",
+    "jobTitle": "Principal TPM Manager",
     "company": "Microsoft",
-    "bio": "",
-    "photo": "",
+    "bio": "Jamshed Damkewala is a Principal TPM Manager at Microsoft with over 20 years of experience building developer platforms and runtimes. He's deeply passionate about advancing the software ecosystem for Arm and enabling developers building for Arm.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774284985889001po0v/attprofile/Headshot%20-%20Cropped_1776299008532001nRbb.jpg",
     "twitter": "",
-    "linkedIn": "",
-    "gitHub": "fubaduba",
+    "linkedIn": "https://www.linkedin.com/in/jamshedd/",
+    "gitHub": "jamshedd",
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776361410272001Daog",
-      "en-US-1776361357242001qdUU",
-      "en-US-1774018717379001rjIM",
-      "en-US-1774018716883001rHBl"
+      "en-US-1776353082847001qHtf",
+      "en-US-1776352900455001EisK",
+      "en-US-1774018706761001rzGW",
+      "en-US-1776352984417001WH5S"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -978,29 +938,166 @@
         "logicalValue": "Lab"
       },
       {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
       }
     ],
     "topic": [
       {
-        "displayValue": "Responsible AI",
-        "logicalValue": "Responsible AI"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       },
       {
-        "displayValue": "Responsible AI",
-        "logicalValue": "Responsible AI"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       },
       {
-        "displayValue": "Responsible AI",
-        "logicalValue": "Responsible AI"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       },
       {
-        "displayValue": "Responsible AI",
-        "logicalValue": "Responsible AI"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      },
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      },
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      },
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [
+      {
+        "displayValue": "Spark",
+        "logicalValue": "Spark"
+      },
+      {
+        "displayValue": "Spark",
+        "logicalValue": "Spark"
+      },
+      {
+        "displayValue": "Spark",
+        "logicalValue": "Spark"
+      },
+      {
+        "displayValue": "Spark",
+        "logicalValue": "Spark"
+      }
+    ],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774284995366001pNmt",
+    "speakerId": "1768245294609build26-1774284995366001pNmt",
+    "firstName": "Filisha",
+    "lastName": "Shah",
+    "displayName": "Filisha Shah",
+    "jobTitle": "",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "fubaduba",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018716883001rHBl",
+      "en-US-1776361357242001qdUU",
+      "en-US-1776361410272001Daog",
+      "en-US-1776361505443001EPkN",
+      "en-US-1774018717379001rjIM"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
       {
         "displayValue": "(300) Advanced",
         "logicalValue": "(300) Advanced"
@@ -1036,10 +1133,6 @@
       {
         "displayValue": "",
         "logicalValue": ""
-      },
-      {
-        "displayValue": "",
-        "logicalValue": ""
       }
     ],
     "sessionLanguage": [],
@@ -1049,20 +1142,24 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
         "displayValue": "Online",
         "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   },
@@ -1083,8 +1180,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018715938001rF6X",
-      "en-US-1774018714376001r0Qn"
+      "en-US-1774018714376001r0Qn",
+      "en-US-1774018715938001rF6X"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -1092,32 +1189,32 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Lightning Talk",
-        "logicalValue": "Lightning Talk"
-      },
-      {
         "displayValue": "Demo",
         "logicalValue": "Demo"
+      },
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
       }
     ],
     "topic": [
       {
-        "displayValue": "Model Training",
-        "logicalValue": "Model Training"
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
       },
       {
-        "displayValue": "Working with Models",
-        "logicalValue": "Working with Models"
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
       }
     ],
     "levels": [
       {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      },
-      {
         "displayValue": "(100) Foundational",
         "logicalValue": "(100) Foundational"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
       }
     ],
     "programmingLanguages": [],
@@ -1126,16 +1223,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      },
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -1143,12 +1231,12 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
         "displayValue": "Online",
         "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   },
@@ -1169,10 +1257,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018719535001roIg",
+      "en-US-1776362026778001xCDa",
       "en-US-1776362098748001Dfgl",
-      "en-US-1776361968786001ZRmb",
-      "en-US-1776362026778001xCDa"
+      "en-US-1774018719535001roIg",
+      "en-US-1776361968786001ZRmb"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -1198,20 +1286,20 @@
     ],
     "topic": [
       {
-        "displayValue": "Windows",
-        "logicalValue": "Windows"
+        "displayValue": "Window",
+        "logicalValue": "Window"
       },
       {
-        "displayValue": "Windows",
-        "logicalValue": "Windows"
+        "displayValue": "Window",
+        "logicalValue": "Window"
       },
       {
-        "displayValue": "Windows",
-        "logicalValue": "Windows"
+        "displayValue": "Window",
+        "logicalValue": "Window"
       },
       {
-        "displayValue": "Windows",
-        "logicalValue": "Windows"
+        "displayValue": "Window",
+        "logicalValue": "Window"
       }
     ],
     "levels": [
@@ -1244,10 +1332,6 @@
     "theme": [],
     "solutionArea": [],
     "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      },
       {
         "displayValue": "",
         "logicalValue": ""
@@ -1312,8 +1396,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
@@ -1328,12 +1412,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -1377,8 +1456,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Model Training",
-        "logicalValue": "Model Training"
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
       }
     ],
     "levels": [
@@ -1393,12 +1472,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -1442,8 +1516,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
@@ -1458,12 +1532,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -1512,8 +1581,12 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
       }
     ],
     "levels": [
@@ -1529,10 +1602,6 @@
     "theme": [],
     "solutionArea": [],
     "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      },
       {
         "displayValue": "",
         "logicalValue": ""
@@ -1569,8 +1638,8 @@
     "sessionsPresenting": [
       "en-US-1774018711414001rPGE",
       "en-US-1776359702025001LwJ7",
-      "en-US-1776359808899001Crgd",
       "en-US-1774018714689001r71M",
+      "en-US-1776359808899001Crgd",
       "en-US-1776359765604001WmQt"
     ],
     "langLocale": "en-US",
@@ -1601,24 +1670,24 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       },
       {
-        "displayValue": "Working with Models",
-        "logicalValue": "Working with Models"
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
       },
       {
-        "displayValue": "Working with Models",
-        "logicalValue": "Working with Models"
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
       },
       {
-        "displayValue": "Working with Models",
-        "logicalValue": "Working with Models"
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
       },
       {
-        "displayValue": "Working with Models",
-        "logicalValue": "Working with Models"
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
       }
     ],
     "levels": [
@@ -1661,14 +1730,6 @@
       {
         "displayValue": "",
         "logicalValue": ""
-      },
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      },
-      {
-        "displayValue": "",
-        "logicalValue": ""
       }
     ],
     "sessionLanguage": [],
@@ -1697,6 +1758,66 @@
   },
   {
     "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774284992189001pC5a",
+    "speakerId": "1768245294609build26-1774284992189001pC5a",
+    "firstName": "Kirupa",
+    "lastName": "Chinnathambi",
+    "displayName": "Kirupa Chinnathambi",
+    "jobTitle": "",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018718648001rUpo"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Window",
+        "logicalValue": "Window"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1774284994279001pbAB",
     "speakerId": "1768245294609build26-1774284994279001pbAB",
     "firstName": "Paul",
@@ -1712,9 +1833,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
+      "en-US-1776351873525001qXtv",
       "en-US-1776352166471001LgaH",
       "en-US-1774017128575001xSbY",
-      "en-US-1776351873525001qXtv",
       "en-US-1776351995050001EpMc"
     ],
     "langLocale": "en-US",
@@ -1741,20 +1862,20 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       },
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       },
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       },
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
@@ -1847,12 +1968,12 @@
     ],
     "topic": [
       {
-        "displayValue": "Windows",
-        "logicalValue": "Windows"
+        "displayValue": "Window",
+        "logicalValue": "Window"
       },
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [
@@ -1871,16 +1992,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      },
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -1924,8 +2036,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Windows",
-        "logicalValue": "Windows"
+        "displayValue": "Window",
+        "logicalValue": "Window"
       }
     ],
     "levels": [
@@ -1945,12 +2057,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -1994,8 +2101,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
@@ -2010,12 +2117,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2037,8 +2139,8 @@
     "displayName": "Gustavo Cordido",
     "jobTitle": "AI Engineer & Developer Advocate",
     "company": "Microsoft / GitHub",
-    "bio": "",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1756138101616001VtrM/attprofile/IMG_2488_1775152940390001SU5N.jpg?1776201760514",
+    "bio": "Venezuelan Engineer specialized in AI, developing practical solutions with Microsoft Foundry and GitHub at its core.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1756138101616001VtrM/attprofile/IMG_2488_1775152940390001SU5N.jpg?1776988264707",
     "twitter": "",
     "linkedIn": "http://www.linkedin.com/in/gcordido",
     "gitHub": "gcordido",
@@ -2046,9 +2148,9 @@
     "website": "",
     "sessionsPresenting": [
       "en-US-1776360405653001aIr8",
-      "en-US-1774018702532001rk3p",
       "en-US-1776360366067001DqfL",
-      "en-US-1776360325086001HnPa"
+      "en-US-1776360325086001HnPa",
+      "en-US-1774018702532001rk3p"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -2074,20 +2176,20 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       },
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       },
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       },
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [
@@ -2132,14 +2234,6 @@
     "theme": [],
     "solutionArea": [],
     "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      },
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      },
       {
         "displayValue": "",
         "logicalValue": ""
@@ -2200,8 +2294,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Model Training",
-        "logicalValue": "Model Training"
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
       }
     ],
     "levels": [
@@ -2216,12 +2310,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2265,8 +2354,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
@@ -2286,12 +2375,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2335,8 +2419,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [],
@@ -2346,7 +2430,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2390,8 +2479,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
@@ -2406,7 +2495,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2446,8 +2540,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
@@ -2467,12 +2561,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2499,8 +2588,8 @@
     "website": "",
     "sessionsPresenting": [
       "en-US-1774018710899001rSa9",
-      "en-US-1776359074567001kHS1",
       "en-US-1776358971772001LFiZ",
+      "en-US-1776359074567001kHS1",
       "en-US-1776359029094001ZbMV"
     ],
     "langLocale": "en-US",
@@ -2527,20 +2616,20 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       },
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       },
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       },
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
@@ -2579,10 +2668,6 @@
       {
         "displayValue": "",
         "logicalValue": ""
-      },
-      {
-        "displayValue": "",
-        "logicalValue": ""
       }
     ],
     "sessionLanguage": [],
@@ -2602,6 +2687,66 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774284996963001pGpM",
+    "speakerId": "1768245294609build26-1774284996963001pGpM",
+    "firstName": "Sachin",
+    "lastName": "Patney",
+    "displayName": "Sachin Patney",
+    "jobTitle": "",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018704951001rHLF"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       }
     ]
   },
@@ -2636,8 +2781,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
@@ -2652,12 +2797,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2697,8 +2837,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [
@@ -2713,12 +2853,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2762,8 +2897,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Responsible AI",
-        "logicalValue": "Responsible AI"
+        "displayValue": "",
+        "logicalValue": ""
       }
     ],
     "levels": [
@@ -2778,14 +2913,90 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775278306002001tw5Z",
+    "speakerId": "1768245294609build26-1775278306002001tw5Z",
+    "firstName": "Denizhan",
+    "lastName": "Yigitbas",
+    "displayName": "Denizhan Yigitbas",
+    "jobTitle": "Senior Product Manager",
+    "company": "GitHub",
+    "bio": "Denizhan is a Senior Product Manager at GitHub, leading agentic compute strategy across core platform experiences such as GitHub Actions and Copilot. He brings over five years of experience building developer tools and platforms, with work spanning Visual Studio, C#, GitHub Copilot, and Microsoft Dev Box.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775278306002001tw5Z/attprofile/pfp%20%282%29_1775493257058001j6HW.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/denizhan-yigitbas-b0a727159/",
+    "gitHub": "denizhan",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018709927001rbcd",
+      "en-US-1774018710574001rWWg"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      },
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
+      },
+      {
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(400) Expert",
+        "logicalValue": "(400) Expert"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      },
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
@@ -2813,8 +3024,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776293541060001kUtB",
-      "en-US-1776293046515001L7PE"
+      "en-US-1776293046515001L7PE",
+      "en-US-1776293541060001kUtB"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -2832,22 +3043,22 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       },
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
       {
-        "displayValue": "(100) Foundational",
-        "logicalValue": "(100) Foundational"
-      },
-      {
         "displayValue": "(200) Intermediate",
         "logicalValue": "(200) Intermediate"
+      },
+      {
+        "displayValue": "(100) Foundational",
+        "logicalValue": "(100) Foundational"
       }
     ],
     "programmingLanguages": [],
@@ -2856,12 +3067,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2905,8 +3111,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Responsible AI",
-        "logicalValue": "Responsible AI"
+        "displayValue": "",
+        "logicalValue": ""
       }
     ],
     "levels": [
@@ -2921,12 +3127,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2970,8 +3171,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
@@ -2997,6 +3198,79 @@
       {
         "displayValue": "Online",
         "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776373150632001C4tU",
+    "speakerId": "1768245294609build26-1776373150632001C4tU",
+    "firstName": "Sanjeev",
+    "lastName": "Jagtap",
+    "displayName": "Sanjeev Jagtap",
+    "jobTitle": "",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018716247001rclm",
+      "en-US-1774018715626001rYEl"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
+      },
+      {
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   },
@@ -3031,8 +3305,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [
@@ -3047,12 +3321,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -3092,8 +3361,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
@@ -3108,12 +3377,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -3157,8 +3421,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
@@ -3173,12 +3437,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -3222,8 +3481,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Model Training",
-        "logicalValue": "Model Training"
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
       }
     ],
     "levels": [
@@ -3238,12 +3497,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -3287,8 +3541,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Windows",
-        "logicalValue": "Windows"
+        "displayValue": "Window",
+        "logicalValue": "Window"
       }
     ],
     "levels": [
@@ -3348,8 +3602,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Model Training",
-        "logicalValue": "Model Training"
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
       }
     ],
     "levels": [
@@ -3364,12 +3618,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -3413,8 +3662,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Responsible AI",
-        "logicalValue": "Responsible AI"
+        "displayValue": "",
+        "logicalValue": ""
       }
     ],
     "levels": [
@@ -3429,12 +3678,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -3474,8 +3718,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [
@@ -3490,17 +3734,72 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776185877803001f40v",
+    "speakerId": "1768245294609build26-1776185877803001f40v",
+    "firstName": "Steve",
+    "lastName": "Sanderson",
+    "displayName": "Steve Sanderson",
+    "jobTitle": "",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018709261001rXXz"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       }
     ]
   },
@@ -3535,8 +3834,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
@@ -3551,12 +3850,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -3596,8 +3890,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
@@ -3612,12 +3906,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -3643,9 +3932,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
+      "en-US-1776351873525001qXtv",
       "en-US-1776352166471001LgaH",
       "en-US-1774017128575001xSbY",
-      "en-US-1776351873525001qXtv",
       "en-US-1776351995050001EpMc"
     ],
     "langLocale": "en-US",
@@ -3672,20 +3961,20 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       },
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       },
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       },
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
@@ -3773,8 +4062,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
@@ -3789,12 +4078,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -3838,8 +4122,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Windows",
-        "logicalValue": "Windows"
+        "displayValue": "Window",
+        "logicalValue": "Window"
       }
     ],
     "levels": [
@@ -3859,12 +4143,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -3908,8 +4187,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
@@ -3924,12 +4203,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -3973,8 +4247,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
@@ -3994,12 +4268,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -4043,8 +4312,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [
@@ -4059,12 +4328,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -4094,10 +4358,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
+      "en-US-1776361002095001Etx9",
       "en-US-1776360719583001Dofy",
-      "en-US-1774979447835001AKSK",
       "en-US-1776360817264001XOd9",
-      "en-US-1776361002095001Etx9"
+      "en-US-1774979447835001AKSK"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -4123,20 +4387,20 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       },
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       },
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       },
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [
@@ -4164,10 +4428,6 @@
     "theme": [],
     "solutionArea": [],
     "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      },
       {
         "displayValue": "",
         "logicalValue": ""
@@ -4232,8 +4492,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
@@ -4248,12 +4508,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -4297,8 +4552,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Model Training",
-        "logicalValue": "Model Training"
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
       }
     ],
     "levels": [
@@ -4313,12 +4568,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -4362,8 +4612,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Responsible AI",
-        "logicalValue": "Responsible AI"
+        "displayValue": "",
+        "logicalValue": ""
       }
     ],
     "levels": [
@@ -4378,12 +4628,123 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776192489718001chCD",
+    "speakerId": "1768245294609build26-1776192489718001chCD",
+    "firstName": "Simon",
+    "lastName": "Jakesch",
+    "displayName": "Simon Jakesch",
+    "jobTitle": "",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "@simonjj",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018704167001r1mq"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
       }
     ],
+    "topic": [
+      {
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776202191633001tt4K",
+    "speakerId": "1768245294609build26-1776202191633001tt4K",
+    "firstName": "Nandini",
+    "lastName": "Muralidharan",
+    "displayName": "Nandini Muralidharan",
+    "jobTitle": "",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018712070001rAew"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -4428,12 +4789,12 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       },
       {
-        "displayValue": "Responsible AI",
-        "logicalValue": "Responsible AI"
+        "displayValue": "",
+        "logicalValue": ""
       }
     ],
     "levels": [
@@ -4453,6 +4814,10 @@
     "theme": [],
     "solutionArea": [],
     "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
       {
         "displayValue": "",
         "logicalValue": ""
@@ -4495,8 +4860,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776291995849001LVw2",
-      "en-US-1776290489938001Zds8"
+      "en-US-1776290489938001Zds8",
+      "en-US-1776291995849001LVw2"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -4504,32 +4869,32 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Lightning Talk",
-        "logicalValue": "Lightning Talk"
-      },
-      {
         "displayValue": "Demo",
         "logicalValue": "Demo"
+      },
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
       }
     ],
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
       },
       {
-        "displayValue": "Working with Models",
-        "logicalValue": "Working with Models"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [
       {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      },
-      {
         "displayValue": "(100) Foundational",
         "logicalValue": "(100) Foundational"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
       }
     ],
     "programmingLanguages": [],
@@ -4542,10 +4907,6 @@
       {
         "displayValue": "",
         "logicalValue": ""
-      },
-      {
-        "displayValue": "",
-        "logicalValue": ""
       }
     ],
     "sessionLanguage": [],
@@ -4555,12 +4916,12 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
         "displayValue": "Online",
         "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   },
@@ -4595,8 +4956,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
@@ -4611,12 +4972,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -4660,8 +5016,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
@@ -4681,12 +5037,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -4730,8 +5081,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
@@ -4746,12 +5097,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -4791,8 +5137,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Windows",
-        "logicalValue": "Windows"
+        "displayValue": "Window",
+        "logicalValue": "Window"
       }
     ],
     "levels": [
@@ -4812,12 +5158,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -4861,8 +5202,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
@@ -4877,12 +5218,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -4914,6 +5250,7 @@
     "sessionsPresenting": [
       "en-US-1774304130264001mWLS",
       "en-US-1776358450469001HOyx",
+      "en-US-1776356807542001Ld5F",
       "en-US-1776358396196001XdQD"
     ],
     "langLocale": "en-US",
@@ -4932,23 +5269,35 @@
       {
         "displayValue": "Lab",
         "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
       }
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       },
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       },
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
+      },
+      {
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
       {
         "displayValue": "(300) Advanced",
         "logicalValue": "(300) Advanced"
@@ -4976,14 +5325,14 @@
       {
         "displayValue": "",
         "logicalValue": ""
-      },
-      {
-        "displayValue": "",
-        "logicalValue": ""
       }
     ],
     "sessionLanguage": [],
     "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
@@ -5029,8 +5378,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [
@@ -5045,12 +5394,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -5094,8 +5438,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [
@@ -5110,12 +5454,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -5155,8 +5494,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
@@ -5171,12 +5510,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -5203,9 +5537,9 @@
     "website": "",
     "sessionsPresenting": [
       "en-US-1776352246322001HrUv",
-      "en-US-1776352569123001PtCu",
+      "en-US-1774018706600001rvpY",
       "en-US-1776352494301001L5z6",
-      "en-US-1774018706600001rvpY"
+      "en-US-1776352569123001PtCu"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -5231,20 +5565,20 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       },
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       },
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       },
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
@@ -5272,10 +5606,6 @@
     "theme": [],
     "solutionArea": [],
     "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      },
       {
         "displayValue": "",
         "logicalValue": ""
@@ -5326,10 +5656,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776358909696001FtYf",
-      "en-US-1776358861989001xLtg",
       "en-US-1774018710738001rCVC",
-      "en-US-1776358774912001CUxy"
+      "en-US-1776358861989001xLtg",
+      "en-US-1776358774912001CUxy",
+      "en-US-1776358909696001FtYf"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -5355,20 +5685,20 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       },
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       },
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       },
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
@@ -5396,10 +5726,6 @@
     "theme": [],
     "solutionArea": [],
     "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      },
       {
         "displayValue": "",
         "logicalValue": ""
@@ -5464,8 +5790,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
@@ -5480,12 +5806,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -5515,9 +5836,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
+      "en-US-1776360031907001bykn",
       "en-US-1774018714998001rxIG",
       "en-US-1776360092302001Lhai",
-      "en-US-1776360031907001bykn",
       "en-US-1776359982094001PTZO"
     ],
     "langLocale": "en-US",
@@ -5544,20 +5865,20 @@
     ],
     "topic": [
       {
-        "displayValue": "Working with Models",
-        "logicalValue": "Working with Models"
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
       },
       {
-        "displayValue": "Working with Models",
-        "logicalValue": "Working with Models"
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
       },
       {
-        "displayValue": "Working with Models",
-        "logicalValue": "Working with Models"
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
       },
       {
-        "displayValue": "Working with Models",
-        "logicalValue": "Working with Models"
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
       }
     ],
     "levels": [
@@ -5585,10 +5906,6 @@
     "theme": [],
     "solutionArea": [],
     "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      },
       {
         "displayValue": "",
         "logicalValue": ""
@@ -5653,8 +5970,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
@@ -5669,17 +5986,72 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774284997564001pZNT",
+    "speakerId": "1768245294609build26-1774284997564001pZNT",
+    "firstName": "Mandy",
+    "lastName": "Whaley",
+    "displayName": "Mandy Whaley",
+    "jobTitle": "",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018710086001rTQt"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(400) Expert",
+        "logicalValue": "(400) Expert"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       }
     ]
   },
@@ -5719,12 +6091,12 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       },
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
@@ -5743,16 +6115,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      },
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -5800,8 +6163,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [
@@ -5816,12 +6179,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -5851,10 +6209,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
+      "en-US-1776361002095001Etx9",
       "en-US-1776360719583001Dofy",
-      "en-US-1774979447835001AKSK",
       "en-US-1776360817264001XOd9",
-      "en-US-1776361002095001Etx9"
+      "en-US-1774979447835001AKSK"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -5880,20 +6238,20 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       },
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       },
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       },
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [
@@ -5921,10 +6279,6 @@
     "theme": [],
     "solutionArea": [],
     "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      },
       {
         "displayValue": "",
         "logicalValue": ""
@@ -5989,8 +6343,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [
@@ -6005,17 +6359,72 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775784663200001lhkW",
+    "speakerId": "1768245294609build26-1775784663200001lhkW",
+    "firstName": "Rochak",
+    "lastName": "Mittal",
+    "displayName": "Rochak Mittal",
+    "jobTitle": "",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018705660001rbvk"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       }
     ]
   },
@@ -6050,8 +6459,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Responsible AI",
-        "logicalValue": "Responsible AI"
+        "displayValue": "",
+        "logicalValue": ""
       }
     ],
     "levels": [
@@ -6066,12 +6475,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -6097,8 +6501,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776292575600001CoIk",
-      "en-US-1776293617419001kS86"
+      "en-US-1776293617419001kS86",
+      "en-US-1776292575600001CoIk"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -6116,22 +6520,22 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       },
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [
       {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      },
-      {
         "displayValue": "(100) Foundational",
         "logicalValue": "(100) Foundational"
+      },
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
       }
     ],
     "programmingLanguages": [],
@@ -6140,16 +6544,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      },
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -6193,8 +6588,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
@@ -6209,12 +6604,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -6241,20 +6631,16 @@
     "website": "",
     "sessionsPresenting": [
       "en-US-1776360405653001aIr8",
-      "en-US-1774018702532001rk3p",
       "en-US-1774018701742001rOMi",
       "en-US-1776360366067001DqfL",
-      "en-US-1776360325086001HnPa"
+      "en-US-1776360325086001HnPa",
+      "en-US-1774018702532001rk3p"
     ],
     "langLocale": "en-US",
     "ogImage": "",
     "ogTitle": "",
     "ogDescription": "",
     "sessionTypes": [
-      {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
-      },
       {
         "displayValue": "Lab",
         "logicalValue": "Lab"
@@ -6270,28 +6656,32 @@
       {
         "displayValue": "Lab",
         "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
       }
     ],
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       },
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       },
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       },
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       },
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [
@@ -6347,18 +6737,6 @@
       {
         "displayValue": "",
         "logicalValue": ""
-      },
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      },
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      },
-      {
-        "displayValue": "",
-        "logicalValue": ""
       }
     ],
     "sessionLanguage": [],
@@ -6372,12 +6750,12 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
         "displayValue": "Online",
         "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       },
       {
         "displayValue": "In-person",
@@ -6420,8 +6798,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Responsible AI",
-        "logicalValue": "Responsible AI"
+        "displayValue": "",
+        "logicalValue": ""
       }
     ],
     "levels": [
@@ -6441,12 +6819,67 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1765218251886001JtE2",
+    "speakerId": "1768245294609build26-1765218251886001JtE2",
+    "firstName": "Srikanth",
+    "lastName": "Ramakrishnan",
+    "displayName": "Srikanth Ramakrishnan",
+    "jobTitle": "Sr. Director, Commercial Data Science & AI Core",
+    "company": "Johnson and Johnson",
+    "bio": "As Sr. Director of Data Science & AI Core in Johnson & Johnson Pharmaceuticals, I steer our organizational vision, strategy, and portfolio of our AI capabilities, as we champion the adoption and scale of the latest generation of agentic AI and data science in J&J Innovative Medicine.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1765218251886001JtE2/attprofile/Sri%20Headshot2_1776083322057001p0YF.png",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018712707001rIUj"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
       }
     ],
+    "topic": [
+      {
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -6490,8 +6923,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Windows",
-        "logicalValue": "Windows"
+        "displayValue": "Window",
+        "logicalValue": "Window"
       }
     ],
     "levels": [
@@ -6506,12 +6939,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -6551,8 +6979,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
@@ -6567,12 +6995,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -6616,8 +7039,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
@@ -6637,12 +7060,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -6686,8 +7104,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [
@@ -6702,12 +7120,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -6751,8 +7164,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [
@@ -6767,12 +7180,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -6816,8 +7224,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Working with Models",
-        "logicalValue": "Working with Models"
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
       }
     ],
     "levels": [
@@ -6832,12 +7240,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -6879,7 +7282,12 @@
         "logicalValue": "Keynote"
       }
     ],
-    "topic": [],
+    "topic": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "levels": [
       {
         "displayValue": "(200) Intermediate",
@@ -6892,12 +7300,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -6941,8 +7344,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [
@@ -6957,12 +7360,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -6993,9 +7391,9 @@
     "website": "",
     "sessionsPresenting": [
       "en-US-1776352246322001HrUv",
-      "en-US-1776352569123001PtCu",
+      "en-US-1774018706600001rvpY",
       "en-US-1776352494301001L5z6",
-      "en-US-1774018706600001rvpY"
+      "en-US-1776352569123001PtCu"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -7021,20 +7419,20 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       },
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       },
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       },
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
@@ -7062,10 +7460,6 @@
     "theme": [],
     "solutionArea": [],
     "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      },
       {
         "displayValue": "",
         "logicalValue": ""
@@ -7116,11 +7510,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018714998001rxIG",
-      "en-US-1774018713721001rm1f",
-      "en-US-1776360092302001Lhai",
       "en-US-1774018712707001rIUj",
       "en-US-1776360031907001bykn",
+      "en-US-1774018714998001rxIG",
+      "en-US-1776360092302001Lhai",
       "en-US-1776359982094001PTZO"
     ],
     "langLocale": "en-US",
@@ -7129,20 +7522,16 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
-      },
-      {
-        "displayValue": "Demo",
-        "logicalValue": "Demo"
-      },
-      {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
-      },
-      {
         "displayValue": "Breakout",
         "logicalValue": "Breakout"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
       },
       {
         "displayValue": "Lab",
@@ -7155,36 +7544,28 @@
     ],
     "topic": [
       {
-        "displayValue": "Working with Models",
-        "logicalValue": "Working with Models"
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
       },
       {
-        "displayValue": "Working with Models",
-        "logicalValue": "Working with Models"
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
       },
       {
-        "displayValue": "Working with Models",
-        "logicalValue": "Working with Models"
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
       },
       {
-        "displayValue": "Model Training",
-        "logicalValue": "Model Training"
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
       },
       {
-        "displayValue": "Working with Models",
-        "logicalValue": "Working with Models"
-      },
-      {
-        "displayValue": "Working with Models",
-        "logicalValue": "Working with Models"
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
       }
     ],
     "levels": [
       {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      },
-      {
         "displayValue": "(200) Intermediate",
         "logicalValue": "(200) Intermediate"
       },
@@ -7193,8 +7574,8 @@
         "logicalValue": "(300) Advanced"
       },
       {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
       },
       {
         "displayValue": "(300) Advanced",
@@ -7223,18 +7604,6 @@
       {
         "displayValue": "",
         "logicalValue": ""
-      },
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      },
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      },
-      {
-        "displayValue": "",
-        "logicalValue": ""
       }
     ],
     "sessionLanguage": [],
@@ -7244,10 +7613,6 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
         "displayValue": "Online",
         "logicalValue": "Online"
       },
@@ -7258,10 +7623,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       },
       {
         "displayValue": "In-person",
@@ -7290,8 +7651,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018710246001rN7y",
-      "en-US-1774018708754001rO1v"
+      "en-US-1774018708754001rO1v",
+      "en-US-1774018710246001rN7y"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -7299,32 +7660,32 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Demo",
-        "logicalValue": "Demo"
-      },
-      {
         "displayValue": "Breakout",
         "logicalValue": "Breakout"
+      },
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
       }
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       },
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
       {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      },
-      {
         "displayValue": "(400) Expert",
         "logicalValue": "(400) Expert"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
       }
     ],
     "programmingLanguages": [],
@@ -7333,16 +7694,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      },
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -7394,8 +7746,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Windows",
-        "logicalValue": "Windows"
+        "displayValue": "Window",
+        "logicalValue": "Window"
       }
     ],
     "levels": [
@@ -7406,8 +7758,8 @@
     ],
     "programmingLanguages": [
       {
-        "displayValue": "C",
-        "logicalValue": "C"
+        "displayValue": "C#",
+        "logicalValue": "C#"
       }
     ],
     "solutions": [],
@@ -7445,10 +7797,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018719535001roIg",
+      "en-US-1776362026778001xCDa",
       "en-US-1776362098748001Dfgl",
-      "en-US-1776361968786001ZRmb",
-      "en-US-1776362026778001xCDa"
+      "en-US-1774018719535001roIg",
+      "en-US-1776361968786001ZRmb"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -7474,20 +7826,20 @@
     ],
     "topic": [
       {
-        "displayValue": "Windows",
-        "logicalValue": "Windows"
+        "displayValue": "Window",
+        "logicalValue": "Window"
       },
       {
-        "displayValue": "Windows",
-        "logicalValue": "Windows"
+        "displayValue": "Window",
+        "logicalValue": "Window"
       },
       {
-        "displayValue": "Windows",
-        "logicalValue": "Windows"
+        "displayValue": "Window",
+        "logicalValue": "Window"
       },
       {
-        "displayValue": "Windows",
-        "logicalValue": "Windows"
+        "displayValue": "Window",
+        "logicalValue": "Window"
       }
     ],
     "levels": [
@@ -7520,10 +7872,6 @@
     "theme": [],
     "solutionArea": [],
     "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      },
       {
         "displayValue": "",
         "logicalValue": ""
@@ -7588,8 +7936,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Model Training",
-        "logicalValue": "Model Training"
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
       }
     ],
     "levels": [
@@ -7604,12 +7952,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -7637,6 +7980,7 @@
     "sessionsPresenting": [
       "en-US-1774304130264001mWLS",
       "en-US-1776358450469001HOyx",
+      "en-US-1776356807542001Ld5F",
       "en-US-1776358396196001XdQD"
     ],
     "langLocale": "en-US",
@@ -7655,23 +7999,35 @@
       {
         "displayValue": "Lab",
         "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
       }
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       },
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       },
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
+      },
+      {
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
       {
         "displayValue": "(300) Advanced",
         "logicalValue": "(300) Advanced"
@@ -7699,14 +8055,14 @@
       {
         "displayValue": "",
         "logicalValue": ""
-      },
-      {
-        "displayValue": "",
-        "logicalValue": ""
       }
     ],
     "sessionLanguage": [],
     "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
@@ -7752,11 +8108,106 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775753765323001hzD2",
+    "speakerId": "1768245294609build26-1775753765323001hzD2",
+    "firstName": "Tiago",
+    "lastName": "Pascoal",
+    "displayName": "Tiago Pascoal",
+    "jobTitle": "DevOps Architect",
+    "company": "GitHub",
+    "bio": "DevOps Architect at GitHub, formerly at Microsoft. Microsoft MVP (2008–2017) and Visual Studio ALM Ranger. 25+ years of experience in software development methodologies and application lifecycle management.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775753765323001hzD2/attprofile/gh-avatar_1776115381983001yXvY.png",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/tiagopascoal/",
+    "gitHub": "tspascoal",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1776359255833001PeKh",
+      "en-US-1774018711063001rGl0",
+      "en-US-1776359309310001HGOK",
+      "en-US-1776359208408001Ltgx"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
+      },
+      {
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
+      },
+      {
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
+      },
+      {
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
       {
         "displayValue": "(300) Advanced",
         "logicalValue": "(300) Advanced"
@@ -7772,10 +8223,30 @@
       {
         "displayValue": "",
         "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
       }
     ],
     "sessionLanguage": [],
     "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
@@ -7813,8 +8284,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [],
@@ -7824,12 +8295,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -7873,8 +8339,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [
@@ -7889,12 +8355,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -7934,8 +8395,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
@@ -7950,12 +8411,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -7995,11 +8451,16 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
-    "levels": [],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
     "programmingLanguages": [],
     "solutions": [],
     "communityTopic": [],
@@ -8046,8 +8507,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
@@ -8062,12 +8523,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -8107,8 +8563,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
@@ -8123,12 +8579,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -8158,9 +8609,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
+      "en-US-1774018709436001rrGK",
       "en-US-1774018712237001rLex",
-      "en-US-1774018709769001rxEg",
-      "en-US-1774018709436001rrGK"
+      "en-US-1774018709769001rxEg"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -8168,33 +8619,37 @@
     "ogDescription": "",
     "sessionTypes": [
       {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      {
         "displayValue": "Lightning Talk",
         "logicalValue": "Lightning Talk"
       },
       {
         "displayValue": "Demo",
         "logicalValue": "Demo"
-      },
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
       }
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       },
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       },
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
       {
         "displayValue": "(200) Intermediate",
         "logicalValue": "(200) Intermediate"
@@ -8202,10 +8657,6 @@
       {
         "displayValue": "(400) Expert",
         "logicalValue": "(400) Expert"
-      },
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
       }
     ],
     "programmingLanguages": [],
@@ -8214,20 +8665,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      },
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      },
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -8235,12 +8673,12 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
         "displayValue": "Online",
         "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       },
       {
         "displayValue": "In-person",
@@ -8283,8 +8721,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [
@@ -8299,12 +8737,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -8348,8 +8781,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
@@ -8364,12 +8797,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -8409,8 +8837,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [
@@ -8425,12 +8853,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -8474,8 +8897,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
@@ -8490,12 +8913,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -8539,8 +8957,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [
@@ -8555,7 +8973,110 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776124361982001jjff",
+    "speakerId": "1768245294609build26-1776124361982001jjff",
+    "firstName": "Toby",
+    "lastName": "Padilla",
+    "displayName": "Toby Padilla",
+    "jobTitle": "Principal Product Manager",
+    "company": "GitHub",
+    "bio": "I'm Toby and I'm a Principal Product Manager at GitHub. I think using computers should be fun and empowering! I previously founded Charm and Musicmobs, and was the head of mobile at TweetDeck and Last.fm. Way back in the day I was a WebObjects developer at Apple. I also enjoy hobby churn and teaching street cats to be pretty decent roommates.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776124361982001jjff/attprofile/avatar-450_1776215701423001xR0K.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/tobypadilla/",
+    "gitHub": "toby",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018710738001rCVC",
+      "en-US-1776358861989001xLtg",
+      "en-US-1776358774912001CUxy",
+      "en-US-1776358909696001FtYf"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
+      },
+      {
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
+      },
+      {
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
+      },
+      {
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
     "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
       {
         "displayValue": "",
         "logicalValue": ""
@@ -8563,6 +9084,18 @@
     ],
     "sessionLanguage": [],
     "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
@@ -8600,8 +9133,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
@@ -8616,12 +9149,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -8661,8 +9189,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
@@ -8677,12 +9205,67 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776443914478001L3uX",
+    "speakerId": "1768245294609build26-1776443914478001L3uX",
+    "firstName": "Sunitha",
+    "lastName": "Muthukrishna",
+    "displayName": "Sunitha Muthukrishna",
+    "jobTitle": "",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018706286001rYPi"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
       }
     ],
+    "topic": [
+      {
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -8726,8 +9309,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
@@ -8742,12 +9325,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -8791,8 +9369,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [
@@ -8807,12 +9385,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -8856,8 +9429,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [
@@ -8872,12 +9445,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -8921,8 +9489,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
@@ -8937,12 +9505,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -8972,8 +9535,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776361410272001Daog",
       "en-US-1776361357242001qdUU",
+      "en-US-1776361410272001Daog",
+      "en-US-1776361505443001EPkN",
       "en-US-1774018717379001rjIM"
     ],
     "langLocale": "en-US",
@@ -8992,23 +9556,35 @@
       {
         "displayValue": "Lab",
         "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
       }
     ],
     "topic": [
       {
-        "displayValue": "Responsible AI",
-        "logicalValue": "Responsible AI"
+        "displayValue": "",
+        "logicalValue": ""
       },
       {
-        "displayValue": "Responsible AI",
-        "logicalValue": "Responsible AI"
+        "displayValue": "",
+        "logicalValue": ""
       },
       {
-        "displayValue": "Responsible AI",
-        "logicalValue": "Responsible AI"
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
       }
     ],
     "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
       {
         "displayValue": "(300) Advanced",
         "logicalValue": "(300) Advanced"
@@ -9044,6 +9620,10 @@
     ],
     "sessionLanguage": [],
     "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
@@ -9076,8 +9656,8 @@
     "website": "",
     "sessionsPresenting": [
       "en-US-1774018710899001rSa9",
-      "en-US-1776359074567001kHS1",
       "en-US-1776358971772001LFiZ",
+      "en-US-1776359074567001kHS1",
       "en-US-1776359029094001ZbMV"
     ],
     "langLocale": "en-US",
@@ -9104,20 +9684,20 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       },
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       },
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       },
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
@@ -9145,10 +9725,6 @@
     "theme": [],
     "solutionArea": [],
     "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      },
       {
         "displayValue": "",
         "logicalValue": ""
@@ -9199,8 +9775,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018708407001rAVo",
-      "en-US-1774018711903001rZpY"
+      "en-US-1774018711903001rZpY",
+      "en-US-1774018708407001rAVo"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -9208,22 +9784,22 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      },
-      {
         "displayValue": "Lightning Talk",
         "logicalValue": "Lightning Talk"
+      },
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
       }
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       },
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
@@ -9242,16 +9818,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      },
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -9259,12 +9826,12 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      },
-      {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       }
     ]
   },
@@ -9299,8 +9866,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
@@ -9315,12 +9882,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -9364,8 +9926,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
@@ -9380,12 +9942,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -9434,12 +9991,12 @@
     ],
     "topic": [
       {
-        "displayValue": "Windows",
-        "logicalValue": "Windows"
+        "displayValue": "Window",
+        "logicalValue": "Window"
       },
       {
-        "displayValue": "Windows",
-        "logicalValue": "Windows"
+        "displayValue": "Window",
+        "logicalValue": "Window"
       }
     ],
     "levels": [
@@ -9467,12 +10024,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -9520,8 +10072,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [
@@ -9580,8 +10132,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
@@ -9596,12 +10148,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -9611,6 +10158,62 @@
       {
         "displayValue": "Online",
         "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776076731812001gK5F",
+    "speakerId": "1768245294609build26-1776076731812001gK5F",
+    "firstName": "Patrick Brown",
+    "lastName": "Brown",
+    "displayName": "Patrick Brown Brown",
+    "jobTitle": "Founder",
+    "company": "CopyFlag",
+    "bio": "Microsoft Imagine Cup Finalist and Founder of CopyFlag, building AI-powered tools to help creators detect and act on AI-modified copyright infringement.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776076731812001gK5F/attprofile/microsoft%20build_1776077203486001VEFs.png",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/patrick-brown8",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774050911164001k5R0"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   },
@@ -9645,8 +10248,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Responsible AI",
-        "logicalValue": "Responsible AI"
+        "displayValue": "",
+        "logicalValue": ""
       }
     ],
     "levels": [
@@ -9661,12 +10264,7 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -9682,13 +10280,13 @@
     "firstName": "Freek",
     "lastName": "Berson",
     "displayName": "Freek Berson",
-    "jobTitle": "",
+    "jobTitle": "Principal Product manager | Microsoft MVP",
     "company": "Parallels",
-    "bio": "",
-    "photo": "",
-    "twitter": "",
-    "linkedIn": "",
-    "gitHub": "",
+    "bio": "Freek Berson is a Microsoft MVP since 2011 and a Principal Product Manager at Parallels. He is a frequent speaker at global conferences, authored the book Getting Started with Bicep, and focuses on Infrastructure as Code and End User Computing.",
+    "photo": "https://eventtools.event.microsoft.com/build2026-prod/w326_1ef42947-714b-4f9a-84ec-6e1fa4beae15.png?1776926607434",
+    "twitter": "https://www.x.com/fberson",
+    "linkedIn": "https://www.linkedin.com/in/freekberson/",
+    "gitHub": "fberson",
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
@@ -9711,12 +10309,12 @@
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       },
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
@@ -9736,10 +10334,6 @@
     "theme": [],
     "solutionArea": [],
     "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      },
       {
         "displayValue": "",
         "logicalValue": ""
@@ -9778,8 +10372,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776293115454001KHxE",
-      "en-US-1776290371737001Dgv0"
+      "en-US-1776290371737001Dgv0",
+      "en-US-1776293115454001KHxE"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -9787,22 +10381,22 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Lightning Talk",
-        "logicalValue": "Lightning Talk"
-      },
-      {
         "displayValue": "Demo",
         "logicalValue": "Demo"
+      },
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
       }
     ],
     "topic": [
       {
-        "displayValue": "Cloud Platform & Data",
-        "logicalValue": "Cloud Platform & Data"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       },
       {
-        "displayValue": "Developer Tools & Frameworks",
-        "logicalValue": "Developer Tools & Frameworks"
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
@@ -9825,10 +10419,6 @@
       {
         "displayValue": "",
         "logicalValue": ""
-      },
-      {
-        "displayValue": "",
-        "logicalValue": ""
       }
     ],
     "sessionLanguage": [],
@@ -9838,12 +10428,12 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
         "displayValue": "Online",
         "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   },
@@ -9878,8 +10468,8 @@
     ],
     "topic": [
       {
-        "displayValue": "Agents & Apps",
-        "logicalValue": "Agents & Apps"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "levels": [
