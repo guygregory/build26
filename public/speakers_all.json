@@ -558,9 +558,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
+      "en-US-1776359309310001HGOK",
       "en-US-1776359208408001Ltgx",
       "en-US-1776359255833001PeKh",
-      "en-US-1776359309310001HGOK",
       "en-US-1774018711063001rGl0"
     ],
     "langLocale": "en-US",
@@ -907,10 +907,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776352984417001WH5S",
       "en-US-1776353082847001qHtf",
       "en-US-1776352900455001EisK",
-      "en-US-1774018706761001rzGW"
+      "en-US-1774018706761001rzGW",
+      "en-US-1776352984417001WH5S"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -1031,11 +1031,11 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776361410272001Daog",
       "en-US-1774018716883001rHBl",
-      "en-US-1774018717379001rjIM",
       "en-US-1776361357242001qdUU",
-      "en-US-1776361505443001EPkN"
+      "en-US-1776361505443001EPkN",
+      "en-US-1774018717379001rjIM",
+      "en-US-1776361410272001Daog"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -1043,12 +1043,12 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
-      },
-      {
         "displayValue": "Breakout",
         "logicalValue": "Breakout"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
       },
       {
         "displayValue": "Lab",
@@ -1065,20 +1065,20 @@
     ],
     "topic": [
       {
-        "displayValue": "",
-        "logicalValue": ""
-      },
-      {
-        "displayValue": "Responsible AI",
-        "logicalValue": "Responsible AI"
-      },
-      {
         "displayValue": "Responsible AI",
         "logicalValue": "Responsible AI"
       },
       {
         "displayValue": "",
         "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "Responsible AI",
+        "logicalValue": "Responsible AI"
       },
       {
         "displayValue": "",
@@ -1121,12 +1121,12 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
         "displayValue": "Online",
         "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       },
       {
         "displayValue": "In-person",
@@ -1159,8 +1159,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018715938001rF6X",
-      "en-US-1774018714376001r0Qn"
+      "en-US-1774018714376001r0Qn",
+      "en-US-1774018715938001rF6X"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -1168,12 +1168,12 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Lightning Talk",
-        "logicalValue": "Lightning Talk"
-      },
-      {
         "displayValue": "Demo",
         "logicalValue": "Demo"
+      },
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
       }
     ],
     "topic": [
@@ -1188,12 +1188,12 @@
     ],
     "levels": [
       {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      },
-      {
         "displayValue": "(100) Foundational",
         "logicalValue": "(100) Foundational"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
       }
     ],
     "programmingLanguages": [],
@@ -1210,12 +1210,12 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
         "displayValue": "Online",
         "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   },
@@ -1236,10 +1236,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
+      "en-US-1774018719535001roIg",
       "en-US-1776362098748001Dfgl",
-      "en-US-1776362026778001xCDa",
       "en-US-1776361968786001ZRmb",
-      "en-US-1774018719535001roIg"
+      "en-US-1776362026778001xCDa"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -1528,8 +1528,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776293184274001L59w",
-      "en-US-1774493285851001kTlq"
+      "en-US-1774493285851001kTlq",
+      "en-US-1776293184274001L59w"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -1537,22 +1537,22 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Lightning Talk",
-        "logicalValue": "Lightning Talk"
-      },
-      {
         "displayValue": "Table Talk",
         "logicalValue": "Table Talk"
+      },
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
       }
     ],
     "topic": [
       {
-        "displayValue": "Cloud platform & data",
-        "logicalValue": "Cloud platform & data"
-      },
-      {
         "displayValue": "",
         "logicalValue": ""
+      },
+      {
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
@@ -1602,11 +1602,11 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776359808899001Crgd",
-      "en-US-1774018711414001rPGE",
-      "en-US-1774018714689001r71M",
       "en-US-1776359765604001WmQt",
-      "en-US-1776359702025001LwJ7"
+      "en-US-1774018714689001r71M",
+      "en-US-1776359808899001Crgd",
+      "en-US-1776359702025001LwJ7",
+      "en-US-1774018711414001rPGE"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -1618,20 +1618,20 @@
         "logicalValue": "Lab"
       },
       {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
         "displayValue": "Lightning Talk",
         "logicalValue": "Lightning Talk"
-      },
-      {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
-      },
-      {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
-      },
-      {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
       }
     ],
     "topic": [
@@ -1640,20 +1640,20 @@
         "logicalValue": "Working with models"
       },
       {
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
+      },
+      {
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
+      },
+      {
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
+      },
+      {
         "displayValue": "Developer tools & frameworks",
         "logicalValue": "Developer tools & frameworks"
-      },
-      {
-        "displayValue": "Working with models",
-        "logicalValue": "Working with models"
-      },
-      {
-        "displayValue": "Working with models",
-        "logicalValue": "Working with models"
-      },
-      {
-        "displayValue": "Working with models",
-        "logicalValue": "Working with models"
       }
     ],
     "levels": [
@@ -1662,20 +1662,20 @@
         "logicalValue": "(300) Advanced"
       },
       {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
         "displayValue": "(200) Intermediate",
         "logicalValue": "(200) Intermediate"
-      },
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      },
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      },
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
       }
     ],
     "programmingLanguages": [],
@@ -1726,8 +1726,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774493198891001nuuk",
-      "en-US-1774018718648001rUpo"
+      "en-US-1774018718648001rUpo",
+      "en-US-1774493198891001nuuk"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -1735,12 +1735,12 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Table Talk",
-        "logicalValue": "Table Talk"
-      },
-      {
         "displayValue": "Breakout",
         "logicalValue": "Breakout"
+      },
+      {
+        "displayValue": "Table Talk",
+        "logicalValue": "Table Talk"
       }
     ],
     "topic": [
@@ -1755,12 +1755,12 @@
     ],
     "levels": [
       {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      },
-      {
         "displayValue": "(300) Advanced",
         "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
       }
     ],
     "programmingLanguages": [],
@@ -1786,12 +1786,12 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
         "displayValue": "Online",
         "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   },
@@ -1812,9 +1812,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776352166471001LgaH",
       "en-US-1776351873525001qXtv",
       "en-US-1774017128575001xSbY",
+      "en-US-1776352166471001LgaH",
       "en-US-1776351995050001EpMc"
     ],
     "langLocale": "en-US",
@@ -2118,9 +2118,9 @@
     "website": "",
     "sessionsPresenting": [
       "en-US-1776360405653001aIr8",
+      "en-US-1776360366067001DqfL",
       "en-US-1774018702532001rk3p",
-      "en-US-1776360325086001HnPa",
-      "en-US-1776360366067001DqfL"
+      "en-US-1776360325086001HnPa"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -2543,9 +2543,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018710899001rSa9",
       "en-US-1776359074567001kHS1",
       "en-US-1776358971772001LFiZ",
+      "en-US-1774018710899001rSa9",
       "en-US-1776359029094001ZbMV"
     ],
     "langLocale": "en-US",
@@ -2886,8 +2886,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018709927001rbcd",
-      "en-US-1774018710574001rWWg"
+      "en-US-1774018710574001rWWg",
+      "en-US-1774018709927001rbcd"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -2915,12 +2915,12 @@
     ],
     "levels": [
       {
-        "displayValue": "(400) Expert",
-        "logicalValue": "(400) Expert"
-      },
-      {
         "displayValue": "(300) Advanced",
         "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(400) Expert",
+        "logicalValue": "(400) Expert"
       }
     ],
     "programmingLanguages": [],
@@ -2967,8 +2967,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776293541060001kUtB",
-      "en-US-1776293046515001L7PE"
+      "en-US-1776293046515001L7PE",
+      "en-US-1776293541060001kUtB"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -2986,22 +2986,22 @@
     ],
     "topic": [
       {
-        "displayValue": "Developer tools & frameworks",
-        "logicalValue": "Developer tools & frameworks"
-      },
-      {
         "displayValue": "Cloud platform & data",
         "logicalValue": "Cloud platform & data"
+      },
+      {
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "levels": [
       {
-        "displayValue": "(100) Foundational",
-        "logicalValue": "(100) Foundational"
-      },
-      {
         "displayValue": "(200) Intermediate",
         "logicalValue": "(200) Intermediate"
+      },
+      {
+        "displayValue": "(100) Foundational",
+        "logicalValue": "(100) Foundational"
       }
     ],
     "programmingLanguages": [],
@@ -3161,8 +3161,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018715626001rYEl",
-      "en-US-1774018716247001rclm"
+      "en-US-1774018716247001rclm",
+      "en-US-1774018715626001rYEl"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -3190,12 +3190,12 @@
     ],
     "levels": [
       {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      },
-      {
         "displayValue": "(300) Advanced",
         "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
       }
     ],
     "programmingLanguages": [],
@@ -3875,9 +3875,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776352166471001LgaH",
       "en-US-1776351873525001qXtv",
       "en-US-1774017128575001xSbY",
+      "en-US-1776352166471001LgaH",
       "en-US-1776351995050001EpMc"
     ],
     "langLocale": "en-US",
@@ -4315,8 +4315,8 @@
     "website": "",
     "sessionsPresenting": [
       "en-US-1776360817264001XOd9",
-      "en-US-1776361002095001Etx9",
       "en-US-1776360719583001Dofy",
+      "en-US-1776361002095001Etx9",
       "en-US-1774979447835001AKSK"
     ],
     "langLocale": "en-US",
@@ -5279,9 +5279,9 @@
     "website": "",
     "sessionsPresenting": [
       "en-US-1774304130264001mWLS",
-      "en-US-1776358450469001HOyx",
       "en-US-1776356807542001Ld5F",
-      "en-US-1776358396196001XdQD"
+      "en-US-1776358396196001XdQD",
+      "en-US-1776358450469001HOyx"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -5557,10 +5557,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776352246322001HrUv",
       "en-US-1776352569123001PtCu",
-      "en-US-1774018706600001rvpY",
-      "en-US-1776352494301001L5z6"
+      "en-US-1776352494301001L5z6",
+      "en-US-1776352246322001HrUv",
+      "en-US-1774018706600001rvpY"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -5664,10 +5664,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
+      "en-US-1774018710738001rCVC",
       "en-US-1776358861989001xLtg",
       "en-US-1776358909696001FtYf",
-      "en-US-1776358774912001CUxy",
-      "en-US-1774018710738001rCVC"
+      "en-US-1776358774912001CUxy"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -5832,9 +5832,9 @@
     "website": "",
     "sessionsPresenting": [
       "en-US-1776360031907001bykn",
+      "en-US-1776359982094001PTZO",
       "en-US-1776360092302001Lhai",
-      "en-US-1774018714998001rxIG",
-      "en-US-1776359982094001PTZO"
+      "en-US-1774018714998001rxIG"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -6054,8 +6054,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018711578001riff",
-      "en-US-1774018708407001rAVo"
+      "en-US-1774018708407001rAVo",
+      "en-US-1774018711578001riff"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -6063,12 +6063,12 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Lightning Talk",
-        "logicalValue": "Lightning Talk"
-      },
-      {
         "displayValue": "Breakout",
         "logicalValue": "Breakout"
+      },
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
       }
     ],
     "topic": [
@@ -6105,12 +6105,12 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
         "displayValue": "Online",
         "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   },
@@ -6192,8 +6192,8 @@
     "website": "",
     "sessionsPresenting": [
       "en-US-1776360817264001XOd9",
-      "en-US-1776361002095001Etx9",
       "en-US-1776360719583001Dofy",
+      "en-US-1776361002095001Etx9",
       "en-US-1774979447835001AKSK"
     ],
     "langLocale": "en-US",
@@ -6600,10 +6600,10 @@
     "website": "",
     "sessionsPresenting": [
       "en-US-1776360405653001aIr8",
+      "en-US-1776360366067001DqfL",
       "en-US-1774018702532001rk3p",
-      "en-US-1774018701742001rOMi",
       "en-US-1776360325086001HnPa",
-      "en-US-1776360366067001DqfL"
+      "en-US-1774018701742001rOMi"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -6619,16 +6619,16 @@
         "logicalValue": "Lab"
       },
       {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
         "displayValue": "Demo",
         "logicalValue": "Demo"
-      },
-      {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
-      },
-      {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
       }
     ],
     "topic": [
@@ -6714,16 +6714,16 @@
         "logicalValue": "In-person"
       },
       {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
         "displayValue": "Online",
         "logicalValue": "Online"
-      },
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
       }
     ]
   },
@@ -7355,10 +7355,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776352246322001HrUv",
       "en-US-1776352569123001PtCu",
-      "en-US-1774018706600001rvpY",
-      "en-US-1776352494301001L5z6"
+      "en-US-1776352494301001L5z6",
+      "en-US-1776352246322001HrUv",
+      "en-US-1774018706600001rvpY"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -7463,10 +7463,10 @@
     "website": "",
     "sessionsPresenting": [
       "en-US-1776360031907001bykn",
+      "en-US-1776359982094001PTZO",
       "en-US-1774018712707001rIUj",
       "en-US-1776360092302001Lhai",
-      "en-US-1774018714998001rxIG",
-      "en-US-1776359982094001PTZO"
+      "en-US-1774018714998001rxIG"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -7478,12 +7478,12 @@
         "logicalValue": "Lab"
       },
       {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      },
-      {
         "displayValue": "Lab",
         "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
       },
       {
         "displayValue": "Lab",
@@ -7522,12 +7522,12 @@
         "logicalValue": "(300) Advanced"
       },
       {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      },
-      {
         "displayValue": "(300) Advanced",
         "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
       },
       {
         "displayValue": "(300) Advanced",
@@ -7556,12 +7556,12 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      },
-      {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       },
       {
         "displayValue": "In-person",
@@ -7590,8 +7590,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018710246001rN7y",
-      "en-US-1774018708754001rO1v"
+      "en-US-1774018708754001rO1v",
+      "en-US-1774018710246001rN7y"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -7599,12 +7599,12 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Demo",
-        "logicalValue": "Demo"
-      },
-      {
         "displayValue": "Breakout",
         "logicalValue": "Breakout"
+      },
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
       }
     ],
     "topic": [
@@ -7619,12 +7619,12 @@
     ],
     "levels": [
       {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      },
-      {
         "displayValue": "(400) Expert",
         "logicalValue": "(400) Expert"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
       }
     ],
     "programmingLanguages": [],
@@ -7736,10 +7736,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
+      "en-US-1774018719535001roIg",
       "en-US-1776362098748001Dfgl",
-      "en-US-1776362026778001xCDa",
       "en-US-1776361968786001ZRmb",
-      "en-US-1774018719535001roIg"
+      "en-US-1776362026778001xCDa"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -7905,9 +7905,9 @@
     "website": "",
     "sessionsPresenting": [
       "en-US-1774304130264001mWLS",
-      "en-US-1776358450469001HOyx",
       "en-US-1776356807542001Ld5F",
-      "en-US-1776358396196001XdQD"
+      "en-US-1776358396196001XdQD",
+      "en-US-1776358450469001HOyx"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -8067,9 +8067,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
+      "en-US-1776359309310001HGOK",
       "en-US-1776359208408001Ltgx",
       "en-US-1776359255833001PeKh",
-      "en-US-1776359309310001HGOK",
       "en-US-1774018711063001rGl0"
     ],
     "langLocale": "en-US",
@@ -8903,10 +8903,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
+      "en-US-1774018710738001rCVC",
       "en-US-1776358861989001xLtg",
       "en-US-1776358909696001FtYf",
-      "en-US-1776358774912001CUxy",
-      "en-US-1774018710738001rCVC"
+      "en-US-1776358774912001CUxy"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -9426,10 +9426,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776361410272001Daog",
-      "en-US-1774018717379001rjIM",
       "en-US-1776361357242001qdUU",
-      "en-US-1776361505443001EPkN"
+      "en-US-1776361505443001EPkN",
+      "en-US-1774018717379001rjIM",
+      "en-US-1776361410272001Daog"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -9459,12 +9459,12 @@
         "logicalValue": ""
       },
       {
-        "displayValue": "Responsible AI",
-        "logicalValue": "Responsible AI"
-      },
-      {
         "displayValue": "",
         "logicalValue": ""
+      },
+      {
+        "displayValue": "Responsible AI",
+        "logicalValue": "Responsible AI"
       },
       {
         "displayValue": "",
@@ -9533,9 +9533,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018710899001rSa9",
       "en-US-1776359074567001kHS1",
       "en-US-1776358971772001LFiZ",
+      "en-US-1774018710899001rSa9",
       "en-US-1776359029094001ZbMV"
     ],
     "langLocale": "en-US",
@@ -9640,8 +9640,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018711903001rZpY",
-      "en-US-1774018708407001rAVo"
+      "en-US-1774018708407001rAVo",
+      "en-US-1774018711903001rZpY"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -9649,12 +9649,12 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Lightning Talk",
-        "logicalValue": "Lightning Talk"
-      },
-      {
         "displayValue": "Breakout",
         "logicalValue": "Breakout"
+      },
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
       }
     ],
     "topic": [
@@ -9691,12 +9691,12 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
         "displayValue": "Online",
         "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   },
