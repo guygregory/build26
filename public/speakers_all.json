@@ -443,7 +443,6 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018703795001rM81",
       "en-US-1774018716883001rHBl"
     ],
     "langLocale": "en-US",
@@ -452,19 +451,11 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Lightning Talk",
-        "logicalValue": "Lightning Talk"
-      },
-      {
         "displayValue": "Breakout",
         "logicalValue": "Breakout"
       }
     ],
     "topic": [
-      {
-        "displayValue": "Agents & apps",
-        "logicalValue": "Agents & apps"
-      },
       {
         "displayValue": "Responsible AI",
         "logicalValue": "Responsible AI"
@@ -485,10 +476,6 @@
     "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
@@ -576,10 +563,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776359309310001HGOK",
       "en-US-1776359208408001Ltgx",
       "en-US-1774018711063001rGl0",
-      "en-US-1776359255833001PeKh"
+      "en-US-1776359255833001PeKh",
+      "en-US-1776359309310001HGOK"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -935,10 +922,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776352984417001WH5S",
       "en-US-1776353082847001qHtf",
-      "en-US-1776352900455001EisK",
-      "en-US-1774018706761001rzGW"
+      "en-US-1774018706761001rzGW",
+      "en-US-1776352984417001WH5S",
+      "en-US-1776352900455001EisK"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -1279,8 +1266,8 @@
     "website": "",
     "sessionsPresenting": [
       "en-US-1774018719535001roIg",
-      "en-US-1776362098748001Dfgl",
       "en-US-1776361968786001ZRmb",
+      "en-US-1776362098748001Dfgl",
       "en-US-1776362026778001xCDa"
     ],
     "langLocale": "en-US",
@@ -1657,10 +1644,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018711414001rPGE",
+      "en-US-1776359808899001Crgd",
       "en-US-1774018714689001r71M",
       "en-US-1776359702025001LwJ7",
-      "en-US-1776359808899001Crgd",
+      "en-US-1774018711414001rPGE",
       "en-US-1776359765604001WmQt"
     ],
     "langLocale": "en-US",
@@ -1669,20 +1656,20 @@
     "ogDescription": "",
     "sessionTypes": [
       {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
         "displayValue": "Lightning Talk",
         "logicalValue": "Lightning Talk"
-      },
-      {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
-      },
-      {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
-      },
-      {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
       },
       {
         "displayValue": "Lab",
@@ -1691,20 +1678,20 @@
     ],
     "topic": [
       {
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
+      },
+      {
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
+      },
+      {
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
+      },
+      {
         "displayValue": "Developer tools & frameworks",
         "logicalValue": "Developer tools & frameworks"
-      },
-      {
-        "displayValue": "Working with models",
-        "logicalValue": "Working with models"
-      },
-      {
-        "displayValue": "Working with models",
-        "logicalValue": "Working with models"
-      },
-      {
-        "displayValue": "Working with models",
-        "logicalValue": "Working with models"
       },
       {
         "displayValue": "Working with models",
@@ -1713,20 +1700,20 @@
     ],
     "levels": [
       {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
         "displayValue": "(200) Intermediate",
         "logicalValue": "(200) Intermediate"
-      },
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      },
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      },
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
       },
       {
         "displayValue": "(300) Advanced",
@@ -1786,8 +1773,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774493198891001nuuk",
-      "en-US-1774018718648001rUpo"
+      "en-US-1774018718648001rUpo",
+      "en-US-1774493198891001nuuk"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -1795,12 +1782,12 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Table Talk",
-        "logicalValue": "Table Talk"
-      },
-      {
         "displayValue": "Breakout",
         "logicalValue": "Breakout"
+      },
+      {
+        "displayValue": "Table Talk",
+        "logicalValue": "Table Talk"
       }
     ],
     "topic": [
@@ -1815,12 +1802,12 @@
     ],
     "levels": [
       {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      },
-      {
         "displayValue": "(300) Advanced",
         "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
       }
     ],
     "programmingLanguages": [],
@@ -1846,12 +1833,12 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
         "displayValue": "Online",
         "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   },
@@ -1872,9 +1859,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776351873525001qXtv",
-      "en-US-1774017128575001xSbY",
       "en-US-1776352166471001LgaH",
+      "en-US-1774017128575001xSbY",
+      "en-US-1776351873525001qXtv",
       "en-US-1776351995050001EpMc"
     ],
     "langLocale": "en-US",
@@ -2191,9 +2178,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776360325086001HnPa",
       "en-US-1776360405653001aIr8",
       "en-US-1774018702532001rk3p",
+      "en-US-1776360325086001HnPa",
       "en-US-1776360366067001DqfL"
     ],
     "langLocale": "en-US",
@@ -2632,9 +2619,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
+      "en-US-1774018710899001rSa9",
       "en-US-1776358971772001LFiZ",
       "en-US-1776359074567001kHS1",
-      "en-US-1774018710899001rSa9",
       "en-US-1776359029094001ZbMV"
     ],
     "langLocale": "en-US",
@@ -2748,7 +2735,11 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018704951001rHLF"
+      "en-US-1777582507758001uo3n",
+      "en-US-1774018704951001rHLF",
+      "en-US-1777582571352001yzY4",
+      "en-US-1777582642663001tz4F",
+      "en-US-1777471719673001KaB5"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -2756,11 +2747,43 @@
     "ogDescription": "",
     "sessionTypes": [
       {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
         "displayValue": "Breakout",
         "logicalValue": "Breakout"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
       }
     ],
     "topic": [
+      {
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
+      },
+      {
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
+      },
+      {
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
+      },
+      {
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
+      },
       {
         "displayValue": "Cloud platform & data",
         "logicalValue": "Cloud platform & data"
@@ -2778,7 +2801,24 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -2786,8 +2826,24 @@
         "logicalValue": "In-person"
       },
       {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
         "displayValue": "Online",
         "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   },
@@ -3060,13 +3116,13 @@
     "firstName": "Julio",
     "lastName": "Arruda",
     "displayName": "Julio Arruda",
-    "jobTitle": "",
+    "jobTitle": "Wynxx Chief Architect & GenAI Leader",
     "company": "GFT Technologies",
-    "bio": "",
-    "photo": "https://eventtools.event.microsoft.com/build2026-prod/w326_c7433df7-bd3a-40e0-934e-de771c55cdaf.png?1776903209610",
+    "bio": "Chief Architect & GenAI Leader | Enterprise AI at Scale | 10x Microsoft MVP | First Brazilian GitHub Star | LinkedIn Official Instructor.",
+    "photo": "https://eventtools.event.microsoft.com/build2026-prod/w326_c7433df7-bd3a-40e0-934e-de771c55cdaf.png?1777559214011",
     "twitter": "",
-    "linkedIn": "",
-    "gitHub": "",
+    "linkedIn": "https://www.linkedin.com/in/julioarrudac",
+    "gitHub": "julioarruda",
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
@@ -4071,9 +4127,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776351873525001qXtv",
-      "en-US-1774017128575001xSbY",
       "en-US-1776352166471001LgaH",
+      "en-US-1774017128575001xSbY",
+      "en-US-1776351873525001qXtv",
       "en-US-1776351995050001EpMc"
     ],
     "langLocale": "en-US",
@@ -4519,8 +4575,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776361002095001Etx9",
       "en-US-1776360817264001XOd9",
+      "en-US-1776361002095001Etx9",
       "en-US-1774979447835001AKSK",
       "en-US-1776360719583001Dofy"
     ],
@@ -5232,8 +5288,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774493198891001nuuk",
-      "en-US-1774018718648001rUpo"
+      "en-US-1774018718648001rUpo",
+      "en-US-1774493198891001nuuk"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -5241,12 +5297,12 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Table Talk",
-        "logicalValue": "Table Talk"
-      },
-      {
         "displayValue": "Breakout",
         "logicalValue": "Breakout"
+      },
+      {
+        "displayValue": "Table Talk",
+        "logicalValue": "Table Talk"
       }
     ],
     "topic": [
@@ -5261,12 +5317,12 @@
     ],
     "levels": [
       {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      },
-      {
         "displayValue": "(300) Advanced",
         "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
       }
     ],
     "programmingLanguages": [],
@@ -5292,12 +5348,12 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
         "displayValue": "Online",
         "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   },
@@ -5625,8 +5681,8 @@
     "website": "",
     "sessionsPresenting": [
       "en-US-1774304130264001mWLS",
-      "en-US-1776358450469001HOyx",
       "en-US-1776356807542001Ld5F",
+      "en-US-1776358450469001HOyx",
       "en-US-1776358396196001XdQD"
     ],
     "langLocale": "en-US",
@@ -6037,9 +6093,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776358861989001xLtg",
-      "en-US-1776358909696001FtYf",
       "en-US-1774018710738001rCVC",
+      "en-US-1776358909696001FtYf",
+      "en-US-1776358861989001xLtg",
       "en-US-1776358774912001CUxy"
     ],
     "langLocale": "en-US",
@@ -6149,7 +6205,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018704951001rHLF"
+      "en-US-1774018704951001rHLF",
+      "en-US-1774493196541001nku3"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -6159,9 +6216,17 @@
       {
         "displayValue": "Breakout",
         "logicalValue": "Breakout"
+      },
+      {
+        "displayValue": "Table Talk",
+        "logicalValue": "Table Talk"
       }
     ],
     "topic": [
+      {
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
+      },
       {
         "displayValue": "Cloud platform & data",
         "logicalValue": "Cloud platform & data"
@@ -6171,6 +6236,10 @@
       {
         "displayValue": "(300) Advanced",
         "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
       }
     ],
     "programmingLanguages": [],
@@ -6179,7 +6248,12 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -6189,6 +6263,10 @@
       {
         "displayValue": "Online",
         "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   },
@@ -6210,8 +6288,8 @@
     "website": "",
     "sessionsPresenting": [
       "en-US-1776360031907001bykn",
-      "en-US-1776360092302001Lhai",
       "en-US-1774018714998001rxIG",
+      "en-US-1776360092302001Lhai",
       "en-US-1776359982094001PTZO"
     ],
     "langLocale": "en-US",
@@ -6588,8 +6666,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776361002095001Etx9",
       "en-US-1776360817264001XOd9",
+      "en-US-1776361002095001Etx9",
       "en-US-1774979447835001AKSK",
       "en-US-1776360719583001Dofy"
     ],
@@ -7103,10 +7181,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776360325086001HnPa",
       "en-US-1776360405653001aIr8",
-      "en-US-1774018701742001rOMi",
       "en-US-1774018702532001rk3p",
+      "en-US-1774018701742001rOMi",
+      "en-US-1776360325086001HnPa",
       "en-US-1776360366067001DqfL"
     ],
     "langLocale": "en-US",
@@ -7534,6 +7612,62 @@
       {
         "displayValue": "Online",
         "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775094106472001eWz6",
+    "speakerId": "1768245294609build26-1775094106472001eWz6",
+    "firstName": "Aman",
+    "lastName": "Singh",
+    "displayName": "Aman Singh",
+    "jobTitle": "Principal Software Engineer",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "amansinghoriginal",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018708081001rhQb"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   },
@@ -8087,10 +8221,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018712707001rIUj",
       "en-US-1776360031907001bykn",
-      "en-US-1776360092302001Lhai",
+      "en-US-1774018712707001rIUj",
       "en-US-1774018714998001rxIG",
+      "en-US-1776360092302001Lhai",
       "en-US-1776359982094001PTZO"
     ],
     "langLocale": "en-US",
@@ -8099,12 +8233,12 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      },
-      {
         "displayValue": "Lab",
         "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
       },
       {
         "displayValue": "Lab",
@@ -8143,12 +8277,12 @@
     ],
     "levels": [
       {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      },
-      {
         "displayValue": "(300) Advanced",
         "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
       },
       {
         "displayValue": "(300) Advanced",
@@ -8186,12 +8320,12 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      },
-      {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       },
       {
         "displayValue": "In-person",
@@ -8224,8 +8358,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018710246001rN7y",
-      "en-US-1774018708754001rO1v"
+      "en-US-1774018708754001rO1v",
+      "en-US-1774018710246001rN7y"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -8233,12 +8367,12 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Demo",
-        "logicalValue": "Demo"
-      },
-      {
         "displayValue": "Breakout",
         "logicalValue": "Breakout"
+      },
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
       }
     ],
     "topic": [
@@ -8253,12 +8387,12 @@
     ],
     "levels": [
       {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      },
-      {
         "displayValue": "(400) Expert",
         "logicalValue": "(400) Expert"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
       }
     ],
     "programmingLanguages": [],
@@ -8371,8 +8505,8 @@
     "website": "",
     "sessionsPresenting": [
       "en-US-1774018719535001roIg",
-      "en-US-1776362098748001Dfgl",
       "en-US-1776361968786001ZRmb",
+      "en-US-1776362098748001Dfgl",
       "en-US-1776362026778001xCDa"
     ],
     "langLocale": "en-US",
@@ -8553,8 +8687,8 @@
     "website": "",
     "sessionsPresenting": [
       "en-US-1774304130264001mWLS",
-      "en-US-1776358450469001HOyx",
       "en-US-1776356807542001Ld5F",
+      "en-US-1776358450469001HOyx",
       "en-US-1776358396196001XdQD"
     ],
     "langLocale": "en-US",
@@ -8733,10 +8867,10 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776359309310001HGOK",
       "en-US-1776359208408001Ltgx",
       "en-US-1774018711063001rGl0",
-      "en-US-1776359255833001PeKh"
+      "en-US-1776359255833001PeKh",
+      "en-US-1776359309310001HGOK"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -9200,8 +9334,8 @@
     "website": "",
     "sessionsPresenting": [
       "en-US-1774018709436001rrGK",
-      "en-US-1774018712237001rLex",
-      "en-US-1774018709769001rxEg"
+      "en-US-1774018709769001rxEg",
+      "en-US-1774018712237001rLex"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -9213,12 +9347,12 @@
         "logicalValue": "Breakout"
       },
       {
-        "displayValue": "Lightning Talk",
-        "logicalValue": "Lightning Talk"
-      },
-      {
         "displayValue": "Demo",
         "logicalValue": "Demo"
+      },
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
       }
     ],
     "topic": [
@@ -9241,12 +9375,12 @@
         "logicalValue": "(300) Advanced"
       },
       {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      },
-      {
         "displayValue": "(400) Expert",
         "logicalValue": "(400) Expert"
+      },
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
       }
     ],
     "programmingLanguages": [],
@@ -9270,6 +9404,66 @@
         "displayValue": "In-person",
         "logicalValue": "In-person"
       },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1769008130185001WAvh",
+    "speakerId": "1768245294609build26-1769008130185001WAvh",
+    "firstName": "Scott",
+    "lastName": "Hanselman",
+    "displayName": "Scott Hanselman",
+    "jobTitle": "VP, Member of Technical Staff for Microsoft/GitHub",
+    "company": "Microsoft",
+    "bio": "Scott is as a VP, Member of Technical Staff for Microsoft/GitHub out of his home office in Portland, Oregon. Scott has been podcasting for more than 1000 episodes of http://hanselminutes.com and over 750 episodes of http://www.azurefriday.com.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1769008130185001WAvh/attprofile/hanselman-headshot_1775746932044001yRL1.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/shanselman/",
+    "gitHub": "shanselman",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018701589001rRKd"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [
+      {
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
+      }
+    ],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
@@ -9464,7 +9658,7 @@
     "lastName": "Vuppala",
     "displayName": "Advika Vuppala",
     "jobTitle": "Co-Founder",
-    "company": "Carnegie Mellon University",
+    "company": "SpoilSafe",
     "bio": "Advika Vuppala is an Electrical and Computer Engineering student at Carnegie Mellon University and a co-founder of SpoilSafe, a startup in the cold-chain technology industry.",
     "photo": "https://static.rainfocus.com/microsoft/build26/att/1776049446660001RE11/attprofile/Advika_AIVS_1776049849526001wygl.jpg",
     "twitter": "",
@@ -9529,9 +9723,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776358861989001xLtg",
-      "en-US-1776358909696001FtYf",
       "en-US-1774018710738001rCVC",
+      "en-US-1776358909696001FtYf",
+      "en-US-1776358861989001xLtg",
       "en-US-1776358774912001CUxy"
     ],
     "langLocale": "en-US",
@@ -9762,6 +9956,7 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
+      "en-US-1774493196541001nku3",
       "en-US-1774018706286001rYPi"
     ],
     "langLocale": "en-US",
@@ -9769,6 +9964,10 @@
     "ogTitle": "",
     "ogDescription": "",
     "sessionTypes": [
+      {
+        "displayValue": "Table Talk",
+        "logicalValue": "Table Talk"
+      },
       {
         "displayValue": "Demo",
         "logicalValue": "Demo"
@@ -9778,9 +9977,17 @@
       {
         "displayValue": "Cloud platform & data",
         "logicalValue": "Cloud platform & data"
+      },
+      {
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
       }
     ],
     "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      },
       {
         "displayValue": "(300) Advanced",
         "logicalValue": "(300) Advanced"
@@ -9792,9 +9999,18 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
@@ -10191,9 +10407,9 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
+      "en-US-1774018710899001rSa9",
       "en-US-1776358971772001LFiZ",
       "en-US-1776359074567001kHS1",
-      "en-US-1774018710899001rSa9",
       "en-US-1776359029094001ZbMV"
     ],
     "langLocale": "en-US",
@@ -10307,8 +10523,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018717215001rOiT",
-      "en-US-1774018717544001rIrk"
+      "en-US-1774018717544001rIrk",
+      "en-US-1774018717215001rOiT"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -10316,12 +10532,12 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Demo",
-        "logicalValue": "Demo"
-      },
-      {
         "displayValue": "Lightning Talk",
         "logicalValue": "Lightning Talk"
+      },
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
       }
     ],
     "topic": [
@@ -10363,12 +10579,12 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      },
-      {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       }
     ]
   },
@@ -10586,8 +10802,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018718946001r6o5",
-      "en-US-1774018720726001rkqn"
+      "en-US-1774018720726001rkqn",
+      "en-US-1774018718946001r6o5"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -10595,12 +10811,12 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Demo",
-        "logicalValue": "Demo"
-      },
-      {
         "displayValue": "Lightning Talk",
         "logicalValue": "Lightning Talk"
+      },
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
       }
     ],
     "topic": [
@@ -10646,12 +10862,12 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      },
-      {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       }
     ]
   },
@@ -10904,8 +11120,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1776289484544001DLd6",
-      "en-US-1776292893312001WFRO"
+      "en-US-1776292893312001WFRO",
+      "en-US-1776289484544001DLd6"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -10913,12 +11129,12 @@
     "ogDescription": "",
     "sessionTypes": [
       {
-        "displayValue": "Demo",
-        "logicalValue": "Demo"
-      },
-      {
         "displayValue": "Lightning Talk",
         "logicalValue": "Lightning Talk"
+      },
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
       }
     ],
     "topic": [
@@ -10933,12 +11149,12 @@
     ],
     "levels": [
       {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      },
-      {
         "displayValue": "(400) Expert",
         "logicalValue": "(400) Expert"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
       }
     ],
     "programmingLanguages": [],
@@ -10964,12 +11180,12 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      },
-      {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       }
     ]
   },
@@ -11133,7 +11349,11 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018706286001rYPi"
+      "en-US-1777582507758001uo3n",
+      "en-US-1777582571352001yzY4",
+      "en-US-1777582642663001tz4F",
+      "en-US-1774018706286001rYPi",
+      "en-US-1777471719673001KaB5"
     ],
     "langLocale": "en-US",
     "ogImage": "",
@@ -11141,11 +11361,43 @@
     "ogDescription": "",
     "sessionTypes": [
       {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
         "displayValue": "Demo",
         "logicalValue": "Demo"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
       }
     ],
     "topic": [
+      {
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
+      },
+      {
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
+      },
+      {
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
+      },
+      {
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
+      },
       {
         "displayValue": "Cloud platform & data",
         "logicalValue": "Cloud platform & data"
@@ -11163,7 +11415,24 @@
     "learningZoneTopic": [],
     "theme": [],
     "solutionArea": [],
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      },
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "deliveryTypes": [
       {
@@ -11171,8 +11440,24 @@
         "logicalValue": "In-person"
       },
       {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
         "displayValue": "Online",
         "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   }
