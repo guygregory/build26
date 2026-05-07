@@ -41,7 +41,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -158,7 +158,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -168,8 +168,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Agent supervision is the new senior engineering skill",
-    "ogDescription": "As AI agents start shipping code, the bottleneck becomes trust. This talk argues “agent supervision” is the new senior skill: scoping agent work, setting constraints, designing checkpoints, and reviewing outputs for correctness and security. Learn practical patterns to catch silent failures and build workflows where humans stay accountable and agents stay fast.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -213,12 +213,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -272,7 +267,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -282,8 +277,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "AI & Agent-Augmented coding you can trust",
-    "ogDescription": "Agents now run real commands, modify files, and move data. This breakout highlights the full set of Windows primitives that help agents discover, reason about, and execute AI‑powered activities across the system, while still operating within clear boundaries. Through live demos, you’ll see how agents identify available capabilities, plan and take meaningful actions, and how Windows layers permission scoping, inspection, developer tool capabilities, and rollback to keep developers in control.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -403,7 +398,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -413,8 +408,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Aspire for agents: Transform how you build and deploy distributed apps",
-    "ogDescription": "Aspire is an open-source cloud and agent-ready developer toolchain transforming how you build, run, and deploy observable, production-ready distributed apps. Its code centric approach streamlines orchestration of your apps and agents, provides observability for systems in any programming language, and supports deployment locally or to your cloud of choice. Come meet the new Aspire.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -468,12 +463,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -556,7 +546,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -596,8 +586,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "Festival Pavilion, Breakout 1",
-      "logicalValue": "Festival Pavilion, Breakout 1"
+      "displayValue": "Gateway Pavilion, Cowell Theater",
+      "logicalValue": "Gateway Pavilion, Cowell Theater"
     },
     "theme": [],
     "solutionArea": [],
@@ -616,12 +606,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -719,7 +704,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -729,8 +714,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "",
-    "ogDescription": "",
+    "ogTitle": "Breakout session with Peter Steinberger",
+    "ogDescription": "To be announced closer to the event.",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -774,12 +759,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -833,7 +813,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -893,12 +873,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -951,7 +926,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -961,8 +936,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Build and ship faster with a developer-optimized experience on Windows",
-    "ogDescription": "Learn how Windows delivers a streamlined, end-to-end experience through PCs and OS experiences optimized for developers. See our new experiences in action across WSL, PowerToys and your favorite developer tools so you can code with less toil and stay in your workflows. Walk away with repeatable scenarios that you can easily integrate in your daily development workflows, helping you scale your AI projects with confidence.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -1114,7 +1089,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1154,8 +1129,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "Breakout 4",
-      "logicalValue": "Breakout 4"
+      "displayValue": "Gateway Pavilion, Cowell Theater",
+      "logicalValue": "Gateway Pavilion, Cowell Theater"
     },
     "theme": [],
     "solutionArea": [],
@@ -1174,12 +1149,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -1246,7 +1216,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1401,7 +1371,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1411,8 +1381,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Build secure and enterprise-ready agents with Agent 365",
-    "ogDescription": "As AI agents move to production, developers need observability, governance, and security across the agent lifecycle. We'll show how to build enterprise-ready agents using Agent 365 SDK and Purview SDK to instrument runtime visibility, enforce identity-aware access, protect data, and apply policy-based governance. Through practical examples, you'll learn to meet security and compliance requirements without slowing development. Ship agents that are powerful and trustworthy by default.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -1532,7 +1502,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1597,12 +1567,107 @@
       }
     ],
     "nextStep": null,
-    "event": [
+    "event": [],
+    "sessionLanguage": [],
+    "viewingOptions": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "displayValue": "Will be recorded",
+        "logicalValue": "Will be recorded"
       }
     ],
+    "audienceTypes": [],
+    "tags": []
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1778109141218001dHYt",
+    "langLocale": "en-US",
+    "sessionId": "1778109141218001dHYt",
+    "sessionInstanceId": "1778109141218001dHYt",
+    "sessionCode": "BRK230-R1",
+    "sessionCodeNormalized": "EN-US-BRK230-R1",
+    "title": "Confident model selection and integration with Microsoft Foundry",
+    "sortTitle": "confident model selection and integration with microsoft foundry",
+    "description": "Discover how to quickly choose, integrate, and validate AI models inside Microsoft Foundry. Learn techniques for navigating thousands of model options, benchmarking performance, and streamlining your workflow with deep IDE support. Build faster, ship smarter, and stay on top of the evolving AI landscape.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 3,
+    "TimeSlot": "00:15 - 01:00",
+    "startDateTimeNullGroup": 1,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "Confident model selection and integration with Microsoft Foundry",
+    "ogDescription": "Discover how to quickly choose, integrate, and validate AI models inside Microsoft Foundry. Learn techniques for navigating thousands of model options, benchmarking performance, and streamlining your workflow with deep IDE support. Build faster, ship smarter, and stay on top of the evolving AI landscape.",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Breakout",
+      "logicalValue": "Breakout"
+    },
+    "topic": [
+      {
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "Building B, Level 3, BATS Improv",
+      "logicalValue": "Building B, Level 3, BATS Improv"
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -1656,7 +1721,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1666,8 +1731,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Confident model selection and integration with Microsoft Foundry",
-    "ogDescription": "Discover how to quickly choose, integrate, and validate AI models inside Microsoft Foundry. Learn techniques for navigating thousands of model options, benchmarking performance, and streamlining your workflow with deep IDE support. Build faster, ship smarter, and stay on top of the evolving AI landscape.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -1716,12 +1781,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -1775,7 +1835,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1785,8 +1845,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Data, apps, and agents: the future of app dev with Microsoft Fabric",
-    "ogDescription": "Apps are coming to the data platform, built for the new era of agent development. Join us to see how Fabric makes it easy to build secure, shareable, agent-powered apps that connect natively to your existing data and integrate seamlessly with your AI and BI workflows. By bringing together essential data platform capabilities, Fabric reduces backend complexity so teams can move faster from idea to impact.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -1866,7 +1926,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Alicia Frame",
+    "speakerNames": "Alicia Frame, Omkar More",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -1895,13 +1955,14 @@
     "hasOnDemand": false,
     "onDemandThumbnail": "",
     "speakerIds": [
-      "1768245294609build26-1772039473777001dTM9"
+      "1768245294609build26-1772039473777001dTM9",
+      "1768245294609build26-1774284998169001pIgG"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1953,15 +2014,15 @@
         "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1772039473777001dTM9",
         "RegistrantKey": "1768245294609build26-1772039473777001dTM9"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1774284998169001pIgG",
+        "RegistrantKey": "1768245294609build26-1774284998169001pIgG"
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -2015,7 +2076,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2025,8 +2086,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Distributed systems to AI platforms with Mark Russinovich & Ion Stoica",
-    "ogDescription": "What will it take to build AI platforms for the agent era? Join Azure CTO Mark Russinovich and UC Berkeley professor Ion Stoica (co-creator of Apache Spark and co-founder of Databricks and Anyscale) to explore how AI infrastructure must evolve as systems become agentic, multimodal, and globally distributed. Get practical insights on next generation architectures, from training to real time serving, and why open source, security, and governance are now core platform concerns.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -2075,12 +2136,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -2133,7 +2189,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2143,8 +2199,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Ensuring your code works when AI testing isn’t enough",
-    "ogDescription": "Technical talk about building AI systems that scale for humans and machines, ensuring reliable code, and scalable systems.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -2188,12 +2244,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -2271,7 +2322,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2281,8 +2332,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Foundry IQ: Fuel your agents with knowledge from everywhere",
-    "ogDescription": "Foundry IQ is Microsoft's context engineering platform that enables agents to unlock knowledge from everywhere, with state-of-the-art agentic RAG and enterprise-grade security built in. In this technical deep dive, we share the latest developments in Foundry IQ and Azure AI Search, new knowledge sources, agentic retrieval enhancements, and present retrieval performance innovations and evals for our 3rd year in a row — all designed to help you ship higher-quality agents faster.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -2380,7 +2431,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2390,8 +2441,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "From CLI to PR: Automating the path to merged code",
-    "ogDescription": "Everyone talks about agents, but the real challenge is applying them to daily sprints. Moving beyond chat, we'll show how GitHub Copilot functions as an agentic partner in your workflow by live-coding a full cycle—from planning in the terminal to delegating work to the cloud and automating PR reviews. No high-level abstractions here. Just technical mechanics: context management, advanced features with Copilot CLI, and the patterns that make agentic workflows actually stick.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -2527,7 +2578,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2587,12 +2638,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -2655,7 +2701,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2665,8 +2711,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "From rows to reasoning: Designing databases for AI apps and agents",
-    "ogDescription": "AI applications and agents require data platforms designed for reasoning, not just transactions. Traditional architectures force developers to stitch data systems together, adding latency and complexity. In this demo‑rich session, we’ll show the latest innovations in SQL Database and Cosmos DB, then build an app on Azure HorizonDB, Azure’s new cloud‑native PostgreSQL service, to show how AI apps built directly in the database simplifies design and enables reasoning over operational data.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -2715,12 +2761,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -2795,7 +2836,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2805,8 +2846,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "From Skeptic to Superpower: Real‑World AI Coding Workflows That Scale",
-    "ogDescription": "AI coding tools promise massive productivity gains, but which ones actually work and why? In this session, we’ll walk through how two engineers use different tools daily: one using Claude Code + Cursor, the other GitHub Copilot CLI. We’ll cover what initially didn’t work, skepticism we had, where each tool shines, and where they fall down. We’ll show what this looks like for a team of 20 engineers that delivers at a scale of 200. No hype, just realistic workflows, tradeoffs, and lessons learned.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -2855,12 +2896,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -2915,7 +2951,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2925,8 +2961,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Get the right tools for your agents with 1-click",
-    "ogDescription": "Tired of searching for the right tool(s) for your agents? Seeing your context window constantly blowing out of proportion? We are introducing a new product category that allows developers to choose the right toolset depending upon the agents' context, the use-case and functional boundaries, enabling efficient use of tools, with built-in governance.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -2980,12 +3016,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -3039,7 +3070,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3104,12 +3135,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -3188,7 +3214,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3198,8 +3224,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Govern open-source AI agents, any framework, any scale",
-    "ogDescription": "As AI agents move into production, developers own safety, governance, and reliability across Microsoft Agent Framework and open-source stacks. This session shows how to govern agents end to end: turning your requirements into context-aware evaluations, stress-testing against adversarial risks, applying open controls that work across frameworks, and keeping humans in the loop on high-stakes actions. Leave with a blueprint for shipping agents at enterprise scale.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -3248,12 +3274,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -3324,7 +3345,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3334,8 +3355,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Idea to production-ready agent in seconds on AI-native runtime",
-    "ogDescription": "Agentic apps behave differently from traditional services. They make decisions, coordinate steps, and react to changing inputs. This session shows how to run agentic workloads on a fast, AI native runtime on Azure Container Apps. The focus is on reliability and speed so you can move from idea to production‑ready agents. We’ll cover patterns for deployment, configuration, safe scaling for bursty traffic, and observability so teams can run agentic systems in production without surprises.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -3450,7 +3471,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3460,8 +3481,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Inside Azure innovations with Mark Russinovich",
-    "ogDescription": "Join Mark Russinovich, CTO, Deputy CISO, Technical Fellow of Microsoft Azure. Mark will take you on a tour of the latest innovations in Azure architecture and explain how Azure enables intelligent, modern, and innovative applications at scale in the cloud, on‑premises, and on the edge.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -3505,12 +3526,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -3563,7 +3579,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3573,8 +3589,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Japan Wrap-up Session",
-    "ogDescription": "本セッションは、日本からご参加の方向けに、Microsoft Buildの主要なアナウンスについて日本語で解説を行います。\n\nIn this session, we will deliver a focused recap of the key announcements and technical insights from the 2 days of Microsoft Build, tailored for developers joining from Japan. You will leave with a clear understanding of the technical direction revealed at Build, how it applies to your products and teams, and the concrete next steps to consider as you move toward frontier transformation.\n\nThis session will be delivered in Japanese.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -3618,12 +3634,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -3676,7 +3687,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3686,8 +3697,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Local models, developer control, and the future of AI runtimes",
-    "ogDescription": "How local and hybrid model execution is reshaping developer workflows, privacy, and experimentation. Why “run it yourself” is back.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -3785,7 +3796,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3845,12 +3856,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -3905,7 +3911,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3915,8 +3921,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Modern resiliency from build to recovery through Agentic AI",
-    "ogDescription": "Resiliency failures rarely come from missing features; they stem from fragmentation. During incidents teams lose time jumping between repos, dashboards, runbooks, and chat tools. This session reframes resiliency as an agent-first practice spanning build, operate, troubleshoot, and recovery. See how an agentic AI assistant links workflows across IDEs, source repos, and collaboration tools speeding validation, operations, and recovery for a critical workload aligned with Azure’s agentic model.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -3970,12 +3976,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4043,7 +4044,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4053,8 +4054,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Multi-agent patterns in VS Code you won't learn from docs",
-    "ogDescription": "Building with one agent is familiar. Orchestrating a fleet of them in parallel across local, background, and cloud surfaces is where it gets real. You'll see the decisions that matter, how to decompose work across agents, when to fork vs. delegate, and how to verify quality when agents outnumber you. Leave with patterns for multi-agent workflows you can apply to your own codebase tomorrow.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -4108,12 +4109,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4196,7 +4192,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4256,12 +4252,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4337,7 +4328,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4347,8 +4338,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Shipping custom models at scale from fine-tuning to inference",
-    "ogDescription": "Fine tuning, serving, and inference are core components of real world AI adoption. In this panel Rob Ferguson, Daniel Han (Unsloth), Mark Saroufim (Stealth Startup) and other practitioners discuss how teams are customizing models, taking them to production, and running them efficiently at scale. The conversation covers tradeoffs in fine tuning techniques, infrastructure choices for serving, optimizing inference cost and latency, and what’s working today for builders shipping AI powered products.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -4402,12 +4393,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4460,7 +4446,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4470,8 +4456,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Software Defensibility in the era of AI coding",
-    "ogDescription": "If the cost of building software is approaching 0, is the value of building software is also approaching 0? If most software can be easily replicated by AI, how can we defend our products after we've built it? This talk discusses what have traditionally been considered moats for software products, why they aren't really moats, and why we should, as builders, continue building.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -4515,12 +4501,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4574,7 +4555,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4584,8 +4565,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "The honest practitioner's take on agentic AI on Kubernetes",
-    "ogDescription": "Agentic AI workloads don't behave like normal services. They're stateful, bursty, multi-step, and often span more than a single cluster. Most teams figure this out the hard way. This session is for developers building agentic AI in production. We'll show you how to get the most out of Kubernetes for training, inference, and agent orchestration, covering purpose-built tooling, managed options, open-source inference at scale, and AI-assisted dev tools that support real-world AI operations.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -4634,12 +4615,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4703,7 +4679,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4713,8 +4689,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Train and deploy custom OSS reasoning models with Foundry",
-    "ogDescription": "Open‑source reasoning models work out of the box, but production requires domain‑specific training. In this session, ML engineers will learn how to use Microsoft Foundry to train and tune open‑source reasoning models in a code‑first workflow using curated RL environments and modern frameworks. We’ll cover when RL drives real gains in reasoning, how to run reproducible training loops, and how to move from experiment to production deployment without managing infrastructure.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -4768,12 +4744,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4827,7 +4798,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4837,8 +4808,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Using AI tools to teach old apps new tricks",
-    "ogDescription": "Modernizing apps isn’t just rewriting code—it’s untangling dependencies, tracing data flows, and making changes without breaking production. In this session, we’ll show how you can use agentic AI to take on the hardest parts of modernization: analyzing large codebases, mapping dependencies, planning upgrades, refactoring safely, while doing it all at scale. With GitHub Copilot modernization capabilities, you can move from legacy complexity to modernized apps in days, not months.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -4887,12 +4858,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4959,7 +4925,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4969,8 +4935,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "What we learned shipping VS Code weekly (without breaking everything)",
-    "ogDescription": "Shipping faster sounds great until test gaps, review bottlenecks, and triage backlog scale with it. The VS Code team hit all of that going from monthly to weekly releases, and agents made it work. This session breaks down the real patterns: agent sessions before meetings, conversations that become PRs instead of specs, automated triage across one of GitHub's largest repos, and harnesses that keep quality high when 100+ commits land daily. Concrete workflows you can take back to your team.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -5070,6 +5036,143 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1778109100437001YTWq",
+    "langLocale": "en-US",
+    "sessionId": "1778109100437001YTWq",
+    "sessionInstanceId": "1778109100437001YTWq",
+    "sessionCode": "BRK200-R1",
+    "sessionCodeNormalized": "EN-US-BRK200-R1",
+    "title": "Why your AI code doesn’t ship: Closing the gap to production",
+    "sortTitle": "why your ai code doesn’t ship: closing the gap to production",
+    "description": "AI isn't just autocompleting your code anymore — it's writing plans, shipping PRs, fixing pipelines, and patching prod. In this demo-heavy session, we'll show AI agents working across the entire dev lifecycle: planning, coding, CI/CD, and live operations. You'll see how to move faster, keep agents on a leash, and build systems that fix themselves.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 3,
+    "TimeSlot": "23:00 - 23:45",
+    "startDateTimeNullGroup": 1,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "Why your AI code doesn’t ship: Closing the gap to production",
+    "ogDescription": "AI isn't just autocompleting your code anymore — it's writing plans, shipping PRs, fixing pipelines, and patching prod. In this demo-heavy session, we'll show AI agents working across the entire dev lifecycle: planning, coding, CI/CD, and live operations. You'll see how to move faster, keep agents on a leash, and build systems that fix themselves.",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Breakout",
+      "logicalValue": "Breakout"
+    },
+    "topic": [
+      {
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "Building B, Level 3, BATS Improv",
+      "logicalValue": "Building B, Level 3, BATS Improv"
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [],
+    "sessionLanguage": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will be recorded",
+        "logicalValue": "Will be recorded"
+      }
+    ],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "Agents",
+        "logicalValue": "Agents"
+      },
+      {
+        "displayValue": "Developer",
+        "logicalValue": "Developer"
+      },
+      {
+        "displayValue": "GitHub Copilot",
+        "logicalValue": "GitHub Copilot"
+      },
+      {
+        "displayValue": "GitHub",
+        "logicalValue": "GitHub"
+      },
+      {
+        "displayValue": "Deployment Pipelines",
+        "logicalValue": "Deployment Pipelines"
+      },
+      {
+        "displayValue": "GitHub Copilot CLI",
+        "logicalValue": "GitHub Copilot CLI"
+      },
+      {
+        "displayValue": "DevTools",
+        "logicalValue": "DevTools"
+      },
+      {
+        "displayValue": "Developer Technologies",
+        "logicalValue": "Developer Technologies"
+      },
+      {
+        "displayValue": "Agentic SDLC",
+        "logicalValue": "Agentic SDLC"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
     "speakerNames": "Mario Rodriguez, Evan Boyle",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
@@ -5106,7 +5209,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5116,8 +5219,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Why your AI code doesn’t ship: Closing the gap to production",
-    "ogDescription": "AI isn't just autocompleting your code anymore — it's writing plans, shipping PRs, fixing pipelines, and patching prod. In this demo-heavy session, we'll show AI agents working across the entire dev lifecycle: planning, coding, CI/CD, and live operations. You'll see how to move faster, keep agents on a leash, and build systems that fix themselves.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -5257,7 +5360,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5267,8 +5370,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Your agent, anywhere: MultiClient, MultiDevice with GitHub Copilot SDK",
-    "ogDescription": "Agents are powerful on your machine, but what happens when you need them everywhere else? In this session, we'll show how GitHub Copilot SDK lets you build an agent, embed it in an app, and take it with you across devices and into the cloud. You'll see how to go from a local agent to one you can access on your phone, move between machines, and run across multiple clients. If you've been working with agents locally and wondering what the next step looks like, this is it.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -5317,12 +5420,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5409,7 +5507,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5465,12 +5563,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5541,7 +5634,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5668,7 +5761,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5724,12 +5817,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5792,7 +5880,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5907,7 +5995,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5917,8 +6005,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "",
-    "ogDescription": "",
+    "ogTitle": "From data to context: Agent‑ready knowledge with Foundry IQ",
+    "ogDescription": "What if your coding agent could reason over enterprise knowledge—across files, data, and work signals—without leaving your developer workflow? In this hands-on lab, you’ll build a reusable knowledge base in Foundry IQ using the Microsoft Foundry portal, expose it as an MCP server, and connect it to GitHub Copilot CLI—no custom RAG plumbing required. Experience how Foundry IQ and Copilot CLI work together to turn enterprise knowledge into live context, right where developers build and debug.",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -5943,8 +6031,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "Lab 5",
-      "logicalValue": "Lab 5"
+      "displayValue": "Firehouse",
+      "logicalValue": "Firehouse"
     },
     "theme": [],
     "solutionArea": [],
@@ -5963,12 +6051,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -6022,7 +6105,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6078,12 +6161,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -6142,7 +6220,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Aaron Powell",
+    "speakerNames": "Aaron Powell, Lee Stott",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -6171,13 +6249,14 @@
     "hasOnDemand": false,
     "onDemandThumbnail": "",
     "speakerIds": [
-      "1768245294609build26-1772472228939001By6I"
+      "1768245294609build26-1772472228939001By6I",
+      "1768245294609build26-1758764115124001fdmg"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6221,6 +6300,11 @@
     "communityTopic": [],
     "learningZoneTopic": [],
     "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1758764115124001fdmg",
+        "RegistrantKey": "1768245294609build26-1758764115124001fdmg"
+      },
       {
         "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1772472228939001By6I",
@@ -6282,7 +6366,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6292,8 +6376,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "",
-    "ogDescription": "",
+    "ogTitle": "Hands-on with the latest Cobalt VMs – from code to cloud deployment",
+    "ogDescription": "Roll up your sleeves and get hands-on with the latest Azure Cobalt VMs. Provision your first Cobalt VM and explore what makes Arm tick in the Cloud. From there you'll build multi-arch container images with Docker, push them to ACR, and deploy to AKS clusters running on Cobalt VMs. Next, wire up a CI/CD pipeline that builds, tests, and deploys to Arm. Then go further—deploy a full-stack web app and serve AI predictions using ONNX Runtime on Arm. Walk out ready to build on Cobalt VMs.",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -6323,8 +6407,8 @@
       }
     ],
     "location": {
-      "displayValue": "Lab 2",
-      "logicalValue": "Lab 2"
+      "displayValue": "Gateway Pavilion, Lab 2",
+      "logicalValue": "Gateway Pavilion, Lab 2"
     },
     "theme": [],
     "solutionArea": [],
@@ -6397,7 +6481,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6453,12 +6537,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -6512,7 +6591,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6568,12 +6647,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -6684,7 +6758,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6803,7 +6877,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6859,12 +6933,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -6923,7 +6992,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6979,12 +7048,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7075,7 +7139,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7085,8 +7149,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "AI Skills Navigator: Accelerate tech skills with personalized learning",
-    "ogDescription": "Learn more about how AI Skills Navigator integrates with Copilot and supports continuous learning at scale to help you stay ahead of rapidly evolving AI capabilities. Join us to hear how AI is transforming skill building for developers by making it more personalized, efficient, and impactful than ever. Learn based on your preferences including short sessions, podcast-style summaries, or alongside your team.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -7198,7 +7262,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7208,8 +7272,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Any agent, any cloud: Standardized tracing with Foundry+OpenTelemetry",
-    "ogDescription": "Teams are shipping agents across clouds and frameworks—but telemetry is fragmented. In this demo, see how Microsoft Foundry and OpenTelemetry standards for GenAI tracing bring consistent observability that is agent framework agnostic and cloud agnostic. We’ll walk through the simple setup steps to instrument model and tool calls, quickly diagnose failures, latency, and cost spikes, and close the loop with trace-based evaluation, visualization and optimization.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -7321,7 +7385,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7331,8 +7395,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Beyond REST: .NET Apps That Talk to Hardware",
-    "ogDescription": "Most app demos stop at REST APIs. This live demo talks to real hardware. I’ll show a .NET app that discovers a device over BLE, exchanges data over NFC or serial, and turns raw device signals into a usable workflow. You’ll leave with a practical pattern for structuring device services, handling platform differences, and deciding when local connectivity beats the cloud.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -7452,7 +7516,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7462,8 +7526,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Build agents where work happens: chats, channels, and meetings in Microsoft Teams",
-    "ogDescription": "Agents are moving beyond simple chat experiences. With the Teams SDK, developers can build agents that participate directly in the flow of work across chats, channels, and meetings. In this session, you’ll learn how to leverage Teams capabilities and create agents that automate tasks, surface insights, and take action in context without pulling users out of Teams.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -7562,7 +7626,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7572,8 +7636,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Build and deploy an Azure app with your agent team",
-    "ogDescription": "In 25 minutes, we’ll go from a blank repo to a live Azure AI app—built and deployed by a team of GitHub Copilot agents. Watch Copilot plan architecture, generate code, provision Azure, and deploy live using Copilot Agents and Skills. Leave with a blueprint for your agent driven coding workflow for Azure.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -7713,7 +7777,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7723,8 +7787,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Build and ship production-ready apps fast with Microsoft Fabric",
-    "ogDescription": "Build an enterprise app in minutes with an agent-friendly, code-first backend-as-a-service built on Microsoft Fabric. In this demo, we show how an AI agent generates a full stack web app with a managed database, authentication, and backend services. Learn how to connect the app to existing data in your Fabric data estate, define services in code, and use Fabric’s built-in analytics, BI, and AI capabilities to power insights and intelligent experiences.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -7769,12 +7833,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7840,7 +7899,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7850,8 +7909,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Build work-ready agents with Foundry + IQ, govern with Agent 365",
-    "ogDescription": "An agent that knows nothing about your work is only half an agent. In this demo, we connect a Foundry agent to Work IQ via MCP, giving it real context about your work and ecosystem, governed by Agent 365. See it run under agent identity, watch Work IQ tools invoked at runtime, and get full observability on every call. Then we run side-by-side evals context-aware vs. context-blind, with scores that prove the difference. Leave knowing how to ground, govern, and evaluate your Foundry agents.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -7961,7 +8020,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7971,8 +8030,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Building a Multi-Agent Workflow in Microsoft Fabric",
-    "ogDescription": "Learn how Microsoft Fabric and the 3 IQs, Work IQ, Fabric IQ, and Foundry IQ, enable dynamic, context‑aware multi‑agent workflows. See how semantic models, lakehouses, and pipelines form agent‑ready foundations, and how specialized agents collaborate across planning, retrieval, summarization, and execution. Discover how natural language, automation, and orchestration power real multi‑agent scenarios in Microsoft Fabric.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -8074,7 +8133,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8084,8 +8143,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Code a voice-first agent with avatars in Microsoft Foundry",
-    "ogDescription": "Build a real-time agent with a conversational avatar using the Voice Live API in Microsoft Foundry, no slides, just live coding. See how Voice Live unifies speech-to-text, model reasoning, and text-to-speech, then wire it into an agent that can call tools via MCP to take real actions. Walk away with reusable patterns for voice-first, tool-using agents with expressive avatars.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -8178,7 +8237,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8188,8 +8247,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Data Science & Machine Learning with Microsoft Fabric",
-    "ogDescription": "Explore Microsoft Fabric’s unified Data Science experience in this fast-paced 25-minute demo. See how to ingest and prepare data with OneLake and Lakehouse, build models using Notebooks, Spark, and SynapseML, and track experiments with MLflow. Learn how to operationalize models with batch scoring and integrate results into Power BI. The session also showcases building a simple generative AI Q&A solution using Fabric Data Agents, giving you a practical end-to-end view in a short time.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -8229,12 +8288,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8283,7 +8337,7 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 5,
-    "TimeSlot": "19:45 - 20:10",
+    "TimeSlot": "19:50 - 20:15",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
@@ -8296,7 +8350,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8410,7 +8464,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8420,8 +8474,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "From prompt to app, build AI powered apps on Windows",
-    "ogDescription": "From prompt to app, see how you can use GitHub Copilot CLI and skills to build an AI powered application that takes advantage of local compute on your Windows dev box. \nSee an E2E workflow for building a high‑performance desktop application that combines native UI and HW‑accelerated local compute for running AI workloads with Windows ML and Windows AI APIs.  See how you can use the Windows ML model kit to prepare the models to run with the highest performance on your local Windows device.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -8569,7 +8623,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8579,8 +8633,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "From the Field: Accelerate Your Development for Azure Marketplace",
-    "ogDescription": "Gain practical insights and proven strategies for your development journey for Azure Marketplace. Streamline your solutions' development, packaging, and deployment while ensuring compliance with Microsoft’s requirements. Discover common pitfalls, best practices, and automation techniques to reduce time-to-market. Whether you're new to developing for the Azure Marketplace or looking to optimize your approach, this session delivers real-world guidance to help you develop and publish efficiently.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -8620,12 +8674,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8688,7 +8737,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8698,8 +8747,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "GitHub Agentic Workflows: Automation That Actually Reads the Room",
-    "ogDescription": "GitHub Agentic Workflows let your repo improve itself. With a simple markdown file and one command, GitHub Actions launches an AI agent to triage issues, fix CI failures, update docs, and improve tests, with no complex YAML required. See a live demo from minimal workflow file to a safe, sandboxed pipeline that delivers a ready‑to‑review PR. Your repo on autopilot, with you in control.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -8847,7 +8896,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8857,8 +8906,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "GitHub Copilot Anywhere: From CLIs to Cloud Execution Environments",
-    "ogDescription": "Modern development no longer happens in one place. You might start in your terminal, step away, and pick things back up from another device or let work continue in the cloud. This session explores using GitHub Copilot across environments, from local CLI sessions to full cloud execution with remote execution environments. See how Copilot runs commands, iterates on changes, and continues work without losing context, while you stay in control.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -8986,7 +9035,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8996,8 +9045,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "How Foundry integrates with open-source frameworks and tools",
-    "ogDescription": "In this demo, we'll show how Microsoft Foundry integrates with the open-source tools developers already use — so you can build agents your way and deploy them with enterprise-grade hosting and observability built in. We'll start with Microsoft Agent Framework, then bring in a LangGraph agent and deploy it directly to Foundry with no rearchitecting required. MCP, A2A, and OpenAPI connect it all — letting agents built across different frameworks coordinate in multi-agent workflows.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -9092,7 +9141,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9102,8 +9151,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Hugging Face open‑source models to production on Microsoft Foundry",
-    "ogDescription": "Open-source models fuel modern AI but running them in production is hard. In this lightning talk, Microsoft and Hugging Face demonstrate how to deploy and scale Hugging Face models using Foundry Managed Compute inside Azure AI Foundry. Through a fast, end to end demo, developers will see how to go from model discovery to production inference without managing GPUs, while gaining autoscaling, governance, and enterprise grade performance.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -9153,12 +9202,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -9212,7 +9256,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9222,8 +9266,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Late to agentic coding? Don’t panic, build.",
-    "ogDescription": "​Feeling behind on agentic coding? You’re not. In this demo-heavy session, we’ll show how to go from idea to shipped. You’ll see practical patterns for planning tasks, delegating implementation, reviewing AI-generated PRs, and shipping with guardrails. No hype - just real workflows you can apply with your team right away.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -9359,7 +9403,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9369,8 +9413,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Multi-agents in action with 3 AI agents, 3 frameworks, tools & models",
-    "ogDescription": "Three agent frameworks. One Agentic Startup Content Factory. Zero manual steps. In this live demo we build an intelligent system that researches topics, writes articles and code samples, and refines its own output, all while running autonomously. We'll deploy LangGraph, .NET Microsoft Agent Framework, and GitHub Copilot SDK agents to Azure Container Apps, then connect Microsoft Foundry for observability and evals. You'll walk out with an Agentic Startup Content Factory you can clone and ship.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -9415,12 +9459,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -9473,7 +9512,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9483,8 +9522,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Onboarding a Developer with AI: A Better First-Day Experience",
-    "ogDescription": "Onboarding is one of the most underestimated areas of Developer Experience. This session demonstrates how AI can help a new developer become productive faster by explaining a codebase, surfacing useful context, identifying key components, and supporting a first contribution. The demo shows how AI can reduce frustration and shorten the time to meaningful impact.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -9592,7 +9631,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9602,8 +9641,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Postgres and OpenAI - a match made in Azure",
-    "ogDescription": "PostgreSQL on Azure is evolving beyond a traditional relational database-it's now a platform where advanced AI meets robust data management. In this session, you'll explore how to leverage the power of Azure's PostgreSQL Flexible Server combined with OpenAI’s generative capabilities. You will see how to use Azure OpenAI service directly from PostgreSQL with the azure_ai extension to generate vector embeddings, implement semantic search, build recommendation systems or summarize documents.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -9699,7 +9738,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9709,8 +9748,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Responsible AI in Action: From Principles to Real‑World Engineering",
-    "ogDescription": "As AI moves into production, teams must keep models safe, compliant, and reliable without slowing delivery. This session shows how to implement Responsible AI directly in engineering workflows using Microsoft tools. Learn how to assess models, apply safety filters, enforce policies, and monitor risks in real time, plus explore new governance and explainability features that help you build trustworthy AI at scale.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -9813,7 +9852,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9823,8 +9862,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Rethinking CI: Actions, AI Agents, and the End of Commit-Fail-Commit",
-    "ogDescription": "Your pipelines automate the predictable. But what about triaging issues, reviewing PRs, responding to incidents, and coordinating across tools? See what's new in GitHub Actions and how it's becoming the execution layer for AI agents across your dev lifecycle. We'll cover agent-triggered workflows, MCP server integration, and automated handoffs that keep humans in the loop — plus how to finally break the 'commit - see CI fail - commit again' loop.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -9869,12 +9908,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -9977,7 +10011,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9987,8 +10021,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Scale cloud-native workloads with Azure Linux",
-    "ogDescription": "Azure Linux is a purpose-built Linux distribution optimized for Azure. Learn how Azure Linux supports cloud-native and AI workloads with deep integration into the Azure ecosystem, delivering a consistent Linux platform across containers and other Azure compute services. Designed with a minimal footprint, Azure Linux enables faster provisioning and scaling, reduces the attack surface, and incorporates Azure's robust cloud security standards.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -10096,7 +10130,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10106,8 +10140,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Ship code faster with AI-powered NoSQL schema design",
-    "ogDescription": "NoSQL schema design is hard—denormalization decisions, partition key selection, and data modeling patterns require expertise. Use GitHub Copilot and the new Azure Cosmos DB Agent Toolkit to accelerate development with AI-assisted schema generation, query optimization suggestions, and refactoring recommendations. Iterate rapidly with the new Mac/Linux emulator for local testing. Demo shows schema evolution across three iterations in 30 minutes versus days of manual design.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -10213,7 +10247,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10223,8 +10257,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Smaller, faster, smarter: Distilling agents with fine‑tuning",
-    "ogDescription": "Large models are powerful, but expensive to run in production. In this lightning talk, we’ll show how teams use Foundry for distillation and supervised fine-tuning to train small language models for task‑specific accuracy, dramatically reducing latency and cost. We’ll cover when distillation makes sense, how it complements fine tuning and reinforcement learning, and what real production teams have learned when deploying smaller models at scale. Expect fast examples and lots of Q&A.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -10317,7 +10351,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10327,8 +10361,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Supercharged profiling: Finding performance bugs with agents",
-    "ogDescription": "Modern performance problems are harder than ever to diagnose: distributed systems, async code, and massive data make traditional profiling insufficient. In this demo-driven session, watch how Visual Studio combines advanced diagnostics with AI-powered agents to surface bottlenecks, explain root causes, and guide fixes faster than ever. From CPU and memory issues to “it only fails in production” bugs, you’ll see how profiling evolves in an agentic world.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -10368,12 +10402,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -10408,7 +10437,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Roelant Dieben",
+    "speakerNames": "Roelant Dieben, Stephen Simon",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -10437,13 +10466,14 @@
     "hasOnDemand": false,
     "onDemandThumbnail": "",
     "speakerIds": [
-      "1768245294609build26-1770888477835001mAZA"
+      "1768245294609build26-1770888477835001mAZA",
+      "1768245294609build26-1774323608465001D4tS"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10453,8 +10483,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "The story of the Global AI Community that spans every continent",
-    "ogDescription": "What starts with a few people passionate about AI becomes a worldwide movement. Global AI Community grew from nothing into thousands of members, hundreds of events, and chapter leads on every continent, all volunteer-run, all free, all real.\n\nIn this session, hear directly from chapter leads about why they joined, what they built, and what community means to them. Plus: how to find your local chapter, start your own, and become part of something bigger than your time zone.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -10491,6 +10521,11 @@
         "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1770888477835001mAZA",
         "RegistrantKey": "1768245294609build26-1770888477835001mAZA"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1774323608465001D4tS",
+        "RegistrantKey": "1768245294609build26-1774323608465001D4tS"
       }
     ],
     "nextStep": null,
@@ -10556,7 +10591,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10566,8 +10601,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Turn APIs, tools, and data into real agent velocity",
-    "ogDescription": "Most teams already have the APIs and data they need. In this demo, see how Foundry enables agents to securely call real APIs, use tools, and act on enterprise data. Learn how Foundry IQ provides grounding and context, while runtime governance ensures tool usage is observable and controlled—turning existing systems into callable agent capabilities.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -10660,7 +10695,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10711,12 +10746,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -10782,7 +10812,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10792,8 +10822,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Understand and fix Agent Framework apps with observability and evals",
-    "ogDescription": "Your AI apps are getting more complex, with multiple agents, tools, and different orchestration patterns. This makes them harder to understand, debug, and test. This session shows you how to visualize the decisions your LLMs are making in complex Microsoft Agent Framework applications, using open standards and open source tooling to provide you with instrumentation and observability. You'll also see how you can use another LLM as a judge to evaluate how well your AI app is working.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -10833,12 +10863,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -10901,7 +10926,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10911,8 +10936,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Union types in C#",
-    "ogDescription": "Union types are coming to C#! Unions model closed sets of data shapes, as commonly seen in e.g. wire protocols. Mads and Dustin explore the clean expression of intent and the confidence and elegance that unions lend to consuming code.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -11025,7 +11050,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11035,8 +11060,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "What's new in Windows Subsystem for Linux",
-    "ogDescription": "Learn about new improvements coming to WSL enabling you to build AI-powered applications on Windows.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -11172,7 +11197,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11321,7 +11346,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11454,7 +11479,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11567,7 +11592,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11680,7 +11705,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11802,7 +11827,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11915,7 +11940,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12049,7 +12074,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12171,7 +12196,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12284,7 +12309,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -12412,7 +12437,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12557,7 +12582,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12670,7 +12695,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12783,7 +12808,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -12910,7 +12935,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13064,7 +13089,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13142,7 +13167,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Dakota Shafer",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -13170,12 +13195,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1777666248425001Pf6C"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13218,7 +13245,13 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1777666248425001Pf6C",
+        "RegistrantKey": "1768245294609build26-1777666248425001Pf6C"
+      }
+    ],
     "nextStep": null,
     "event": [],
     "sessionLanguage": [],
@@ -13273,7 +13306,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13420,7 +13453,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13534,7 +13567,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13643,7 +13676,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13756,7 +13789,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13860,7 +13893,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13981,7 +14014,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14094,7 +14127,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -14221,7 +14254,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14336,7 +14369,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14346,8 +14379,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "",
-    "ogDescription": "",
+    "ogTitle": "Elevate your developer productivity with Windows Terminal",
+    "ogDescription": "Developers lose time switching tools to maintain UNIX habits. This session shows how new improvements coming to Windows Terminal support consistent command‑driven workflows so developers can code with reduced context switching. Attendees learn how to create reusable workflows to help build and ship faster using familiar UNIX like workflows.",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -14372,8 +14405,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "Lightning Talk Theater 2",
-      "logicalValue": "Lightning Talk Theater 2"
+      "displayValue": "Gateway Pavilion, Theater 2",
+      "logicalValue": "Gateway Pavilion, Theater 2"
     },
     "theme": [],
     "solutionArea": [],
@@ -14444,8 +14477,8 @@
     "sessionInstanceId": "1774018703493001r10j",
     "sessionCode": "LTG425",
     "sessionCodeNormalized": "EN-US-LTG425",
-    "title": "Expanding horizons: Foundry Local for Android and Edge devices",
-    "sortTitle": "expanding horizons: foundry local for android and edge devices",
+    "title": "Expanding horizons: Foundry Local for devices and on-prem",
+    "sortTitle": "expanding horizons: foundry local for devices and on-prem",
     "description": "Discover how Foundry Local extends AI capabilities across multiple platforms in this demo session. Find out how to deploy and optimize models, integrate them with enterprise workflows, and explore best practices for cross-platform compatibility. Learn about real-world use cases that support scalable cloud-to-edge AI solutions from Windows, Mac, and Android, fostering innovation and operational efficiency.",
     "aiDescription": "",
     "businessOutcome": "",
@@ -14467,7 +14500,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14477,7 +14510,7 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Expanding horizons: Foundry Local for Android and Edge devices",
+    "ogTitle": "Expanding horizons: Foundry Local for devices and on-prem",
     "ogDescription": "Discover how Foundry Local extends AI capabilities across multiple platforms in this demo session. Find out how to deploy and optimize models, integrate them with enterprise workflows, and explore best practices for cross-platform compatibility. Learn about real-world use cases that support scalable cloud-to-edge AI solutions from Windows, Mac, and Android, fostering innovation and operational efficiency.",
     "deliveryTypes": [
       {
@@ -14572,7 +14605,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14691,7 +14724,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14803,7 +14836,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14950,7 +14983,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15092,7 +15125,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15205,7 +15238,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15318,7 +15351,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15432,7 +15465,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15550,7 +15583,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15663,7 +15696,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15765,7 +15798,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Alex Thissen",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -15793,12 +15826,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1772633942097001tO2F"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15841,7 +15876,13 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1772633942097001tO2F",
+        "RegistrantKey": "1768245294609build26-1772633942097001tO2F"
+      }
+    ],
     "nextStep": null,
     "event": [],
     "sessionLanguage": [],
@@ -15913,7 +15954,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16062,7 +16103,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16176,7 +16217,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16323,7 +16364,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16461,7 +16502,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16565,7 +16606,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16710,7 +16751,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16814,7 +16855,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16918,7 +16959,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17022,7 +17063,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17136,7 +17177,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17274,7 +17315,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17383,7 +17424,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17496,7 +17537,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17565,7 +17606,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Rohan Ganesh, Advika Vuppala",
+    "speakerNames": "Rohan Ganesh, Vivaan Sawant, Advika Vuppala",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -17595,13 +17636,14 @@
     "onDemandThumbnail": "",
     "speakerIds": [
       "1768245294609build26-1775792452897001CnyX",
+      "1768245294609build26-1776040528117001fUtV",
       "1768245294609build26-1776049446660001RE11"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17654,6 +17696,11 @@
         "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1775792452897001CnyX",
         "RegistrantKey": "1768245294609build26-1775792452897001CnyX"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1776040528117001fUtV",
+        "RegistrantKey": "1768245294609build26-1776040528117001fUtV"
       }
     ],
     "nextStep": null,
@@ -17710,7 +17757,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17853,7 +17900,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17949,7 +17996,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -18058,7 +18105,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -18157,7 +18204,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Gulsimo Osimi",
+    "speakerNames": "Gulsimo Osimi, Saumil Shrivastava",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -18186,13 +18233,14 @@
     "hasOnDemand": false,
     "onDemandThumbnail": "",
     "speakerIds": [
-      "1768245294609build26-1777308405664001CTUG"
+      "1768245294609build26-1777308405664001CTUG",
+      "1768245294609build26-1777308294271001nvnK"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -18236,6 +18284,11 @@
     "communityTopic": [],
     "learningZoneTopic": [],
     "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1777308294271001nvnK",
+        "RegistrantKey": "1768245294609build26-1777308294271001nvnK"
+      },
       {
         "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1777308405664001CTUG",
@@ -18296,7 +18349,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -18410,7 +18463,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -18420,8 +18473,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Use agents to build WinUI3 apps",
-    "ogDescription": "Learn how agent-based development workflows can be used to build modern Windows applications with WinUI 3. In this demo, we’ll showcase new platform capabilities to enable agents to assist with application design, architecture, implementation, and testing. See how developers can leverage these capabilities to create new WinUI 3 apps, improve existing applications, or migrate legacy apps to a modern Windows UI stack using intelligent automation across the development lifecycle.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -18557,7 +18610,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -18686,7 +18739,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -18791,7 +18844,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -18933,7 +18986,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -19044,7 +19097,7 @@
     "sessionCodeNormalized": "EN-US-ODSP926",
     "title": "Build collaborative agents into apps with APIs",
     "sortTitle": "build collaborative agents into apps with apis",
-    "description": "PwC research found the top barrier to AI agent impact isn't the technology; it's connecting agents across applications and workflows to truly operate like coworkers. Most organizations deploy agents in isolation, then wonder why value stalls. This session explores how APIs serve as the relationship layer between AI models and encourage meaningful adoption, using Napster's Companion API as a working example of how to move agents from standalone tools to embedded, cross-functional collaborators.",
+    "description": "PwC research found the top barrier to AI agent impact isn't the technology; it's connecting agents across applications and workflows to truly operate like coworkers. Most organizations deploy agents in isolation, then wonder why value stalls. This session explores how APIs serve as the relationship layer between AI models and encourage meaningful adoption, using Napster's Omniagent API as a working example of how to move agents from standalone tools to embedded, cross-functional collaborators.",
     "aiDescription": "",
     "businessOutcome": "",
     "businessOutcomeTwo": "",
@@ -19065,7 +19118,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -19078,7 +19131,7 @@
     "isPopular": false,
     "ogImage": "",
     "ogTitle": "Build collaborative agents into apps with APIs",
-    "ogDescription": "PwC research found the top barrier to AI agent impact isn't the technology; it's connecting agents across applications and workflows to truly operate like coworkers. Most organizations deploy agents in isolation, then wonder why value stalls. This session explores how APIs serve as the relationship layer between AI models and encourage meaningful adoption, using Napster's Companion API as a working example of how to move agents from standalone tools to embedded, cross-functional collaborators.",
+    "ogDescription": "PwC research found the top barrier to AI agent impact isn't the technology; it's connecting agents across applications and workflows to truly operate like coworkers. Most organizations deploy agents in isolation, then wonder why value stalls. This session explores how APIs serve as the relationship layer between AI models and encourage meaningful adoption, using Napster's Omniagent API as a working example of how to move agents from standalone tools to embedded, cross-functional collaborators.",
     "deliveryTypes": [
       {
         "displayValue": "Online",
@@ -19199,7 +19252,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-06T01:20:10.445Z",
+    "lastUpdate": "2026-05-07T01:25:01.622Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
