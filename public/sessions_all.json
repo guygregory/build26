@@ -41,7 +41,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -123,6 +123,115 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
+    "speakerNames": "Scott Hanselman, Mark Russinovich",
+    "canUserModifySchedule": false,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1776792281916001rWbZ",
+    "langLocale": "en-US",
+    "sessionId": "1776792281916001rWbZ",
+    "sessionInstanceId": "1776792281916001rWbZ",
+    "sessionCode": "LIVE101",
+    "sessionCodeNormalized": "EN-US-LIVE101",
+    "title": "Scott and Mark learn to Vibe Check",
+    "sortTitle": "scott and mark learn to vibe check",
+    "description": "AI can turn an idea into a working demo faster than ever. But can that demo survive two experts who have seen every trick in the book? In this live Build showcase, developers present AI-assisted apps, agents, tools, and workflows to Mark Russinovich and Scott Hanselman. Mark and Scott will ask how it works, where the seams are, what the AI actually built, and whether the result is clever prototype, production-ready software, or something unexpectedly magical. Come for the demos. Stay for the technical reveal.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 2,
+    "TimeSlot": "19:30 - 21:30",
+    "startDateTimeNullGroup": 1,
+    "isMandatory": true,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [
+      "1768245294609build26-1769008130185001WAvh",
+      "1768245294609build26-1776631798007001nGQM"
+    ],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "Scott and Mark learn to Vibe Check",
+    "ogDescription": "AI can turn an idea into a working demo faster than ever. But can that demo survive two experts who have seen every trick in the book? In this live Build showcase, developers present AI-assisted apps, agents, tools, and workflows to Mark Russinovich and Scott Hanselman. Mark and Scott will ask how it works, where the seams are, what the AI actually built, and whether the result is clever prototype, production-ready software, or something unexpectedly magical. Come for the demos. Stay for the technical reveal.",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Broadcast Stage",
+      "logicalValue": "Broadcast Stage"
+    },
+    "topic": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLevel": [],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "Gateway Pavilion, Level 1, Build Broadcast Stage",
+      "logicalValue": "Gateway Pavilion, Level 1, Build Broadcast Stage"
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1769008130185001WAvh",
+        "RegistrantKey": "1768245294609build26-1769008130185001WAvh"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1776631798007001nGQM",
+        "RegistrantKey": "1768245294609build26-1776631798007001nGQM"
+      }
+    ],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [],
+    "audienceTypes": [],
+    "tags": []
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
     "speakerNames": "swyx (Shawn Wang)",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
@@ -158,7 +267,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -267,7 +376,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -398,7 +507,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -546,7 +655,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -556,8 +665,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Azure DevOps meets GitHub, the path to AI powered SDLC",
-    "ogDescription": "Azure DevOps and GitHub are better together—and the integration keeps getting smarter. In this demo-heavy session, you’ll see how hybrid patterns that connect GitHub with Azure Boards and Azure Pipelines enable Agentic DevOps. See the all of the newest AI-powered capabilities in Azure DevOps. Plus, hear how Microsoft's engineering teams adopted this approach and what they gained.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -704,7 +813,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -714,8 +823,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Breakout session with Peter Steinberger",
-    "ogDescription": "To be announced closer to the event.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -777,120 +886,6 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Tina Schuchman, Jeff Hollan",
-    "canUserModifySchedule": true,
-    "hasFailoverVideoUrl": false,
-    "ssr": "",
-    "excludeFromSessionScheduler": false,
-    "doNotPublishVideo": false,
-    "localizedId": "en-US-1774018700647001rtkm",
-    "langLocale": "en-US",
-    "sessionId": "1774018700647001rtkm",
-    "sessionInstanceId": "1774018700647001rtkm",
-    "sessionCode": "BRK241",
-    "sessionCodeNormalized": "EN-US-BRK241",
-    "title": "Build and host enterprise-grade AI agents with Microsoft Foundry",
-    "sortTitle": "build and host enterprise-grade ai agents with microsoft foundry",
-    "description": "AI agents are transforming how developers build software—but shipping production-grade agents demands more. This session walks through the end-to-end lifecycle of building AI agents with Foundry Agent Service and Microsoft Agent Framework. See how to go from local prototyping to enterprise-grade hosted deployment with identity, secure networking, evaluations, and lifecycle management. Learn how coding agents like GitHub Copilot integrate directly into the workflow.",
-    "aiDescription": "",
-    "businessOutcome": "",
-    "businessOutcomeTwo": "",
-    "registrationLink": "",
-    "targetAudience": "",
-    "contentArea": [],
-    "sortRank": 3,
-    "TimeSlot": "22:45 - 23:30",
-    "startDateTimeNullGroup": 1,
-    "isMandatory": false,
-    "hasLiveStream": false,
-    "hasOnDemand": false,
-    "onDemandThumbnail": "",
-    "speakerIds": [
-      "1768245294609build26-1775078152694001T9OH",
-      "1768245294609build26-1774284996168001pgz1"
-    ],
-    "sessionLinks": [],
-    "relatedSessionCodes": [],
-    "hasTeamsMeeting": false,
-    "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
-    "heroSession": false,
-    "restrictedScopes": [],
-    "associatedCompanies": [],
-    "captionLanguage": [],
-    "audioLanguage": [],
-    "aslSupported": false,
-    "isExternalUrlSession": false,
-    "isPopular": false,
-    "ogImage": "",
-    "ogTitle": "Build and host enterprise-grade AI agents with Microsoft Foundry",
-    "ogDescription": "AI agents are transforming how developers build software—but shipping production-grade agents demands more. This session walks through the end-to-end lifecycle of building AI agents with Foundry Agent Service and Microsoft Agent Framework. See how to go from local prototyping to enterprise-grade hosted deployment with identity, secure networking, evaluations, and lifecycle management. Learn how coding agents like GitHub Copilot integrate directly into the workflow.",
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ],
-    "sessionType": {
-      "displayValue": "Breakout",
-      "logicalValue": "Breakout"
-    },
-    "topic": [
-      {
-        "displayValue": "Agents & apps",
-        "logicalValue": "Agents & apps"
-      }
-    ],
-    "sessionLevel": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
-    "programmingLanguages": [],
-    "location": {
-      "displayValue": "Festival Pavilion, Breakout 1",
-      "logicalValue": "Festival Pavilion, Breakout 1"
-    },
-    "theme": [],
-    "solutionArea": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "SpeakerTypes": [
-      {
-        "SpeakerType": "Speaker In-person",
-        "SpeakerId": "1768245294609build26-1774284996168001pgz1",
-        "RegistrantKey": "1768245294609build26-1774284996168001pgz1"
-      },
-      {
-        "SpeakerType": "Executive (CVP+) In-person",
-        "SpeakerId": "1768245294609build26-1775078152694001T9OH",
-        "RegistrantKey": "1768245294609build26-1775078152694001T9OH"
-      }
-    ],
-    "nextStep": null,
-    "event": [],
-    "sessionLanguage": [],
-    "viewingOptions": [
-      {
-        "displayValue": "Will be recorded",
-        "logicalValue": "Will be recorded"
-      }
-    ],
-    "audienceTypes": [],
-    "tags": []
-  },
-  {
-    "@search.score": 1.0,
-    "partnerType": [],
-    "industry": [],
-    "businessFocus": [],
-    "product": [],
-    "lineOfBusiness": "",
     "speakerNames": "Shen Chauhan",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
@@ -926,7 +921,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1053,7 +1048,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Marco Casalaina, Anagha Todalbagi",
+    "speakerNames": "Marco Casalaina",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -1082,14 +1077,13 @@
     "hasOnDemand": false,
     "onDemandThumbnail": "",
     "speakerIds": [
-      "1768245294609build26-1758304897855001h9Qq",
-      "1768245294609build26-1774284995835001pUFk"
+      "1768245294609build26-1758304897855001h9Qq"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1141,11 +1135,6 @@
         "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1758304897855001h9Qq",
         "RegistrantKey": "1768245294609build26-1758304897855001h9Qq"
-      },
-      {
-        "SpeakerType": "Speaker In-person",
-        "SpeakerId": "1768245294609build26-1774284995835001pUFk",
-        "RegistrantKey": "1768245294609build26-1774284995835001pUFk"
       }
     ],
     "nextStep": null,
@@ -1216,7 +1205,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1371,7 +1360,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1502,7 +1491,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1512,8 +1501,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Claw and agent harness in Microsoft Foundry",
-    "ogDescription": "Go deep on multi-agent systems built on Microsoft Foundry, featuring Claw agent patterns and the hosted agents architecture. Explore long-running agents with triggers, state management, and file access—all natively supported on Foundry. See how coding agents built with GitHub Copilot SDK and Claude Agent SDK integrate into multi-agent workflows using Microsoft Agent Framework. Learn how to coordinate, host, and operate these systems with observability and continuous evals.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -1585,7 +1574,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Yina Arenas, Naomi Moneypenny",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -1613,106 +1602,6 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
-    "sessionLinks": [],
-    "relatedSessionCodes": [],
-    "hasTeamsMeeting": false,
-    "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
-    "heroSession": false,
-    "restrictedScopes": [],
-    "associatedCompanies": [],
-    "captionLanguage": [],
-    "audioLanguage": [],
-    "aslSupported": false,
-    "isExternalUrlSession": false,
-    "isPopular": false,
-    "ogImage": "",
-    "ogTitle": "Confident model selection and integration with Microsoft Foundry",
-    "ogDescription": "Discover how to quickly choose, integrate, and validate AI models inside Microsoft Foundry. Learn techniques for navigating thousands of model options, benchmarking performance, and streamlining your workflow with deep IDE support. Build faster, ship smarter, and stay on top of the evolving AI landscape.",
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ],
-    "sessionType": {
-      "displayValue": "Breakout",
-      "logicalValue": "Breakout"
-    },
-    "topic": [
-      {
-        "displayValue": "Working with models",
-        "logicalValue": "Working with models"
-      }
-    ],
-    "sessionLevel": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
-    "programmingLanguages": [],
-    "location": {
-      "displayValue": "Building B, Level 3, BATS Improv",
-      "logicalValue": "Building B, Level 3, BATS Improv"
-    },
-    "theme": [],
-    "solutionArea": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "SpeakerTypes": [],
-    "nextStep": null,
-    "event": [],
-    "sessionLanguage": [],
-    "viewingOptions": [
-      {
-        "displayValue": "Will be recorded",
-        "logicalValue": "Will be recorded"
-      }
-    ],
-    "audienceTypes": [],
-    "tags": []
-  },
-  {
-    "@search.score": 1.0,
-    "partnerType": [],
-    "industry": [],
-    "businessFocus": [],
-    "product": [],
-    "lineOfBusiness": "",
-    "speakerNames": "Yina Arenas, Naomi Moneypenny",
-    "canUserModifySchedule": true,
-    "hasFailoverVideoUrl": false,
-    "ssr": "",
-    "excludeFromSessionScheduler": false,
-    "doNotPublishVideo": false,
-    "localizedId": "en-US-1774018712399001rOue",
-    "langLocale": "en-US",
-    "sessionId": "1774018712399001rOue",
-    "sessionInstanceId": "1774018712399001rOue",
-    "sessionCode": "BRK230",
-    "sessionCodeNormalized": "EN-US-BRK230",
-    "title": "Confident model selection and integration with Microsoft Foundry",
-    "sortTitle": "confident model selection and integration with microsoft foundry",
-    "description": "Discover how to quickly choose, integrate, and validate AI models inside Microsoft Foundry. Learn techniques for navigating thousands of model options, benchmarking performance, and streamlining your workflow with deep IDE support. Build faster, ship smarter, and stay on top of the evolving AI landscape.",
-    "aiDescription": "",
-    "businessOutcome": "",
-    "businessOutcomeTwo": "",
-    "registrationLink": "",
-    "targetAudience": "",
-    "contentArea": [],
-    "sortRank": 3,
-    "TimeSlot": "19:30 - 20:15",
-    "startDateTimeNullGroup": 1,
-    "isMandatory": false,
-    "hasLiveStream": false,
-    "hasOnDemand": false,
-    "onDemandThumbnail": "",
     "speakerIds": [
       "1768245294609build26-1768532909165001FoJl",
       "1768245294609build26-1775680871968001CAxd"
@@ -1721,7 +1610,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1799,6 +1688,228 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
+    "speakerNames": "Yina Arenas, Naomi Moneypenny",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1774018712399001rOue",
+    "langLocale": "en-US",
+    "sessionId": "1774018712399001rOue",
+    "sessionInstanceId": "1774018712399001rOue",
+    "sessionCode": "BRK230",
+    "sessionCodeNormalized": "EN-US-BRK230",
+    "title": "Confident model selection and integration with Microsoft Foundry",
+    "sortTitle": "confident model selection and integration with microsoft foundry",
+    "description": "Discover how to quickly choose, integrate, and validate AI models inside Microsoft Foundry. Learn techniques for navigating thousands of model options, benchmarking performance, and streamlining your workflow with deep IDE support. Build faster, ship smarter, and stay on top of the evolving AI landscape.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 3,
+    "TimeSlot": "19:30 - 20:15",
+    "startDateTimeNullGroup": 1,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [
+      "1768245294609build26-1768532909165001FoJl",
+      "1768245294609build26-1775680871968001CAxd"
+    ],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Breakout",
+      "logicalValue": "Breakout"
+    },
+    "topic": [
+      {
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "Building B, Level 3, BATS Improv",
+      "logicalValue": "Building B, Level 3, BATS Improv"
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Executive (CVP+) In-person",
+        "SpeakerId": "1768245294609build26-1768532909165001FoJl",
+        "RegistrantKey": "1768245294609build26-1768532909165001FoJl"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1775680871968001CAxd",
+        "RegistrantKey": "1768245294609build26-1775680871968001CAxd"
+      }
+    ],
+    "nextStep": null,
+    "event": [],
+    "sessionLanguage": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will be recorded",
+        "logicalValue": "Will be recorded"
+      }
+    ],
+    "audienceTypes": [],
+    "tags": []
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "Pablo Castro Castro",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1774018701434001rYZQ",
+    "langLocale": "en-US",
+    "sessionId": "1774018701434001rYZQ",
+    "sessionInstanceId": "1774018701434001rYZQ",
+    "sessionCode": "BRK246",
+    "sessionCodeNormalized": "EN-US-BRK246",
+    "title": "Context engineering for agents: connect agents with enterprise knowledge",
+    "sortTitle": "context engineering for agents: connect agents with enterprise knowledge",
+    "description": "Foundry IQ is Microsoft's context engineering platform that enables agents to unlock knowledge from everywhere, with state-of-the-art agentic RAG and enterprise-grade security built in. In this technical deep dive, we share the latest developments in Foundry IQ and Azure AI Search, new knowledge sources, agentic retrieval enhancements, and present retrieval performance innovations and evals for our 3rd year in a row — all designed to help you ship higher-quality agents faster.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 3,
+    "TimeSlot": "16:00 - 16:45",
+    "startDateTimeNullGroup": 1,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [
+      "1768245294609build26-1774553037071001kDWR"
+    ],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "Context engineering for agents: connect agents with enterprise knowledge",
+    "ogDescription": "Foundry IQ is Microsoft's context engineering platform that enables agents to unlock knowledge from everywhere, with state-of-the-art agentic RAG and enterprise-grade security built in. In this technical deep dive, we share the latest developments in Foundry IQ and Azure AI Search, new knowledge sources, agentic retrieval enhancements, and present retrieval performance innovations and evals for our 3rd year in a row — all designed to help you ship higher-quality agents faster.",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Breakout",
+      "logicalValue": "Breakout"
+    },
+    "topic": [
+      {
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "Festival Pavilion, Breakout 2",
+      "logicalValue": "Festival Pavilion, Breakout 2"
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Executive (CVP+) In-person",
+        "SpeakerId": "1768245294609build26-1774553037071001kDWR",
+        "RegistrantKey": "1768245294609build26-1774553037071001kDWR"
+      }
+    ],
+    "nextStep": null,
+    "event": [],
+    "sessionLanguage": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will be recorded",
+        "logicalValue": "Will be recorded"
+      }
+    ],
+    "audienceTypes": [],
+    "tags": []
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
     "speakerNames": "Sachin Patney, Ben Zulauf",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
@@ -1835,7 +1946,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1962,7 +2073,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2076,7 +2187,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2189,7 +2300,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2287,114 +2398,6 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Pablo Castro",
-    "canUserModifySchedule": true,
-    "hasFailoverVideoUrl": false,
-    "ssr": "",
-    "excludeFromSessionScheduler": false,
-    "doNotPublishVideo": false,
-    "localizedId": "en-US-1774018701434001rYZQ",
-    "langLocale": "en-US",
-    "sessionId": "1774018701434001rYZQ",
-    "sessionInstanceId": "1774018701434001rYZQ",
-    "sessionCode": "BRK246",
-    "sessionCodeNormalized": "EN-US-BRK246",
-    "title": "Foundry IQ: Fuel your agents with knowledge from everywhere",
-    "sortTitle": "foundry iq: fuel your agents with knowledge from everywhere",
-    "description": "Foundry IQ is Microsoft's context engineering platform that enables agents to unlock knowledge from everywhere, with state-of-the-art agentic RAG and enterprise-grade security built in. In this technical deep dive, we share the latest developments in Foundry IQ and Azure AI Search, new knowledge sources, agentic retrieval enhancements, and present retrieval performance innovations and evals for our 3rd year in a row — all designed to help you ship higher-quality agents faster.",
-    "aiDescription": "",
-    "businessOutcome": "",
-    "businessOutcomeTwo": "",
-    "registrationLink": "",
-    "targetAudience": "",
-    "contentArea": [],
-    "sortRank": 3,
-    "TimeSlot": "16:00 - 16:45",
-    "startDateTimeNullGroup": 1,
-    "isMandatory": false,
-    "hasLiveStream": false,
-    "hasOnDemand": false,
-    "onDemandThumbnail": "",
-    "speakerIds": [
-      "1768245294609build26-1774553037071001kDWR"
-    ],
-    "sessionLinks": [],
-    "relatedSessionCodes": [],
-    "hasTeamsMeeting": false,
-    "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
-    "heroSession": false,
-    "restrictedScopes": [],
-    "associatedCompanies": [],
-    "captionLanguage": [],
-    "audioLanguage": [],
-    "aslSupported": false,
-    "isExternalUrlSession": false,
-    "isPopular": false,
-    "ogImage": "",
-    "ogTitle": "",
-    "ogDescription": "",
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ],
-    "sessionType": {
-      "displayValue": "Breakout",
-      "logicalValue": "Breakout"
-    },
-    "topic": [
-      {
-        "displayValue": "Agents & apps",
-        "logicalValue": "Agents & apps"
-      }
-    ],
-    "sessionLevel": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
-    "programmingLanguages": [],
-    "location": {
-      "displayValue": "Festival Pavilion, Breakout 2",
-      "logicalValue": "Festival Pavilion, Breakout 2"
-    },
-    "theme": [],
-    "solutionArea": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "SpeakerTypes": [
-      {
-        "SpeakerType": "Executive (CVP+) In-person",
-        "SpeakerId": "1768245294609build26-1774553037071001kDWR",
-        "RegistrantKey": "1768245294609build26-1774553037071001kDWR"
-      }
-    ],
-    "nextStep": null,
-    "event": [],
-    "sessionLanguage": [],
-    "viewingOptions": [
-      {
-        "displayValue": "Will be recorded",
-        "logicalValue": "Will be recorded"
-      }
-    ],
-    "audienceTypes": [],
-    "tags": []
-  },
-  {
-    "@search.score": 1.0,
-    "partnerType": [],
-    "industry": [],
-    "businessFocus": [],
-    "product": [],
-    "lineOfBusiness": "",
     "speakerNames": "Evan Boyle, Cassidy Williams",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
@@ -2431,7 +2434,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2578,7 +2581,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2588,8 +2591,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "From observability to ROI for AI agents on any framework",
-    "ogDescription": "Nondeterministic, multi-agent systems break traditional monitoring. As agents reach production, observability must be built in—not added after failures. This session covers modern agent observability: cross-framework tracing and evals, rigorous inner-loop practices, evolving context-specific evals, and always-on signals that connect behavior to business outcomes to measure value, cost, and ROI.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -2665,6 +2668,125 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
+    "speakerNames": "Tina Schuchman, Jeff Hollan",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1774018700647001rtkm",
+    "langLocale": "en-US",
+    "sessionId": "1774018700647001rtkm",
+    "sessionInstanceId": "1774018700647001rtkm",
+    "sessionCode": "BRK241",
+    "sessionCodeNormalized": "EN-US-BRK241",
+    "title": "From prototype to production: build and run agents at scale",
+    "sortTitle": "from prototype to production: build and run agents at scale",
+    "description": "AI agents are transforming how developers build software—but shipping production-grade agents demands more. This session walks through the end-to-end lifecycle of building AI agents with Foundry Agent Service and Microsoft Agent Framework. See how to go from local prototyping to enterprise-grade hosted deployment with identity, secure networking, evaluations, and lifecycle management. Learn how coding agents like GitHub Copilot integrate directly into the workflow.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 3,
+    "TimeSlot": "22:45 - 23:30",
+    "startDateTimeNullGroup": 1,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [
+      "1768245294609build26-1775078152694001T9OH",
+      "1768245294609build26-1774284996168001pgz1"
+    ],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "From prototype to production: build and run agents at scale",
+    "ogDescription": "AI agents are transforming how developers build software—but shipping production-grade agents demands more. This session walks through the end-to-end lifecycle of building AI agents with Foundry Agent Service and Microsoft Agent Framework. See how to go from local prototyping to enterprise-grade hosted deployment with identity, secure networking, evaluations, and lifecycle management. Learn how coding agents like GitHub Copilot integrate directly into the workflow.",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Breakout",
+      "logicalValue": "Breakout"
+    },
+    "topic": [
+      {
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "Festival Pavilion, Breakout 1",
+      "logicalValue": "Festival Pavilion, Breakout 1"
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1774284996168001pgz1",
+        "RegistrantKey": "1768245294609build26-1774284996168001pgz1"
+      },
+      {
+        "SpeakerType": "Executive (CVP+) In-person",
+        "SpeakerId": "1768245294609build26-1775078152694001T9OH",
+        "RegistrantKey": "1768245294609build26-1775078152694001T9OH"
+      }
+    ],
+    "nextStep": null,
+    "event": [],
+    "sessionLanguage": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will be recorded",
+        "logicalValue": "Will be recorded"
+      }
+    ],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "Microsoft Foundry",
+        "logicalValue": "Microsoft Foundry"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
     "speakerNames": "Charles Feddersen, Abe Omorogbe",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
@@ -2701,7 +2823,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2836,7 +2958,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2914,126 +3036,6 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Ronak Chokshi, Joe Filcik, Maria Naggaga",
-    "canUserModifySchedule": true,
-    "hasFailoverVideoUrl": false,
-    "ssr": "",
-    "excludeFromSessionScheduler": false,
-    "doNotPublishVideo": false,
-    "localizedId": "en-US-1774018700806001rmT7",
-    "langLocale": "en-US",
-    "sessionId": "1774018700806001rmT7",
-    "sessionInstanceId": "1774018700806001rmT7",
-    "sessionCode": "BRK242",
-    "sessionCodeNormalized": "EN-US-BRK242",
-    "title": "Get the right tools for your agents with 1-click",
-    "sortTitle": "get the right tools for your agents with 1-click",
-    "description": "Tired of searching for the right tool(s) for your agents? Seeing your context window constantly blowing out of proportion? We are introducing a new product category that allows developers to choose the right toolset depending upon the agents' context, the use-case and functional boundaries, enabling efficient use of tools, with built-in governance.",
-    "aiDescription": "",
-    "businessOutcome": "",
-    "businessOutcomeTwo": "",
-    "registrationLink": "",
-    "targetAudience": "",
-    "contentArea": [],
-    "sortRank": 3,
-    "TimeSlot": "23:00 - 23:45",
-    "startDateTimeNullGroup": 1,
-    "isMandatory": false,
-    "hasLiveStream": false,
-    "hasOnDemand": false,
-    "onDemandThumbnail": "",
-    "speakerIds": [
-      "1768245294609build26-1751939918029001Ts21",
-      "1768245294609build26-1776459863938001ayf1",
-      "1768245294609build26-1775078342403001SpDz"
-    ],
-    "sessionLinks": [],
-    "relatedSessionCodes": [],
-    "hasTeamsMeeting": false,
-    "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
-    "heroSession": false,
-    "restrictedScopes": [],
-    "associatedCompanies": [],
-    "captionLanguage": [],
-    "audioLanguage": [],
-    "aslSupported": false,
-    "isExternalUrlSession": false,
-    "isPopular": false,
-    "ogImage": "",
-    "ogTitle": "",
-    "ogDescription": "",
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ],
-    "sessionType": {
-      "displayValue": "Breakout",
-      "logicalValue": "Breakout"
-    },
-    "topic": [
-      {
-        "displayValue": "Agents & apps",
-        "logicalValue": "Agents & apps"
-      }
-    ],
-    "sessionLevel": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [],
-    "location": {
-      "displayValue": "Festival Pavilion, Breakout 2",
-      "logicalValue": "Festival Pavilion, Breakout 2"
-    },
-    "theme": [],
-    "solutionArea": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "SpeakerTypes": [
-      {
-        "SpeakerType": "Speaker In-person",
-        "SpeakerId": "1768245294609build26-1751939918029001Ts21",
-        "RegistrantKey": "1768245294609build26-1751939918029001Ts21"
-      },
-      {
-        "SpeakerType": "Speaker In-person",
-        "SpeakerId": "1768245294609build26-1775078342403001SpDz",
-        "RegistrantKey": "1768245294609build26-1775078342403001SpDz"
-      },
-      {
-        "SpeakerType": "Speaker In-person",
-        "SpeakerId": "1768245294609build26-1776459863938001ayf1",
-        "RegistrantKey": "1768245294609build26-1776459863938001ayf1"
-      }
-    ],
-    "nextStep": null,
-    "event": [],
-    "sessionLanguage": [],
-    "viewingOptions": [
-      {
-        "displayValue": "Will be recorded",
-        "logicalValue": "Will be recorded"
-      }
-    ],
-    "audienceTypes": [],
-    "tags": []
-  },
-  {
-    "@search.score": 1.0,
-    "partnerType": [],
-    "industry": [],
-    "businessFocus": [],
-    "product": [],
-    "lineOfBusiness": "",
     "speakerNames": "Nik Karpinsky, Mads Kristensen",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
@@ -3070,7 +3072,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3080,8 +3082,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "GitHub Copilot in Visual Studio: Agents That Debug, Profile, and Test",
-    "ogDescription": "Every IDE has agentic code generation now, but Visual Studio goes further with built-in agents that tackle what code generation can't. In this demo-heavy session, you'll see agents root-cause bugs using live runtime behavior, pinpoint performance bottlenecks and recommend targeted fixes, and build test coverage to catch regressions before they ship. These aren't just code-writing agents. They help enterprise C#, .NET, and C++ developers improve code quality with expert-level diagnostics.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -3214,7 +3216,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3345,7 +3347,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3471,7 +3473,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3579,7 +3581,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3589,8 +3591,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "",
-    "ogDescription": "",
+    "ogTitle": "Japan Wrap-up Session",
+    "ogDescription": "本セッションは、日本からご参加の方向けに、Microsoft Buildの主要なアナウンスについて日本語で解説を行います。\n\nIn this session, we will deliver a focused recap of the key announcements and technical insights from the 2 days of Microsoft Build, tailored for developers joining from Japan. You will leave with a clear understanding of the technical direction revealed at Build, how it applies to your products and teams, and the concrete next steps to consider as you move toward frontier transformation.\n\nThis session will be delivered in Japanese.",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -3643,7 +3645,36 @@
       }
     ],
     "audienceTypes": [],
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Azure",
+        "logicalValue": "Azure"
+      },
+      {
+        "displayValue": "Security",
+        "logicalValue": "Security"
+      },
+      {
+        "displayValue": "GitHub",
+        "logicalValue": "GitHub"
+      },
+      {
+        "displayValue": "Windows",
+        "logicalValue": "Windows"
+      },
+      {
+        "displayValue": "Microsoft Foundry",
+        "logicalValue": "Microsoft Foundry"
+      },
+      {
+        "displayValue": "Data",
+        "logicalValue": "Data"
+      },
+      {
+        "displayValue": "DevTools",
+        "logicalValue": "DevTools"
+      }
+    ]
   },
   {
     "@search.score": 1.0,
@@ -3687,7 +3718,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3796,7 +3827,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3856,7 +3887,12 @@
       }
     ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -3896,7 +3932,7 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "TimeSlot": "21:45 - 22:30",
+    "TimeSlot": "00:15 - 01:00",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
@@ -3911,7 +3947,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3921,8 +3957,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "",
-    "ogDescription": "",
+    "ogTitle": "Modern resiliency from build to recovery through Agentic AI",
+    "ogDescription": "Resiliency failures rarely come from missing features; they stem from fragmentation. During incidents teams lose time jumping between repos, dashboards, runbooks, and chat tools. This session reframes resiliency as an agent-first practice spanning build, operate, troubleshoot, and recovery. See how an agentic AI assistant links workflows across IDEs, source repos, and collaboration tools speeding validation, operations, and recovery for a critical workload aligned with Azure’s agentic model.",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -4044,7 +4080,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4178,7 +4214,7 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "TimeSlot": "00:15 - 01:00",
+    "TimeSlot": "21:45 - 22:30",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
@@ -4192,7 +4228,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4328,7 +4364,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4446,7 +4482,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4519,7 +4555,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Brendan Burns, Lachlan Evenson",
+    "speakerNames": "Brendan Burns, Lachie Evenson",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -4555,7 +4591,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4679,7 +4715,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4762,7 +4798,127 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Nish Anil, Hazem El-Hammamy",
+    "speakerNames": "Ronak Chokshi, Joe Filcik, Maria Naggaga",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1774018700806001rmT7",
+    "langLocale": "en-US",
+    "sessionId": "1774018700806001rmT7",
+    "sessionInstanceId": "1774018700806001rmT7",
+    "sessionCode": "BRK242",
+    "sessionCodeNormalized": "EN-US-BRK242",
+    "title": "Turn your agents into action: connect tools, APIs, and data",
+    "sortTitle": "turn your agents into action: connect tools, apis, and data",
+    "description": "Tired of searching for the right tool(s) for your agents? Seeing your context window constantly blowing out of proportion? We are introducing a new product category that allows developers to choose the right toolset depending upon the agents' context, the use-case and functional boundaries, enabling efficient use of tools, with built-in governance.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 3,
+    "TimeSlot": "23:00 - 23:45",
+    "startDateTimeNullGroup": 1,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [
+      "1768245294609build26-1751939918029001Ts21",
+      "1768245294609build26-1776459863938001ayf1",
+      "1768245294609build26-1775078342403001SpDz"
+    ],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "Turn your agents into action: connect tools, APIs, and data",
+    "ogDescription": "Tired of searching for the right tool(s) for your agents? Seeing your context window constantly blowing out of proportion? We are introducing a new product category that allows developers to choose the right toolset depending upon the agents' context, the use-case and functional boundaries, enabling efficient use of tools, with built-in governance.",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Breakout",
+      "logicalValue": "Breakout"
+    },
+    "topic": [
+      {
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "Festival Pavilion, Breakout 2",
+      "logicalValue": "Festival Pavilion, Breakout 2"
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1751939918029001Ts21",
+        "RegistrantKey": "1768245294609build26-1751939918029001Ts21"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1775078342403001SpDz",
+        "RegistrantKey": "1768245294609build26-1775078342403001SpDz"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1776459863938001ayf1",
+        "RegistrantKey": "1768245294609build26-1776459863938001ayf1"
+      }
+    ],
+    "nextStep": null,
+    "event": [],
+    "sessionLanguage": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will be recorded",
+        "logicalValue": "Will be recorded"
+      }
+    ],
+    "audienceTypes": [],
+    "tags": []
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "Nish Anil, Hazem El-Hammamy, Mandy Whaley",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -4792,13 +4948,14 @@
     "onDemandThumbnail": "",
     "speakerIds": [
       "1768245294609build26-1770924720596001wFnD",
-      "1768245294609build26-1777576114739001uRBc"
+      "1768245294609build26-1777576114739001uRBc",
+      "1768245294609build26-1774284997564001pZNT"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4855,6 +5012,11 @@
         "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1777576114739001uRBc",
         "RegistrantKey": "1768245294609build26-1777576114739001uRBc"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1774284997564001pZNT",
+        "RegistrantKey": "1768245294609build26-1774284997564001pZNT"
       }
     ],
     "nextStep": null,
@@ -4925,7 +5087,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5036,7 +5198,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Mario Rodriguez, Evan Boyle",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -5064,12 +5226,15 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1775133280383001hbCQ",
+      "1768245294609build26-1776135903186001Orl7"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5116,7 +5281,18 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Executive (CVP+) In-person",
+        "SpeakerId": "1768245294609build26-1775133280383001hbCQ",
+        "RegistrantKey": "1768245294609build26-1775133280383001hbCQ"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1776135903186001Orl7",
+        "RegistrantKey": "1768245294609build26-1776135903186001Orl7"
+      }
+    ],
     "nextStep": null,
     "event": [],
     "sessionLanguage": [],
@@ -5209,7 +5385,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5360,7 +5536,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5507,7 +5683,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5517,8 +5693,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Build an AI app with Azure SQL Hyperscale, Microsoft Fabric, & Foundry",
-    "ogDescription": "Build an AI-powered FAQ assistant using Azure SQL Database vector search and Retrieval-Augmented Generation (RAG) with Azure OpenAI Service. Use GitHub Copilot to speed T-SQL, mirror data into Microsoft Fabric (OneLake) for analytics, apply governance with Microsoft Purview, and orchestrate the workflow with Microsoft Foundry Agents.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -5634,7 +5810,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5644,8 +5820,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Build, deploy, and scale agents with Windows 365",
-    "ogDescription": "Learn how Windows 365 delivers secure and preconfigured computing environments for AI agents, and how you can combine that with computer use to accelerate the creation and deployment of AI agents in enterprise environments. Through technical demos, this session shows how to set up Cloud PCs and how agentic AI interacts with live apps and UIs, while keeping governance, identity, and enterprise controls built in.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -5761,7 +5937,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5880,7 +6056,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5995,7 +6171,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6005,8 +6181,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "From data to context: Agent‑ready knowledge with Foundry IQ",
-    "ogDescription": "What if your coding agent could reason over enterprise knowledge—across files, data, and work signals—without leaving your developer workflow? In this hands-on lab, you’ll build a reusable knowledge base in Foundry IQ using the Microsoft Foundry portal, expose it as an MCP server, and connect it to GitHub Copilot CLI—no custom RAG plumbing required. Experience how Foundry IQ and Copilot CLI work together to turn enterprise knowledge into live context, right where developers build and debug.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -6105,7 +6281,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6256,7 +6432,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6366,7 +6542,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6481,7 +6657,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6591,7 +6767,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6758,7 +6934,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6877,7 +7053,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6992,7 +7168,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7139,7 +7315,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7262,7 +7438,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7385,7 +7561,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7516,7 +7692,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7626,7 +7802,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7777,7 +7953,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7864,7 +8040,116 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Srikumar Nair",
+    "speakerNames": "Henk Boelman",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1774018701742001rOMi",
+    "langLocale": "en-US",
+    "sessionId": "1774018701742001rOMi",
+    "sessionInstanceId": "1774018701742001rOMi",
+    "sessionCode": "DEM330",
+    "sessionCodeNormalized": "EN-US-DEM330",
+    "title": "Build multimodal agents that reason, interact, and take action",
+    "sortTitle": "build multimodal agents that reason, interact, and take action",
+    "description": "Build a real-time agent with a conversational avatar using the Voice Live API in Microsoft Foundry, no slides, just live coding. See how Voice Live unifies speech-to-text, model reasoning, and text-to-speech, then wire it into an agent that can call tools via MCP to take real actions. Walk away with reusable patterns for voice-first, tool-using agents with expressive avatars.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 5,
+    "TimeSlot": "18:20 - 18:45",
+    "startDateTimeNullGroup": 1,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [
+      "1768245294609build26-1754963585693001VLHf"
+    ],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "Build multimodal agents that reason, interact, and take action",
+    "ogDescription": "Build a real-time agent with a conversational avatar using the Voice Live API in Microsoft Foundry, no slides, just live coding. See how Voice Live unifies speech-to-text, model reasoning, and text-to-speech, then wire it into an agent that can call tools via MCP to take real actions. Walk away with reusable patterns for voice-first, tool-using agents with expressive avatars.",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Demo",
+      "logicalValue": "Demo"
+    },
+    "topic": [
+      {
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "Festival Pavilion, Theater A",
+      "logicalValue": "Festival Pavilion, Theater A"
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1754963585693001VLHf",
+        "RegistrantKey": "1768245294609build26-1754963585693001VLHf"
+      }
+    ],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will be recorded",
+        "logicalValue": "Will be recorded"
+      }
+    ],
+    "audienceTypes": [],
+    "tags": []
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "Srikumar (Sri) Nair",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -7899,7 +8184,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8020,7 +8305,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8098,110 +8383,6 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Henk Boelman",
-    "canUserModifySchedule": true,
-    "hasFailoverVideoUrl": false,
-    "ssr": "",
-    "excludeFromSessionScheduler": false,
-    "doNotPublishVideo": false,
-    "localizedId": "en-US-1774018701742001rOMi",
-    "langLocale": "en-US",
-    "sessionId": "1774018701742001rOMi",
-    "sessionInstanceId": "1774018701742001rOMi",
-    "sessionCode": "DEM330",
-    "sessionCodeNormalized": "EN-US-DEM330",
-    "title": "Code a voice-first agent with avatars in Microsoft Foundry",
-    "sortTitle": "code a voice-first agent with avatars in microsoft foundry",
-    "description": "Build a real-time agent with a conversational avatar using the Voice Live API in Microsoft Foundry, no slides, just live coding. See how Voice Live unifies speech-to-text, model reasoning, and text-to-speech, then wire it into an agent that can call tools via MCP to take real actions. Walk away with reusable patterns for voice-first, tool-using agents with expressive avatars.",
-    "aiDescription": "",
-    "businessOutcome": "",
-    "businessOutcomeTwo": "",
-    "registrationLink": "",
-    "targetAudience": "",
-    "contentArea": [],
-    "sortRank": 5,
-    "TimeSlot": "18:20 - 18:45",
-    "startDateTimeNullGroup": 1,
-    "isMandatory": false,
-    "hasLiveStream": false,
-    "hasOnDemand": false,
-    "onDemandThumbnail": "",
-    "speakerIds": [
-      "1768245294609build26-1754963585693001VLHf"
-    ],
-    "sessionLinks": [],
-    "relatedSessionCodes": [],
-    "hasTeamsMeeting": false,
-    "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
-    "heroSession": false,
-    "restrictedScopes": [],
-    "associatedCompanies": [],
-    "captionLanguage": [],
-    "audioLanguage": [],
-    "aslSupported": false,
-    "isExternalUrlSession": false,
-    "isPopular": false,
-    "ogImage": "",
-    "ogTitle": "",
-    "ogDescription": "",
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      }
-    ],
-    "sessionType": {
-      "displayValue": "Demo",
-      "logicalValue": "Demo"
-    },
-    "topic": [
-      {
-        "displayValue": "Agents & apps",
-        "logicalValue": "Agents & apps"
-      }
-    ],
-    "sessionLevel": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
-    "programmingLanguages": [],
-    "location": {
-      "displayValue": "Festival Pavilion, Theater A",
-      "logicalValue": "Festival Pavilion, Theater A"
-    },
-    "theme": [],
-    "solutionArea": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "SpeakerTypes": [
-      {
-        "SpeakerType": "Speaker In-person",
-        "SpeakerId": "1768245294609build26-1754963585693001VLHf",
-        "RegistrantKey": "1768245294609build26-1754963585693001VLHf"
-      }
-    ],
-    "nextStep": null,
-    "event": [],
-    "sessionLanguage": [],
-    "viewingOptions": [
-      {
-        "displayValue": "Will be recorded",
-        "logicalValue": "Will be recorded"
-      }
-    ],
-    "audienceTypes": [],
-    "tags": []
-  },
-  {
-    "@search.score": 1.0,
-    "partnerType": [],
-    "industry": [],
-    "businessFocus": [],
-    "product": [],
-    "lineOfBusiness": "",
     "speakerNames": "Prashant G Bhoyar",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
@@ -8237,7 +8418,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8350,7 +8531,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8360,8 +8541,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Discovering Power App Data with M365 Copilot using MCP",
-    "ogDescription": "With millions of users world-wide, Power Apps and Dataverse now sit atop critical business data, but developers face challenges with discoverability and schema understanding. This session introduces Power Apps Model Context Protocol (MCP), which empowers M365 Copilot to access app metadata, Dataverse schemas, relationships, and permissions. Learn how MCP enables Copilot to answer natural-language queries, aggregate data, and deliver real-time insights, plus best practices for Copilot-ready apps.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -8464,7 +8645,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8588,7 +8769,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Freek Berson",
+    "speakerNames": "Freek Berson Berson",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -8623,7 +8804,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8737,7 +8918,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8896,7 +9077,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9035,7 +9216,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9104,7 +9285,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Jean Boudier, Osi Otugo, Vaidyaraman Sambasivam",
+    "speakerNames": "Jeff Boudier, Osi Otugo, Vaidya Sambasivam",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -9141,7 +9322,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9256,7 +9437,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9403,7 +9584,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9512,7 +9693,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9598,111 +9779,6 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
-    "canUserModifySchedule": true,
-    "hasFailoverVideoUrl": false,
-    "ssr": "",
-    "excludeFromSessionScheduler": false,
-    "doNotPublishVideo": false,
-    "localizedId": "en-US-1776289985706001LtgP",
-    "langLocale": "en-US",
-    "sessionId": "1776289985706001LtgP",
-    "sessionInstanceId": "1776289985706001LtgP",
-    "sessionCode": "DEM364",
-    "sessionCodeNormalized": "EN-US-DEM364",
-    "title": "Postgres and OpenAI - a match made in Azure",
-    "sortTitle": "postgres and openai - a match made in azure",
-    "description": "PostgreSQL on Azure is evolving beyond a traditional relational database-it's now a platform where advanced AI meets robust data management. In this session, you'll explore how to leverage the power of Azure's PostgreSQL Flexible Server combined with OpenAI’s generative capabilities. You will see how to use Azure OpenAI service directly from PostgreSQL with the azure_ai extension to generate vector embeddings, implement semantic search, build recommendation systems or summarize documents.",
-    "aiDescription": "",
-    "businessOutcome": "",
-    "businessOutcomeTwo": "",
-    "registrationLink": "",
-    "targetAudience": "",
-    "contentArea": [],
-    "sortRank": 5,
-    "TimeSlot": "18:20 - 18:45",
-    "startDateTimeNullGroup": 1,
-    "isMandatory": false,
-    "hasLiveStream": false,
-    "hasOnDemand": false,
-    "onDemandThumbnail": "",
-    "speakerIds": [],
-    "sessionLinks": [],
-    "relatedSessionCodes": [],
-    "hasTeamsMeeting": false,
-    "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
-    "heroSession": false,
-    "restrictedScopes": [],
-    "associatedCompanies": [],
-    "captionLanguage": [],
-    "audioLanguage": [],
-    "aslSupported": false,
-    "isExternalUrlSession": false,
-    "isPopular": false,
-    "ogImage": "",
-    "ogTitle": "",
-    "ogDescription": "",
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      }
-    ],
-    "sessionType": {
-      "displayValue": "Demo",
-      "logicalValue": "Demo"
-    },
-    "topic": [
-      {
-        "displayValue": "Cloud platform & data",
-        "logicalValue": "Cloud platform & data"
-      }
-    ],
-    "sessionLevel": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [],
-    "location": {
-      "displayValue": "Gateway Pavilion, Level 2, Theater B",
-      "logicalValue": "Gateway Pavilion, Level 2, Theater B"
-    },
-    "theme": [],
-    "solutionArea": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "SpeakerTypes": [],
-    "nextStep": null,
-    "event": [],
-    "sessionLanguage": [],
-    "viewingOptions": [
-      {
-        "displayValue": "Will be recorded",
-        "logicalValue": "Will be recorded"
-      }
-    ],
-    "audienceTypes": [],
-    "tags": [
-      {
-        "displayValue": "Community",
-        "logicalValue": "Community"
-      },
-      {
-        "displayValue": "MVP",
-        "logicalValue": "MVP"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "partnerType": [],
-    "industry": [],
-    "businessFocus": [],
-    "product": [],
-    "lineOfBusiness": "",
     "speakerNames": "Alexander Wachtel",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
@@ -9738,7 +9814,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9748,8 +9824,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "",
-    "ogDescription": "",
+    "ogTitle": "Responsible AI in Action: From Principles to Real‑World Engineering",
+    "ogDescription": "As AI moves into production, teams must keep models safe, compliant, and reliable without slowing delivery. This session shows how to implement Responsible AI directly in engineering workflows using Microsoft tools. Learn how to assess models, apply safety filters, enforce policies, and monitor risks in real time, plus explore new governance and explainability features that help you build trustworthy AI at scale.",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -9762,8 +9838,8 @@
     },
     "topic": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "displayValue": "Responsible AI",
+        "logicalValue": "Responsible AI"
       }
     ],
     "sessionLevel": [
@@ -9852,7 +9928,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10011,7 +10087,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10130,7 +10206,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10247,7 +10323,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10351,7 +10427,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10437,7 +10513,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Roelant Dieben, Stephen Simon",
+    "speakerNames": "Roelant Dieben, SIMON Simon",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -10473,7 +10549,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10591,7 +10667,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10695,7 +10771,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10746,7 +10822,12 @@
       }
     ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -10777,7 +10858,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "James Bennett",
+    "speakerNames": "Jim Bennett",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -10812,7 +10893,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10926,7 +11007,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11050,7 +11131,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11197,7 +11278,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11346,7 +11427,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11356,8 +11437,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "10 ways to maximize GitHub Copilot",
-    "ogDescription": "It started as autocomplete, but that's so 2024. What can GitHub Copilot really do in 2026? Join us for our 10 favorite hidden gems. Number will shock you!",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -11444,7 +11525,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Mike Carlo",
+    "speakerNames": "mike Carlo",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -11479,7 +11560,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11592,7 +11673,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11705,7 +11786,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11792,7 +11873,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Baki Onur Okutucu",
+    "speakerNames": "Onur Okutucu",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -11827,7 +11908,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11940,7 +12021,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12074,7 +12155,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12161,7 +12242,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Nikolaos Delis",
+    "speakerNames": "Nikos Delis",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -12196,7 +12277,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12296,7 +12377,7 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "21:30 - 21:45",
+    "TimeSlot": "23:00 - 23:15",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
@@ -12309,7 +12390,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -12348,8 +12429,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "Gateway Pavilion, Theater 3",
-      "logicalValue": "Gateway Pavilion, Theater 3"
+      "displayValue": "Gateway Pavilion, Theater 2",
+      "logicalValue": "Gateway Pavilion, Theater 2"
     },
     "theme": [],
     "solutionArea": [],
@@ -12402,7 +12483,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Nandini Muralidharan",
+    "speakerNames": "Nandini Muralidharan Muralidharan",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -12424,7 +12505,7 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "19:30 - 19:45",
+    "TimeSlot": "18:10 - 18:25",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
@@ -12437,7 +12518,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12582,7 +12663,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12695,7 +12776,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12795,7 +12876,7 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "21:30 - 21:45",
+    "TimeSlot": "21:10 - 21:25",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
@@ -12808,7 +12889,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -12846,8 +12927,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "Gateway Pavilion, Theater 2",
-      "logicalValue": "Gateway Pavilion, Theater 2"
+      "displayValue": "Gateway Pavilion, Theater 3",
+      "logicalValue": "Gateway Pavilion, Theater 3"
     },
     "theme": [],
     "solutionArea": [],
@@ -12935,7 +13016,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13089,7 +13170,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13202,7 +13283,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13306,7 +13387,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13453,7 +13534,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13567,7 +13648,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13676,7 +13757,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13754,7 +13835,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Patrick Brown Brown",
+    "speakerNames": "Patrick Brown",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -13789,7 +13870,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13893,7 +13974,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13979,7 +14060,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Freek Berson",
+    "speakerNames": "Freek Berson Berson",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -14014,7 +14095,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14114,7 +14195,7 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "18:10 - 18:25",
+    "TimeSlot": "21:00 - 21:15",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
@@ -14127,7 +14208,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -14165,8 +14246,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "Gateway Pavilion, Theater 2",
-      "logicalValue": "Gateway Pavilion, Theater 2"
+      "displayValue": "Gateway Pavilion, Theater 3",
+      "logicalValue": "Gateway Pavilion, Theater 3"
     },
     "theme": [],
     "solutionArea": [],
@@ -14254,7 +14335,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14369,7 +14450,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14379,8 +14460,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "Elevate your developer productivity with Windows Terminal",
-    "ogDescription": "Developers lose time switching tools to maintain UNIX habits. This session shows how new improvements coming to Windows Terminal support consistent command‑driven workflows so developers can code with reduced context switching. Attendees learn how to create reusable workflows to help build and ship faster using familiar UNIX like workflows.",
+    "ogTitle": "",
+    "ogDescription": "",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -14500,7 +14581,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14605,7 +14686,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14724,7 +14805,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14836,7 +14917,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14983,7 +15064,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15125,7 +15206,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15238,7 +15319,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15351,7 +15432,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15465,7 +15546,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15548,7 +15629,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Ioan-Alexandru Mang",
+    "speakerNames": "Alex Mang",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -15583,7 +15664,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15696,7 +15777,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15833,7 +15914,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15954,7 +16035,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16103,7 +16184,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16181,6 +16262,110 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
+    "speakerNames": "Sharmila Chockalingam",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1774018715313001r3eu",
+    "langLocale": "en-US",
+    "sessionId": "1774018715313001r3eu",
+    "sessionInstanceId": "1774018715313001r3eu",
+    "sessionCode": "LTG416",
+    "sessionCodeNormalized": "EN-US-LTG416",
+    "title": "Long-horizon coding agents with Claude in Microsoft Foundry",
+    "sortTitle": "long-horizon coding agents with claude in microsoft foundry",
+    "description": "AI-driven coding requires more than code generation, agents must know when work is complete and whether the result is actually correct. This session explores the architecture behind long-horizon coding agents with Claude in Microsoft Foundry, where planners break prompts into tasks, generators build solutions, and evaluators validate results in a real browser. Includes a live walkthrough from a single prompt to working software.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 6,
+    "TimeSlot": "00:10 - 00:25",
+    "startDateTimeNullGroup": 1,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [
+      "1768245294609build26-1752517267116001lWQS"
+    ],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "Long-horizon coding agents with Claude in Microsoft Foundry",
+    "ogDescription": "AI-driven coding requires more than code generation, agents must know when work is complete and whether the result is actually correct. This session explores the architecture behind long-horizon coding agents with Claude in Microsoft Foundry, where planners break prompts into tasks, generators build solutions, and evaluators validate results in a real browser. Includes a live walkthrough from a single prompt to working software.",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Lightning Talk",
+      "logicalValue": "Lightning Talk"
+    },
+    "topic": [
+      {
+        "displayValue": "Working with models",
+        "logicalValue": "Working with models"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "Gateway Pavilion, Theater 3",
+      "logicalValue": "Gateway Pavilion, Theater 3"
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1752517267116001lWQS",
+        "RegistrantKey": "1768245294609build26-1752517267116001lWQS"
+      }
+    ],
+    "nextStep": null,
+    "event": [],
+    "sessionLanguage": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will not be recorded",
+        "logicalValue": "Will not be recorded"
+      }
+    ],
+    "audienceTypes": [],
+    "tags": []
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
     "speakerNames": "Tyler Leonhardt, Connor Peet",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
@@ -16203,7 +16388,7 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 6,
-    "TimeSlot": "18:10 - 18:25",
+    "TimeSlot": "19:30 - 19:45",
     "startDateTimeNullGroup": 1,
     "isMandatory": false,
     "hasLiveStream": false,
@@ -16217,7 +16402,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16364,7 +16549,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16502,7 +16687,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16571,7 +16756,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Fatih Kadir Akin",
+    "speakerNames": "Fatih Akin",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -16606,7 +16791,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16751,7 +16936,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16820,110 +17005,6 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Sharmila Chockalingam",
-    "canUserModifySchedule": true,
-    "hasFailoverVideoUrl": false,
-    "ssr": "",
-    "excludeFromSessionScheduler": false,
-    "doNotPublishVideo": false,
-    "localizedId": "en-US-1774018715313001r3eu",
-    "langLocale": "en-US",
-    "sessionId": "1774018715313001r3eu",
-    "sessionInstanceId": "1774018715313001r3eu",
-    "sessionCode": "LTG416",
-    "sessionCodeNormalized": "EN-US-LTG416",
-    "title": "Reliable AI for code and knowledge work with Claude",
-    "sortTitle": "reliable ai for code and knowledge work with claude",
-    "description": "Prototypes impress, but production exposes the cracks - inconsistent results across large codebases, context limits on long documents, and reasoning that breaks down in multi-step tasks. This lightning talk shows how Claude in Microsoft Foundry tackles these failure modes head-on. Learn practical patterns for handling long context, strengthening reasoning, and building resilient AI systems that hold up at scale.",
-    "aiDescription": "",
-    "businessOutcome": "",
-    "businessOutcomeTwo": "",
-    "registrationLink": "",
-    "targetAudience": "",
-    "contentArea": [],
-    "sortRank": 6,
-    "TimeSlot": "00:10 - 00:25",
-    "startDateTimeNullGroup": 1,
-    "isMandatory": false,
-    "hasLiveStream": false,
-    "hasOnDemand": false,
-    "onDemandThumbnail": "",
-    "speakerIds": [
-      "1768245294609build26-1752517267116001lWQS"
-    ],
-    "sessionLinks": [],
-    "relatedSessionCodes": [],
-    "hasTeamsMeeting": false,
-    "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
-    "heroSession": false,
-    "restrictedScopes": [],
-    "associatedCompanies": [],
-    "captionLanguage": [],
-    "audioLanguage": [],
-    "aslSupported": false,
-    "isExternalUrlSession": false,
-    "isPopular": false,
-    "ogImage": "",
-    "ogTitle": "Reliable AI for code and knowledge work with Claude",
-    "ogDescription": "Prototypes impress, but production exposes the cracks - inconsistent results across large codebases, context limits on long documents, and reasoning that breaks down in multi-step tasks. This lightning talk shows how Claude in Microsoft Foundry tackles these failure modes head-on. Learn practical patterns for handling long context, strengthening reasoning, and building resilient AI systems that hold up at scale.",
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      }
-    ],
-    "sessionType": {
-      "displayValue": "Lightning Talk",
-      "logicalValue": "Lightning Talk"
-    },
-    "topic": [
-      {
-        "displayValue": "Working with models",
-        "logicalValue": "Working with models"
-      }
-    ],
-    "sessionLevel": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [],
-    "location": {
-      "displayValue": "Gateway Pavilion, Theater 3",
-      "logicalValue": "Gateway Pavilion, Theater 3"
-    },
-    "theme": [],
-    "solutionArea": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "SpeakerTypes": [
-      {
-        "SpeakerType": "Speaker In-person",
-        "SpeakerId": "1768245294609build26-1752517267116001lWQS",
-        "RegistrantKey": "1768245294609build26-1752517267116001lWQS"
-      }
-    ],
-    "nextStep": null,
-    "event": [],
-    "sessionLanguage": [],
-    "viewingOptions": [
-      {
-        "displayValue": "Will not be recorded",
-        "logicalValue": "Will not be recorded"
-      }
-    ],
-    "audienceTypes": [],
-    "tags": []
-  },
-  {
-    "@search.score": 1.0,
-    "partnerType": [],
-    "industry": [],
-    "businessFocus": [],
-    "product": [],
-    "lineOfBusiness": "",
     "speakerNames": "Surya Kukkapalli",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
@@ -16959,7 +17040,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17063,7 +17144,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17087,8 +17168,8 @@
     },
     "topic": [
       {
-        "displayValue": "",
-        "logicalValue": ""
+        "displayValue": "Responsible AI",
+        "logicalValue": "Responsible AI"
       }
     ],
     "sessionLevel": [
@@ -17177,7 +17258,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17315,7 +17396,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17424,7 +17505,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17537,7 +17618,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17643,7 +17724,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17757,7 +17838,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17900,7 +17981,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17963,7 +18044,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Paul Yu",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -17991,12 +18072,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1774284994279001pbAB"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -18044,7 +18127,13 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1774284994279001pbAB",
+        "RegistrantKey": "1768245294609build26-1774284994279001pbAB"
+      }
+    ],
     "nextStep": null,
     "event": [],
     "sessionLanguage": [],
@@ -18105,7 +18194,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -18240,7 +18329,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -18349,7 +18438,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -18463,7 +18552,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -18610,7 +18699,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -18739,7 +18828,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -18844,7 +18933,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -18986,7 +19075,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -19118,7 +19207,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -19252,7 +19341,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-07T01:25:01.622Z",
+    "lastUpdate": "2026-05-08T01:25:01.391Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
