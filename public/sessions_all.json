@@ -41,7 +41,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -51,8 +51,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "",
-    "ogTitle": "",
-    "ogDescription": "",
+    "ogTitle": "Microsoft Build opening keynote",
+    "ogDescription": "Satya Nadella and Microsoft leaders share how Microsoft is creating new opportunity for developers across our platforms in this era of AI.",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -81,8 +81,8 @@
     ],
     "programmingLanguages": [],
     "location": {
-      "displayValue": "Festival",
-      "logicalValue": "Festival"
+      "displayValue": "Festival Pavilion",
+      "logicalValue": "Festival Pavilion"
     },
     "theme": [],
     "solutionArea": [],
@@ -159,7 +159,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -267,7 +267,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -322,12 +322,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -381,7 +376,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -441,12 +436,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -517,7 +507,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -582,12 +572,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -670,7 +655,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -730,12 +715,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -833,7 +813,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -888,12 +868,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -947,7 +922,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1012,12 +987,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -1119,7 +1089,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1245,7 +1215,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -1441,7 +1411,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1506,12 +1476,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -1599,7 +1564,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -1724,7 +1689,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1779,12 +1744,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -1868,7 +1828,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1933,12 +1893,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -1992,7 +1947,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2111,7 +2066,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2171,12 +2126,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -2229,7 +2179,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2284,12 +2234,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -2343,7 +2288,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2403,12 +2348,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -2475,7 +2415,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2535,12 +2475,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -2594,7 +2529,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2654,12 +2589,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -2712,7 +2642,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2767,12 +2697,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -2851,7 +2776,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2911,12 +2836,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -3003,7 +2923,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3063,12 +2983,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -3135,7 +3050,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3195,12 +3110,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -3259,7 +3169,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3319,12 +3229,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -3399,7 +3304,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3459,12 +3364,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -3518,7 +3418,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3583,12 +3483,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -3667,7 +3562,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3727,12 +3622,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -3807,7 +3697,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3867,12 +3757,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -3938,7 +3823,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3993,12 +3878,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4051,7 +3931,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4193,7 +4073,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4248,12 +4128,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4307,7 +4182,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": true,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4367,12 +4242,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4427,7 +4297,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4492,12 +4362,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4565,7 +4430,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": true,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4713,7 +4578,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4773,12 +4638,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4854,7 +4714,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4919,12 +4779,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4977,7 +4832,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5032,12 +4887,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5090,7 +4940,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -5147,12 +4997,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5251,7 +5096,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5311,12 +5156,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5380,7 +5220,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5445,12 +5285,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5504,7 +5339,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -5646,7 +5481,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5711,12 +5546,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5771,7 +5601,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5836,12 +5666,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -5908,7 +5733,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5968,12 +5793,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -6060,7 +5880,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6216,7 +6036,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6276,12 +6096,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -6372,7 +6187,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": true,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6519,7 +6334,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6575,12 +6390,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -6651,7 +6461,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6707,12 +6517,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -6783,7 +6588,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6839,12 +6644,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -6907,7 +6707,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6968,12 +6768,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7027,7 +6822,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7142,7 +6937,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7198,12 +6993,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7298,7 +7088,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7354,12 +7144,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7413,7 +7198,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7474,12 +7259,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7533,7 +7313,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7589,12 +7369,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7648,7 +7423,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7704,12 +7479,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7820,7 +7590,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7876,12 +7646,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7952,7 +7717,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8008,12 +7773,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8072,7 +7832,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8128,12 +7888,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8224,7 +7979,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8280,12 +8035,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8352,7 +8102,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8413,12 +8163,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8492,7 +8237,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8628,7 +8373,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8684,12 +8429,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8743,7 +8483,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8799,12 +8539,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8899,7 +8634,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8955,12 +8690,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -9027,7 +8757,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -9085,12 +8815,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -9180,7 +8905,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -9233,7 +8958,12 @@
       }
     ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -9319,7 +9049,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9370,12 +9100,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -9426,7 +9151,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -9474,7 +9199,12 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -9540,7 +9270,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9591,12 +9321,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -9682,7 +9407,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9800,7 +9525,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9918,7 +9643,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -9971,12 +9696,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -10056,7 +9776,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -10202,7 +9922,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10321,7 +10041,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10382,12 +10102,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -10485,7 +10200,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10604,7 +10319,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10660,12 +10375,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -10768,7 +10478,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10824,12 +10534,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -10912,7 +10617,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10963,12 +10668,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -11023,7 +10723,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11084,12 +10784,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -11143,7 +10838,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11199,12 +10894,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -11294,7 +10984,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -11347,12 +11037,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -11419,7 +11104,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11475,12 +11160,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -11533,7 +11213,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11659,7 +11339,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11778,7 +11458,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11834,12 +11514,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -11942,7 +11617,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12003,12 +11678,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -12067,7 +11737,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -12125,7 +11795,12 @@
       }
     ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -12211,7 +11886,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12262,12 +11937,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -12333,7 +12003,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12384,12 +12054,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -12442,7 +12107,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12493,12 +12158,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -12533,7 +12193,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Roelant Dieben, SIMON Simon",
+    "speakerNames": "Roelant Dieben, Stephen Simon",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -12569,7 +12229,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12625,12 +12285,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -12692,7 +12347,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12743,12 +12398,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -12801,7 +12451,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12923,7 +12573,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13042,7 +12692,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13103,12 +12753,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -13171,7 +12816,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13232,12 +12877,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -13323,7 +12963,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13374,12 +13014,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -13461,7 +13096,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13579,7 +13214,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13697,7 +13332,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13819,7 +13454,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13937,7 +13572,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14076,7 +13711,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14132,12 +13767,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -14203,7 +13833,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14321,7 +13951,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -14375,12 +14005,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -14454,7 +14079,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14505,12 +14130,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -14604,7 +14224,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14758,7 +14378,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14874,7 +14494,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -14922,7 +14542,12 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -14988,7 +14613,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -15127,7 +14752,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -15180,12 +14805,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -15263,7 +14883,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15381,7 +15001,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -15513,7 +15133,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15569,12 +15189,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -15672,7 +15287,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15790,7 +15405,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15841,12 +15456,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -15899,7 +15509,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16051,7 +15661,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16107,12 +15717,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -16170,7 +15775,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16221,12 +15826,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -16284,7 +15884,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16402,7 +16002,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16453,12 +16053,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -16511,7 +16106,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16562,12 +16157,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -16637,7 +16227,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16755,7 +16345,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -16887,7 +16477,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16938,12 +16528,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -17009,7 +16594,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17060,12 +16645,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -17151,7 +16731,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17202,12 +16782,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -17261,7 +16836,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17312,12 +16887,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -17393,7 +16963,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17438,12 +17008,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -17510,7 +17075,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17566,12 +17131,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -17662,7 +17222,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17718,12 +17278,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -17809,7 +17364,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17927,7 +17482,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -18045,7 +17600,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -18096,12 +17651,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -18154,7 +17704,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -18273,7 +17823,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -18331,7 +17881,12 @@
       }
     ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -18402,7 +17957,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -18458,12 +18013,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -18529,7 +18079,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -18580,12 +18130,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -18671,7 +18216,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -18797,7 +18342,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -18951,7 +18496,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -19069,7 +18614,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -19120,12 +18665,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -19178,7 +18718,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -19366,7 +18906,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -19422,12 +18962,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -19518,7 +19053,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -19574,12 +19109,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -19661,7 +19191,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -19712,12 +19242,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -19770,7 +19295,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -19902,7 +19427,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Gaurav Goel Goel",
+    "speakerNames": "Gaurav Goel",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -19937,7 +19462,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -19990,7 +19515,12 @@
       }
     ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -20132,7 +19662,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -20183,12 +19713,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -20282,7 +19807,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -20333,12 +19858,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -20391,7 +19911,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -20442,12 +19962,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -20501,7 +20016,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -20559,7 +20074,12 @@
       }
     ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -20633,7 +20153,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -20752,7 +20272,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -20808,12 +20328,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -20895,7 +20410,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -20946,12 +20461,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -21021,7 +20531,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -21072,12 +20582,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -21139,7 +20644,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -21190,12 +20695,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -21248,7 +20748,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -21368,7 +20868,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -21429,12 +20929,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -21485,7 +20980,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -21532,7 +21027,12 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -21626,7 +21126,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -21776,7 +21276,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -21832,12 +21332,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -21896,7 +21391,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -21952,12 +21447,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -22033,7 +21523,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -22080,12 +21570,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -22172,7 +21657,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -22228,12 +21713,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -22286,7 +21766,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -22405,7 +21885,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -22466,12 +21946,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -22557,7 +22032,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -22608,12 +22083,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -22691,7 +22161,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -22742,12 +22212,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -22801,7 +22266,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -22857,12 +22322,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -22948,7 +22408,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -23057,7 +22517,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -23099,7 +22559,12 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -23167,7 +22632,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -23281,7 +22746,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -23416,7 +22881,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -23544,7 +23009,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -23592,12 +23057,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -23651,7 +23111,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -23709,12 +23169,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -23786,7 +23241,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -23833,7 +23288,12 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -23884,7 +23344,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -23931,12 +23391,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -23987,7 +23442,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -24114,7 +23569,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -24172,7 +23627,12 @@
       }
     ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -24247,7 +23707,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -24380,7 +23840,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -24498,7 +23958,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -24591,7 +24051,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -24643,12 +24103,7 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -24728,7 +24183,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -24823,7 +24278,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -24932,7 +24387,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -25052,7 +24507,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -25183,7 +24638,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -25289,7 +24744,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -25342,12 +24797,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -25405,7 +24855,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -25531,7 +24981,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -25651,7 +25101,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -25773,7 +25223,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -25885,7 +25335,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -25992,7 +25442,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -26103,7 +25553,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -26223,7 +25673,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -26281,7 +25731,12 @@
       }
     ],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -26339,7 +25794,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -26473,7 +25928,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -26592,7 +26047,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -26720,7 +26175,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -26832,7 +26287,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -26988,7 +26443,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -27122,7 +26577,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -27169,7 +26624,12 @@
     "learningZoneTopic": [],
     "SpeakerTypes": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -27220,7 +26680,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -27318,7 +26778,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -27418,7 +26878,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -27471,12 +26931,7 @@
       }
     ],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -27532,7 +26987,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -27650,7 +27105,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -27760,7 +27215,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -27866,7 +27321,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -27934,6 +27389,148 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1778250717137001I9sZ",
+    "langLocale": "en-US",
+    "sessionId": "1778250717137001I9sZ",
+    "sessionInstanceId": "1778250717137001I9sZ",
+    "sessionCode": "LAB501D",
+    "sessionCodeNormalized": "EN-US-LAB501D",
+    "title": "Digital Lab: From zero to deployed on Azure with AI agents",
+    "sortTitle": "digital lab: from zero to deployed on azure with ai agents",
+    "description": "What happens when you let AI agents do the building? In this hands-on lab, you'll go from an empty terminal to a deployed app on Azure — with GitHub Copilot CLI and coding agents handling the scaffolding, coding, debugging, and deployment. You'll use the new Azure skills to provision resources and wire up services through natural language, no portal required. This isn't a demo you watch. You'll walk out with a real, working dev workflow you can take straight to your next project.\n\nThis is a self-paced, digitally-delivered lab experience that you will complete on your own schedule. Click the 'Launch' button to start the lab. NOTE:  This lab will be available to complete on June 2, 2026, starting at 12:00 PM Pacific Time.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 8,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "Digital Lab: From zero to deployed on Azure with AI agents",
+    "ogDescription": "What happens when you let AI agents do the building? In this hands-on lab, you'll go from an empty terminal to a deployed app on Azure — with GitHub Copilot CLI and coding agents handling the scaffolding, coding, debugging, and deployment. You'll use the new Azure skills to provision resources and wire up services through natural language, no portal required. This isn't a demo you watch. You'll walk out with a real, working dev workflow you can take straight to your next project.\n\nThis is a self-paced, digitally-delivered lab experience that you will complete on your own schedule. Click the 'Launch' button to start the lab. NOTE:  This lab will be available to complete on June 2, 2026, starting at 12:00 PM Pacific Time.",
+    "deliveryTypes": [
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Digital Lab",
+      "logicalValue": "Digital Lab"
+    },
+    "topic": [
+      {
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will not be recorded",
+        "logicalValue": "Will not be recorded"
+      }
+    ],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "Azure",
+        "logicalValue": "Azure"
+      },
+      {
+        "displayValue": "Agents",
+        "logicalValue": "Agents"
+      },
+      {
+        "displayValue": "Developer",
+        "logicalValue": "Developer"
+      },
+      {
+        "displayValue": "GitHub Copilot",
+        "logicalValue": "GitHub Copilot"
+      },
+      {
+        "displayValue": "GitHub",
+        "logicalValue": "GitHub"
+      },
+      {
+        "displayValue": "Deployment Pipelines",
+        "logicalValue": "Deployment Pipelines"
+      },
+      {
+        "displayValue": "GitHub Actions",
+        "logicalValue": "GitHub Actions"
+      },
+      {
+        "displayValue": "GitHub Copilot CLI",
+        "logicalValue": "GitHub Copilot CLI"
+      },
+      {
+        "displayValue": "DevTools",
+        "logicalValue": "DevTools"
+      },
+      {
+        "displayValue": "Agentic SDLC",
+        "logicalValue": "Agentic SDLC"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
     "speakerNames": "Aaron Powell, Lee Stott",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
@@ -27970,7 +27567,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -28082,7 +27679,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -28188,7 +27785,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -28319,6 +27916,124 @@
     "ssr": "",
     "excludeFromSessionScheduler": false,
     "doNotPublishVideo": false,
+    "localizedId": "en-US-1778252419747001Kkwg",
+    "langLocale": "en-US",
+    "sessionId": "1778252419747001Kkwg",
+    "sessionInstanceId": "1778252419747001Kkwg",
+    "sessionCode": "LAB540D",
+    "sessionCodeNormalized": "EN-US-LAB540D",
+    "title": "Digital Lab: Observe, optimize and protect your hosted agents in Microsoft Foundry",
+    "sortTitle": "digital lab: observe, optimize and protect your hosted agents in microsoft foundry",
+    "description": "Modern agents fail in ways traditional monitoring can’t catch. In this hands-on lab, learn how Microsoft Foundry Observability helps you move from prototype → production with context-specific evaluation suites (auto-generated evaluators + test datasets) wired into developer workflows via skills/MCP tooling for hosted agents. Then scale quality with continuous evaluation, trace-linked analysis, and adaptive red teaming—and walk away with a sandbox to explore additional features on your own.\n\nThis is a self-paced, digitally-delivered lab experience that you will complete on your own schedule. Click the 'Launch' button to start the lab. NOTE:  This lab will be available to complete on June 2, 2026, starting at 12:00 PM Pacific Time.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 8,
+    "TimeSlot": "",
+    "startDateTimeNullGroup": 0,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "",
+    "speakerIds": [],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "",
+    "ogTitle": "Digital Lab: Observe, optimize and protect your hosted agents in Microsoft Foundry",
+    "ogDescription": "Modern agents fail in ways traditional monitoring can’t catch. In this hands-on lab, learn how Microsoft Foundry Observability helps you move from prototype → production with context-specific evaluation suites (auto-generated evaluators + test datasets) wired into developer workflows via skills/MCP tooling for hosted agents. Then scale quality with continuous evaluation, trace-linked analysis, and adaptive red teaming—and walk away with a sandbox to explore additional features on your own.\n\nThis is a self-paced, digitally-delivered lab experience that you will complete on your own schedule. Click the 'Launch' button to start the lab. NOTE:  This lab will be available to complete on June 2, 2026, starting at 12:00 PM Pacific Time.",
+    "deliveryTypes": [
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Digital Lab",
+      "logicalValue": "Digital Lab"
+    },
+    "topic": [
+      {
+        "displayValue": "Responsible AI",
+        "logicalValue": "Responsible AI"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "",
+      "logicalValue": ""
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will not be recorded",
+        "logicalValue": "Will not be recorded"
+      }
+    ],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "Observability",
+        "logicalValue": "Observability"
+      },
+      {
+        "displayValue": "Microsoft Foundry",
+        "logicalValue": "Microsoft Foundry"
+      },
+      {
+        "displayValue": "Responsible AI",
+        "logicalValue": "Responsible AI"
+      },
+      {
+        "displayValue": "Evaluations",
+        "logicalValue": "Evaluations"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
     "localizedId": "en-US-1778248869837001Syze",
     "langLocale": "en-US",
     "sessionId": "1778248869837001Syze",
@@ -28346,7 +28061,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -28452,7 +28167,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -28590,7 +28305,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -28748,7 +28463,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -28878,7 +28593,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -29005,7 +28720,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -29126,7 +28841,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -29262,7 +28977,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -29382,7 +29097,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -29508,7 +29223,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -29638,7 +29353,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -29778,7 +29493,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -29907,7 +29622,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -30093,7 +29808,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -30221,7 +29936,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -30411,7 +30126,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -30577,7 +30292,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-09T01:25:01.32Z",
+    "lastUpdate": "2026-05-10T01:25:01.275Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
