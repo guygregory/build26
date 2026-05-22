@@ -44,7 +44,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -101,7 +101,12 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -164,7 +169,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -279,7 +284,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -388,13 +393,13 @@
     "isMandatory": true,
     "hasLiveStream": false,
     "hasOnDemand": false,
-    "onDemandThumbnail": "",
+    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1778527797402001uj2B_20260521160548581.avif",
     "speakerIds": [],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -403,7 +408,7 @@
     "aslSupported": false,
     "isExternalUrlSession": false,
     "isPopular": false,
-    "ogImage": "",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1778527797402001uj2B_20260521160548581.avif",
     "ogTitle": "Overflow Keynote Viewing: Festival Pavilion, Theater A",
     "ogDescription": "Due to limited seating in the Festival Pavillion, this location is available for overflow keynote viewing. All overflow locations are first-come, first-served. \n \nLive captions will be available in all keynote overflow viewing locations. American Sign Language (ASL) interpretation will be available in select locations, including Cowell Theater, BATS Theater, and the Outdoor Theater.",
     "deliveryTypes": [
@@ -445,7 +450,12 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [],
     "audienceTypes": [],
@@ -503,7 +513,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -618,7 +628,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -727,13 +737,13 @@
     "isMandatory": true,
     "hasLiveStream": false,
     "hasOnDemand": false,
-    "onDemandThumbnail": "",
+    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1779306381282001lPnM_20260521160616000.avif",
     "speakerIds": [],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": true,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -742,7 +752,7 @@
     "aslSupported": false,
     "isExternalUrlSession": false,
     "isPopular": false,
-    "ogImage": "",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1779306381282001lPnM_20260521160616000.avif",
     "ogTitle": "GitHub, Copilot, VS Code, and More: Live from San Francisco",
     "ogDescription": "Join us on stage for live demos, surprise guests, games, live coding, and more. The latest from GitHub, Copilot, VS Code, Visual Studio, and friends, straight from the teams building it.",
     "deliveryTypes": [],
@@ -789,7 +799,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Patrick Brown, Rohan Ganesh, Surya Kukkapalli, Troy McBride, Vivaan Sawant, Advika Vuppala, Hans Yang",
+    "speakerNames": "Patrick Brown, Rohan Ganesh, Surya Kukkapalli, Troy McBride, Dona Sarkar, Vivaan Sawant, Advika Vuppala, Hans Yang",
     "canUserModifySchedule": false,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -818,12 +828,13 @@
     "isMandatory": true,
     "hasLiveStream": false,
     "hasOnDemand": false,
-    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1778699194568001Vqb4_20260520160845121.avif",
+    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1778699194568001Vqb4_20260521161110183.avif",
     "speakerIds": [
       "1768245294609build26-1776076731812001gK5F",
       "1768245294609build26-1775792452897001CnyX",
       "1768245294609build26-1775834985858001az7i",
       "1768245294609build26-1775882816983001k1U7",
+      "1768245294609build26-1775167383558001GMiw",
       "1768245294609build26-1776040528117001fUtV",
       "1768245294609build26-1776049446660001RE11",
       "1768245294609build26-1774465760748001jIh3"
@@ -832,7 +843,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": true,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -841,7 +852,7 @@
     "aslSupported": false,
     "isExternalUrlSession": false,
     "isPopular": false,
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1778699194568001Vqb4_20260520160845121.avif",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1778699194568001Vqb4_20260521161110183.avif",
     "ogTitle": "Imagine Cup World Championship",
     "ogDescription": "The final moment is here. Three startups. One stage. This year’s finalists take the stage pitching their solutions as they compete to become the 2026 Imagine Cup World Champion, win $100,000 USD, and a mentorship session with Microsoft Chairman and CEO, Satya Nadella. This is where ideas meet execution and where student founders show what it looks like to build with scale in mind.",
     "deliveryTypes": [
@@ -909,6 +920,11 @@
         "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1774465760748001jIh3",
         "RegistrantKey": "1768245294609build26-1774465760748001jIh3"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1775167383558001GMiw",
+        "RegistrantKey": "1768245294609build26-1775167383558001GMiw"
       }
     ],
     "repeatedSessions": [],
@@ -961,7 +977,7 @@
   },
   {
     "@search.score": 1.0,
-    "startDateTime": "2026-06-02T19:30:00Z",
+    "startDateTime": "2026-06-02T20:00:00Z",
     "partnerType": [],
     "industry": [],
     "businessFocus": [],
@@ -989,10 +1005,10 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 2,
-    "TimeSlot": "19:30 - 21:30",
+    "TimeSlot": "20:00 - 21:30",
     "startDateTimeNullGroup": 1,
     "endDateTime": "2026-06-02T21:30:00Z",
-    "durationInMinutes": 120,
+    "durationInMinutes": 90,
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
@@ -1005,7 +1021,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": true,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1062,7 +1078,12 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -1118,7 +1139,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1245,7 +1266,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1307,7 +1328,12 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -1381,7 +1407,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1534,7 +1560,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1697,7 +1723,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1780,13 +1806,154 @@
   },
   {
     "@search.score": 1.0,
+    "startDateTime": "2026-06-02T21:30:00Z",
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "Anush Elangovan",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1775240864817001hZBb",
+    "langLocale": "en-US",
+    "sessionId": "1775240864817001hZBb",
+    "sessionInstanceId": "1775240864817001hZBb",
+    "sessionCode": "BRKSP93",
+    "sessionCodeNormalized": "EN-US-BRKSP93",
+    "title": "Build AI across client and cloud with AMD ROCm and Microsoft",
+    "sortTitle": "build ai across client and cloud with amd rocm and microsoft",
+    "description": "As AI moves from experimentation to production, developers need practical ways to build, test, and optimize workloads across client, cloud, and on-prem environments. Learn how AMD ROCm™ provides a common AI software foundation across Radeon™, Ryzen™ AI, and AMD Instinct™ platforms. See how integrations with PyTorch and ONNX/MIGraphX enable portability with fewer code changes while optimizing performance for each target.\n\nSeating for this session is first-come, first-served. Add it to your schedule to plan your day and arrive early to secure a spot.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 3,
+    "TimeSlot": "21:30 - 22:15",
+    "startDateTimeNullGroup": 1,
+    "endDateTime": "2026-06-02T22:15:00Z",
+    "durationInMinutes": 45,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1775240864817001hZBb_20260520160633518.avif",
+    "speakerIds": [
+      "1768245294609build26-1776351028697001ZmDD"
+    ],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [
+      "AMD"
+    ],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1775240864817001hZBb_20260520160633518.avif",
+    "ogTitle": "Build AI across client and cloud with AMD ROCm and Microsoft",
+    "ogDescription": "As AI moves from experimentation to production, developers need practical ways to build, test, and optimize workloads across client, cloud, and on-prem environments. Learn how AMD ROCm™ provides a common AI software foundation across Radeon™, Ryzen™ AI, and AMD Instinct™ platforms. See how integrations with PyTorch and ONNX/MIGraphX enable portability with fewer code changes while optimizing performance for each target.\n\nSeating for this session is first-come, first-served. Add it to your schedule to plan your day and arrive early to secure a spot.",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Breakout",
+      "logicalValue": "Breakout"
+    },
+    "topic": [
+      {
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "Festival Pavilion, Breakout 3",
+      "logicalValue": "Festival Pavilion, Breakout 3"
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1776351028697001ZmDD",
+        "RegistrantKey": "1768245294609build26-1776351028697001ZmDD"
+      }
+    ],
+    "repeatedSessions": [],
+    "relatedResources": [],
+    "nextStep": null,
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
+    "sessionLanguage": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will be recorded",
+        "logicalValue": "Will be recorded"
+      }
+    ],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "AI",
+        "logicalValue": "AI"
+      },
+      {
+        "displayValue": "API",
+        "logicalValue": "API"
+      },
+      {
+        "displayValue": "Developer",
+        "logicalValue": "Developer"
+      },
+      {
+        "displayValue": "Developer Technologies",
+        "logicalValue": "Developer Technologies"
+      },
+      {
+        "displayValue": "Developer Frameworks",
+        "logicalValue": "Developer Frameworks"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
     "startDateTime": "2026-06-02T22:45:00Z",
     "partnerType": [],
     "industry": [],
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Shen Chauhan, Clint Rutkas",
+    "speakerNames": "Kayla Cinnamon, Craig Loewen",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -1817,14 +1984,14 @@
     "hasOnDemand": false,
     "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1774018718349001rCjG_20260512022957706.avif",
     "speakerIds": [
-      "1768245294609build26-1774374356763001C1Ra",
-      "1768245294609build26-1774284989943001pdAm"
+      "1768245294609build26-1769224980177001oYZY",
+      "1768245294609build26-1758133761538001NuMh"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -1879,19 +2046,24 @@
     "SpeakerTypes": [
       {
         "SpeakerType": "Speaker In-person",
-        "SpeakerId": "1768245294609build26-1774374356763001C1Ra",
-        "RegistrantKey": "1768245294609build26-1774374356763001C1Ra"
+        "SpeakerId": "1768245294609build26-1758133761538001NuMh",
+        "RegistrantKey": "1768245294609build26-1758133761538001NuMh"
       },
       {
         "SpeakerType": "Speaker In-person",
-        "SpeakerId": "1768245294609build26-1774284989943001pdAm",
-        "RegistrantKey": "1768245294609build26-1774284989943001pdAm"
+        "SpeakerId": "1768245294609build26-1769224980177001oYZY",
+        "RegistrantKey": "1768245294609build26-1769224980177001oYZY"
       }
     ],
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -1959,7 +2131,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Aditi Narvekar, Anastasiya Tarnouskaya",
+    "speakerNames": "Jordi Janer, Aditi Narvekar, Anastasiya Tarnouskaya",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -1988,8 +2160,9 @@
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
-    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1774018718047001rVyM_20260512022937725.avif",
+    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1774018718047001rVyM_20260521160755535.avif",
     "speakerIds": [
+      "1768245294609build26-1779144962550001mXc0",
       "1768245294609build26-1774284995682001p4go",
       "1768245294609build26-1774386059185001OLB7"
     ],
@@ -1997,7 +2170,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2006,7 +2179,7 @@
     "aslSupported": false,
     "isExternalUrlSession": false,
     "isPopular": false,
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1774018718047001rVyM_20260512022937725.avif",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1774018718047001rVyM_20260521160755535.avif",
     "ogTitle": "Build Apps w/ Local AI for Unmetered Intelligence on every Windows PC",
     "ogDescription": "Start with solution-centric Windows AI APIs - now expanding beyond Copilot+ devices. Use Foundry Local to run open-source models locally. With new tooling in Foundry Toolkit, optimize and prep your models for local AI deployments. Run custom AI workloads locally across GPU, NPU, or CPU with Windows ML, now with support for web apps through WebNN. Learn how the platform enables on-device inference across all Windows PCs to help you ship performant, scalable, and secure AI-powered apps on Windows.\n\nSeating for this session is first-come, first-served. Add it to your schedule to plan your day and arrive early to secure a spot.",
     "deliveryTypes": [
@@ -2059,12 +2232,22 @@
         "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1774284995682001p4go",
         "RegistrantKey": "1768245294609build26-1774284995682001p4go"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1779144962550001mXc0",
+        "RegistrantKey": "1768245294609build26-1779144962550001mXc0"
       }
     ],
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -2149,7 +2332,7 @@
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
-    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1774018700487001rXwu_20260512021113001.avif",
+    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1774018700487001rXwu_20260521160628563.avif",
     "speakerIds": [
       "1768245294609build26-1768930557792001TyJw",
       "1768245294609build26-1758304897855001h9Qq"
@@ -2158,7 +2341,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2167,7 +2350,7 @@
     "aslSupported": false,
     "isExternalUrlSession": false,
     "isPopular": false,
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1774018700487001rXwu_20260512021113001.avif",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1774018700487001rXwu_20260521160628563.avif",
     "ogTitle": "Build context-aware agents: From data to decisions",
     "ogDescription": "High performance agents are built on intelligence that brings together context, enterprise data, orchestration, and governance. Learn how Foundry IQ, Fabric IQ, and Work IQ provide the enterprise intelligence layer for AI agents. Design agents that can search across organizational knowledge, reason over business data, and operate with awareness of people and work signals. Take action within trusted boundaries, providing a practical foundation for building scalable and reliable agents.\n\nSeating for this session is first-come, first-served. Add it to your schedule to plan your day and arrive early to secure a spot.",
     "deliveryTypes": [
@@ -2220,12 +2403,7 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -2246,142 +2424,6 @@
       {
         "displayValue": "Work IQ",
         "logicalValue": "Work IQ"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "startDateTime": "2026-06-02T21:30:00Z",
-    "partnerType": [],
-    "industry": [],
-    "businessFocus": [],
-    "product": [],
-    "lineOfBusiness": "",
-    "speakerNames": "Anush Elangovan",
-    "canUserModifySchedule": true,
-    "hasFailoverVideoUrl": false,
-    "ssr": "",
-    "excludeFromSessionScheduler": false,
-    "doNotPublishVideo": false,
-    "localizedId": "en-US-1775240864817001hZBb",
-    "langLocale": "en-US",
-    "sessionId": "1775240864817001hZBb",
-    "sessionInstanceId": "1775240864817001hZBb",
-    "sessionCode": "BRKSP93",
-    "sessionCodeNormalized": "EN-US-BRKSP93",
-    "title": "Build once, deploy everywhere across Azure, on-prem, and local with AMD",
-    "sortTitle": "build once, deploy everywhere across azure, on-prem, and local with amd",
-    "description": "As AI workloads move from experimentation to production, developers need portability, performance, and flexibility—without lock-in. Learn how AMD Instinct and Radeon GPUs and the ROCm open software stack enable a build-once, deploy-anywhere AI workflow spanning Azure, on-prem, and local Windows or Linux environments. See how ROCm with PyTorch and ONNX Runtime helps developers run the same code from laptop to Azure GPU clusters—reducing rework while scaling performance.\n\n\nSeating for this session is first-come, first-served. Add it to your schedule to plan your day and arrive early to secure a spot.",
-    "aiDescription": "",
-    "businessOutcome": "",
-    "businessOutcomeTwo": "",
-    "registrationLink": "",
-    "targetAudience": "",
-    "contentArea": [],
-    "sortRank": 3,
-    "TimeSlot": "21:30 - 22:15",
-    "startDateTimeNullGroup": 1,
-    "endDateTime": "2026-06-02T22:15:00Z",
-    "durationInMinutes": 45,
-    "isMandatory": false,
-    "hasLiveStream": false,
-    "hasOnDemand": false,
-    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1775240864817001hZBb_20260520160633518.avif",
-    "speakerIds": [
-      "1768245294609build26-1776351028697001ZmDD"
-    ],
-    "sessionLinks": [],
-    "relatedSessionCodes": [],
-    "hasTeamsMeeting": false,
-    "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
-    "heroSession": false,
-    "restrictedScopes": [],
-    "associatedCompanies": [
-      "AMD"
-    ],
-    "captionLanguage": [],
-    "audioLanguage": [],
-    "aslSupported": false,
-    "isExternalUrlSession": false,
-    "isPopular": false,
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1775240864817001hZBb_20260520160633518.avif",
-    "ogTitle": "Build once, deploy everywhere across Azure, on-prem, and local with AMD",
-    "ogDescription": "As AI workloads move from experimentation to production, developers need portability, performance, and flexibility—without lock-in. Learn how AMD Instinct and Radeon GPUs and the ROCm open software stack enable a build-once, deploy-anywhere AI workflow spanning Azure, on-prem, and local Windows or Linux environments. See how ROCm with PyTorch and ONNX Runtime helps developers run the same code from laptop to Azure GPU clusters—reducing rework while scaling performance.\n\n\nSeating for this session is first-come, first-served. Add it to your schedule to plan your day and arrive early to secure a spot.",
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ],
-    "sessionType": {
-      "displayValue": "Breakout",
-      "logicalValue": "Breakout"
-    },
-    "topic": [
-      {
-        "displayValue": "Developer tools & frameworks",
-        "logicalValue": "Developer tools & frameworks"
-      }
-    ],
-    "sessionLevel": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
-    "programmingLanguages": [],
-    "location": {
-      "displayValue": "Festival Pavilion, Breakout 3",
-      "logicalValue": "Festival Pavilion, Breakout 3"
-    },
-    "theme": [],
-    "solutionArea": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "SpeakerTypes": [
-      {
-        "SpeakerType": "Speaker In-person",
-        "SpeakerId": "1768245294609build26-1776351028697001ZmDD",
-        "RegistrantKey": "1768245294609build26-1776351028697001ZmDD"
-      }
-    ],
-    "repeatedSessions": [],
-    "relatedResources": [],
-    "nextStep": null,
-    "event": [],
-    "sessionLanguage": [],
-    "viewingOptions": [
-      {
-        "displayValue": "Will be recorded",
-        "logicalValue": "Will be recorded"
-      }
-    ],
-    "audienceTypes": [],
-    "tags": [
-      {
-        "displayValue": "AI",
-        "logicalValue": "AI"
-      },
-      {
-        "displayValue": "API",
-        "logicalValue": "API"
-      },
-      {
-        "displayValue": "Developer",
-        "logicalValue": "Developer"
-      },
-      {
-        "displayValue": "Developer Technologies",
-        "logicalValue": "Developer Technologies"
-      },
-      {
-        "displayValue": "Developer Frameworks",
-        "logicalValue": "Developer Frameworks"
       }
     ]
   },
@@ -2431,7 +2473,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2579,7 +2621,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2699,7 +2741,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2823,7 +2865,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -2911,7 +2953,7 @@
   },
   {
     "@search.score": 1.0,
-    "startDateTime": "2026-06-03T00:00:00Z",
+    "startDateTime": "2026-06-02T22:45:00Z",
     "partnerType": [],
     "industry": [],
     "businessFocus": [],
@@ -2939,9 +2981,9 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "TimeSlot": "00:00 - 00:45",
+    "TimeSlot": "22:45 - 23:30",
     "startDateTimeNullGroup": 1,
-    "endDateTime": "2026-06-03T00:45:00Z",
+    "endDateTime": "2026-06-02T23:30:00Z",
     "durationInMinutes": 45,
     "isMandatory": false,
     "hasLiveStream": false,
@@ -2955,7 +2997,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3074,7 +3116,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3205,7 +3247,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3343,7 +3385,7 @@
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
-    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1774018701434001rYZQ_20260512021222628.avif",
+    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1774018701434001rYZQ_20260521160640808.avif",
     "speakerIds": [
       "1768245294609build26-1774553037071001kDWR"
     ],
@@ -3351,7 +3393,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3360,7 +3402,7 @@
     "aslSupported": false,
     "isExternalUrlSession": false,
     "isPopular": false,
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1774018701434001rYZQ_20260512021222628.avif",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1774018701434001rYZQ_20260521160640808.avif",
     "ogTitle": "Foundry IQ: Fuel agents with enterprise knowledge and agentic retrieval",
     "ogDescription": "Foundry IQ is Microsoft's context engineering platform that enables agents to unlock knowledge from everywhere, with state-of-the-art agentic RAG and enterprise-grade security built in. In this technical deep dive, we share the latest developments in Foundry IQ and Azure AI Search, new knowledge sources, agentic retrieval enhancements, and present retrieval performance innovations and evals for our 3rd year in a row — all designed to help you ship higher-quality agents faster.\n\n\nSeating for this session is first-come, first-served. Add it to your schedule to plan your day and arrive early to secure a spot.",
     "deliveryTypes": [
@@ -3408,12 +3450,7 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -3491,7 +3528,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3599,7 +3636,7 @@
   },
   {
     "@search.score": 1.0,
-    "startDateTime": "2026-06-02T22:45:00Z",
+    "startDateTime": "2026-06-03T00:00:00Z",
     "partnerType": [],
     "industry": [],
     "businessFocus": [],
@@ -3627,9 +3664,9 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 3,
-    "TimeSlot": "22:45 - 23:30",
+    "TimeSlot": "00:00 - 00:45",
     "startDateTimeNullGroup": 1,
-    "endDateTime": "2026-06-02T23:30:00Z",
+    "endDateTime": "2026-06-03T00:45:00Z",
     "durationInMinutes": 45,
     "isMandatory": false,
     "hasLiveStream": false,
@@ -3644,7 +3681,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3781,7 +3818,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -3905,7 +3942,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4049,7 +4086,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4143,7 +4180,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Tim Bozarth",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -4172,13 +4209,15 @@
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
-    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1776966893131001OtRc_20260512021007661.avif",
-    "speakerIds": [],
+    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1776966893131001OtRc_20260521160854233.avif",
+    "speakerIds": [
+      "1768245294609build26-1778719549331001rAyH"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4187,7 +4226,7 @@
     "aslSupported": false,
     "isExternalUrlSession": false,
     "isPopular": false,
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1776966893131001OtRc_20260512021007661.avif",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1776966893131001OtRc_20260521160854233.avif",
     "ogTitle": "Future of Developer Productivity: Microsoft’s EngThrive Framework in Practice",
     "ogDescription": "Abstract: AI is transforming how we write code, but the teams shipping fastest go beyond tools—they systematically remove bottlenecks in the development process. This session gives you a practical framework to measure and improve developer productivity in the AI era, based on Microsoft’s EngThrive model of Speed, Ease, and Quality. See how to apply each dimension through case studies, including a team that reduced developer toil by 25%. You’ll leave with clear metrics to track, dashboards to build, and actions that work for teams of any size.",
     "deliveryTypes": [
@@ -4225,7 +4264,13 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1778719549331001rAyH",
+        "RegistrantKey": "1768245294609build26-1778719549331001rAyH"
+      }
+    ],
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
@@ -4304,7 +4349,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4454,7 +4499,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4521,7 +4566,12 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -4600,7 +4650,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4736,7 +4786,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4849,7 +4899,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -4997,7 +5047,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5134,7 +5184,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5272,7 +5322,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": true,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5425,7 +5475,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -5552,7 +5602,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -5697,7 +5747,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -5903,7 +5953,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": true,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6023,7 +6073,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6159,7 +6209,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6260,9 +6310,9 @@
     "sessionInstanceId": "1774391405488001iTYM",
     "sessionCode": "BRKSP90",
     "sessionCodeNormalized": "EN-US-BRKSP90",
-    "title": "Stop Routing docstrings to a >70B model: AI inference on Qualcomm",
-    "sortTitle": "stop routing docstrings to a >70b model: ai inference on qualcomm",
-    "description": "Your AI coding assistant calls a 70B+ cloud model just to add a docstring. Snapdragon X2 Elite’s 80 TOPS NPU changes that. In this session, build a three-tier inference routing architecture—on‑device (≤13B), on‑prem (14B–34B), and cloud (70B+)—cutting cloud tokens by 67%, latency by 70%, and keeping most code local. Includes routing logic, quantization trade‑offs, and a deployable classifier.\n\n\nSeating for this session is first-come, first-served. Add it to your schedule to plan your day and arrive early to secure a spot.",
+    "title": "Stop routing docstrings to 70B models with on-device AI on Snapdragon",
+    "sortTitle": "stop routing docstrings to 70b models with on-device ai on snapdragon",
+    "description": "Your AI coding assistant calls a 70B+ cloud model just to add a docstring. Snapdragon X2 Elite’s 80 TOPS NPU changes that. In this session, build a three-tier inference routing architecture—on‑device (≤13B), on‑prem (14B–34B), and cloud (70B+)—cutting cloud tokens by 67%, latency by 70%, and keeping most code local. Includes routing logic, quantization trade‑offs, and a deployable classifier.\n\nSeating for this session is first-come, first-served. Add it to your schedule to plan your day and arrive early to secure a spot.",
     "aiDescription": "",
     "businessOutcome": "",
     "businessOutcomeTwo": "",
@@ -6285,7 +6335,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -6297,8 +6347,8 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1774391405488001iTYM_20260512023529754.avif",
-    "ogTitle": "Stop Routing docstrings to a >70B model: AI inference on Qualcomm",
-    "ogDescription": "Your AI coding assistant calls a 70B+ cloud model just to add a docstring. Snapdragon X2 Elite’s 80 TOPS NPU changes that. In this session, build a three-tier inference routing architecture—on‑device (≤13B), on‑prem (14B–34B), and cloud (70B+)—cutting cloud tokens by 67%, latency by 70%, and keeping most code local. Includes routing logic, quantization trade‑offs, and a deployable classifier.\n\n\nSeating for this session is first-come, first-served. Add it to your schedule to plan your day and arrive early to secure a spot.",
+    "ogTitle": "Stop routing docstrings to 70B models with on-device AI on Snapdragon",
+    "ogDescription": "Your AI coding assistant calls a 70B+ cloud model just to add a docstring. Snapdragon X2 Elite’s 80 TOPS NPU changes that. In this session, build a three-tier inference routing architecture—on‑device (≤13B), on‑prem (14B–34B), and cloud (70B+)—cutting cloud tokens by 67%, latency by 70%, and keeping most code local. Includes routing logic, quantization trade‑offs, and a deployable classifier.\n\nSeating for this session is first-come, first-served. Add it to your schedule to plan your day and arrive early to secure a spot.",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -6315,8 +6365,8 @@
     },
     "topic": [
       {
-        "displayValue": "Working with models",
-        "logicalValue": "Working with models"
+        "displayValue": "Developer tools & frameworks",
+        "logicalValue": "Developer tools & frameworks"
       }
     ],
     "sessionLevel": [
@@ -6408,7 +6458,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Brendan Burns, Lachie Evenson",
+    "speakerNames": "Lachie Evenson",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -6439,14 +6489,13 @@
     "hasOnDemand": false,
     "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1774018704329001rnnz_20260512021527157.avif",
     "speakerIds": [
-      "1768245294609build26-1768691145006001Si6c",
       "1768245294609build26-1774284996815001pSYL"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6494,11 +6543,6 @@
     "communityTopic": [],
     "learningZoneTopic": [],
     "SpeakerTypes": [
-      {
-        "SpeakerType": "Executive (CVP+) In-person",
-        "SpeakerId": "1768245294609build26-1768691145006001Si6c",
-        "RegistrantKey": "1768245294609build26-1768691145006001Si6c"
-      },
       {
         "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1774284996815001pSYL",
@@ -6575,7 +6619,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6699,7 +6743,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -6846,7 +6890,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6932,7 +6976,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Nish Anil, Hazem El-Hammamy",
+    "speakerNames": "Nish Anil, Hazem El-Hammamy, Jeff Fritz",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -6961,16 +7005,17 @@
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
-    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1774018703960001rRT9_20260520160412780.avif",
+    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1774018703960001rRT9_20260521160657458.avif",
     "speakerIds": [
       "1768245294609build26-1770924720596001wFnD",
-      "1768245294609build26-1777576114739001uRBc"
+      "1768245294609build26-1777576114739001uRBc",
+      "1768245294609build26-1768325213362001z95b"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -6979,7 +7024,7 @@
     "aslSupported": false,
     "isExternalUrlSession": false,
     "isPopular": false,
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1774018703960001rRT9_20260520160412780.avif",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1774018703960001rRT9_20260521160657458.avif",
     "ogTitle": "Using AI tools to teach old apps new tricks",
     "ogDescription": "Modernizing apps isn’t just rewriting code—it’s untangling dependencies, tracing data flows, and making changes without breaking production. In this session, we’ll show how you can use agentic AI to take on the hardest parts of modernization: analyzing large codebases, mapping dependencies, planning upgrades, refactoring safely, while doing it all at scale. With GitHub Copilot modernization capabilities, you can move from legacy complexity to modernized apps in days, not months.\n\nSeating for this session is first-come, first-served. Add it to your schedule to plan your day and arrive early to secure a spot.",
     "deliveryTypes": [
@@ -7027,12 +7072,22 @@
         "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1777576114739001uRBc",
         "RegistrantKey": "1768245294609build26-1777576114739001uRBc"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1768325213362001z95b",
+        "RegistrantKey": "1768245294609build26-1768325213362001z95b"
       }
     ],
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7102,7 +7157,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7254,7 +7309,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7323,12 +7378,7 @@
     ],
     "relatedResources": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7422,7 +7472,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7585,7 +7635,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": true,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -7699,7 +7749,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Eda Zhou",
+    "speakerNames": "Mahdi Ghodsi, Eda Zhou",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -7728,15 +7778,16 @@
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
-    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1778176105728001AVFb_20260512032755623.avif",
+    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1778176105728001AVFb_20260521161019966.avif",
     "speakerIds": [
+      "1768245294609build26-1778539204572001y3am",
       "1768245294609build26-1778539327865001THkU"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -7747,7 +7798,7 @@
     "aslSupported": false,
     "isExternalUrlSession": false,
     "isPopular": false,
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1778176105728001AVFb_20260512032755623.avif",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1778176105728001AVFb_20260521161019966.avif",
     "ogTitle": "Build a custom AI agent with open-weight models and OpenClaw",
     "ogDescription": "Build and run your own AI agent by hosting open-weight models on AMD GPU infrastructure. In this hands-on lab, you’ll assemble a tool-using agent, configure model hosting, and connect it to real workflows. Learn how to customize behavior, reduce API costs, and deploy agents with greater privacy and control using OpenClaw.\n\nThis Lab is BYOD. Add this session to your schedule to reserve your seat, as capacity is limited. Please arrive at least 5 minutes early; unclaimed seats may be released to standby attendees.",
     "deliveryTypes": [
@@ -7784,6 +7835,11 @@
     "SpeakerTypes": [
       {
         "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1778539204572001y3am",
+        "RegistrantKey": "1768245294609build26-1778539204572001y3am"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1778539327865001THkU",
         "RegistrantKey": "1768245294609build26-1778539327865001THkU"
       }
@@ -7810,7 +7866,12 @@
     ],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7829,7 +7890,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Eda Zhou",
+    "speakerNames": "Mahdi Ghodsi, Eda Zhou",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -7858,15 +7919,16 @@
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
-    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1778175457810001loW5_20260512153419385.avif",
+    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1778175457810001loW5_20260521160940793.avif",
     "speakerIds": [
+      "1768245294609build26-1778539204572001y3am",
       "1768245294609build26-1778539327865001THkU"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -7877,7 +7939,7 @@
     "aslSupported": false,
     "isExternalUrlSession": false,
     "isPopular": false,
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1778175457810001loW5_20260512153419385.avif",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1778175457810001loW5_20260521160940793.avif",
     "ogTitle": "Build a custom AI agent with open-weight models and OpenClaw",
     "ogDescription": "Build and run your own AI agent by hosting open-weight models on AMD GPU infrastructure. In this hands-on lab, you’ll assemble a tool-using agent, configure model hosting, and connect it to real workflows. Learn how to customize behavior, reduce API costs, and deploy agents with greater privacy and control using OpenClaw.\n\nNote: This Lab includes lunch at Greens Restaurant—an iconic, seasonal, and organic dining experience—plan to arrive early and enjoy.\n\nThis Lab is BYOD. Add this session to your schedule to reserve your seat, as capacity is limited. Please arrive at least 5 minutes early; unclaimed seats may be released to standby attendees.",
     "deliveryTypes": [
@@ -7914,6 +7976,11 @@
     "SpeakerTypes": [
       {
         "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1778539204572001y3am",
+        "RegistrantKey": "1768245294609build26-1778539204572001y3am"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1778539327865001THkU",
         "RegistrantKey": "1768245294609build26-1778539327865001THkU"
       }
@@ -7940,7 +8007,12 @@
     ],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -7959,7 +8031,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Eda Zhou",
+    "speakerNames": "Mahdi Ghodsi, Eda Zhou",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -7988,15 +8060,16 @@
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
-    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1778175955770001w6mO_20260512032724391.avif",
+    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1778175955770001w6mO_20260521161005749.avif",
     "speakerIds": [
+      "1768245294609build26-1778539204572001y3am",
       "1768245294609build26-1778539327865001THkU"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -8007,7 +8080,7 @@
     "aslSupported": false,
     "isExternalUrlSession": false,
     "isPopular": false,
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1778175955770001w6mO_20260512032724391.avif",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1778175955770001w6mO_20260521161005749.avif",
     "ogTitle": "Build a custom AI agent with open-weight models and OpenClaw",
     "ogDescription": "Build and run your own AI agent by hosting open-weight models on AMD GPU infrastructure. In this hands-on lab, you’ll assemble a tool-using agent, configure model hosting, and connect it to real workflows. Learn how to customize behavior, reduce API costs, and deploy agents with greater privacy and control using OpenClaw.\n\nThis Lab is BYOD. Add this session to your schedule to reserve your seat, as capacity is limited. Please arrive at least 5 minutes early; unclaimed seats may be released to standby attendees.",
     "deliveryTypes": [
@@ -8046,6 +8119,11 @@
         "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1778539327865001THkU",
         "RegistrantKey": "1768245294609build26-1778539327865001THkU"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1778539204572001y3am",
+        "RegistrantKey": "1768245294609build26-1778539204572001y3am"
       }
     ],
     "repeatedSessions": [
@@ -8094,7 +8172,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Eda Zhou",
+    "speakerNames": "Mahdi Ghodsi, Eda Zhou",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -8123,15 +8201,16 @@
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
-    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1778175897555001qe39_20260512153434895.avif",
+    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1778175897555001qe39_20260521160952919.avif",
     "speakerIds": [
+      "1768245294609build26-1778539204572001y3am",
       "1768245294609build26-1778539327865001THkU"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -8142,7 +8221,7 @@
     "aslSupported": false,
     "isExternalUrlSession": false,
     "isPopular": false,
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1778175897555001qe39_20260512153434895.avif",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1778175897555001qe39_20260521160952919.avif",
     "ogTitle": "Build a custom AI agent with open-weight models and OpenClaw",
     "ogDescription": "Build and run your own AI agent by hosting open-weight models on AMD GPU infrastructure. In this hands-on lab, you’ll assemble a tool-using agent, configure model hosting, and connect it to real workflows. Learn how to customize behavior, reduce API costs, and deploy agents with greater privacy and control using OpenClaw.\n\nNote: This Lab includes breakfast at Greens Restaurant—an iconic, seasonal, and organic dining experience—plan to arrive early and enjoy.\n\nThis Lab is BYOD. Add this session to your schedule to reserve your seat, as capacity is limited. Please arrive at least 5 minutes early; unclaimed seats may be released to standby attendees.",
     "deliveryTypes": [
@@ -8179,6 +8258,11 @@
     "SpeakerTypes": [
       {
         "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1778539204572001y3am",
+        "RegistrantKey": "1768245294609build26-1778539204572001y3am"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1778539327865001THkU",
         "RegistrantKey": "1768245294609build26-1778539327865001THkU"
       }
@@ -8205,7 +8289,12 @@
     ],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8264,7 +8353,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8341,7 +8430,12 @@
     ],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8417,7 +8511,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8494,12 +8588,7 @@
     ],
     "relatedResources": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -8575,7 +8664,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8728,7 +8817,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -8885,7 +8974,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -9025,7 +9114,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -9155,13 +9244,13 @@
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
-    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1778176421239001iPa5_20260512153530193.avif",
+    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1778176421239001iPa5_20260521161039552.avif",
     "speakerIds": [],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -9172,7 +9261,7 @@
     "aslSupported": false,
     "isExternalUrlSession": false,
     "isPopular": false,
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1778176421239001iPa5_20260512153530193.avif",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1778176421239001iPa5_20260521161039552.avif",
     "ogTitle": "Build with local AI agents using OpenCode and Lemonade",
     "ogDescription": "Harness the on-device power of the AMD Ryzen™ AI MAX+ processors  to run large coding models locally using Lemonade Server — no cloud, no API keys, all local. Learn how to architect specialized AI agents with OpenCode and watch them collaborate to build something you'll actually want to play. Buckle up - this one's going to be fun.\n\nThis Lab is BYOD. Add this session to your schedule to reserve your seat, as capacity is limited. Please arrive at least 5 minutes early; unclaimed seats may be released to standby attendees.",
     "deliveryTypes": [
@@ -9206,13 +9295,7 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [
-      {
-        "SpeakerType": "Speaker In-person",
-        "SpeakerId": "1768245294609build26-1778539934408001K0UV",
-        "RegistrantKey": "1768245294609build26-1778539934408001K0UV"
-      }
-    ],
+    "SpeakerTypes": [],
     "repeatedSessions": [
       {
         "sessionId": "1778176305449001q7MU",
@@ -9281,13 +9364,13 @@
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
-    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1778176305449001q7MU_20260512153514935.avif",
+    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1778176305449001q7MU_20260521161030043.avif",
     "speakerIds": [],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -9298,7 +9381,7 @@
     "aslSupported": false,
     "isExternalUrlSession": false,
     "isPopular": false,
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1778176305449001q7MU_20260512153514935.avif",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1778176305449001q7MU_20260521161030043.avif",
     "ogTitle": "Build with local AI agents using OpenCode and Lemonade",
     "ogDescription": "Harness the on-device power of the AMD Ryzen™ AI MAX+ processors  to run large coding models locally using Lemonade Server — no cloud, no API keys, all local. Learn how to architect specialized AI agents with OpenCode and watch them collaborate to build something you'll actually want to play. Buckle up - this one's going to be fun.\n\nNote: This Lab includes lunch at Greens Restaurant—an iconic, seasonal, and organic dining experience—plan to arrive early and enjoy.\n\nThis Lab is BYOD. Add this session to your schedule to reserve your seat, as capacity is limited. Please arrive at least 5 minutes early; unclaimed seats may be released to standby attendees.",
     "deliveryTypes": [
@@ -9332,13 +9415,7 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [
-      {
-        "SpeakerType": "Speaker In-person",
-        "SpeakerId": "1768245294609build26-1778539934408001K0UV",
-        "RegistrantKey": "1768245294609build26-1778539934408001K0UV"
-      }
-    ],
+    "SpeakerTypes": [],
     "repeatedSessions": [
       {
         "sessionId": "1778176421239001iPa5",
@@ -9418,7 +9495,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9495,7 +9572,12 @@
     ],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -9571,7 +9653,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9729,7 +9811,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -9882,7 +9964,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10040,7 +10122,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10117,12 +10199,7 @@
     ],
     "relatedResources": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -10194,7 +10271,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10348,7 +10425,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10497,7 +10574,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -10574,12 +10651,7 @@
     ],
     "relatedResources": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -10650,7 +10722,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -10790,7 +10862,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -10929,7 +11001,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11068,7 +11140,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11207,7 +11279,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11351,7 +11423,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11495,7 +11567,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11560,8 +11632,8 @@
       {
         "sessionId": "1776360817264001XOd9",
         "sessionCode": "LAB532-R2",
-        "startTime": "2026-06-03T16:00:00Z",
-        "endTime": "2026-06-03T17:15:00Z"
+        "startTime": "2026-06-03T17:45:00Z",
+        "endTime": "2026-06-03T19:00:00Z"
       },
       {
         "sessionId": "1776361002095001Etx9",
@@ -11634,7 +11706,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11699,8 +11771,8 @@
       {
         "sessionId": "1776360817264001XOd9",
         "sessionCode": "LAB532-R2",
-        "startTime": "2026-06-03T16:00:00Z",
-        "endTime": "2026-06-03T17:15:00Z"
+        "startTime": "2026-06-03T17:45:00Z",
+        "endTime": "2026-06-03T19:00:00Z"
       },
       {
         "sessionId": "1776361002095001Etx9",
@@ -11711,7 +11783,12 @@
     ],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -11724,7 +11801,7 @@
   },
   {
     "@search.score": 1.0,
-    "startDateTime": "2026-06-03T16:00:00Z",
+    "startDateTime": "2026-06-03T17:45:00Z",
     "partnerType": [],
     "industry": [],
     "businessFocus": [],
@@ -11752,9 +11829,9 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 4,
-    "TimeSlot": "16:00 - 17:15",
+    "TimeSlot": "17:45 - 19:00",
     "startDateTimeNullGroup": 1,
-    "endDateTime": "2026-06-03T17:15:00Z",
+    "endDateTime": "2026-06-03T19:00:00Z",
     "durationInMinutes": 75,
     "isMandatory": false,
     "hasLiveStream": false,
@@ -11768,7 +11845,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11845,12 +11922,7 @@
     ],
     "relatedResources": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -11907,7 +11979,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -11978,8 +12050,8 @@
       {
         "sessionId": "1776360817264001XOd9",
         "sessionCode": "LAB532-R2",
-        "startTime": "2026-06-03T16:00:00Z",
-        "endTime": "2026-06-03T17:15:00Z"
+        "startTime": "2026-06-03T17:45:00Z",
+        "endTime": "2026-06-03T19:00:00Z"
       }
     ],
     "relatedResources": [],
@@ -12043,7 +12115,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12225,7 +12297,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12407,7 +12479,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12589,7 +12661,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -12763,7 +12835,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -12899,7 +12971,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -12961,12 +13033,7 @@
     ],
     "relatedResources": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -13038,7 +13105,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13179,7 +13246,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13320,7 +13387,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13456,7 +13523,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13597,7 +13664,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13738,7 +13805,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -13879,7 +13946,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14020,7 +14087,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14102,12 +14169,7 @@
     ],
     "relatedResources": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -14166,7 +14228,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14315,7 +14377,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14392,12 +14454,7 @@
     ],
     "relatedResources": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -14456,7 +14513,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14597,7 +14654,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14738,7 +14795,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -14927,7 +14984,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15120,7 +15177,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15309,7 +15366,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15386,7 +15443,12 @@
     ],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -15498,7 +15560,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15611,7 +15673,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Nitya Narasimhan, Filisha Shah",
+    "speakerNames": "Nitya Narasimhan",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -15642,8 +15704,7 @@
     "hasOnDemand": false,
     "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1776361357242001qdUU_20260512031118660.avif",
     "speakerIds": [
-      "1768245294609build26-1756141269010001LleM",
-      "1768245294609build26-1774284995366001pNmt"
+      "1768245294609build26-1756141269010001LleM"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [
@@ -15651,7 +15712,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15699,11 +15760,6 @@
         "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1756141269010001LleM",
         "RegistrantKey": "1768245294609build26-1756141269010001LleM"
-      },
-      {
-        "SpeakerType": "Speaker In-person",
-        "SpeakerId": "1768245294609build26-1774284995366001pNmt",
-        "RegistrantKey": "1768245294609build26-1774284995366001pNmt"
       }
     ],
     "repeatedSessions": [
@@ -15805,7 +15861,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -15959,7 +16015,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16110,7 +16166,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -16238,7 +16294,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -16369,7 +16425,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16518,7 +16574,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16595,7 +16651,12 @@
     ],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -16667,7 +16728,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16821,7 +16882,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -16898,7 +16959,12 @@
     ],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -16924,7 +16990,7 @@
   },
   {
     "@search.score": 1.0,
-    "startDateTime": "2026-06-03T17:45:00Z",
+    "startDateTime": "2026-06-03T16:00:00Z",
     "partnerType": [],
     "industry": [],
     "businessFocus": [],
@@ -16952,9 +17018,9 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 4,
-    "TimeSlot": "17:45 - 19:00",
+    "TimeSlot": "16:00 - 17:15",
     "startDateTimeNullGroup": 1,
-    "endDateTime": "2026-06-03T19:00:00Z",
+    "endDateTime": "2026-06-03T17:15:00Z",
     "durationInMinutes": 75,
     "isMandatory": false,
     "hasLiveStream": false,
@@ -16970,7 +17036,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17029,8 +17095,8 @@
       {
         "sessionId": "1774017128575001xSbY",
         "sessionCode": "LAB510",
-        "startTime": "2026-06-02T22:00:00Z",
-        "endTime": "2026-06-02T23:15:00Z"
+        "startTime": "2026-06-02T23:45:00Z",
+        "endTime": "2026-06-03T01:00:00Z"
       },
       {
         "sessionId": "1776351995050001EpMc",
@@ -17111,7 +17177,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17170,14 +17236,14 @@
       {
         "sessionId": "1774017128575001xSbY",
         "sessionCode": "LAB510",
-        "startTime": "2026-06-02T22:00:00Z",
-        "endTime": "2026-06-02T23:15:00Z"
+        "startTime": "2026-06-02T23:45:00Z",
+        "endTime": "2026-06-03T01:00:00Z"
       },
       {
         "sessionId": "1776351873525001qXtv",
         "sessionCode": "LAB510-R1",
-        "startTime": "2026-06-03T17:45:00Z",
-        "endTime": "2026-06-03T19:00:00Z"
+        "startTime": "2026-06-03T16:00:00Z",
+        "endTime": "2026-06-03T17:15:00Z"
       },
       {
         "sessionId": "1776351995050001EpMc",
@@ -17211,7 +17277,7 @@
   },
   {
     "@search.score": 1.0,
-    "startDateTime": "2026-06-02T22:00:00Z",
+    "startDateTime": "2026-06-02T23:45:00Z",
     "partnerType": [],
     "industry": [],
     "businessFocus": [],
@@ -17239,9 +17305,9 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 4,
-    "TimeSlot": "22:00 - 23:15",
+    "TimeSlot": "23:45 - 01:00",
     "startDateTimeNullGroup": 1,
-    "endDateTime": "2026-06-02T23:15:00Z",
+    "endDateTime": "2026-06-03T01:00:00Z",
     "durationInMinutes": 75,
     "isMandatory": false,
     "hasLiveStream": false,
@@ -17257,7 +17323,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17316,8 +17382,8 @@
       {
         "sessionId": "1776351873525001qXtv",
         "sessionCode": "LAB510-R1",
-        "startTime": "2026-06-03T17:45:00Z",
-        "endTime": "2026-06-03T19:00:00Z"
+        "startTime": "2026-06-03T16:00:00Z",
+        "endTime": "2026-06-03T17:15:00Z"
       },
       {
         "sessionId": "1776351995050001EpMc",
@@ -17398,7 +17464,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17457,14 +17523,14 @@
       {
         "sessionId": "1774017128575001xSbY",
         "sessionCode": "LAB510",
-        "startTime": "2026-06-02T22:00:00Z",
-        "endTime": "2026-06-02T23:15:00Z"
+        "startTime": "2026-06-02T23:45:00Z",
+        "endTime": "2026-06-03T01:00:00Z"
       },
       {
         "sessionId": "1776351873525001qXtv",
         "sessionCode": "LAB510-R1",
-        "startTime": "2026-06-03T17:45:00Z",
-        "endTime": "2026-06-03T19:00:00Z"
+        "startTime": "2026-06-03T16:00:00Z",
+        "endTime": "2026-06-03T17:15:00Z"
       },
       {
         "sessionId": "1776352166471001LgaH",
@@ -17475,7 +17541,12 @@
     ],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -17539,7 +17610,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17598,8 +17669,8 @@
       {
         "sessionId": "1774018710738001rCVC",
         "sessionCode": "LAB500",
-        "startTime": "2026-06-02T23:45:00Z",
-        "endTime": "2026-06-03T01:00:00Z"
+        "startTime": "2026-06-02T22:00:00Z",
+        "endTime": "2026-06-02T23:15:00Z"
       },
       {
         "sessionId": "1776358861989001xLtg",
@@ -17721,7 +17792,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -17780,8 +17851,8 @@
       {
         "sessionId": "1774018710738001rCVC",
         "sessionCode": "LAB500",
-        "startTime": "2026-06-02T23:45:00Z",
-        "endTime": "2026-06-03T01:00:00Z"
+        "startTime": "2026-06-02T22:00:00Z",
+        "endTime": "2026-06-02T23:15:00Z"
       },
       {
         "sessionId": "1776358774912001CUxy",
@@ -17798,7 +17869,12 @@
     ],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -17848,7 +17924,7 @@
   },
   {
     "@search.score": 1.0,
-    "startDateTime": "2026-06-02T23:45:00Z",
+    "startDateTime": "2026-06-02T22:00:00Z",
     "partnerType": [],
     "industry": [],
     "businessFocus": [],
@@ -17876,9 +17952,9 @@
     "targetAudience": "",
     "contentArea": [],
     "sortRank": 4,
-    "TimeSlot": "23:45 - 01:00",
+    "TimeSlot": "22:00 - 23:15",
     "startDateTimeNullGroup": 1,
-    "endDateTime": "2026-06-03T01:00:00Z",
+    "endDateTime": "2026-06-02T23:15:00Z",
     "durationInMinutes": 75,
     "isMandatory": false,
     "hasLiveStream": false,
@@ -17894,7 +17970,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -18067,7 +18143,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -18126,8 +18202,8 @@
       {
         "sessionId": "1774018710738001rCVC",
         "sessionCode": "LAB500",
-        "startTime": "2026-06-02T23:45:00Z",
-        "endTime": "2026-06-03T01:00:00Z"
+        "startTime": "2026-06-02T22:00:00Z",
+        "endTime": "2026-06-02T23:15:00Z"
       },
       {
         "sessionId": "1776358774912001CUxy",
@@ -18144,12 +18220,7 @@
     ],
     "relatedResources": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -18243,7 +18314,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -18371,7 +18442,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -18511,7 +18582,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -18652,7 +18723,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -18767,7 +18838,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -18923,7 +18994,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -19025,8 +19096,8 @@
     "sessionInstanceId": "1774391893433001yV7X",
     "sessionCode": "DEMSP380",
     "sessionCodeNormalized": "EN-US-DEMSP380",
-    "title": "Build automated AI Agents using AI foundry models on Qualcomm",
-    "sortTitle": "build automated ai agents using ai foundry models on qualcomm",
+    "title": "Build automated agents using optimized AI Foundry models on Snapdragon",
+    "sortTitle": "build automated agents using optimized ai foundry models on snapdragon",
     "description": "Build performant, secure local agents customized for enterprise use cases on Snapdragon X Series PCs. Using GenAI models optimized for the Qualcomm Hexagon NPU architecture, this session empowers developers to build automated, scheduled agentic AI workflows that unlock true NPU acceleration at the edge.\n\nSeating for this session is first-come, first-served. Add it to your schedule to plan your day and arrive early to secure a spot.",
     "aiDescription": "",
     "businessOutcome": "",
@@ -19051,7 +19122,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -19063,7 +19134,7 @@
     "isExternalUrlSession": false,
     "isPopular": false,
     "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1774391893433001yV7X_20260512023541994.avif",
-    "ogTitle": "Build automated AI Agents using AI foundry models on Qualcomm",
+    "ogTitle": "Build automated agents using optimized AI Foundry models on Snapdragon",
     "ogDescription": "Build performant, secure local agents customized for enterprise use cases on Snapdragon X Series PCs. Using GenAI models optimized for the Qualcomm Hexagon NPU architecture, this session empowers developers to build automated, scheduled agentic AI workflows that unlock true NPU acceleration at the edge.\n\nSeating for this session is first-come, first-served. Add it to your schedule to plan your day and arrive early to secure a spot.",
     "deliveryTypes": [
       {
@@ -19204,7 +19275,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -19259,7 +19330,12 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -19348,7 +19424,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -19457,7 +19533,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -19599,7 +19675,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -19652,12 +19728,7 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -19736,7 +19807,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -19860,7 +19931,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -19960,7 +20031,7 @@
     "sessionCodeNormalized": "EN-US-DEMSP386",
     "title": "Develop faster on Windows with AI playbooks and local agents",
     "sortTitle": "develop faster on windows with ai playbooks and local agents",
-    "description": "In this session you'll experience a practical path for a streamlined setup-to-ship workflow. Learn how you can use innovations in local coding on AMD's Ryzen™ AI PCs to optimize workflows powered by AI Playbooks to reduce friction and accelerate the path from idea to first commit. Finish with a clear example showing how to build once, run locally, and scale across Windows systems optimized for AMD hardware.\n\nSeating for this session is first-come, first-served. Add it to your schedule to plan your day and arrive early to secure a spot.",
+    "description": "In this session you'll experience a practical path for a streamlined setup-to-ship workflow. Learn how you can use innovations in local coding on AMD's Ryzen™ AI PCs to optimize workflows powered by AI Playbooks to reduce friction and accelerate the path from idea to first commit. Finish with a clear example showing how to build once, run locally, and scale across Windows systems optimized for AMD hardware. \n\nSeating for this session is first-come, first-served. Add it to your schedule to plan your day and arrive early to secure a spot.",
     "aiDescription": "",
     "businessOutcome": "",
     "businessOutcomeTwo": "",
@@ -19981,7 +20052,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -19994,7 +20065,7 @@
     "isPopular": false,
     "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1775240993291001janl_20260512033454648.avif",
     "ogTitle": "Develop faster on Windows with AI playbooks and local agents",
-    "ogDescription": "In this session you'll experience a practical path for a streamlined setup-to-ship workflow. Learn how you can use innovations in local coding on AMD's Ryzen™ AI PCs to optimize workflows powered by AI Playbooks to reduce friction and accelerate the path from idea to first commit. Finish with a clear example showing how to build once, run locally, and scale across Windows systems optimized for AMD hardware.\n\nSeating for this session is first-come, first-served. Add it to your schedule to plan your day and arrive early to secure a spot.",
+    "ogDescription": "In this session you'll experience a practical path for a streamlined setup-to-ship workflow. Learn how you can use innovations in local coding on AMD's Ryzen™ AI PCs to optimize workflows powered by AI Playbooks to reduce friction and accelerate the path from idea to first commit. Finish with a clear example showing how to build once, run locally, and scale across Windows systems optimized for AMD hardware. \n\nSeating for this session is first-come, first-served. Add it to your schedule to plan your day and arrive early to secure a spot.",
     "deliveryTypes": [
       {
         "displayValue": "In-person",
@@ -20030,7 +20101,12 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -20127,7 +20203,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -20251,7 +20327,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -20415,7 +20491,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -20563,7 +20639,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -20678,7 +20754,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -20842,7 +20918,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -20986,7 +21062,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -21097,7 +21173,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -21217,7 +21293,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -21368,7 +21444,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -21493,7 +21569,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -21607,7 +21683,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -21739,7 +21815,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -21799,7 +21875,12 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -21968,7 +22049,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -22021,7 +22102,12 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -22087,7 +22173,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -22213,7 +22299,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Gova Babu, Pranay Bakre",
+    "speakerNames": "Gova Babu, Pranay Bakre, Sameer Nori",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -22242,16 +22328,17 @@
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
-    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1774391978124001tcWQ_20260512172342063.avif",
+    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1774391978124001tcWQ_20260521160808612.avif",
     "speakerIds": [
       "1768245294609build26-1776877272377001WqB6",
-      "1768245294609build26-1776197975793001dvpl"
+      "1768245294609build26-1776197975793001dvpl",
+      "1768245294609build26-1776814583002001KGlJ"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -22262,7 +22349,7 @@
     "aslSupported": false,
     "isExternalUrlSession": false,
     "isPopular": false,
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1774391978124001tcWQ_20260512172342063.avif",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1774391978124001tcWQ_20260521160808612.avif",
     "ogTitle": "Scale agentic AI cost‑efficiently on Azure with Arm Cobalt VMs",
     "ogDescription": "As applications evolve into agent-driven systems, inference must scale efficiently. In this session, Arm and Microsoft show you how the latest Azure Cobalt VMs enable cost-effective, CPU-based AI for agentic and cloud-native workloads. In a live AKS demo, you'll learn how to use Azure Cobalt VMs to deploy LLM inferencing and app tiers, with insights on performance, scaling, and real-world design patterns.\n\nSeating for this session is first-come, first-served. Add it to your schedule to plan your day and arrive early to secure a spot.",
     "deliveryTypes": [
@@ -22306,17 +22393,17 @@
         "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1776877272377001WqB6",
         "RegistrantKey": "1768245294609build26-1776877272377001WqB6"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1776814583002001KGlJ",
+        "RegistrantKey": "1768245294609build26-1776814583002001KGlJ"
       }
     ],
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -22386,7 +22473,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -22511,7 +22598,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -22665,7 +22752,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -22782,7 +22869,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -22866,6 +22953,124 @@
   },
   {
     "@search.score": 1.0,
+    "startDateTime": "2026-06-03T18:20:00Z",
+    "partnerType": [],
+    "industry": [],
+    "businessFocus": [],
+    "product": [],
+    "lineOfBusiness": "",
+    "speakerNames": "Maxim Lukiyanov",
+    "canUserModifySchedule": true,
+    "hasFailoverVideoUrl": false,
+    "ssr": "",
+    "excludeFromSessionScheduler": false,
+    "doNotPublishVideo": false,
+    "localizedId": "en-US-1776289985706001LtgP",
+    "langLocale": "en-US",
+    "sessionId": "1776289985706001LtgP",
+    "sessionInstanceId": "1776289985706001LtgP",
+    "sessionCode": "DEM364",
+    "sessionCodeNormalized": "EN-US-DEM364",
+    "title": "Simplify app dev with cloud-native PostgreSQL in Azure HorizonDB",
+    "sortTitle": "simplify app dev with cloud-native postgresql in azure horizondb",
+    "description": "Enterprise developers creating AI‑driven applications face growing complexity as vector search, models, and retrieval pipelines sprawl across services. In this session, see how Azure HorizonDB streamlines the stack by embedding AI and search directly in the database. Learn to run hybrid vector queries, apply BM25 relevance, call managed AI models from SQL, and prototype agentic workflows—shipping faster with less architectural overhead.",
+    "aiDescription": "",
+    "businessOutcome": "",
+    "businessOutcomeTwo": "",
+    "registrationLink": "",
+    "targetAudience": "",
+    "contentArea": [],
+    "sortRank": 5,
+    "TimeSlot": "18:20 - 18:45",
+    "startDateTimeNullGroup": 1,
+    "endDateTime": "2026-06-03T18:45:00Z",
+    "durationInMinutes": 25,
+    "isMandatory": false,
+    "hasLiveStream": false,
+    "hasOnDemand": false,
+    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1776289985706001LtgP_20260513202940097.avif",
+    "speakerIds": [
+      "1768245294609build26-1765837200716001tuxr"
+    ],
+    "sessionLinks": [],
+    "relatedSessionCodes": [],
+    "hasTeamsMeeting": false,
+    "hasTeamsLiveEvent": false,
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
+    "heroSession": false,
+    "restrictedScopes": [],
+    "associatedCompanies": [],
+    "captionLanguage": [],
+    "audioLanguage": [],
+    "aslSupported": false,
+    "isExternalUrlSession": false,
+    "isPopular": false,
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1776289985706001LtgP_20260513202940097.avif",
+    "ogTitle": "Simplify app dev with cloud-native PostgreSQL in Azure HorizonDB",
+    "ogDescription": "Enterprise developers creating AI‑driven applications face growing complexity as vector search, models, and retrieval pipelines sprawl across services. In this session, see how Azure HorizonDB streamlines the stack by embedding AI and search directly in the database. Learn to run hybrid vector queries, apply BM25 relevance, call managed AI models from SQL, and prototype agentic workflows—shipping faster with less architectural overhead.",
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ],
+    "sessionType": {
+      "displayValue": "Demo",
+      "logicalValue": "Demo"
+    },
+    "topic": [
+      {
+        "displayValue": "Cloud platform & data",
+        "logicalValue": "Cloud platform & data"
+      }
+    ],
+    "sessionLevel": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "location": {
+      "displayValue": "Gateway Pavilion, Level 2, Theater B",
+      "logicalValue": "Gateway Pavilion, Level 2, Theater B"
+    },
+    "theme": [],
+    "solutionArea": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1765837200716001tuxr",
+        "RegistrantKey": "1768245294609build26-1765837200716001tuxr"
+      }
+    ],
+    "repeatedSessions": [],
+    "relatedResources": [],
+    "nextStep": null,
+    "event": [],
+    "sessionLanguage": [],
+    "viewingOptions": [
+      {
+        "displayValue": "Will be recorded",
+        "logicalValue": "Will be recorded"
+      }
+    ],
+    "audienceTypes": [],
+    "tags": [
+      {
+        "displayValue": "CP&D",
+        "logicalValue": "CP&D"
+      },
+      {
+        "displayValue": "Data",
+        "logicalValue": "Data"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
     "startDateTime": "2026-06-02T19:00:00Z",
     "partnerType": [],
     "industry": [],
@@ -22909,7 +23114,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -23018,7 +23223,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -23132,7 +23337,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -23259,7 +23464,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -23383,7 +23588,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -23497,7 +23702,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -23606,7 +23811,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -23733,7 +23938,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -23857,7 +24062,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -23986,7 +24191,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -24138,7 +24343,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -24283,7 +24488,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -24433,7 +24638,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -24486,7 +24691,12 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -24563,7 +24773,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -24616,7 +24826,12 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -24681,7 +24896,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -24808,7 +25023,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -24861,7 +25076,12 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -24926,7 +25146,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -25069,7 +25289,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -25122,7 +25342,12 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -25187,7 +25412,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -25322,7 +25547,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -25589,7 +25814,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -25654,7 +25879,12 @@
     ],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -25752,7 +25982,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -25919,7 +26149,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -26078,7 +26308,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -26131,7 +26361,12 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -26197,7 +26432,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -26328,7 +26563,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -26383,7 +26618,12 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -26472,7 +26712,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -26525,7 +26765,12 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -26590,7 +26835,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -26728,7 +26973,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -26855,7 +27100,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -26913,7 +27158,12 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -27014,7 +27264,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -27138,7 +27388,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -27252,7 +27502,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -27409,7 +27659,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -27528,7 +27778,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -27581,7 +27831,12 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -27642,7 +27897,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -27695,7 +27950,12 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -27760,7 +28020,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -27813,12 +28073,7 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -27887,7 +28142,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -28058,7 +28313,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -28111,7 +28366,12 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -28184,7 +28444,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -28237,7 +28497,12 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -28330,7 +28595,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -28385,7 +28650,12 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -28462,7 +28732,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -28584,7 +28854,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -28727,7 +28997,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -28785,12 +29055,7 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -28847,7 +29112,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -28944,7 +29209,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "",
+    "speakerNames": "Kasturi Vartak",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -28974,12 +29239,14 @@
     "hasLiveStream": false,
     "hasOnDemand": false,
     "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1774018707419001rtDZ_20260512015210248.avif",
-    "speakerIds": [],
+    "speakerIds": [
+      "1768245294609build26-1778177389907001hdxG"
+    ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -29022,7 +29289,13 @@
     "solutionArea": [],
     "communityTopic": [],
     "learningZoneTopic": [],
-    "SpeakerTypes": [],
+    "SpeakerTypes": [
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1778177389907001hdxG",
+        "RegistrantKey": "1768245294609build26-1778177389907001hdxG"
+      }
+    ],
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
@@ -29096,7 +29369,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -29248,7 +29521,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -29395,7 +29668,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -29448,12 +29721,7 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -29518,7 +29786,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -29636,7 +29904,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -29689,7 +29957,12 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -29745,7 +30018,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -29798,7 +30071,12 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -29864,7 +30142,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -29924,12 +30202,7 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -30002,7 +30275,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -30144,7 +30417,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -30275,7 +30548,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -30434,7 +30707,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -30487,7 +30760,12 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -30552,7 +30830,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -30661,7 +30939,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -30854,7 +31132,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -31013,7 +31291,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -31177,7 +31455,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -31235,12 +31513,7 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -31325,7 +31598,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -31434,7 +31707,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -31606,7 +31879,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -31811,7 +32084,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -31961,7 +32234,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -32070,7 +32343,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -32205,7 +32478,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -32315,7 +32588,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -32457,7 +32730,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -32581,7 +32854,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -32725,7 +32998,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -32856,7 +33129,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -32965,7 +33238,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -33091,7 +33364,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -33253,7 +33526,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -33308,12 +33581,7 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -33410,7 +33678,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -33463,7 +33731,12 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -33560,7 +33833,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -33618,12 +33891,7 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -33685,7 +33953,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -33743,7 +34011,12 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -33824,7 +34097,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -33971,7 +34244,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -34045,7 +34318,20 @@
       }
     ],
     "audienceTypes": [],
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "AI",
+        "logicalValue": "AI"
+      },
+      {
+        "displayValue": "Agents",
+        "logicalValue": "Agents"
+      },
+      {
+        "displayValue": "Microsoft Foundry",
+        "logicalValue": "Microsoft Foundry"
+      }
+    ]
   },
   {
     "@search.score": 1.0,
@@ -34092,7 +34378,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -34211,7 +34497,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -34363,7 +34649,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -34497,7 +34783,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -34607,7 +34893,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -34762,7 +35048,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -34921,7 +35207,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -35037,7 +35323,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -35092,12 +35378,7 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -35158,7 +35439,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -35274,7 +35555,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -35390,7 +35671,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -35530,7 +35811,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -35667,7 +35948,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -35819,7 +36100,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -35965,7 +36246,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -36102,7 +36383,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -36238,7 +36519,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -36354,7 +36635,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -36475,7 +36756,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -36619,7 +36900,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -36769,7 +37050,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -36919,7 +37200,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -37064,7 +37345,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -37190,7 +37471,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -37286,7 +37567,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Amid Tabrizi",
+    "speakerNames": "Jon Hsieh, Amid Tabrizi",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -37315,15 +37596,16 @@
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
-    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1774493282255001kTI8_20260520160514259.avif",
+    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1774493282255001kTI8_20260521160822241.avif",
     "speakerIds": [
+      "1768245294609build26-1779202833477001OjA8",
       "1768245294609build26-1777930600669001tGiz"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -37334,7 +37616,7 @@
     "aslSupported": false,
     "isExternalUrlSession": false,
     "isPopular": false,
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1774493282255001kTI8_20260520160514259.avif",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1774493282255001kTI8_20260521160822241.avif",
     "ogTitle": "Designing AI Data Platforms on Azure Blob Beyond Retrieval",
     "ogDescription": "You have data in Azure Blob Storage. You add embeddings, connect to search, and ship. It works until you need to change the data itself. Curation, feature engineering, training, search, and analytics quickly spread data across multiple systems. This discussion explores how teams design AI data platforms on Azure beyond retrieval, comparing multi-system setups with approaches that treat Blob as the unified foundation for raw data, embeddings, and features, and the tradeoffs that come with each.\n\nSeating for this session is first-come, first-served. Add it to your schedule to plan your day and arrive early to secure a spot.",
     "deliveryTypes": [
@@ -37378,6 +37660,11 @@
         "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1777930600669001tGiz",
         "RegistrantKey": "1768245294609build26-1777930600669001tGiz"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1779202833477001OjA8",
+        "RegistrantKey": "1768245294609build26-1779202833477001OjA8"
       }
     ],
     "repeatedSessions": [
@@ -37390,12 +37677,7 @@
     ],
     "relatedResources": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -37443,7 +37725,7 @@
     "businessFocus": [],
     "product": [],
     "lineOfBusiness": "",
-    "speakerNames": "Amid Tabrizi",
+    "speakerNames": "Jon Hsieh, Amid Tabrizi",
     "canUserModifySchedule": true,
     "hasFailoverVideoUrl": false,
     "ssr": "",
@@ -37472,15 +37754,16 @@
     "isMandatory": false,
     "hasLiveStream": false,
     "hasOnDemand": false,
-    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1778766059858001ld8B_20260520160853967.avif",
+    "onDemandThumbnail": "https://mediastream.microsoft.com/Build2026/V1/itse/1778766059858001ld8B_20260521161122609.avif",
     "speakerIds": [
+      "1768245294609build26-1779202833477001OjA8",
       "1768245294609build26-1777930600669001tGiz"
     ],
     "sessionLinks": [],
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -37491,7 +37774,7 @@
     "aslSupported": false,
     "isExternalUrlSession": false,
     "isPopular": false,
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1778766059858001ld8B_20260520160853967.avif",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itse/1778766059858001ld8B_20260521161122609.avif",
     "ogTitle": "Designing AI Data Platforms on Azure Blob Beyond Retrieval",
     "ogDescription": "You have data in Azure Blob Storage. You add embeddings, connect to search, and ship. It works until you need to change the data itself. Curation, feature engineering, training, search, and analytics quickly spread data across multiple systems. This discussion explores how teams design AI data platforms on Azure beyond retrieval, comparing multi-system setups with approaches that treat Blob as the unified foundation for raw data, embeddings, and features, and the tradeoffs that come with each.\n\nSeating for this session is first-come, first-served. Add it to your schedule to plan your day and arrive early to secure a spot.",
     "deliveryTypes": [
@@ -37535,6 +37818,11 @@
         "SpeakerType": "Speaker In-person",
         "SpeakerId": "1768245294609build26-1777930600669001tGiz",
         "RegistrantKey": "1768245294609build26-1777930600669001tGiz"
+      },
+      {
+        "SpeakerType": "Speaker In-person",
+        "SpeakerId": "1768245294609build26-1779202833477001OjA8",
+        "RegistrantKey": "1768245294609build26-1779202833477001OjA8"
       }
     ],
     "repeatedSessions": [
@@ -37638,7 +37926,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -37775,7 +38063,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -37891,7 +38179,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -38024,7 +38312,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -38165,7 +38453,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -38286,7 +38574,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -38402,7 +38690,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -38523,7 +38811,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -38637,7 +38925,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -38738,7 +39026,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -38839,7 +39127,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -38940,7 +39228,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -39041,7 +39329,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -39142,7 +39430,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -39247,10 +39535,12 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
-    "associatedCompanies": [],
+    "associatedCompanies": [
+      "Cloud platform & data"
+    ],
     "captionLanguage": [],
     "audioLanguage": [],
     "aslSupported": false,
@@ -39373,7 +39663,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -39433,7 +39723,12 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -39489,7 +39784,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -39605,7 +39900,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -39665,12 +39960,7 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -39741,7 +40031,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -39878,7 +40168,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -40012,7 +40302,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -40157,7 +40447,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -40297,7 +40587,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -40414,7 +40704,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -40481,7 +40771,12 @@
     ],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -40538,7 +40833,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -40666,7 +40961,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -40721,12 +41016,7 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [
-      {
-        "displayValue": "",
-        "logicalValue": ""
-      }
-    ],
+    "event": [],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -40800,7 +41090,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -40926,7 +41216,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -41065,7 +41355,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -41203,7 +41493,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -41335,7 +41625,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -41473,7 +41763,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -41528,7 +41818,12 @@
     "repeatedSessions": [],
     "relatedResources": [],
     "nextStep": null,
-    "event": [],
+    "event": [
+      {
+        "displayValue": "",
+        "logicalValue": ""
+      }
+    ],
     "sessionLanguage": [],
     "viewingOptions": [
       {
@@ -41589,7 +41884,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -41710,7 +42005,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -41827,7 +42122,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -41989,7 +42284,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -42110,7 +42405,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -42232,7 +42527,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -42378,7 +42673,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -42499,7 +42794,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -42615,7 +42910,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -42726,7 +43021,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -42842,7 +43137,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -42967,7 +43262,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -43092,7 +43387,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -43211,7 +43506,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -43322,7 +43617,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -43430,7 +43725,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -43579,7 +43874,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -43687,7 +43982,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -43800,7 +44095,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -43908,7 +44203,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -44073,7 +44368,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -44198,7 +44493,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -44311,7 +44606,7 @@
     ],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [],
@@ -44454,7 +44749,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -44617,7 +44912,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -44752,7 +45047,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -44778,8 +45073,8 @@
     },
     "topic": [
       {
-        "displayValue": "Responsible AI",
-        "logicalValue": "Responsible AI"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "sessionLevel": [
@@ -44884,7 +45179,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -45011,7 +45306,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -45157,7 +45452,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -45282,7 +45577,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -45308,8 +45603,8 @@
     },
     "topic": [
       {
-        "displayValue": "Responsible AI",
-        "logicalValue": "Responsible AI"
+        "displayValue": "Agents & apps",
+        "logicalValue": "Agents & apps"
       }
     ],
     "sessionLevel": [
@@ -45415,7 +45710,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -45556,7 +45851,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -45701,7 +45996,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -45835,7 +46130,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -46026,7 +46321,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -46221,7 +46516,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
@@ -46394,7 +46689,7 @@
     "relatedSessionCodes": [],
     "hasTeamsMeeting": false,
     "hasTeamsLiveEvent": false,
-    "lastUpdate": "2026-05-21T01:50:03.775Z",
+    "lastUpdate": "2026-05-22T01:50:15.787Z",
     "heroSession": false,
     "restrictedScopes": [],
     "associatedCompanies": [
