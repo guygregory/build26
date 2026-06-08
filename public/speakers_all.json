@@ -3291,57 +3291,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1776202191633001tt4K",
-    "speakerId": "1768245294609build26-1776202191633001tt4K",
-    "firstName": "Nandini",
-    "lastName": "Muralidharan",
-    "displayName": "Nandini Muralidharan",
-    "jobTitle": "Principal Product Manager",
-    "company": "Microsoft",
-    "bio": "Nandini Muralidharan is a Principal Product Manager at Microsoft, leading product innovation in Developer tools with a focus on enterprise-grade agentic systems. She works at the intersection of AI platforms, browser automation & verification agents.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776202191633001tt4K/attprofile/Nandini%20pic_1776914300821001TYaZ.jpg?1780353450077",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/nandini-muralidharan-84a59315/",
-    "gitHub": "",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1778263360832001mLJi"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776202191633001tt4K_20260602112617206.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Lightning Talk",
-        "logicalValue": "Lightning Talk"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1772238023541001lKAd",
     "speakerId": "1768245294609build26-1772238023541001lKAd",
     "firstName": "Michael",
@@ -4176,6 +4125,70 @@
       {
         "displayValue": "Online",
         "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776202191633001tt4K",
+    "speakerId": "1768245294609build26-1776202191633001tt4K",
+    "firstName": "Nandini",
+    "lastName": "Muralidharan",
+    "displayName": "Nandini Muralidharan",
+    "jobTitle": "Principal Product Manager",
+    "company": "Microsoft",
+    "bio": "Nandini Muralidharan is a Principal Product Manager at Microsoft, leading product innovation in Developer tools with a focus on enterprise-grade agentic systems. She works at the intersection of AI platforms, browser automation & verification agents.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776202191633001tt4K/attprofile/Nandini%20pic_1776914300821001TYaZ.jpg?1780353450077",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/nandini-muralidharan-84a59315/",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018712070001rAew",
+      "en-US-1778263360832001mLJi"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776202191633001tt4K_20260602112617206.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   },
@@ -6662,7 +6675,8 @@
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1775842562865001MGWT"
+      "en-US-1775842562865001MGWT",
+      "en-US-1778213403494001JTE2"
     ],
     "langLocale": "en-US",
     "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1769795191086001hVae_20260601115745485.avif",
@@ -6672,6 +6686,10 @@
       {
         "displayValue": "Breakout",
         "logicalValue": "Breakout"
+      },
+      {
+        "displayValue": "Broadcast Stage",
+        "logicalValue": "Broadcast Stage"
       }
     ],
     "topic": [],
@@ -6693,6 +6711,10 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       },
       {
         "displayValue": "Online",
@@ -17508,61 +17530,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1774649238388001v8Ts",
-    "speakerId": "1768245294609build26-1774649238388001v8Ts",
-    "firstName": "Dave",
-    "lastName": "Burnison",
-    "displayName": "Dave Burnison",
-    "jobTitle": "Sr. DevOps Advocate",
-    "company": "GitHub",
-    "bio": "Dave is a Sr. DevOps Advocate for GitHub & Azure DevOps. He has led executive briefings with leaders from 100’s of GitHub’s enterprise customers. He enables software development teams to become as innovative, efficient and productive as possible.",
-    "photo": "https://eventtools.event.microsoft.com/build2026-prod/w326_cb174efb-2cc3-48c7-9ff7-fc97d568525e.png?1780328963499",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/daveburnison/",
-    "gitHub": "daveburnisonms",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018708576001rogc"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1774649238388001v8Ts_20260602112544378.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1774284996815001pSYL",
     "speakerId": "1768245294609build26-1774284996815001pSYL",
     "firstName": "Lachie",
@@ -17755,6 +17722,61 @@
       {
         "displayValue": "(200) Intermediate",
         "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774649238388001v8Ts",
+    "speakerId": "1768245294609build26-1774649238388001v8Ts",
+    "firstName": "Dave",
+    "lastName": "Burnison",
+    "displayName": "Dave Burnison",
+    "jobTitle": "Sr. DevOps Advocate",
+    "company": "GitHub",
+    "bio": "Dave is a Sr. DevOps Advocate for GitHub & Azure DevOps. He has led executive briefings with leaders from 100’s of GitHub’s enterprise customers. He enables software development teams to become as innovative, efficient and productive as possible.",
+    "photo": "https://eventtools.event.microsoft.com/build2026-prod/w326_cb174efb-2cc3-48c7-9ff7-fc97d568525e.png?1780328963499",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/daveburnison/",
+    "gitHub": "daveburnisonms",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018708576001rogc"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1774649238388001v8Ts_20260602112544378.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
       }
     ],
     "programmingLanguages": [],
