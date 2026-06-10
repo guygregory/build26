@@ -1,62 +1,6 @@
 [
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1773319382603001KpW5",
-    "speakerId": "1768245294609build26-1773319382603001KpW5",
-    "firstName": "Maki",
-    "lastName": "Nagase",
-    "displayName": "Maki Nagase",
-    "jobTitle": "DevOps Specialist",
-    "company": "ZEN Architects",
-    "bio": "GitHub Star & Microsoft MVP for Azure, Microsoft Foundry.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1773319382603001KpW5/attprofile/DSC02191_Original_1773453830690001AE7y.jpeg",
-    "twitter": "https://www.x.com/yuma_prog/",
-    "linkedIn": "https://www.linkedin.com/in/maki-nagase",
-    "gitHub": "@yuma-722",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774051400990001kVCn"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1773319382603001KpW5_20260512035309012.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Lightning Talk",
-        "logicalValue": "Lightning Talk"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(100) Foundational",
-        "logicalValue": "(100) Foundational"
-      }
-    ],
-    "programmingLanguages": [
-      {
-        "displayValue": ".NET",
-        "logicalValue": ".NET"
-      }
-    ],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1759345812677001kVEa",
     "speakerId": "1768245294609build26-1759345812677001kVEa",
     "firstName": "Maria",
@@ -1119,226 +1063,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1774905889138001JtYZ",
-    "speakerId": "1768245294609build26-1774905889138001JtYZ",
-    "firstName": "Rob",
-    "lastName": "Ferguson",
-    "displayName": "Rob Ferguson",
-    "jobTitle": "Vice President",
-    "company": "Fireworks AI",
-    "bio": "",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774905889138001JtYZ/attprofile/Rob%20Ferguson_1775747191784001vj5v.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/rwfiii/",
-    "gitHub": "rfergu",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018713555001rcaV"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1774905889138001JtYZ_20260512040613610.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1765362751973001nhSz",
-    "speakerId": "1768245294609build26-1765362751973001nhSz",
-    "firstName": "Bob",
-    "lastName": "Ward",
-    "displayName": "Bob Ward",
-    "jobTitle": "Principal Architect",
-    "company": "Microsoft",
-    "bio": "Bob Ward is a Principal Architect for the Microsoft Azure Databases team. Bob has worked for Microsoft for 32+ years on SQL technologies, ground to cloud to fabric.  You can follow him at @bobwardms or linkedin.com/in/bobwardms.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1765362751973001nhSz/attprofile/Profile_Photo.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/bobwardms/",
-    "gitHub": "rgward",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018704684001rpfv"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1765362751973001nhSz_20260601115712112.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1778663825127001Ttju",
-    "speakerId": "1768245294609build26-1778663825127001Ttju",
-    "firstName": "Ray",
-    "lastName": "Zhong",
-    "displayName": "Ray Zhong",
-    "jobTitle": "Co-founder",
-    "company": "Genspark",
-    "bio": "Ray Zhong is Co-Founder & Head of Engineering at Genspark, with 10 years at Google (Core Search Ranking, Assistant, infra) . Genspark is one of the fastest-growing AI companies, having raised more than 540$M.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1778663825127001Ttju/attprofile/avartar_1778665857373001lu4e.jpeg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/ray-zhong-a3735627/",
-    "gitHub": "",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018716723001rkrH"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1778663825127001Ttju_20260528133057416.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1777047134243001sFy8",
-    "speakerId": "1768245294609build26-1777047134243001sFy8",
-    "firstName": "Adity",
-    "lastName": "Agarwal",
-    "displayName": "Adity Agarwal",
-    "jobTitle": "Principal Product Manager",
-    "company": "Microsoft",
-    "bio": "Principal Product Manager at Microsoft with 10+ years driving product strategy for cloud and developer platforms. Leads Azure Advisor's AI transformation, shipping shift-left tooling via Azure MCP server and agentic capabilities in Copilot.",
-    "photo": "",
-    "twitter": "",
-    "linkedIn": "",
-    "gitHub": "",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018705660001rbvk"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1777047134243001sFy8_20260512014619268.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1770320163509001ehOc",
     "speakerId": "1768245294609build26-1770320163509001ehOc",
     "firstName": "Marisela",
@@ -1411,61 +1135,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1776371578196001HCug",
-    "speakerId": "1768245294609build26-1776371578196001HCug",
-    "firstName": "Mario",
-    "lastName": "Toffia",
-    "displayName": "Mario Toffia",
-    "jobTitle": "CTO Enterprise",
-    "company": "Thiink Inc.",
-    "bio": "Mario Toffia is CTO Enterprise Solutions at Thiink Energy, leading the Thiink Energy OS platform — a cloud/edge, AI-driven system cutting buildings' carbon footprint. A hands-on engineer working across serverless, IoT, and multi-agent LLMs.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776371578196001HCug/attprofile/mario-profile_1776459866798001eqtE.jpeg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/mario-toffia-56634911/",
-    "gitHub": "mariotoffia",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018706445001rlk5"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776371578196001HCug_20260512042429751.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ]
   },
@@ -2039,52 +1708,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1780079069034001L7yX",
-    "speakerId": "1768245294609build26-1780079069034001L7yX",
-    "firstName": "Yang",
-    "lastName": "Liu",
-    "displayName": "Yang Liu",
-    "jobTitle": "Member of Technical Staff",
-    "company": "Microsoft",
-    "bio": "Yang is Member of Technical Staff from Microsoft Superintelligence. He leads the research behind Microsoft's new coding model built for GitHub Copilot.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1780079069034001L7yX/attprofile/Y.Liu_1780093202278001nyPb.jpg",
-    "twitter": "",
-    "linkedIn": "",
-    "gitHub": "",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1780005736167001eMpo"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1780079069034001L7yX_20260601111740527.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Broadcast Stage",
-        "logicalValue": "Broadcast Stage"
-      }
-    ],
-    "topic": [],
-    "levels": [],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1756137533747001aI1z",
     "speakerId": "1768245294609build26-1756137533747001aI1z",
     "firstName": "Anthony",
@@ -2224,6 +1847,383 @@
       {
         "displayValue": "(300) Advanced",
         "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1780079069034001L7yX",
+    "speakerId": "1768245294609build26-1780079069034001L7yX",
+    "firstName": "Yang",
+    "lastName": "Liu",
+    "displayName": "Yang Liu",
+    "jobTitle": "Member of Technical Staff",
+    "company": "Microsoft",
+    "bio": "Yang is Member of Technical Staff from Microsoft Superintelligence. He leads the research behind Microsoft's new coding model built for GitHub Copilot.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1780079069034001L7yX/attprofile/Y.Liu_1780093202278001nyPb.jpg",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1780005736167001eMpo"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1780079069034001L7yX_20260601111740527.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Broadcast Stage",
+        "logicalValue": "Broadcast Stage"
+      }
+    ],
+    "topic": [],
+    "levels": [],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1765362751973001nhSz",
+    "speakerId": "1768245294609build26-1765362751973001nhSz",
+    "firstName": "Bob",
+    "lastName": "Ward",
+    "displayName": "Bob Ward",
+    "jobTitle": "Principal Architect",
+    "company": "Microsoft",
+    "bio": "Bob Ward is a Principal Architect for the Microsoft Azure Databases team. Bob has worked for Microsoft for 32+ years on SQL technologies, ground to cloud to fabric.  You can follow him at @bobwardms or linkedin.com/in/bobwardms.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1765362751973001nhSz/attprofile/Profile_Photo.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/bobwardms/",
+    "gitHub": "rgward",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018704684001rpfv"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1765362751973001nhSz_20260601115712112.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774905889138001JtYZ",
+    "speakerId": "1768245294609build26-1774905889138001JtYZ",
+    "firstName": "Rob",
+    "lastName": "Ferguson",
+    "displayName": "Rob Ferguson",
+    "jobTitle": "Vice President",
+    "company": "Fireworks AI",
+    "bio": "",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774905889138001JtYZ/attprofile/Rob%20Ferguson_1775747191784001vj5v.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/rwfiii/",
+    "gitHub": "rfergu",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018713555001rcaV"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1774905889138001JtYZ_20260512040613610.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1778663825127001Ttju",
+    "speakerId": "1768245294609build26-1778663825127001Ttju",
+    "firstName": "Ray",
+    "lastName": "Zhong",
+    "displayName": "Ray Zhong",
+    "jobTitle": "Co-founder",
+    "company": "Genspark",
+    "bio": "Ray Zhong is Co-Founder & Head of Engineering at Genspark, with 10 years at Google (Core Search Ranking, Assistant, infra) . Genspark is one of the fastest-growing AI companies, having raised more than 540$M.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1778663825127001Ttju/attprofile/avartar_1778665857373001lu4e.jpeg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/ray-zhong-a3735627/",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018716723001rkrH"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1778663825127001Ttju_20260528133057416.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1777047134243001sFy8",
+    "speakerId": "1768245294609build26-1777047134243001sFy8",
+    "firstName": "Adity",
+    "lastName": "Agarwal",
+    "displayName": "Adity Agarwal",
+    "jobTitle": "Principal Product Manager",
+    "company": "Microsoft",
+    "bio": "Principal Product Manager at Microsoft with 10+ years driving product strategy for cloud and developer platforms. Leads Azure Advisor's AI transformation, shipping shift-left tooling via Azure MCP server and agentic capabilities in Copilot.",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018705660001rbvk"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1777047134243001sFy8_20260512014619268.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1773319382603001KpW5",
+    "speakerId": "1768245294609build26-1773319382603001KpW5",
+    "firstName": "Maki",
+    "lastName": "Nagase",
+    "displayName": "Maki Nagase",
+    "jobTitle": "DevOps Specialist",
+    "company": "ZEN Architects",
+    "bio": "GitHub Star & Microsoft MVP for Azure, Microsoft Foundry.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1773319382603001KpW5/attprofile/DSC02191_Original_1773453830690001AE7y.jpeg",
+    "twitter": "https://www.x.com/yuma_prog/",
+    "linkedIn": "https://www.linkedin.com/in/maki-nagase",
+    "gitHub": "@yuma-722",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774051400990001kVCn"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1773319382603001KpW5_20260512035309012.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(100) Foundational",
+        "logicalValue": "(100) Foundational"
+      }
+    ],
+    "programmingLanguages": [
+      {
+        "displayValue": ".NET",
+        "logicalValue": ".NET"
+      }
+    ],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776371578196001HCug",
+    "speakerId": "1768245294609build26-1776371578196001HCug",
+    "firstName": "Mario",
+    "lastName": "Toffia",
+    "displayName": "Mario Toffia",
+    "jobTitle": "CTO Enterprise",
+    "company": "Thiink Inc.",
+    "bio": "Mario Toffia is CTO Enterprise Solutions at Thiink Energy, leading the Thiink Energy OS platform — a cloud/edge, AI-driven system cutting buildings' carbon footprint. A hands-on engineer working across serverless, IoT, and multi-agent LLMs.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776371578196001HCug/attprofile/mario-profile_1776459866798001eqtE.jpeg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/mario-toffia-56634911/",
+    "gitHub": "mariotoffia",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018706445001rlk5"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776371578196001HCug_20260512042429751.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
       }
     ],
     "programmingLanguages": [],
@@ -3125,121 +3125,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1776296349532001Li4L",
-    "speakerId": "1768245294609build26-1776296349532001Li4L",
-    "firstName": "Ernesto",
-    "lastName": "Cardenas Cangahuala",
-    "displayName": "Ernesto Cardenas Cangahuala",
-    "jobTitle": "Senior Technical Project Leader",
-    "company": "NTT DATA",
-    "bio": "Ernesto is a Technology Architect and Microsoft MVP since 2017, specializing in cloud transformation, DevOps, serverless, and Generative AI. A frequent speaker at leading technology conferences, he helps organizations modernize business applications.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776296349532001Li4L/attprofile/Profile_Photo.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/ernestocardenasalmdevopscloud/",
-    "gitHub": "fisica3",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774493286155001k4vR",
-      "en-US-1779812779246001dNbF"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776296349532001Li4L_20260527141711207.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Table Talk",
-        "logicalValue": "Table Talk"
-      },
-      {
-        "displayValue": "Table Talk",
-        "logicalValue": "Table Talk"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      },
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1772472228939001By6I",
-    "speakerId": "1768245294609build26-1772472228939001By6I",
-    "firstName": "Aaron",
-    "lastName": "Powell",
-    "displayName": "Aaron Powell",
-    "jobTitle": "Principal Developer Advocate",
-    "company": "Microsoft",
-    "bio": "Aaron is a Developer Advocate at Microsoft with a passion for .NET, GitHub Copilot, whacky ideas and running long distances.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1772472228939001By6I/attprofile/aaron-powell-13-small_1775794866448001SGIN.jpg?1779327341471",
-    "twitter": "https://www.x.com/slace",
-    "linkedIn": "https://www.linkedin.com/in/powell-aaron/",
-    "gitHub": "aaronpowell",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1778262935558001RpbP"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1772472228939001By6I_20260521161804598.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Lightning Talk",
-        "logicalValue": "Lightning Talk"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1776108120297001raDy",
     "speakerId": "1768245294609build26-1776108120297001raDy",
     "firstName": "Josh",
@@ -3337,56 +3222,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1772238023541001lKAd",
-    "speakerId": "1768245294609build26-1772238023541001lKAd",
-    "firstName": "Michael",
-    "lastName": "Chiang",
-    "displayName": "Michael Chiang",
-    "jobTitle": "Co‑founder",
-    "company": "Ollama",
-    "bio": "Michael Chiang is a co‑founder of Ollama, an open‑source platform that lets developers run popular AI models. He also helped create Docker Desktop, which is now used by more than 20 million developers after Docker acquired his first company.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1772238023541001lKAd/attprofile/Michael%20Chiang_1775747105855001X2Sf.png",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/mchiang0610/",
-    "gitHub": "https://github.com/mchiang0610",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1779992625684001GKLp"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1772238023541001lKAd_20260519190705116.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Broadcast Stage",
-        "logicalValue": "Broadcast Stage"
-      }
-    ],
-    "topic": [],
-    "levels": [],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ]
   },
@@ -3505,129 +3340,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1774284997266001pRH9",
-    "speakerId": "1768245294609build26-1774284997266001pRH9",
-    "firstName": "Mads",
-    "lastName": "Kristensen",
-    "displayName": "Mads Kristensen",
-    "jobTitle": "Principal Product Manager",
-    "company": "Microsoft",
-    "bio": "Mads Kristensen is a Principal Product Manager on the Visual Studio team at Microsoft, where he focuses on improving the everyday experience of developers using the IDE.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774284997266001pRH9/attprofile/Mads%20glasses_1775149588537001RI8u.jpg",
-    "twitter": "",
-    "linkedIn": "www.linkedin.com/in/madskvistkristensen",
-    "gitHub": "madskristensen",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018709436001rrGK"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1774284997266001pRH9_20260512035702871.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
-    "programmingLanguages": [
-      {
-        "displayValue": "C#",
-        "logicalValue": "C#"
-      },
-      {
-        "displayValue": "C++",
-        "logicalValue": "C++"
-      },
-      {
-        "displayValue": ".NET",
-        "logicalValue": ".NET"
-      }
-    ],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1775582336728001AON2",
-    "speakerId": "1768245294609build26-1775582336728001AON2",
-    "firstName": "Daniel",
-    "lastName": "Han",
-    "displayName": "Daniel Han",
-    "jobTitle": "CEO",
-    "company": "Unsloth AI",
-    "bio": "Co-founder of Unsloth. Making open source AI more accessible. 200M downloads. 65K GitHub stars.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775582336728001AON2/attprofile/daniel%20final%20pfp%20headshot%20horizon_1780284174479001MfPd.png",
-    "twitter": "https://www.twitter.com/UnslothAI",
-    "linkedIn": "https://www.linkedin.com/in/danielhanchen/",
-    "gitHub": "https://github.com/danielhanchen",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018713555001rcaV"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1775582336728001AON2_20260601112000638.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1778106036930001Ry3a",
     "speakerId": "1768245294609build26-1778106036930001Ry3a",
     "firstName": "Colin",
@@ -3729,56 +3441,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1774284996963001pGpM",
-    "speakerId": "1768245294609build26-1774284996963001pGpM",
-    "firstName": "Sachin",
-    "lastName": "Patney",
-    "displayName": "Sachin Patney",
-    "jobTitle": "General Manager",
-    "company": "Microsoft",
-    "bio": "Leading product and engineering for the Fabric App Development Organization.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774284996963001pGpM/attprofile/profile_1776902134958001TAcn.png",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/spatney/",
-    "gitHub": "https://github.com/spatney",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1779991829481001vfVg"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1774284996963001pGpM_20260512035639448.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Broadcast Stage",
-        "logicalValue": "Broadcast Stage"
-      }
-    ],
-    "topic": [],
-    "levels": [],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ]
   },
@@ -4135,52 +3797,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1779817062828001z6pY",
-    "speakerId": "1768245294609build26-1779817062828001z6pY",
-    "firstName": "Sarah",
-    "lastName": "Guo",
-    "displayName": "Sarah Guo",
-    "jobTitle": "Founder and Partner",
-    "company": "Conviction Partners LLC",
-    "bio": "",
-    "photo": "",
-    "twitter": "",
-    "linkedIn": "",
-    "gitHub": "",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1780092525426001glwE"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Broadcast Stage",
-        "logicalValue": "Broadcast Stage"
-      }
-    ],
-    "topic": [],
-    "levels": [],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1776202191633001tt4K",
     "speakerId": "1768245294609build26-1776202191633001tt4K",
     "firstName": "Nandini",
@@ -4233,6 +3849,465 @@
     "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774284996963001pGpM",
+    "speakerId": "1768245294609build26-1774284996963001pGpM",
+    "firstName": "Sachin",
+    "lastName": "Patney",
+    "displayName": "Sachin Patney",
+    "jobTitle": "General Manager",
+    "company": "Microsoft",
+    "bio": "Leading product and engineering for the Fabric App Development Organization.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774284996963001pGpM/attprofile/profile_1776902134958001TAcn.png",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/spatney/",
+    "gitHub": "https://github.com/spatney",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018704951001rHLF"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1774284996963001pGpM_20260512035639448.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774284997266001pRH9",
+    "speakerId": "1768245294609build26-1774284997266001pRH9",
+    "firstName": "Mads",
+    "lastName": "Kristensen",
+    "displayName": "Mads Kristensen",
+    "jobTitle": "Principal Product Manager",
+    "company": "Microsoft",
+    "bio": "Mads Kristensen is a Principal Product Manager on the Visual Studio team at Microsoft, where he focuses on improving the everyday experience of developers using the IDE.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774284997266001pRH9/attprofile/Mads%20glasses_1775149588537001RI8u.jpg",
+    "twitter": "",
+    "linkedIn": "www.linkedin.com/in/madskvistkristensen",
+    "gitHub": "madskristensen",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018709436001rrGK"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1774284997266001pRH9_20260512035702871.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [
+      {
+        "displayValue": "C#",
+        "logicalValue": "C#"
+      },
+      {
+        "displayValue": "C++",
+        "logicalValue": "C++"
+      },
+      {
+        "displayValue": ".NET",
+        "logicalValue": ".NET"
+      }
+    ],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1779817062828001z6pY",
+    "speakerId": "1768245294609build26-1779817062828001z6pY",
+    "firstName": "Sarah",
+    "lastName": "Guo",
+    "displayName": "Sarah Guo",
+    "jobTitle": "Founder and Partner",
+    "company": "Conviction Partners LLC",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1780092525426001glwE"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Broadcast Stage",
+        "logicalValue": "Broadcast Stage"
+      }
+    ],
+    "topic": [],
+    "levels": [],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776296349532001Li4L",
+    "speakerId": "1768245294609build26-1776296349532001Li4L",
+    "firstName": "Ernesto",
+    "lastName": "Cardenas Cangahuala",
+    "displayName": "Ernesto Cardenas Cangahuala",
+    "jobTitle": "Senior Technical Project Leader",
+    "company": "NTT DATA",
+    "bio": "Ernesto is a Technology Architect and Microsoft MVP since 2017, specializing in cloud transformation, DevOps, serverless, and Generative AI. A frequent speaker at leading technology conferences, he helps organizations modernize business applications.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776296349532001Li4L/attprofile/Profile_Photo.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/ernestocardenasalmdevopscloud/",
+    "gitHub": "fisica3",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774493286155001k4vR",
+      "en-US-1779812779246001dNbF"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776296349532001Li4L_20260527141711207.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Table Talk",
+        "logicalValue": "Table Talk"
+      },
+      {
+        "displayValue": "Table Talk",
+        "logicalValue": "Table Talk"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      },
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1772238023541001lKAd",
+    "speakerId": "1768245294609build26-1772238023541001lKAd",
+    "firstName": "Michael",
+    "lastName": "Chiang",
+    "displayName": "Michael Chiang",
+    "jobTitle": "Co‑founder",
+    "company": "Ollama",
+    "bio": "Michael Chiang is a co‑founder of Ollama, an open‑source platform that lets developers run popular AI models. He also helped create Docker Desktop, which is now used by more than 20 million developers after Docker acquired his first company.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1772238023541001lKAd/attprofile/Michael%20Chiang_1775747105855001X2Sf.png",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/mchiang0610/",
+    "gitHub": "https://github.com/mchiang0610",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1775517798562001H69f"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1772238023541001lKAd_20260519190705116.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775582336728001AON2",
+    "speakerId": "1768245294609build26-1775582336728001AON2",
+    "firstName": "Daniel",
+    "lastName": "Han",
+    "displayName": "Daniel Han",
+    "jobTitle": "CEO",
+    "company": "Unsloth AI",
+    "bio": "Co-founder of Unsloth. Making open source AI more accessible. 200M downloads. 65K GitHub stars.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775582336728001AON2/attprofile/daniel%20final%20pfp%20headshot%20horizon_1780284174479001MfPd.png",
+    "twitter": "https://www.twitter.com/UnslothAI",
+    "linkedIn": "https://www.linkedin.com/in/danielhanchen/",
+    "gitHub": "https://github.com/danielhanchen",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018713555001rcaV"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1775582336728001AON2_20260601112000638.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1772472228939001By6I",
+    "speakerId": "1768245294609build26-1772472228939001By6I",
+    "firstName": "Aaron",
+    "lastName": "Powell",
+    "displayName": "Aaron Powell",
+    "jobTitle": "Principal Developer Advocate",
+    "company": "Microsoft",
+    "bio": "Aaron is a Developer Advocate at Microsoft with a passion for .NET, GitHub Copilot, whacky ideas and running long distances.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1772472228939001By6I/attprofile/aaron-powell-13-small_1775794866448001SGIN.jpg?1779327341471",
+    "twitter": "https://www.x.com/slace",
+    "linkedIn": "https://www.linkedin.com/in/powell-aaron/",
+    "gitHub": "aaronpowell",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018711414001rPGE",
+      "en-US-1774018714689001r71M",
+      "en-US-1776359808899001Crgd",
+      "en-US-1776359702025001LwJ7",
+      "en-US-1776359765604001WmQt",
+      "en-US-1778262935558001RpbP"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1772472228939001By6I_20260521161804598.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
@@ -5212,61 +5287,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1775582375994001WvjJ",
-    "speakerId": "1768245294609build26-1775582375994001WvjJ",
-    "firstName": "Mark",
-    "lastName": "Saroufin",
-    "displayName": "Mark Saroufin",
-    "jobTitle": "Member of Technical Staff",
-    "company": "Core Automation",
-    "bio": "Mark Saroufim is a co-founder at Core Automation, co-founder of GPU MODE and was formerly a systems researcher at Meta working on PyTorch. His work focuses on AI infrastructure, GPU kernels, open-source systems, and AI for systems. He cares about both building better AI systems and building the open communities and benchmarks that make progress possible.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775582375994001WvjJ/attprofile/Mark%20s_1778785521272001sp7R.png",
-    "twitter": "",
-    "linkedIn": "",
-    "gitHub": "msaroufim",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018713555001rcaV"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1775582375994001WvjJ_20260603162115129.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1776288796753001kjcb",
     "speakerId": "1768245294609build26-1776288796753001kjcb",
     "firstName": "Jetashree",
@@ -5286,171 +5306,6 @@
     ],
     "langLocale": "en-US",
     "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776288796753001kjcb_20260528133005860.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1751939918029001Ts21",
-    "speakerId": "1768245294609build26-1751939918029001Ts21",
-    "firstName": "Ronak",
-    "lastName": "Chokshi",
-    "displayName": "Ronak Chokshi",
-    "jobTitle": "Director of Product Marketing",
-    "company": "Microsoft",
-    "bio": "Director of Product Marketing with 20+ years leading GTM across AI models, AIOps, and data platforms with ownership across positioning, launches, and enablement. Lead product marketing for Microsoft Foundry, helping customers build agents.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1751939918029001Ts21/attprofile/Profile_Photo.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/ronakchokshi",
-    "gitHub": "ronakchokshi_microsoft",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018700806001rmT7"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1751939918029001Ts21_20260601115703338.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1775784663200001lhkW",
-    "speakerId": "1768245294609build26-1775784663200001lhkW",
-    "firstName": "Rochak",
-    "lastName": "Mittal",
-    "displayName": "Rochak Mittal",
-    "jobTitle": "Partner Product Manager",
-    "company": "Microsoft",
-    "bio": "Rochak Mittal is an engineering and product management leader with a 20+ years of experience of building cloud scale services and products for enterprise. He has delivered business success in established products like Windows and Remote Desktop Services as well as in new initiatives like Azure Site Recovery. \nAs a leader, Rochak has vast experience in building teams and driving collaboration across geographies. He believes a leader's role is to drive clarity, generate energy and care for the team. He focuses on bringing in the right talent, mentoring and enabling the team to achieve their goals. At Microsoft he has been recognized as top leader and consistently rated as top talent for his contributions and impact to the business. \nCurrently Rochak works as Partner Product Manager at Microsoft in Azure Core and drives innovation and products in the domain of Compute Platform, Resiliency and Quality Under his leadership, team has delivered many V1 releases to make Azure as the most trusted platform for the world.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775784663200001lhkW/attprofile/Rochak_1776921804792001rcTc.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/rochak-mittal-278ba94/",
-    "gitHub": "",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018705660001rbvk"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1776373731157001DADu",
-    "speakerId": "1768245294609build26-1776373731157001DADu",
-    "firstName": "Priyanka",
-    "lastName": "Sharma",
-    "displayName": "Priyanka Sharma",
-    "jobTitle": "CXO",
-    "company": "Thiink Energy",
-    "bio": "Priyanka is an operating exec and builder at Thiink, using Copilot, Claude, and Cursor to build AI systems. She advocates for vendor neutrality and data portability in GenAI, shaped by her work today and as former Executive Director of CNCF.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776373731157001DADu/attprofile/Priyanka%20Sharma_1776374040542001KYTH.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/pritianka/",
-    "gitHub": "https://www.github.com/pritianka/",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018706445001rlk5"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776373731157001DADu_20260512042440057.avif",
     "ogTitle": "",
     "ogDescription": null,
     "sessionTypes": [
@@ -6615,35 +6470,40 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1775882816983001k1U7",
-    "speakerId": "1768245294609build26-1775882816983001k1U7",
-    "firstName": "Troy",
-    "lastName": "McBride",
-    "displayName": "Troy McBride",
-    "jobTitle": "Software Lead",
-    "company": "SpoilSafe",
-    "bio": "Troy is an Electrical and Computer Engineering student at CMU and co-lead on SpoilSafe's software team. He helps build the app and decision engine technology powering SpoilSafe's.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775882816983001k1U7/attprofile/imresizer-AlphaLab_2026_Pittsburgh_IW__2816_1775883638497001O8pG.png",
+    "localizedId": "en-US-1768245294609build26-1774284992189001pC5a",
+    "speakerId": "1768245294609build26-1774284992189001pC5a",
+    "firstName": "Kirupa",
+    "lastName": "Chinnathambi",
+    "displayName": "Kirupa Chinnathambi",
+    "jobTitle": "Group Product Manager",
+    "company": "Microsoft",
+    "bio": "Kirupa Chinnathambi leads Windows' Agentic Developer Platform efforts, helping define the core technologies developers use to build safe, secure, and user-friendly AI agents. \n\nHe has been writing about software development since 1999 through kirupa.com and is the author of several best-selling books and popular technical videos. His work bridges product leadership, developer platforms, and technical education.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774284992189001pC5a/attprofile/Profile_Photo.jpg?1780428492318",
     "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/troy-mcbride-6a29a1300",
-    "gitHub": "",
+    "linkedIn": "https://www.linkedin.com/in/kirupa/",
+    "gitHub": "https://github.com/kirupa",
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1778699194568001Vqb4"
+      "en-US-1774018718648001rUpo"
     ],
     "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1775882816983001k1U7_20260513140821337.avif",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1774284992189001pC5a_20260603163041521.avif",
     "ogTitle": "",
     "ogDescription": null,
     "sessionTypes": [
       {
-        "displayValue": "Broadcast Stage",
-        "logicalValue": "Broadcast Stage"
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
       }
     ],
     "topic": [],
-    "levels": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
     "programmingLanguages": [],
     "solutions": [],
     "communityTopic": [],
@@ -6720,25 +6580,181 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1774284992189001pC5a",
-    "speakerId": "1768245294609build26-1774284992189001pC5a",
-    "firstName": "Kirupa",
-    "lastName": "Chinnathambi",
-    "displayName": "Kirupa Chinnathambi",
-    "jobTitle": "Group Product Manager",
+    "localizedId": "en-US-1768245294609build26-1751939918029001Ts21",
+    "speakerId": "1768245294609build26-1751939918029001Ts21",
+    "firstName": "Ronak",
+    "lastName": "Chokshi",
+    "displayName": "Ronak Chokshi",
+    "jobTitle": "Director of Product Marketing",
     "company": "Microsoft",
-    "bio": "Kirupa Chinnathambi leads Windows' Agentic Developer Platform efforts, helping define the core technologies developers use to build safe, secure, and user-friendly AI agents. \n\nHe has been writing about software development since 1999 through kirupa.com and is the author of several best-selling books and popular technical videos. His work bridges product leadership, developer platforms, and technical education.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774284992189001pC5a/attprofile/Profile_Photo.jpg?1780428492318",
+    "bio": "Director of Product Marketing with 20+ years leading GTM across AI models, AIOps, and data platforms with ownership across positioning, launches, and enablement. Lead product marketing for Microsoft Foundry, helping customers build agents.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1751939918029001Ts21/attprofile/Profile_Photo.jpg",
     "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/kirupa/",
-    "gitHub": "https://github.com/kirupa",
+    "linkedIn": "https://www.linkedin.com/in/ronakchokshi",
+    "gitHub": "ronakchokshi_microsoft",
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018718648001rUpo"
+      "en-US-1774018700806001rmT7"
     ],
     "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1774284992189001pC5a_20260603163041521.avif",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1751939918029001Ts21_20260601115703338.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775582375994001WvjJ",
+    "speakerId": "1768245294609build26-1775582375994001WvjJ",
+    "firstName": "Mark",
+    "lastName": "Saroufin",
+    "displayName": "Mark Saroufin",
+    "jobTitle": "Member of Technical Staff",
+    "company": "Core Automation",
+    "bio": "Mark Saroufim is a co-founder at Core Automation, co-founder of GPU MODE and was formerly a systems researcher at Meta working on PyTorch. His work focuses on AI infrastructure, GPU kernels, open-source systems, and AI for systems. He cares about both building better AI systems and building the open communities and benchmarks that make progress possible.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775582375994001WvjJ/attprofile/Mark%20s_1778785521272001sp7R.png",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "msaroufim",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018713555001rcaV"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1775582375994001WvjJ_20260603162115129.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775882816983001k1U7",
+    "speakerId": "1768245294609build26-1775882816983001k1U7",
+    "firstName": "Troy",
+    "lastName": "McBride",
+    "displayName": "Troy McBride",
+    "jobTitle": "Software Lead",
+    "company": "SpoilSafe",
+    "bio": "Troy is an Electrical and Computer Engineering student at CMU and co-lead on SpoilSafe's software team. He helps build the app and decision engine technology powering SpoilSafe's.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775882816983001k1U7/attprofile/imresizer-AlphaLab_2026_Pittsburgh_IW__2816_1775883638497001O8pG.png",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/troy-mcbride-6a29a1300",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1778699194568001Vqb4"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1775882816983001k1U7_20260513140821337.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Broadcast Stage",
+        "logicalValue": "Broadcast Stage"
+      }
+    ],
+    "topic": [],
+    "levels": [],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775784663200001lhkW",
+    "speakerId": "1768245294609build26-1775784663200001lhkW",
+    "firstName": "Rochak",
+    "lastName": "Mittal",
+    "displayName": "Rochak Mittal",
+    "jobTitle": "Partner Product Manager",
+    "company": "Microsoft",
+    "bio": "Rochak Mittal is an engineering and product management leader with a 20+ years of experience of building cloud scale services and products for enterprise. He has delivered business success in established products like Windows and Remote Desktop Services as well as in new initiatives like Azure Site Recovery. \nAs a leader, Rochak has vast experience in building teams and driving collaboration across geographies. He believes a leader's role is to drive clarity, generate energy and care for the team. He focuses on bringing in the right talent, mentoring and enabling the team to achieve their goals. At Microsoft he has been recognized as top leader and consistently rated as top talent for his contributions and impact to the business. \nCurrently Rochak works as Partner Product Manager at Microsoft in Azure Core and drives innovation and products in the domain of Compute Platform, Resiliency and Quality Under his leadership, team has delivered many V1 releases to make Azure as the most trusted platform for the world.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775784663200001lhkW/attprofile/Rochak_1776921804792001rcTc.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/rochak-mittal-278ba94/",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018705660001rbvk"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
     "ogTitle": "",
     "ogDescription": null,
     "sessionTypes": [
@@ -6752,6 +6768,107 @@
       {
         "displayValue": "(300) Advanced",
         "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1778257989205001rfcu",
+    "speakerId": "1768245294609build26-1778257989205001rfcu",
+    "firstName": "Saloni",
+    "lastName": "Sonpal",
+    "displayName": "Saloni Sonpal",
+    "jobTitle": "Principal PM Manager",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1778257839117001VWQp"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1778257989205001rfcu_20260602162324677.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Pre-recorded",
+        "logicalValue": "Pre-recorded"
+      }
+    ],
+    "topic": [],
+    "levels": [],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776373731157001DADu",
+    "speakerId": "1768245294609build26-1776373731157001DADu",
+    "firstName": "Priyanka",
+    "lastName": "Sharma",
+    "displayName": "Priyanka Sharma",
+    "jobTitle": "CXO",
+    "company": "Thiink Energy",
+    "bio": "Priyanka is an operating exec and builder at Thiink, using Copilot, Claude, and Cursor to build AI systems. She advocates for vendor neutrality and data portability in GenAI, shaped by her work today and as former Executive Director of CNCF.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776373731157001DADu/attprofile/Priyanka%20Sharma_1776374040542001KYTH.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/pritianka/",
+    "gitHub": "https://www.github.com/pritianka/",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018706445001rlk5"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776373731157001DADu_20260512042440057.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
       }
     ],
     "programmingLanguages": [],
@@ -7332,96 +7449,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1776296228053001Ld8t",
-    "speakerId": "1768245294609build26-1776296228053001Ld8t",
-    "firstName": "Ofek",
-    "lastName": "Ben Eliezer",
-    "displayName": "Ofek Ben Eliezer",
-    "jobTitle": "Sr. Cloud Solution Architect",
-    "company": "Microsoft MVP",
-    "bio": "Ofek Ben Eliezer is a Senior Cloud Solution Architect and Microsoft MVP, expert in Azure, AI, and cloud security. He designs large-scale architectures, leads enterprise implementations, and helps organizations adopt production-grade AI solutions.",
-    "photo": "https://eventtools.event.microsoft.com/build2026-prod/w326_0899486c-9bce-489a-b705-ad211cc9bcfd.png?1779814168073",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/ofekbeneliezer",
-    "gitHub": "OfekBenEliezer",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774493285670001kzLw",
-      "en-US-1774493286011001k8PS",
-      "en-US-1779812645028001qU6Y",
-      "en-US-1779813183164001QgWG"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776296228053001Ld8t_20260527140631353.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Table Talk",
-        "logicalValue": "Table Talk"
-      },
-      {
-        "displayValue": "Table Talk",
-        "logicalValue": "Table Talk"
-      },
-      {
-        "displayValue": "Table Talk",
-        "logicalValue": "Table Talk"
-      },
-      {
-        "displayValue": "Table Talk",
-        "logicalValue": "Table Talk"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      },
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      },
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      },
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1757087809738001nkEU",
     "speakerId": "1768245294609build26-1757087809738001nkEU",
     "firstName": "Ehsan",
@@ -7685,111 +7712,6 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1770757847067001DhQT",
-    "speakerId": "1768245294609build26-1770757847067001DhQT",
-    "firstName": "Kendra",
-    "lastName": "Springer",
-    "displayName": "Kendra Springer",
-    "jobTitle": "Principal Product Manager",
-    "company": "Microsoft",
-    "bio": "Kendra is Principal Group PM for Agent 365 at Microsoft, helping enterprises scale agentic adoption with cohesive, scalable governance. With 7 years in AI platforms, she previously led teams in Copilot Studio. Passionate about democratizing AI.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1770757847067001DhQT/attprofile/headshot%20%28002%29%202_1777651493774001jlYT.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/kendraspringer/",
-    "gitHub": "kespring_microsoft",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018716723001rkrH"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1770757847067001DhQT_20260519190644506.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1776980112222001zvph",
-    "speakerId": "1768245294609build26-1776980112222001zvph",
-    "firstName": "Parth",
-    "lastName": "Sareen",
-    "displayName": "Parth Sareen",
-    "jobTitle": "Software Engineer",
-    "company": "Ollama",
-    "bio": "",
-    "photo": "",
-    "twitter": "",
-    "linkedIn": "",
-    "gitHub": "ParthSareen",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1779992625684001GKLp"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776980112222001zvph_20260512014610808.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Broadcast Stage",
-        "logicalValue": "Broadcast Stage"
-      }
-    ],
-    "topic": [],
-    "levels": [],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
       }
     ]
   },
@@ -8082,57 +8004,6 @@
     ],
     "langLocale": "en-US",
     "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776352718006001ATTV_20260512042317853.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Demo",
-        "logicalValue": "Demo"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1776895269615001aQWT",
-    "speakerId": "1768245294609build26-1776895269615001aQWT",
-    "firstName": "Vijay",
-    "lastName": "Aski",
-    "displayName": "Vijay Aski",
-    "jobTitle": "Senior Partner Director",
-    "company": "Microsoft",
-    "bio": "Partner Director Engineering in CoreAI. Foundry Training and Customization.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776895269615001aQWT/attprofile/Profile_Photo.jpg",
-    "twitter": "",
-    "linkedIn": "www.linkedin.com/vijayaski",
-    "gitHub": "vijayaski",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018714055001rncm"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776895269615001aQWT_20260603163056986.avif",
     "ogTitle": "",
     "ogDescription": null,
     "sessionTypes": [
@@ -8635,107 +8506,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1776135903186001Orl7",
-    "speakerId": "1768245294609build26-1776135903186001Orl7",
-    "firstName": "Evan",
-    "lastName": "Boyle",
-    "displayName": "Evan Boyle",
-    "jobTitle": "Principal Manager - Software Engineering",
-    "company": "GitHub",
-    "bio": "",
-    "photo": "",
-    "twitter": "",
-    "linkedIn": "",
-    "gitHub": "evanboyle",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1780003914870001QMOI"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776135903186001Orl7_20260512014446148.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Broadcast Stage",
-        "logicalValue": "Broadcast Stage"
-      }
-    ],
-    "topic": [],
-    "levels": [],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1777003136185001uvnL",
-    "speakerId": "1768245294609build26-1777003136185001uvnL",
-    "firstName": "Patrick",
-    "lastName": "Nikoletich",
-    "displayName": "Patrick Nikoletich",
-    "jobTitle": "Distinguished Product Manager",
-    "company": "Microsoft",
-    "bio": "Patrick Nikoletich leads product strategy for GitHub Copilot's CLI/SDK. He focuses on supporting integrators of GitHub's agentic coding harness and making AI agents enterprise-ready through sandboxed execution, policy enforcement, and human-in-the-loop controls. Previously a founder, CTO at Shippo, VP Product at Truveta, and engineering leader in Microsoft Azure & AI Research divisions.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1777003136185001uvnL/attprofile/9acdddae-f4bb-4b8f-bc9a-184b3c171588_1777841555291001hNzC.png",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/patrick-nikoletich-99a42918/",
-    "gitHub": "patniko",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018718648001rUpo"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1777003136185001uvnL_20260512043051364.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1772238022106001lZo4",
     "speakerId": "1768245294609build26-1772238022106001lZo4",
     "firstName": "Peter",
@@ -8834,6 +8604,371 @@
     "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1770757847067001DhQT",
+    "speakerId": "1768245294609build26-1770757847067001DhQT",
+    "firstName": "Kendra",
+    "lastName": "Springer",
+    "displayName": "Kendra Springer",
+    "jobTitle": "Principal Product Manager",
+    "company": "Microsoft",
+    "bio": "Kendra is Principal Group PM for Agent 365 at Microsoft, helping enterprises scale agentic adoption with cohesive, scalable governance. With 7 years in AI platforms, she previously led teams in Copilot Studio. Passionate about democratizing AI.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1770757847067001DhQT/attprofile/headshot%20%28002%29%202_1777651493774001jlYT.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/kendraspringer/",
+    "gitHub": "kespring_microsoft",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018716723001rkrH"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1770757847067001DhQT_20260519190644506.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776895269615001aQWT",
+    "speakerId": "1768245294609build26-1776895269615001aQWT",
+    "firstName": "Vijay",
+    "lastName": "Aski",
+    "displayName": "Vijay Aski",
+    "jobTitle": "Senior Partner Director",
+    "company": "Microsoft",
+    "bio": "Partner Director Engineering in CoreAI. Foundry Training and Customization.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776895269615001aQWT/attprofile/Profile_Photo.jpg",
+    "twitter": "",
+    "linkedIn": "www.linkedin.com/vijayaski",
+    "gitHub": "vijayaski",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018713033001raz6"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776895269615001aQWT_20260603163056986.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1777003136185001uvnL",
+    "speakerId": "1768245294609build26-1777003136185001uvnL",
+    "firstName": "Patrick",
+    "lastName": "Nikoletich",
+    "displayName": "Patrick Nikoletich",
+    "jobTitle": "Distinguished Product Manager",
+    "company": "Microsoft",
+    "bio": "Patrick Nikoletich leads product strategy for GitHub Copilot's CLI/SDK. He focuses on supporting integrators of GitHub's agentic coding harness and making AI agents enterprise-ready through sandboxed execution, policy enforcement, and human-in-the-loop controls. Previously a founder, CTO at Shippo, VP Product at Truveta, and engineering leader in Microsoft Azure & AI Research divisions.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1777003136185001uvnL/attprofile/9acdddae-f4bb-4b8f-bc9a-184b3c171588_1777841555291001hNzC.png",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/patrick-nikoletich-99a42918/",
+    "gitHub": "patniko",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1780446984357001HzoY"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1777003136185001uvnL_20260512043051364.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776135903186001Orl7",
+    "speakerId": "1768245294609build26-1776135903186001Orl7",
+    "firstName": "Evan",
+    "lastName": "Boyle",
+    "displayName": "Evan Boyle",
+    "jobTitle": "Principal Manager - Software Engineering",
+    "company": "GitHub",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "evanboyle",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1778109100437001YTWq"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776135903186001Orl7_20260512014446148.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776980112222001zvph",
+    "speakerId": "1768245294609build26-1776980112222001zvph",
+    "firstName": "Parth",
+    "lastName": "Sareen",
+    "displayName": "Parth Sareen",
+    "jobTitle": "Software Engineer",
+    "company": "Ollama",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "ParthSareen",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1775517798562001H69f"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776980112222001zvph_20260512014610808.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776296228053001Ld8t",
+    "speakerId": "1768245294609build26-1776296228053001Ld8t",
+    "firstName": "Ofek",
+    "lastName": "Ben Eliezer",
+    "displayName": "Ofek Ben Eliezer",
+    "jobTitle": "Sr. Cloud Solution Architect",
+    "company": "Microsoft MVP",
+    "bio": "Ofek Ben Eliezer is a Senior Cloud Solution Architect and Microsoft MVP, expert in Azure, AI, and cloud security. He designs large-scale architectures, leads enterprise implementations, and helps organizations adopt production-grade AI solutions.",
+    "photo": "https://eventtools.event.microsoft.com/build2026-prod/w326_0899486c-9bce-489a-b705-ad211cc9bcfd.png?1779814168073",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/ofekbeneliezer",
+    "gitHub": "OfekBenEliezer",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774493285670001kzLw",
+      "en-US-1774493286011001k8PS",
+      "en-US-1779812645028001qU6Y",
+      "en-US-1779813183164001QgWG"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776296228053001Ld8t_20260527140631353.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Table Talk",
+        "logicalValue": "Table Talk"
+      },
+      {
+        "displayValue": "Table Talk",
+        "logicalValue": "Table Talk"
+      },
+      {
+        "displayValue": "Table Talk",
+        "logicalValue": "Table Talk"
+      },
+      {
+        "displayValue": "Table Talk",
+        "logicalValue": "Table Talk"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
@@ -9989,56 +10124,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1758304897855001h9Qq",
-    "speakerId": "1768245294609build26-1758304897855001h9Qq",
-    "firstName": "Marco",
-    "lastName": "Casalaina",
-    "displayName": "Marco Casalaina",
-    "jobTitle": "VP Products and AI Futurist, Core AI",
-    "company": "Microsoft",
-    "bio": "Marco Casalaina is VP Products of Core AI and AI Futurist at Microsoft. Prior to coming to Microsoft, Marco led the Einstein AI team at Salesforce. He holds a Bachelor’s Degree in Computer Science from Cornell University.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1758304897855001h9Qq/attprofile/Marco%20Small%20Trees%20Headshot_1775322326871001Oj0E.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/marcocasalaina/",
-    "gitHub": "mcasalaina",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1780010477957001fyyC"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1758304897855001h9Qq_20260512034054487.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Broadcast Stage",
-        "logicalValue": "Broadcast Stage"
-      }
-    ],
-    "topic": [],
-    "levels": [],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1779487295106001adIc",
     "speakerId": "1768245294609build26-1779487295106001adIc",
     "firstName": "Prachi",
@@ -10368,6 +10453,52 @@
   },
   {
     "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775704791363001hLZq",
+    "speakerId": "1768245294609build26-1775704791363001hLZq",
+    "firstName": "Pierce",
+    "lastName": "Boggan",
+    "displayName": "Pierce Boggan",
+    "jobTitle": "VS Code",
+    "company": "Microsoft",
+    "bio": "Pierce leads the VS Code product team. He has a long history in developer tools and joined via Microsoft's acquisition of Xamarin in 2016. He lives in Park City, UT and enjoys skiing and biking with his wife and two kids.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775704791363001hLZq/attprofile/J2bo0YB9_400x400_1775852732428001raCu.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/pierceboggan/",
+    "gitHub": "https://github.com/pierceboggan",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1780005736167001eMpo"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1775704791363001hLZq_20260512041249904.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Broadcast Stage",
+        "logicalValue": "Broadcast Stage"
+      }
+    ],
+    "topic": [],
+    "levels": [],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1779800220553001ArTL",
     "speakerId": "1768245294609build26-1779800220553001ArTL",
     "firstName": "Elad",
@@ -10414,35 +10545,40 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1775704791363001hLZq",
-    "speakerId": "1768245294609build26-1775704791363001hLZq",
-    "firstName": "Pierce",
-    "lastName": "Boggan",
-    "displayName": "Pierce Boggan",
-    "jobTitle": "VS Code",
+    "localizedId": "en-US-1768245294609build26-1758304897855001h9Qq",
+    "speakerId": "1768245294609build26-1758304897855001h9Qq",
+    "firstName": "Marco",
+    "lastName": "Casalaina",
+    "displayName": "Marco Casalaina",
+    "jobTitle": "VP Products and AI Futurist, Core AI",
     "company": "Microsoft",
-    "bio": "Pierce leads the VS Code product team. He has a long history in developer tools and joined via Microsoft's acquisition of Xamarin in 2016. He lives in Park City, UT and enjoys skiing and biking with his wife and two kids.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775704791363001hLZq/attprofile/J2bo0YB9_400x400_1775852732428001raCu.jpg",
+    "bio": "Marco Casalaina is VP Products of Core AI and AI Futurist at Microsoft. Prior to coming to Microsoft, Marco led the Einstein AI team at Salesforce. He holds a Bachelor’s Degree in Computer Science from Cornell University.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1758304897855001h9Qq/attprofile/Marco%20Small%20Trees%20Headshot_1775322326871001Oj0E.jpg",
     "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/pierceboggan/",
-    "gitHub": "https://github.com/pierceboggan",
+    "linkedIn": "https://www.linkedin.com/in/marcocasalaina/",
+    "gitHub": "mcasalaina",
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1780005736167001eMpo"
+      "en-US-1774018700487001rXwu"
     ],
     "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1775704791363001hLZq_20260512041249904.avif",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1758304897855001h9Qq_20260512034054487.avif",
     "ogTitle": "",
     "ogDescription": null,
     "sessionTypes": [
       {
-        "displayValue": "Broadcast Stage",
-        "logicalValue": "Broadcast Stage"
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
       }
     ],
     "topic": [],
-    "levels": [],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
     "programmingLanguages": [],
     "solutions": [],
     "communityTopic": [],
@@ -10452,6 +10588,10 @@
     "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
       {
         "displayValue": "Online",
         "logicalValue": "Online"
@@ -11273,171 +11413,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1768930557792001TyJw",
-    "speakerId": "1768245294609build26-1768930557792001TyJw",
-    "firstName": "Amanda",
-    "lastName": "Silver",
-    "displayName": "Amanda Silver",
-    "jobTitle": "CVP M365 Core & WorkIQ",
-    "company": "Microsoft",
-    "bio": "Amanda has spent her career shaping the future of software development at Microsoft, leading products used by millions—including Visual Studio, VS Code, .NET, TypeScript, and Azure’s developer platform. Most recently, as head of product for Apps and Agents, she drove Azure’s evolution across applications, agent frameworks, observability, and developer tools, while also leading Microsoft’s internal engineering transformation.\n\nAmanda believes software is becoming a continuous, agentic system—more dynamic, adaptive, and self-improving. She now leads the M365 Core and Work IQ product team, advancing an AI-native substrate to power more contextual, intelligent Copilot experiences.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1768930557792001TyJw/attprofile/Amanda%20-%20headshot%20-%202026_1778692259499001hSxG.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/amandaksilver/",
-    "gitHub": "https://github.com/amandasilver",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018700487001rXwu"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1775078342403001SpDz",
-    "speakerId": "1768245294609build26-1775078342403001SpDz",
-    "firstName": "Maria",
-    "lastName": "Naggaga",
-    "displayName": "Maria Naggaga",
-    "jobTitle": "Product Manager",
-    "company": "Microsoft",
-    "bio": "Maria is product manager in Core AI working on Agentic Tools and Optimization.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775078342403001SpDz/attprofile/Maria-Naggaga-Nakanwagi_1776436464413001oGVl.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/maria-naggaga-0299251a/",
-    "gitHub": "ladynaggaga",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018700806001rmT7"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1775078342403001SpDz_20260512040708955.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1776447112591001abTN",
-    "speakerId": "1768245294609build26-1776447112591001abTN",
-    "firstName": "Rishabh",
-    "lastName": "Saha",
-    "displayName": "Rishabh Saha",
-    "jobTitle": "Chief Architect",
-    "company": "Microsoft",
-    "bio": "Rishabh Saha is a Chief Architect in Microsoft’s Office of the CTO for US Commercial Industries. At Build, he joins PepsiCo leaders to share how modern data foundations enabled scalable, production‑ready agentic applications.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776447112591001abTN/attprofile/Profile_Photo.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/rishabhsaha/",
-    "gitHub": "rishabhsaha",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018704684001rpfv"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776447112591001abTN_20260601120047808.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1756140167720001oG8r",
     "speakerId": "1768245294609build26-1756140167720001oG8r",
     "firstName": "Nikisha",
@@ -11485,47 +11460,6 @@
         "logicalValue": "Online"
       }
     ]
-  },
-  {
-    "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1776185877803001f40v",
-    "speakerId": "1768245294609build26-1776185877803001f40v",
-    "firstName": "Steve",
-    "lastName": "Sanderson",
-    "displayName": "Steve Sanderson",
-    "jobTitle": "Principal Developer",
-    "company": "Microsoft",
-    "bio": "",
-    "photo": "",
-    "twitter": "",
-    "linkedIn": "",
-    "gitHub": "SteveSandersonMS",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1780439116833001n1bf"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776185877803001f40v_20260512014457129.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Broadcast Stage",
-        "logicalValue": "Broadcast Stage"
-      }
-    ],
-    "topic": [],
-    "levels": [],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": []
   },
   {
     "@search.score": 1.0,
@@ -11691,57 +11625,6 @@
         "displayValue": "In-person",
         "logicalValue": "In-person"
       },
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1770655732723001OM3q",
-    "speakerId": "1768245294609build26-1770655732723001OM3q",
-    "firstName": "Shannon",
-    "lastName": "Eldridge-Kuehn",
-    "displayName": "Shannon Eldridge-Kuehn",
-    "jobTitle": "Principal Solutions Architect",
-    "company": "AHEAD",
-    "bio": "Shannon Eldridge-Kuehn is a Principal Solutions Architect, Microsoft MVP, and MCT specializing in cloud architecture, cloud security, FinOps, and platform engineering. She speaks at industry events and writes Cloudy Musings.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1770655732723001OM3q/attprofile/62f90c7aeca3facc_1773185446541001zheU.jpeg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/shannonkuehn/",
-    "gitHub": "sbkuehn",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1778799822091001NW9j"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1770655732723001OM3q_20260529145037812.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Demo",
-        "logicalValue": "Demo"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(100) Foundational",
-        "logicalValue": "(100) Foundational"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
@@ -12065,38 +11948,38 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1778720385485001u2mD",
-    "speakerId": "1768245294609build26-1778720385485001u2mD",
-    "firstName": "Brady",
-    "lastName": "Gaster",
-    "displayName": "Brady Gaster",
+    "localizedId": "en-US-1768245294609build26-1775514714965001BQ8v",
+    "speakerId": "1768245294609build26-1775514714965001BQ8v",
+    "firstName": "Chip",
+    "lastName": "Huyen",
+    "displayName": "Chip Huyen",
     "jobTitle": "Builder",
-    "company": "GitHub",
-    "bio": "",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1778720385485001u2mD/attprofile/me-headshot_1778779464594001EZN0.png",
+    "company": "Stealth",
+    "bio": "Chip Huyen builds AI products. Previously, she founded an AI infrastructure startup (acquired). She was a core developer of NVIDIA’s NeMo.  Her books, Designing Machine Learning Systems and AI Engineering, have been translated into 10+ languages.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775514714965001BQ8v/attprofile/ef18813f-839e-48a1-be9b-2aa857b7b23f_1775518890159001zh3I.jpg",
     "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/bradygaster/",
-    "gitHub": "bradygaster",
+    "linkedIn": "https://www.linkedin.com/in/chiphuyen/",
+    "gitHub": "https://github.com/chiphuyen",
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018710086001rTQt"
+      "en-US-1774018713380001rxTK"
     ],
     "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1778720385485001u2mD_20260515120931687.avif",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1775514714965001BQ8v_20260512041007086.avif",
     "ogTitle": "",
     "ogDescription": null,
     "sessionTypes": [
       {
-        "displayValue": "Demo",
-        "logicalValue": "Demo"
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
       }
     ],
     "topic": [],
     "levels": [
       {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
       }
     ],
     "programmingLanguages": [],
@@ -12111,6 +11994,10 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       }
     ]
   },
@@ -12167,25 +12054,241 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1775514714965001BQ8v",
-    "speakerId": "1768245294609build26-1775514714965001BQ8v",
-    "firstName": "Chip",
-    "lastName": "Huyen",
-    "displayName": "Chip Huyen",
+    "localizedId": "en-US-1768245294609build26-1778720385485001u2mD",
+    "speakerId": "1768245294609build26-1778720385485001u2mD",
+    "firstName": "Brady",
+    "lastName": "Gaster",
+    "displayName": "Brady Gaster",
     "jobTitle": "Builder",
-    "company": "Stealth",
-    "bio": "Chip Huyen builds AI products. Previously, she founded an AI infrastructure startup (acquired). She was a core developer of NVIDIA’s NeMo.  Her books, Designing Machine Learning Systems and AI Engineering, have been translated into 10+ languages.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775514714965001BQ8v/attprofile/ef18813f-839e-48a1-be9b-2aa857b7b23f_1775518890159001zh3I.jpg",
+    "company": "GitHub",
+    "bio": "",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1778720385485001u2mD/attprofile/me-headshot_1778779464594001EZN0.png",
     "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/chiphuyen/",
-    "gitHub": "https://github.com/chiphuyen",
+    "linkedIn": "https://www.linkedin.com/in/bradygaster/",
+    "gitHub": "bradygaster",
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018713380001rxTK"
+      "en-US-1774018710086001rTQt"
     ],
     "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1775514714965001BQ8v_20260512041007086.avif",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1778720385485001u2mD_20260515120931687.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776447112591001abTN",
+    "speakerId": "1768245294609build26-1776447112591001abTN",
+    "firstName": "Rishabh",
+    "lastName": "Saha",
+    "displayName": "Rishabh Saha",
+    "jobTitle": "Chief Architect",
+    "company": "Microsoft",
+    "bio": "Rishabh Saha is a Chief Architect in Microsoft’s Office of the CTO for US Commercial Industries. At Build, he joins PepsiCo leaders to share how modern data foundations enabled scalable, production‑ready agentic applications.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776447112591001abTN/attprofile/Profile_Photo.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/rishabhsaha/",
+    "gitHub": "rishabhsaha",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018704684001rpfv"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776447112591001abTN_20260601120047808.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1768930557792001TyJw",
+    "speakerId": "1768245294609build26-1768930557792001TyJw",
+    "firstName": "Amanda",
+    "lastName": "Silver",
+    "displayName": "Amanda Silver",
+    "jobTitle": "CVP M365 Core & WorkIQ",
+    "company": "Microsoft",
+    "bio": "Amanda has spent her career shaping the future of software development at Microsoft, leading products used by millions—including Visual Studio, VS Code, .NET, TypeScript, and Azure’s developer platform. Most recently, as head of product for Apps and Agents, she drove Azure’s evolution across applications, agent frameworks, observability, and developer tools, while also leading Microsoft’s internal engineering transformation.\n\nAmanda believes software is becoming a continuous, agentic system—more dynamic, adaptive, and self-improving. She now leads the M365 Core and Work IQ product team, advancing an AI-native substrate to power more contextual, intelligent Copilot experiences.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1768930557792001TyJw/attprofile/Amanda%20-%20headshot%20-%202026_1778692259499001hSxG.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/amandaksilver/",
+    "gitHub": "https://github.com/amandasilver",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018700487001rXwu"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775078342403001SpDz",
+    "speakerId": "1768245294609build26-1775078342403001SpDz",
+    "firstName": "Maria",
+    "lastName": "Naggaga",
+    "displayName": "Maria Naggaga",
+    "jobTitle": "Product Manager",
+    "company": "Microsoft",
+    "bio": "Maria is product manager in Core AI working on Agentic Tools and Optimization.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775078342403001SpDz/attprofile/Maria-Naggaga-Nakanwagi_1776436464413001oGVl.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/maria-naggaga-0299251a/",
+    "gitHub": "ladynaggaga",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018700806001rmT7"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1775078342403001SpDz_20260512040708955.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776185877803001f40v",
+    "speakerId": "1768245294609build26-1776185877803001f40v",
+    "firstName": "Steve",
+    "lastName": "Sanderson",
+    "displayName": "Steve Sanderson",
+    "jobTitle": "Principal Developer",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "SteveSandersonMS",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1780446984357001HzoY"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776185877803001f40v_20260512014457129.avif",
     "ogTitle": "",
     "ogDescription": null,
     "sessionTypes": [
@@ -12217,6 +12320,57 @@
       {
         "displayValue": "Online",
         "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1770655732723001OM3q",
+    "speakerId": "1768245294609build26-1770655732723001OM3q",
+    "firstName": "Shannon",
+    "lastName": "Eldridge-Kuehn",
+    "displayName": "Shannon Eldridge-Kuehn",
+    "jobTitle": "Principal Solutions Architect",
+    "company": "AHEAD",
+    "bio": "Shannon Eldridge-Kuehn is a Principal Solutions Architect, Microsoft MVP, and MCT specializing in cloud architecture, cloud security, FinOps, and platform engineering. She speaks at industry events and writes Cloudy Musings.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1770655732723001OM3q/attprofile/62f90c7aeca3facc_1773185446541001zheU.jpeg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/shannonkuehn/",
+    "gitHub": "sbkuehn",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1778799822091001NW9j"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1770655732723001OM3q_20260529145037812.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(100) Foundational",
+        "logicalValue": "(100) Foundational"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   },
@@ -14086,10 +14240,6 @@
     "sessionLanguage": [],
     "deliveryTypes": [
       {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
         "displayValue": "Online",
         "logicalValue": "Online"
       }
@@ -14135,10 +14285,6 @@
     "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
       {
         "displayValue": "Online",
         "logicalValue": "Online"
@@ -15044,61 +15190,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1774284988298001pfqa",
-    "speakerId": "1768245294609build26-1774284988298001pfqa",
-    "firstName": "Ben",
-    "lastName": "Zulauf",
-    "displayName": "Ben Zulauf",
-    "jobTitle": "Principal PM Architect",
-    "company": "Microsoft",
-    "bio": "I am a Principal PM Architect at Microsoft.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774284988298001pfqa/attprofile/Profile_Photo.jpg",
-    "twitter": "",
-    "linkedIn": "",
-    "gitHub": "",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018704951001rHLF"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1774284988298001pfqa_20260601115804430.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1762250455017001UQP1",
     "speakerId": "1768245294609build26-1762250455017001UQP1",
     "firstName": "Ayca",
@@ -15283,57 +15374,6 @@
       {
         "displayValue": "(300) Advanced",
         "logicalValue": "(300) Advanced"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1776456842448001LPgI",
-    "speakerId": "1768245294609build26-1776456842448001LPgI",
-    "firstName": "Chris",
-    "lastName": "Lauren",
-    "displayName": "Chris Lauren",
-    "jobTitle": "Partner Group Product Manager, Core AI",
-    "company": "Microsoft",
-    "bio": "I currently lead model post-training & customization capabilities across Foundry and Azure Machine Learning, as well as our AI Infra team at Microsoft. I've been working on AI and Big Data at Microsoft since 1999 and am super excited about this space!.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776456842448001LPgI/attprofile/Profile_Photo.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/clauren",
-    "gitHub": "",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018714055001rncm"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776456842448001LPgI_20260601120056274.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Demo",
-        "logicalValue": "Demo"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
       }
     ],
     "programmingLanguages": [],
@@ -15568,6 +15608,116 @@
   },
   {
     "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774284988298001pfqa",
+    "speakerId": "1768245294609build26-1774284988298001pfqa",
+    "firstName": "Ben",
+    "lastName": "Zulauf",
+    "displayName": "Ben Zulauf",
+    "jobTitle": "Principal PM Architect",
+    "company": "Microsoft",
+    "bio": "I am a Principal PM Architect at Microsoft.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774284988298001pfqa/attprofile/Profile_Photo.jpg",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018704951001rHLF"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1774284988298001pfqa_20260601115804430.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776456842448001LPgI",
+    "speakerId": "1768245294609build26-1776456842448001LPgI",
+    "firstName": "Chris",
+    "lastName": "Lauren",
+    "displayName": "Chris Lauren",
+    "jobTitle": "Partner Group Product Manager, Core AI",
+    "company": "Microsoft",
+    "bio": "I currently lead model post-training & customization capabilities across Foundry and Azure Machine Learning, as well as our AI Infra team at Microsoft. I've been working on AI and Big Data at Microsoft since 1999 and am super excited about this space!.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776456842448001LPgI/attprofile/Profile_Photo.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/clauren",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018713033001raz6"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776456842448001LPgI_20260601120056274.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1776040528117001fUtV",
     "speakerId": "1768245294609build26-1776040528117001fUtV",
     "firstName": "Vivaan",
@@ -15606,10 +15756,6 @@
     "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
       {
         "displayValue": "Online",
         "logicalValue": "Online"
@@ -16739,171 +16885,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1776459863938001ayf1",
-    "speakerId": "1768245294609build26-1776459863938001ayf1",
-    "firstName": "Joe",
-    "lastName": "Filcik",
-    "displayName": "Joe Filcik",
-    "jobTitle": "Principal Product Manager",
-    "company": "Microsoft",
-    "bio": "I'm a Principal Product Manager at Microsoft working on Microsoft Foundry, leading product strategy for Content Understanding and Document Intelligence enabling enterprises to extract structured insights from complex documents at scale using AI.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776459863938001ayf1/attprofile/Profile_Photo.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/jfilcik/",
-    "gitHub": "jfilcik",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018700806001rmT7"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776459863938001ayf1_20260601120105367.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1775086106647001Jl6g",
-    "speakerId": "1768245294609build26-1775086106647001Jl6g",
-    "firstName": "Neta",
-    "lastName": "Haiby",
-    "displayName": "Neta Haiby",
-    "jobTitle": "Partner Product Manager",
-    "company": "Microsoft",
-    "bio": "Neta is Partner Product Manager for Securing AI at Microsoft Security, defining impactful and innovative AI products from ideation to scale. She brings deep AI, security, and enterprise experience to build services that accelerate AI adoption.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775086106647001Jl6g/attprofile/Profile_Photo.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/netahaiby/",
-    "gitHub": "@netahw_microsoft",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018716723001rkrH"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1775086106647001Jl6g_20260601115950221.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1775238034507001eQ13",
-    "speakerId": "1768245294609build26-1775238034507001eQ13",
-    "firstName": "Manoj",
-    "lastName": "Bableshwar",
-    "displayName": "Manoj Bableshwar",
-    "jobTitle": "Principal Product Manager",
-    "company": "Microsoft",
-    "bio": "",
-    "photo": "https://eventtools.event.microsoft.com/build2026-prod/w326_42e8e1b8-49e5-4ea7-9492-399d0ad72e11.png?1780472382905",
-    "twitter": "",
-    "linkedIn": "",
-    "gitHub": "ManojBableshwar",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018713033001raz6"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1775238034507001eQ13_20260603162106003.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1777915792311001KROB",
     "speakerId": "1768245294609build26-1777915792311001KROB",
     "firstName": "Bryan",
@@ -16979,61 +16960,6 @@
     ],
     "topic": [],
     "levels": [],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1775133280383001hbCQ",
-    "speakerId": "1768245294609build26-1775133280383001hbCQ",
-    "firstName": "Mario",
-    "lastName": "Rodriguez",
-    "displayName": "Mario Rodriguez",
-    "jobTitle": "Chief Product Officer",
-    "company": "GitHub",
-    "bio": "Mario Rodriguez leads the GitHub Product team as Chief Product Officer. His core identity is being a learner and his passion is creating developer tools—so much so that he has spent the last 20 years living that mission in leadership roles across Microsoft and GitHub. Mario most recently oversaw GitHub’s AI strategy and the GitHub Copilot product line, launching and growing Copilot across thousands of organizations and millions of users. \n\nMario spends time outside of GitHub with his wife and two daughters. He also co-chairs and founded a charter school in an effort to progress education in rural regions of the United States.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775133280383001hbCQ/attprofile/Mario%20Rodriguez%20Github%20Headshot%20FINAL%20copy_1780078396287001Snml.jpg",
-    "twitter": "",
-    "linkedIn": "",
-    "gitHub": "mariorod",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018708247001rStk"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
     "programmingLanguages": [],
     "solutions": [],
     "communityTopic": [],
@@ -17299,57 +17225,6 @@
         "logicalValue": "C#"
       }
     ],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1774645705844001UesE",
-    "speakerId": "1768245294609build26-1774645705844001UesE",
-    "firstName": "Nik",
-    "lastName": "Karpinsky",
-    "displayName": "Nik Karpinsky",
-    "jobTitle": "Principal Software Engineer",
-    "company": "Microsoft",
-    "bio": "Nik is a Principal Software Engineer on the Visual Studio team at Microsoft, helping developers measure what matters and optimize their applications for performance.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774645705844001UesE/attprofile/Profile_Photo.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/karpinsn/",
-    "gitHub": "karpinsn",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018709769001rxEg"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1774645705844001UesE_20260601115908910.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Demo",
-        "logicalValue": "Demo"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(400) Expert",
-        "logicalValue": "(400) Expert"
-      }
-    ],
-    "programmingLanguages": [],
     "solutions": [],
     "communityTopic": [],
     "learningZoneTopic": [],
@@ -17691,35 +17566,40 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1775792452897001CnyX",
-    "speakerId": "1768245294609build26-1775792452897001CnyX",
-    "firstName": "Rohan",
-    "lastName": "Ganesh",
-    "displayName": "Rohan Ganesh",
-    "jobTitle": "Co-Founder, Hardware Lead",
-    "company": "SpoilSafe",
-    "bio": "Co-Founder and Hardware Lead of SpoilSafe, building IoT devices that help food distributors predict spoilage and cut waste. Leads hardware, firmware, and AI development, turning sensor data into actionable insights. ECE student at Carnegie Mellon.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775792452897001CnyX/attprofile/AlphaLab_2026_Pittsburgh_IW__2898_1775792925915001bKtL.jpg",
+    "localizedId": "en-US-1768245294609build26-1775680871968001CAxd",
+    "speakerId": "1768245294609build26-1775680871968001CAxd",
+    "firstName": "Naomi",
+    "lastName": "Moneypenny",
+    "displayName": "Naomi Moneypenny",
+    "jobTitle": "Senior Director, Product Development",
+    "company": "Microsoft",
+    "bio": "Naomi Moneypenny leads Microsoft Foundry Models. She brings leading AI models to customers through scalable, reliable platforms that power real‑world enterprise AI.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775680871968001CAxd/attprofile/naomi_1777308379795001oOda.jpeg",
     "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/rohanganesh7/",
+    "linkedIn": "https://linkedin.com/in/moneypenny",
     "gitHub": "",
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1778699194568001Vqb4"
+      "en-US-1774018712399001rOue"
     ],
     "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1775792452897001CnyX_20260512041346428.avif",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1775680871968001CAxd_20260512041237437.avif",
     "ogTitle": "",
     "ogDescription": null,
     "sessionTypes": [
       {
-        "displayValue": "Broadcast Stage",
-        "logicalValue": "Broadcast Stage"
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
       }
     ],
     "topic": [],
-    "levels": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
     "programmingLanguages": [],
     "solutions": [],
     "communityTopic": [],
@@ -17796,25 +17676,25 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1775680871968001CAxd",
-    "speakerId": "1768245294609build26-1775680871968001CAxd",
-    "firstName": "Naomi",
-    "lastName": "Moneypenny",
-    "displayName": "Naomi Moneypenny",
-    "jobTitle": "Senior Director, Product Development",
+    "localizedId": "en-US-1768245294609build26-1775086106647001Jl6g",
+    "speakerId": "1768245294609build26-1775086106647001Jl6g",
+    "firstName": "Neta",
+    "lastName": "Haiby",
+    "displayName": "Neta Haiby",
+    "jobTitle": "Partner Product Manager",
     "company": "Microsoft",
-    "bio": "Naomi Moneypenny leads Microsoft Foundry Models. She brings leading AI models to customers through scalable, reliable platforms that power real‑world enterprise AI.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775680871968001CAxd/attprofile/naomi_1777308379795001oOda.jpeg",
+    "bio": "Neta is Partner Product Manager for Securing AI at Microsoft Security, defining impactful and innovative AI products from ideation to scale. She brings deep AI, security, and enterprise experience to build services that accelerate AI adoption.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775086106647001Jl6g/attprofile/Profile_Photo.jpg",
     "twitter": "",
-    "linkedIn": "https://linkedin.com/in/moneypenny",
-    "gitHub": "",
+    "linkedIn": "https://www.linkedin.com/in/netahaiby/",
+    "gitHub": "@netahw_microsoft",
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018712399001rOue"
+      "en-US-1774018716723001rkrH"
     ],
     "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1775680871968001CAxd_20260512041237437.avif",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1775086106647001Jl6g_20260601115950221.avif",
     "ogTitle": "",
     "ogDescription": null,
     "sessionTypes": [
@@ -17843,6 +17723,285 @@
         "displayValue": "In-person",
         "logicalValue": "In-person"
       },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776459863938001ayf1",
+    "speakerId": "1768245294609build26-1776459863938001ayf1",
+    "firstName": "Joe",
+    "lastName": "Filcik",
+    "displayName": "Joe Filcik",
+    "jobTitle": "Principal Product Manager",
+    "company": "Microsoft",
+    "bio": "I'm a Principal Product Manager at Microsoft working on Microsoft Foundry, leading product strategy for Content Understanding and Document Intelligence enabling enterprises to extract structured insights from complex documents at scale using AI.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776459863938001ayf1/attprofile/Profile_Photo.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/jfilcik/",
+    "gitHub": "jfilcik",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018700806001rmT7"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776459863938001ayf1_20260601120105367.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774645705844001UesE",
+    "speakerId": "1768245294609build26-1774645705844001UesE",
+    "firstName": "Nik",
+    "lastName": "Karpinsky",
+    "displayName": "Nik Karpinsky",
+    "jobTitle": "Principal Software Engineer",
+    "company": "Microsoft",
+    "bio": "Nik is a Principal Software Engineer on the Visual Studio team at Microsoft, helping developers measure what matters and optimize their applications for performance.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774645705844001UesE/attprofile/Profile_Photo.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/karpinsn/",
+    "gitHub": "karpinsn",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018709436001rrGK"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1774645705844001UesE_20260601115908910.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [
+      {
+        "displayValue": "C#",
+        "logicalValue": "C#"
+      },
+      {
+        "displayValue": "C++",
+        "logicalValue": "C++"
+      },
+      {
+        "displayValue": ".NET",
+        "logicalValue": ".NET"
+      }
+    ],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775238034507001eQ13",
+    "speakerId": "1768245294609build26-1775238034507001eQ13",
+    "firstName": "Manoj",
+    "lastName": "Bableshwar",
+    "displayName": "Manoj Bableshwar",
+    "jobTitle": "Principal Product Manager",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "https://eventtools.event.microsoft.com/build2026-prod/w326_42e8e1b8-49e5-4ea7-9492-399d0ad72e11.png?1780472382905",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "ManojBableshwar",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018713033001raz6"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1775238034507001eQ13_20260603162106003.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775133280383001hbCQ",
+    "speakerId": "1768245294609build26-1775133280383001hbCQ",
+    "firstName": "Mario",
+    "lastName": "Rodriguez",
+    "displayName": "Mario Rodriguez",
+    "jobTitle": "Chief Product Officer",
+    "company": "GitHub",
+    "bio": "Mario Rodriguez leads the GitHub Product team as Chief Product Officer. His core identity is being a learner and his passion is creating developer tools—so much so that he has spent the last 20 years living that mission in leadership roles across Microsoft and GitHub. Mario most recently oversaw GitHub’s AI strategy and the GitHub Copilot product line, launching and growing Copilot across thousands of organizations and millions of users. \n\nMario spends time outside of GitHub with his wife and two daughters. He also co-chairs and founded a charter school in an effort to progress education in rural regions of the United States.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775133280383001hbCQ/attprofile/Mario%20Rodriguez%20Github%20Headshot%20FINAL%20copy_1780078396287001Snml.jpg",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "mariorod",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1778109100437001YTWq"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775792452897001CnyX",
+    "speakerId": "1768245294609build26-1775792452897001CnyX",
+    "firstName": "Rohan",
+    "lastName": "Ganesh",
+    "displayName": "Rohan Ganesh",
+    "jobTitle": "Co-Founder, Hardware Lead",
+    "company": "SpoilSafe",
+    "bio": "Co-Founder and Hardware Lead of SpoilSafe, building IoT devices that help food distributors predict spoilage and cut waste. Leads hardware, firmware, and AI development, turning sensor data into actionable insights. ECE student at Carnegie Mellon.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775792452897001CnyX/attprofile/AlphaLab_2026_Pittsburgh_IW__2898_1775792925915001bKtL.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/rohanganesh7/",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1778699194568001Vqb4"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1775792452897001CnyX_20260512041346428.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Broadcast Stage",
+        "logicalValue": "Broadcast Stage"
+      }
+    ],
+    "topic": [],
+    "levels": [],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
       {
         "displayValue": "Online",
         "logicalValue": "Online"
@@ -18418,57 +18577,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1777404623082001WcZo",
-    "speakerId": "1768245294609build26-1777404623082001WcZo",
-    "firstName": "Gaurav",
-    "lastName": "Goel",
-    "displayName": "Gaurav Goel",
-    "jobTitle": "Principal Engineer/Manager",
-    "company": "Qualcomm",
-    "bio": "Gaurav is seasonal Engineering Lead working on WoA App Ecosystem enablement and Qualcomm AI Software. He also worked in Multimedia, SOC optimizations, Agentic AI use cases, PLC SW stack execution.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1777404623082001WcZo/attprofile/%28Upload-from-mobile-1777408942%29IMG_6423_1778087327052001fUDD.jpeg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/gauravnimi/",
-    "gitHub": "",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1776888715474001ItwE"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1777404623082001WcZo_20260512162306306.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Lightning Talk",
-        "logicalValue": "Lightning Talk"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1774284994738001pPWz",
     "speakerId": "1768245294609build26-1774284994738001pPWz",
     "firstName": "Yun Jung",
@@ -18969,61 +19077,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1776631798007001nGQM",
-    "speakerId": "1768245294609build26-1776631798007001nGQM",
-    "firstName": "Mark",
-    "lastName": "Russinovich",
-    "displayName": "Mark Russinovich",
-    "jobTitle": "Chief Technology Officer, Deputy CISO, and Technical Fellow, Microsoft Azure",
-    "company": "Microsoft",
-    "bio": "Mark Russinovich is CTO, Deputy CISO, and Technical Fellow, Microsoft Azure, Microsoft’s global enterprise-grade cloud platform. A widely recognized expert in distributed systems, operating systems and cybersecurity, Mark earned a Ph.D. in computer engineering from Carnegie Mellon University. He later co-founded Winternals Software, joining Microsoft in 2006 when the company was acquired. Mark is a popular speaker at industry conferences such as Microsoft Ignite, Microsoft Build, and RSA Conference. He has authored several nonfiction and fiction books, including the Microsoft Press Windows Internals book series, Troubleshooting with the Sysinternals Tools, as well as fictional cyber security thrillers Zero Day, Trojan Horse and Rogue Code.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776631798007001nGQM/attprofile/Mark%20Russinovich%20Headshot%20%281%29_1775747447401001YWZn_1777390773384001Ryg6.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/markrussinovich",
-    "gitHub": "",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018705273001rbGZ"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776631798007001nGQM_20260512042625017.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1774982456082001foFO",
     "speakerId": "1768245294609build26-1774982456082001foFO",
     "firstName": "David",
@@ -19278,6 +19331,112 @@
         "logicalValue": "C++"
       }
     ],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1777404623082001WcZo",
+    "speakerId": "1768245294609build26-1777404623082001WcZo",
+    "firstName": "Gaurav",
+    "lastName": "Goel",
+    "displayName": "Gaurav Goel",
+    "jobTitle": "Principal Engineer/Manager",
+    "company": "Qualcomm",
+    "bio": "Gaurav is seasonal Engineering Lead working on WoA App Ecosystem enablement and Qualcomm AI Software. He also worked in Multimedia, SOC optimizations, Agentic AI use cases, PLC SW stack execution.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1777404623082001WcZo/attprofile/%28Upload-from-mobile-1777408942%29IMG_6423_1778087327052001fUDD.jpeg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/gauravnimi/",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1776888715474001ItwE"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1777404623082001WcZo_20260512162306306.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776631798007001nGQM",
+    "speakerId": "1768245294609build26-1776631798007001nGQM",
+    "firstName": "Mark",
+    "lastName": "Russinovich",
+    "displayName": "Mark Russinovich",
+    "jobTitle": "Chief Technology Officer, Deputy CISO, and Technical Fellow, Microsoft Azure",
+    "company": "Microsoft",
+    "bio": "Mark Russinovich is CTO, Deputy CISO, and Technical Fellow, Microsoft Azure, Microsoft’s global enterprise-grade cloud platform. A widely recognized expert in distributed systems, operating systems and cybersecurity, Mark earned a Ph.D. in computer engineering from Carnegie Mellon University. He later co-founded Winternals Software, joining Microsoft in 2006 when the company was acquired. Mark is a popular speaker at industry conferences such as Microsoft Ignite, Microsoft Build, and RSA Conference. He has authored several nonfiction and fiction books, including the Microsoft Press Windows Internals book series, Troubleshooting with the Sysinternals Tools, as well as fictional cyber security thrillers Zero Day, Trojan Horse and Rogue Code.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776631798007001nGQM/attprofile/Mark%20Russinovich%20Headshot%20%281%29_1775747447401001YWZn_1777390773384001Ryg6.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/markrussinovich",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018705113001rDN4"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776631798007001nGQM_20260512042625017.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
     "solutions": [],
     "communityTopic": [],
     "learningZoneTopic": [],
@@ -20321,61 +20480,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1778785147201001uJOv",
-    "speakerId": "1768245294609build26-1778785147201001uJOv",
-    "firstName": "Krunal",
-    "lastName": "Patel",
-    "displayName": "Krunal Patel",
-    "jobTitle": "Sr Manager AI solutions and Platform",
-    "company": "PepsiCo",
-    "bio": "Krunalkumar Patel is an AI Architect with 16+ years of experience in enterprise technology, specializing in Generative AI, computer vision, and scalable Agentic AI platforms. Currently leading Agentic AI architecture initiatives at PepsiCo.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1778785147201001uJOv/attprofile/Profile_Photo.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/krunal-patel-83817021/",
-    "gitHub": "",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018704684001rpfv"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1778785147201001uJOv_20260601120141913.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1768432088934001dCEQ",
     "speakerId": "1768245294609build26-1768432088934001dCEQ",
     "firstName": "Aditya",
@@ -20405,61 +20509,6 @@
     ],
     "topic": [],
     "levels": [],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1751119338056001FUds",
-    "speakerId": "1768245294609build26-1751119338056001FUds",
-    "firstName": "Shobhit",
-    "lastName": "Garg",
-    "displayName": "Shobhit Garg",
-    "jobTitle": "Senior Product Manager",
-    "company": "Microsoft",
-    "bio": "Senior Product Manager at Microsoft working on AI‑enabled resiliency for Azure - delivering secure, compliant, and automated data protection for enterprise databases and modern cloud‑native workloads.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1751119338056001FUds/attprofile/Profile_Photo.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/gargshobhit",
-    "gitHub": "",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018705660001rbvk"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1751119338056001FUds_20260601115655607.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
     "programmingLanguages": [],
     "solutions": [],
     "communityTopic": [],
@@ -21084,56 +21133,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1774465760748001jIh3",
-    "speakerId": "1768245294609build26-1774465760748001jIh3",
-    "firstName": "Hans",
-    "lastName": "Yang",
-    "displayName": "Hans Yang",
-    "jobTitle": "VP Startups",
-    "company": "Microsoft",
-    "bio": "",
-    "photo": "",
-    "twitter": "",
-    "linkedIn": "",
-    "gitHub": "",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1778699194568001Vqb4"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1774465760748001jIh3_20260521163420798.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Broadcast Stage",
-        "logicalValue": "Broadcast Stage"
-      }
-    ],
-    "topic": [],
-    "levels": [],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1764099185727001ifAC",
     "speakerId": "1768245294609build26-1764099185727001ifAC",
     "firstName": "Greg",
@@ -21193,6 +21192,162 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1778785147201001uJOv",
+    "speakerId": "1768245294609build26-1778785147201001uJOv",
+    "firstName": "Krunal",
+    "lastName": "Patel",
+    "displayName": "Krunal Patel",
+    "jobTitle": "Sr Manager AI solutions and Platform",
+    "company": "PepsiCo",
+    "bio": "Krunalkumar Patel is an AI Architect with 16+ years of experience in enterprise technology, specializing in Generative AI, computer vision, and scalable Agentic AI platforms. Currently leading Agentic AI architecture initiatives at PepsiCo.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1778785147201001uJOv/attprofile/Profile_Photo.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/krunal-patel-83817021/",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018704684001rpfv"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1778785147201001uJOv_20260601120141913.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1751119338056001FUds",
+    "speakerId": "1768245294609build26-1751119338056001FUds",
+    "firstName": "Shobhit",
+    "lastName": "Garg",
+    "displayName": "Shobhit Garg",
+    "jobTitle": "Senior Product Manager",
+    "company": "Microsoft",
+    "bio": "Senior Product Manager at Microsoft working on AI‑enabled resiliency for Azure - delivering secure, compliant, and automated data protection for enterprise databases and modern cloud‑native workloads.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1751119338056001FUds/attprofile/Profile_Photo.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/gargshobhit",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018705660001rbvk"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1751119338056001FUds_20260601115655607.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774465760748001jIh3",
+    "speakerId": "1768245294609build26-1774465760748001jIh3",
+    "firstName": "Hans",
+    "lastName": "Yang",
+    "displayName": "Hans Yang",
+    "jobTitle": "VP Startups",
+    "company": "Microsoft",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1778699194568001Vqb4"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1774465760748001jIh3_20260521163420798.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Broadcast Stage",
+        "logicalValue": "Broadcast Stage"
+      }
+    ],
+    "topic": [],
+    "levels": [],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       }
     ]
   },
@@ -23007,56 +23162,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1775834985858001az7i",
-    "speakerId": "1768245294609build26-1775834985858001az7i",
-    "firstName": "Surya",
-    "lastName": "Kukkapalli",
-    "displayName": "Surya Kukkapalli",
-    "jobTitle": "Founder",
-    "company": "Revora Health",
-    "bio": "Surya is the Founder of Revora Health, using AI to make injury recovery more accessible, affordable, and personalized. He’s an MBA candidate at Carnegie Mellon, an avid triathlete, and fitness philanthropist.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775834985858001az7i/attprofile/surya_kukkapalli_MSFT_1775838281937001SWDD.JPG",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/suryakukkapalli/",
-    "gitHub": "",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1778699194568001Vqb4"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1775834985858001az7i_20260512041400992.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Broadcast Stage",
-        "logicalValue": "Broadcast Stage"
-      }
-    ],
-    "topic": [],
-    "levels": [],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1772578847951001DH4K",
     "speakerId": "1768245294609build26-1772578847951001DH4K",
     "firstName": "Christine",
@@ -23116,6 +23221,52 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775834985858001az7i",
+    "speakerId": "1768245294609build26-1775834985858001az7i",
+    "firstName": "Surya",
+    "lastName": "Kukkapalli",
+    "displayName": "Surya Kukkapalli",
+    "jobTitle": "Founder",
+    "company": "Revora Health",
+    "bio": "Surya is the Founder of Revora Health, using AI to make injury recovery more accessible, affordable, and personalized. He’s an MBA candidate at Carnegie Mellon, an avid triathlete, and fitness philanthropist.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775834985858001az7i/attprofile/surya_kukkapalli_MSFT_1775838281937001SWDD.JPG",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/suryakukkapalli/",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1778699194568001Vqb4"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1775834985858001az7i_20260512041400992.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Broadcast Stage",
+        "logicalValue": "Broadcast Stage"
+      }
+    ],
+    "topic": [],
+    "levels": [],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       }
     ]
   }
