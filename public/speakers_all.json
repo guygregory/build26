@@ -1657,113 +1657,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1756137533747001aI1z",
-    "speakerId": "1768245294609build26-1756137533747001aI1z",
-    "firstName": "Anthony",
-    "lastName": "Bartolo",
-    "displayName": "Anthony Bartolo",
-    "jobTitle": "Principal Cloud Advocate",
-    "company": "Microsoft",
-    "bio": "As a Microsoft Principal Cloud Advocate, Anthony Bartolo takes great pride in architecting and carrying out \"scientific experiments\" that use Microsoft technology to solve a problem or opportunity. Anthony achieves this through hackathons with industry leaders to test hypotheses and develop Proof of Concepts (PoC) using Microsoft cloud services.",
-    "photo": "https://eventtools.event.microsoft.com/build2026-prod/w326_2685a4a1-5ecf-4e78-b26a-368e7607b68a.png?1780886311241",
-    "twitter": "https://www.x.com/WirelessLife",
-    "linkedIn": "https://www.linkedin.com/in/wirelesslife/",
-    "gitHub": "WirelessLife",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018702532001rk3p",
-      "en-US-1776360325086001HnPa",
-      "en-US-1776360366067001DqfL",
-      "en-US-1776360405653001aIr8"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1756137533747001aI1z_20260603163020559.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
-      },
-      {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
-      },
-      {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
-      },
-      {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      },
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      },
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      },
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
-    "programmingLanguages": [
-      {
-        "displayValue": "Python",
-        "logicalValue": "Python"
-      },
-      {
-        "displayValue": "Python",
-        "logicalValue": "Python"
-      },
-      {
-        "displayValue": "Python",
-        "logicalValue": "Python"
-      },
-      {
-        "displayValue": "Python",
-        "logicalValue": "Python"
-      }
-    ],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1776972565872001qoXF",
     "speakerId": "1768245294609build26-1776972565872001qoXF",
     "firstName": "Stuart",
@@ -2293,6 +2186,113 @@
       {
         "displayValue": "Online",
         "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1756137533747001aI1z",
+    "speakerId": "1768245294609build26-1756137533747001aI1z",
+    "firstName": "Anthony",
+    "lastName": "Bartolo",
+    "displayName": "Anthony Bartolo",
+    "jobTitle": "Principal Cloud Advocate",
+    "company": "Microsoft",
+    "bio": "As a Microsoft Principal Advocate, Anthony Bartolo enjoys architecting \"scientific experiments\" that use Microsoft technology to solve a problem. Anthony achieves this through hackathons with industry leaders to test hypotheses and develop PoCs.",
+    "photo": "https://eventtools.event.microsoft.com/build2026-prod/w326_2685a4a1-5ecf-4e78-b26a-368e7607b68a.png?1780886311241",
+    "twitter": "https://www.x.com/WirelessLife",
+    "linkedIn": "https://www.linkedin.com/in/wirelesslife/",
+    "gitHub": "WirelessLife",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018702532001rk3p",
+      "en-US-1776360325086001HnPa",
+      "en-US-1776360366067001DqfL",
+      "en-US-1776360405653001aIr8"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1756137533747001aI1z_20260603163020559.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [
+      {
+        "displayValue": "Python",
+        "logicalValue": "Python"
+      },
+      {
+        "displayValue": "Python",
+        "logicalValue": "Python"
+      },
+      {
+        "displayValue": "Python",
+        "logicalValue": "Python"
+      },
+      {
+        "displayValue": "Python",
+        "logicalValue": "Python"
+      }
+    ],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   },
@@ -20514,56 +20514,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1768432088934001dCEQ",
-    "speakerId": "1768245294609build26-1768432088934001dCEQ",
-    "firstName": "Aditya",
-    "lastName": "Ramnathkar",
-    "displayName": "Aditya Ramnathkar",
-    "jobTitle": "Product Marketing Manager",
-    "company": "Microsoft",
-    "bio": "Aditya Ramnathkar is a Product Marketing Manager at Microsoft driving strategy & storytelling for Windows Platform. With experience in engineering & product management, he brings technical depth & focus on delivering impactful developer experiences.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1768432088934001dCEQ/attprofile/AdityaRamnathkar-5_1780193338264001WmQ7.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/aditya-ramnathkar",
-    "gitHub": "",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1779988033906001rQXU"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1768432088934001dCEQ_20260601111855377.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Broadcast Stage",
-        "logicalValue": "Broadcast Stage"
-      }
-    ],
-    "topic": [],
-    "levels": [],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1758648423229001ddL5",
     "speakerId": "1768245294609build26-1758648423229001ddL5",
     "firstName": "Alexander",
@@ -21044,70 +20994,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1764099185727001ifAC",
-    "speakerId": "1768245294609build26-1764099185727001ifAC",
-    "firstName": "Greg",
-    "lastName": "Crist",
-    "displayName": "Greg Crist",
-    "jobTitle": "Ecosystem Cloud Architect -",
-    "company": "Elastic",
-    "bio": "Greg Crist is a Principal Cloud Ecosystem Architect at Elastic dedicated to maximizing the strategic technical partnership between Elastic and Microsoft. Recognized as the \"go-to\" technical authority for the alliance.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1764099185727001ifAC/attprofile/Greg-Color_1776877297400001OdSP.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/gcrist/",
-    "gitHub": "gregorycrist",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1775146465985001DajW",
-      "en-US-1775146351584001ha83"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1764099185727001ifAC_20260512034302284.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Pre-recorded",
-        "logicalValue": "Pre-recorded"
-      },
-      {
-        "displayValue": "Lightning Talk",
-        "logicalValue": "Lightning Talk"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      },
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      },
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1751119338056001FUds",
     "speakerId": "1768245294609build26-1751119338056001FUds",
     "firstName": "Shobhit",
@@ -21519,6 +21405,120 @@
         "logicalValue": "(200) Intermediate"
       }
     ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1764099185727001ifAC",
+    "speakerId": "1768245294609build26-1764099185727001ifAC",
+    "firstName": "Greg",
+    "lastName": "Crist",
+    "displayName": "Greg Crist",
+    "jobTitle": "Ecosystem Cloud Architect -",
+    "company": "Elastic",
+    "bio": "Greg Crist is a Principal Cloud Ecosystem Architect at Elastic dedicated to maximizing the strategic technical partnership between Elastic and Microsoft. Recognized as the \"go-to\" technical authority for the alliance.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1764099185727001ifAC/attprofile/Greg-Color_1776877297400001OdSP.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/gcrist/",
+    "gitHub": "gregorycrist",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1775146465985001DajW",
+      "en-US-1775146351584001ha83"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1764099185727001ifAC_20260512034302284.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Pre-recorded",
+        "logicalValue": "Pre-recorded"
+      },
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1768432088934001dCEQ",
+    "speakerId": "1768245294609build26-1768432088934001dCEQ",
+    "firstName": "Aditya",
+    "lastName": "Ramnathkar",
+    "displayName": "Aditya Ramnathkar",
+    "jobTitle": "Product Marketing Manager",
+    "company": "Microsoft",
+    "bio": "Aditya Ramnathkar is a Product Marketing Manager at Microsoft driving strategy & storytelling for Windows Platform. With experience in engineering & product management, he brings technical depth & focus on delivering impactful developer experiences.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1768432088934001dCEQ/attprofile/AdityaRamnathkar-5_1780193338264001WmQ7.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/aditya-ramnathkar",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1779988033906001rQXU"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1768432088934001dCEQ_20260601111855377.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Broadcast Stage",
+        "logicalValue": "Broadcast Stage"
+      }
+    ],
+    "topic": [],
+    "levels": [],
     "programmingLanguages": [],
     "solutions": [],
     "communityTopic": [],
