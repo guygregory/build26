@@ -6669,61 +6669,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1776099704878001Zi6e",
-    "speakerId": "1768245294609build26-1776099704878001Zi6e",
-    "firstName": "Sandeep",
-    "lastName": "Atluri",
-    "displayName": "Sandeep Atluri",
-    "jobTitle": "Partner Applied Research",
-    "company": "Microsoft",
-    "bio": "Sandeep Atluri leads Model Alignment and Responsible AI at Microsoft, where his research focuses on frontier model safety, adversarial evaluation, and alignment post-training.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776099704878001Zi6e/attprofile/Screenshot%202025-11-25%20at%208.29.54%E2%80%AFPM_1776978855547001tjO8.png",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/sandeep-atluri-93121139/",
-    "gitHub": "",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018716553001rOhY"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776099704878001Zi6e_20260512162018185.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1751939918029001Ts21",
     "speakerId": "1768245294609build26-1751939918029001Ts21",
     "firstName": "Ronak",
@@ -6904,6 +6849,61 @@
     "event": [],
     "sessionLanguage": [],
     "deliveryTypes": []
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776099704878001Zi6e",
+    "speakerId": "1768245294609build26-1776099704878001Zi6e",
+    "firstName": "Sandeep",
+    "lastName": "Atluri",
+    "displayName": "Sandeep Atluri",
+    "jobTitle": "Partner Applied Research",
+    "company": "Microsoft",
+    "bio": "Sandeep Atluri leads Model Alignment and Responsible AI at Microsoft, where his research focuses on frontier model safety, adversarial evaluation, and alignment post-training.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776099704878001Zi6e/attprofile/Screenshot%202025-11-25%20at%208.29.54%E2%80%AFPM_1776978855547001tjO8.png",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/sandeep-atluri-93121139/",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018716553001rOhY"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776099704878001Zi6e_20260512162018185.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
   },
   {
     "@search.score": 1.0,
@@ -12209,61 +12209,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1776447112591001abTN",
-    "speakerId": "1768245294609build26-1776447112591001abTN",
-    "firstName": "Rishabh",
-    "lastName": "Saha",
-    "displayName": "Rishabh Saha",
-    "jobTitle": "Chief Architect",
-    "company": "Microsoft",
-    "bio": "Rishabh Saha is a Chief Architect in Microsoft’s Office of the CTO for US Commercial Industries. At Build, he joins PepsiCo leaders to share how modern data foundations enabled scalable, production‑ready agentic applications.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776447112591001abTN/attprofile/Profile_Photo.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/rishabhsaha/",
-    "gitHub": "rishabhsaha",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018704684001rpfv"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776447112591001abTN_20260601120047808.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1775085874620001ADSc",
     "speakerId": "1768245294609build26-1775085874620001ADSc",
     "firstName": "Mehrnoosh",
@@ -12502,6 +12447,61 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776447112591001abTN",
+    "speakerId": "1768245294609build26-1776447112591001abTN",
+    "firstName": "Rishabh",
+    "lastName": "Saha",
+    "displayName": "Rishabh Saha",
+    "jobTitle": "Chief Architect",
+    "company": "Microsoft",
+    "bio": "Rishabh Saha is a Chief Architect in Microsoft’s Office of the CTO for US Commercial Industries. At Build, he joins PepsiCo leaders to share how modern data foundations enabled scalable, production‑ready agentic applications.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776447112591001abTN/attprofile/Profile_Photo.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/rishabhsaha/",
+    "gitHub": "rishabhsaha",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018704684001rpfv"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776447112591001abTN_20260601120047808.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       }
     ]
   },
@@ -16820,57 +16820,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1762290823994001cHor",
-    "speakerId": "1768245294609build26-1762290823994001cHor",
-    "firstName": "Someleze",
-    "lastName": "Diko",
-    "displayName": "Someleze Diko",
-    "jobTitle": "Cloud Advocate",
-    "company": "Microsoft",
-    "bio": "Someleze is a young, passionate individual who is part of the Data Advocacy team, which focuses on empowering data communities with the latest tools and technologies for data analysis, visualization, and machine learning.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1762290823994001cHor/attprofile/someleze-diko_1775575560346001uv6h.png",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/somelezediko/",
-    "gitHub": "dikodev",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1776358450469001HOyx"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1762290823994001cHor_20260512034220551.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1776333707806001tHSv",
     "speakerId": "1768245294609build26-1776333707806001tHSv",
     "firstName": "Sertaç",
@@ -18192,6 +18141,96 @@
       {
         "displayValue": "Online",
         "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1762290823994001cHor",
+    "speakerId": "1768245294609build26-1762290823994001cHor",
+    "firstName": "Someleze",
+    "lastName": "Diko",
+    "displayName": "Someleze Diko",
+    "jobTitle": "Cloud Advocate",
+    "company": "Microsoft",
+    "bio": "Someleze is a young, passionate individual who is part of the Data Advocacy team, which focuses on empowering data communities with the latest tools and technologies for data analysis, visualization, and machine learning.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1762290823994001cHor/attprofile/someleze-diko_1775575560346001uv6h.png",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/somelezediko/",
+    "gitHub": "dikodev",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774304130264001mWLS",
+      "en-US-1776356807542001Ld5F",
+      "en-US-1776358396196001XdQD",
+      "en-US-1776358450469001HOyx"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1762290823994001cHor_20260512034220551.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   },
