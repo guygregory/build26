@@ -3288,56 +3288,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1778597318722001S00J",
-    "speakerId": "1768245294609build26-1778597318722001S00J",
-    "firstName": "Vivek",
-    "lastName": "Bhadauria",
-    "displayName": "Vivek Bhadauria",
-    "jobTitle": "Partner Software Engineer",
-    "company": "Microsoft",
-    "bio": "Software engineer building AI agents, platforms and applications.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1778597318722001S00J/attprofile/profile_1779035812101001qiLB.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/vivekbhadauria/",
-    "gitHub": "vbhadauria",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1780010031014001eHNr"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1778597318722001S00J_20260518140821372.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Broadcast Stage",
-        "logicalValue": "Broadcast Stage"
-      }
-    ],
-    "topic": [],
-    "levels": [],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1778000884620001iiG0",
     "speakerId": "1768245294609build26-1778000884620001iiG0",
     "firstName": "Deepti",
@@ -4353,6 +4303,61 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1778597318722001S00J",
+    "speakerId": "1768245294609build26-1778597318722001S00J",
+    "firstName": "Vivek",
+    "lastName": "Bhadauria",
+    "displayName": "Vivek Bhadauria",
+    "jobTitle": "Partner Software Engineer",
+    "company": "Microsoft",
+    "bio": "Software engineer building AI agents, platforms and applications.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1778597318722001S00J/attprofile/profile_1779035812101001qiLB.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/vivekbhadauria/",
+    "gitHub": "vbhadauria",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018716883001rHBl"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1778597318722001S00J_20260518140821372.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       }
     ]
   },
@@ -5409,56 +5414,6 @@
     ],
     "langLocale": "en-US",
     "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1773185276975001cATe_20260512035254369.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Broadcast Stage",
-        "logicalValue": "Broadcast Stage"
-      }
-    ],
-    "topic": [],
-    "levels": [],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1774284995366001pNmt",
-    "speakerId": "1768245294609build26-1774284995366001pNmt",
-    "firstName": "Filisha",
-    "lastName": "Shah",
-    "displayName": "Filisha Shah",
-    "jobTitle": "Senior Product Manager",
-    "company": "Microsoft",
-    "bio": "Product Manager on Azure AI Foundry, working on observability and evals for AI agents. Across a career in developer tools, she likes to find the throughline between tools, while building experiences that feel genuinely delightful to use.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774284995366001pNmt/attprofile/MicrosoftTeams-image_1776735936058001HYtw.png",
-    "twitter": "",
-    "linkedIn": "",
-    "gitHub": "fubaduba",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1780010031014001eHNr"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1774284995366001pNmt_20260512035549475.avif",
     "ogTitle": "",
     "ogDescription": null,
     "sessionTypes": [
@@ -6669,6 +6624,61 @@
   },
   {
     "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776099704878001Zi6e",
+    "speakerId": "1768245294609build26-1776099704878001Zi6e",
+    "firstName": "Sandeep",
+    "lastName": "Atluri",
+    "displayName": "Sandeep Atluri",
+    "jobTitle": "Partner Applied Research",
+    "company": "Microsoft",
+    "bio": "Sandeep Atluri leads Model Alignment and Responsible AI at Microsoft, where his research focuses on frontier model safety, adversarial evaluation, and alignment post-training.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776099704878001Zi6e/attprofile/Screenshot%202025-11-25%20at%208.29.54%E2%80%AFPM_1776978855547001tjO8.png",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/sandeep-atluri-93121139/",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018716553001rOhY"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776099704878001Zi6e_20260512162018185.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1751939918029001Ts21",
     "speakerId": "1768245294609build26-1751939918029001Ts21",
     "firstName": "Ronak",
@@ -6796,6 +6806,57 @@
   },
   {
     "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774284995211001pJD3",
+    "speakerId": "1768245294609build26-1774284995211001pJD3",
+    "firstName": "Courtney",
+    "lastName": "Webster",
+    "displayName": "Courtney Webster",
+    "jobTitle": "Product Manager",
+    "company": "Microsoft",
+    "bio": "Product Manager working on GitHub Copilot and VS Code.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774284995211001pJD3/attprofile/headshot_1775253445234001GhUB.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/webstercourtney/",
+    "gitHub": "@cwebster-99",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1778263231219001ma0q"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1774284995211001pJD3_20260512035538416.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1769008130185001WAvh",
     "speakerId": "1768245294609build26-1769008130185001WAvh",
     "firstName": "Scott",
@@ -6852,25 +6913,25 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1776099704878001Zi6e",
-    "speakerId": "1768245294609build26-1776099704878001Zi6e",
-    "firstName": "Sandeep",
-    "lastName": "Atluri",
-    "displayName": "Sandeep Atluri",
-    "jobTitle": "Partner Applied Research",
+    "localizedId": "en-US-1768245294609build26-1774284995366001pNmt",
+    "speakerId": "1768245294609build26-1774284995366001pNmt",
+    "firstName": "Filisha",
+    "lastName": "Shah",
+    "displayName": "Filisha Shah",
+    "jobTitle": "Senior Product Manager",
     "company": "Microsoft",
-    "bio": "Sandeep Atluri leads Model Alignment and Responsible AI at Microsoft, where his research focuses on frontier model safety, adversarial evaluation, and alignment post-training.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776099704878001Zi6e/attprofile/Screenshot%202025-11-25%20at%208.29.54%E2%80%AFPM_1776978855547001tjO8.png",
+    "bio": "Product Manager on Azure AI Foundry, working on observability and evals for AI agents. Across a career in developer tools, she likes to find the throughline between tools, while building experiences that feel genuinely delightful to use.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774284995366001pNmt/attprofile/MicrosoftTeams-image_1776735936058001HYtw.png",
     "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/sandeep-atluri-93121139/",
-    "gitHub": "",
+    "linkedIn": "",
+    "gitHub": "fubaduba",
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018716553001rOhY"
+      "en-US-1774018716883001rHBl"
     ],
     "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776099704878001Zi6e_20260512162018185.avif",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1774284995366001pNmt_20260512035549475.avif",
     "ogTitle": "",
     "ogDescription": null,
     "sessionTypes": [
@@ -6902,57 +6963,6 @@
       {
         "displayValue": "Online",
         "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1774284995211001pJD3",
-    "speakerId": "1768245294609build26-1774284995211001pJD3",
-    "firstName": "Courtney",
-    "lastName": "Webster",
-    "displayName": "Courtney Webster",
-    "jobTitle": "Product Manager",
-    "company": "Microsoft",
-    "bio": "Product Manager working on GitHub Copilot and VS Code.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774284995211001pJD3/attprofile/headshot_1775253445234001GhUB.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/webstercourtney/",
-    "gitHub": "@cwebster-99",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1778263231219001ma0q"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1774284995211001pJD3_20260512035538416.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Lightning Talk",
-        "logicalValue": "Lightning Talk"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
       }
     ]
   },
@@ -17016,57 +17026,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1776197975793001dvpl",
-    "speakerId": "1768245294609build26-1776197975793001dvpl",
-    "firstName": "Pranay",
-    "lastName": "Bakre",
-    "displayName": "Pranay Bakre",
-    "jobTitle": "Principal Solutions Engineer",
-    "company": "Arm",
-    "bio": "Pranay Bakre is a Principal Solutions Engineer at Arm focused on cloud-native and AI/ML solutions. With 15+ years experience in cloud and virtualization, he enables scalable AI infrastructure and supports developers building on Arm.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776197975793001dvpl/attprofile/Pranay-Pic_1776369241805001QrgO.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/pranaybakre",
-    "gitHub": "pbk8s",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774391978124001tcWQ"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776197975793001dvpl_20260512041745945.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Demo",
-        "logicalValue": "Demo"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1778020065215001t4NN",
     "speakerId": "1768245294609build26-1778020065215001t4NN",
     "firstName": "Caroline",
@@ -17384,62 +17343,6 @@
       {
         "displayValue": "Online",
         "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1776877272377001WqB6",
-    "speakerId": "1768245294609build26-1776877272377001WqB6",
-    "firstName": "Gova",
-    "lastName": "Babu",
-    "displayName": "Gova Babu",
-    "jobTitle": "Senior Product Manager",
-    "company": "Microsoft",
-    "bio": "Govardhani Babu is a Senior Product Manager at Microsoft working on Azure’s ARM-based GP Compute products. She leads product strategy and development of custom silicon-powered Cobalt VMs, enabling large-scale AI and enterprise workloads.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776877272377001WqB6/attprofile/Govardhani%20Babu%20-%20Headshot3_1778701216437001qnYs.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/govardhani-babu/",
-    "gitHub": "",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018706761001rzGW"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776877272377001WqB6_20260514113936803.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [
-      {
-        "displayValue": "Spark",
-        "logicalValue": "Spark"
-      }
-    ],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
       }
     ]
   },
@@ -18045,61 +17948,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1776459863938001ayf1",
-    "speakerId": "1768245294609build26-1776459863938001ayf1",
-    "firstName": "Joe",
-    "lastName": "Filcik",
-    "displayName": "Joe Filcik",
-    "jobTitle": "Principal Product Manager",
-    "company": "Microsoft",
-    "bio": "I'm a Principal Product Manager at Microsoft working on Microsoft Foundry, leading product strategy for Content Understanding and Document Intelligence enabling enterprises to extract structured insights from complex documents at scale using AI.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776459863938001ayf1/attprofile/Profile_Photo.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/jfilcik/",
-    "gitHub": "jfilcik",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018700806001rmT7"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776459863938001ayf1_20260601120105367.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1762290823994001cHor",
     "speakerId": "1768245294609build26-1762290823994001cHor",
     "firstName": "Someleze",
@@ -18190,6 +18038,61 @@
   },
   {
     "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776459863938001ayf1",
+    "speakerId": "1768245294609build26-1776459863938001ayf1",
+    "firstName": "Joe",
+    "lastName": "Filcik",
+    "displayName": "Joe Filcik",
+    "jobTitle": "Principal Product Manager",
+    "company": "Microsoft",
+    "bio": "I'm a Principal Product Manager at Microsoft working on Microsoft Foundry, leading product strategy for Content Understanding and Document Intelligence enabling enterprises to extract structured insights from complex documents at scale using AI.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776459863938001ayf1/attprofile/Profile_Photo.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/jfilcik/",
+    "gitHub": "jfilcik",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018700806001rmT7"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776459863938001ayf1_20260601120105367.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1777915792311001KROB",
     "speakerId": "1768245294609build26-1777915792311001KROB",
     "firstName": "Bryan",
@@ -18231,6 +18134,108 @@
       {
         "displayValue": "Online",
         "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776197975793001dvpl",
+    "speakerId": "1768245294609build26-1776197975793001dvpl",
+    "firstName": "Pranay",
+    "lastName": "Bakre",
+    "displayName": "Pranay Bakre",
+    "jobTitle": "Principal Solutions Engineer",
+    "company": "Arm",
+    "bio": "Pranay Bakre is a Principal Solutions Engineer at Arm focused on cloud-native and AI/ML solutions. With 15+ years experience in cloud and virtualization, he enables scalable AI infrastructure and supports developers building on Arm.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776197975793001dvpl/attprofile/Pranay-Pic_1776369241805001QrgO.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/pranaybakre",
+    "gitHub": "pbk8s",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774391978124001tcWQ"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776197975793001dvpl_20260512041745945.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776877272377001WqB6",
+    "speakerId": "1768245294609build26-1776877272377001WqB6",
+    "firstName": "Gova",
+    "lastName": "Babu",
+    "displayName": "Gova Babu",
+    "jobTitle": "Senior Product Manager",
+    "company": "Microsoft",
+    "bio": "Govardhani Babu is a Senior Product Manager at Microsoft working on Azure’s ARM-based GP Compute products. She leads product strategy and development of custom silicon-powered Cobalt VMs, enabling large-scale AI and enterprise workloads.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776877272377001WqB6/attprofile/Govardhani%20Babu%20-%20Headshot3_1778701216437001qnYs.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/govardhani-babu/",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774391978124001tcWQ"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776877272377001WqB6_20260514113936803.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   },
@@ -19074,57 +19079,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1776814583002001KGlJ",
-    "speakerId": "1768245294609build26-1776814583002001KGlJ",
-    "firstName": "Sameer",
-    "lastName": "Nori",
-    "displayName": "Sameer Nori",
-    "jobTitle": "Sr Manager, Cloud AI Ecosystem",
-    "company": "Arm",
-    "bio": "Sameer Nori is a Sr. Manager on Arm’s Software Ecosystem team, focused on cloud infrastructure & ISV partnerships. Previously at Google Cloud and AWS, he led product partnerships & GTM initiatives across infrastructure, database, & analytics markets.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776814583002001KGlJ/attprofile/SN_1779137919053001zu7Q.jpeg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/sameernori/",
-    "gitHub": "",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774391978124001tcWQ"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776814583002001KGlJ_20260521161620627.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Demo",
-        "logicalValue": "Demo"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1775784866500001O4MP",
     "speakerId": "1768245294609build26-1775784866500001O4MP",
     "firstName": "Vini",
@@ -19678,6 +19632,57 @@
       {
         "displayValue": "Online",
         "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776814583002001KGlJ",
+    "speakerId": "1768245294609build26-1776814583002001KGlJ",
+    "firstName": "Sameer",
+    "lastName": "Nori",
+    "displayName": "Sameer Nori",
+    "jobTitle": "Sr Manager, Cloud AI Ecosystem",
+    "company": "Arm",
+    "bio": "Sameer Nori is a Sr. Manager on Arm’s Software Ecosystem team, focused on cloud infrastructure & ISV partnerships. Previously at Google Cloud and AWS, he led product partnerships & GTM initiatives across infrastructure, database, & analytics markets.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776814583002001KGlJ/attprofile/SN_1779137919053001zu7Q.jpeg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/sameernori/",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774391978124001tcWQ"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776814583002001KGlJ_20260521161620627.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   },
@@ -22369,61 +22374,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1775086360974001J4XY",
-    "speakerId": "1768245294609build26-1775086360974001J4XY",
-    "firstName": "Sebastian",
-    "lastName": "Kohlmeier",
-    "displayName": "Sebastian Kohlmeier",
-    "jobTitle": "Principal PM Manager",
-    "company": "Microsoft",
-    "bio": "Sebastian Kohlmeier is a Principal PM Manager at Microsoft, leading work on AI agent observability spanning evaluation, tracing, monitoring and optimization to empower developers to build reliable and impactful AI agents and applications.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775086360974001J4XY/attprofile/updated%20headshot_1776275124102001kHiX.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/sebastiankohlmeier/",
-    "gitHub": "",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018716883001rHBl"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1775086360974001J4XY_20260512040803487.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1778401308560001IGDK",
     "speakerId": "1768245294609build26-1778401308560001IGDK",
     "firstName": "Milos",
@@ -23439,6 +23389,61 @@
     "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775086360974001J4XY",
+    "speakerId": "1768245294609build26-1775086360974001J4XY",
+    "firstName": "Sebastian",
+    "lastName": "Kohlmeier",
+    "displayName": "Sebastian Kohlmeier",
+    "jobTitle": "Principal PM Manager",
+    "company": "Microsoft",
+    "bio": "Sebastian Kohlmeier is a Principal PM Manager at Microsoft, leading work on AI agent observability spanning evaluation, tracing, monitoring and optimization to empower developers to build reliable and impactful AI agents and applications.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775086360974001J4XY/attprofile/updated%20headshot_1776275124102001kHiX.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/sebastiankohlmeier/",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018716883001rHBl"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1775086360974001J4XY_20260512040803487.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
       {
         "displayValue": "Online",
         "logicalValue": "Online"
