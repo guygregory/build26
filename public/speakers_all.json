@@ -1758,61 +1758,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1765362751973001nhSz",
-    "speakerId": "1768245294609build26-1765362751973001nhSz",
-    "firstName": "Bob",
-    "lastName": "Ward",
-    "displayName": "Bob Ward",
-    "jobTitle": "Principal Architect",
-    "company": "Microsoft",
-    "bio": "Bob Ward is a Principal Architect for the Microsoft Azure Databases team. Bob has worked for Microsoft for 32+ years on SQL technologies, ground to cloud to fabric.  You can follow him at @bobwardms or linkedin.com/in/bobwardms.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1765362751973001nhSz/attprofile/Profile_Photo.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/bobwardms/",
-    "gitHub": "rgward",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018704684001rpfv"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1765362751973001nhSz_20260601115712112.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1778663825127001Ttju",
     "speakerId": "1768245294609build26-1778663825127001Ttju",
     "firstName": "Ray",
@@ -2293,6 +2238,61 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1765362751973001nhSz",
+    "speakerId": "1768245294609build26-1765362751973001nhSz",
+    "firstName": "Bob",
+    "lastName": "Ward",
+    "displayName": "Bob Ward",
+    "jobTitle": "Principal Architect",
+    "company": "Microsoft",
+    "bio": "Bob Ward is a Principal Architect for the Microsoft Azure Databases team. Bob has worked for Microsoft for 32+ years on SQL technologies, ground to cloud to fabric.  You can follow him at @bobwardms or linkedin.com/in/bobwardms.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1765362751973001nhSz/attprofile/Profile_Photo.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/bobwardms/",
+    "gitHub": "rgward",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018704684001rpfv"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1765362751973001nhSz_20260601115712112.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       }
     ]
   },
@@ -8155,61 +8155,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1772238022106001lZo4",
-    "speakerId": "1768245294609build26-1772238022106001lZo4",
-    "firstName": "Peter",
-    "lastName": "Steinberger",
-    "displayName": "Peter Steinberger",
-    "jobTitle": "Clawfather",
-    "company": "OpenAI/OpenClaw",
-    "bio": "OpenClaw builder.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1772238022106001lZo4/attprofile/Avatar_2023_1774543145946001RCA4.png",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/steipete/",
-    "gitHub": "steipete",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018701283001rsNq"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1772238022106001lZo4_20260512035135110.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1772126555167001lJnX",
     "speakerId": "1768245294609build26-1772126555167001lJnX",
     "firstName": "Brittney",
@@ -9124,6 +9069,61 @@
     "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1772238022106001lZo4",
+    "speakerId": "1768245294609build26-1772238022106001lZo4",
+    "firstName": "Peter",
+    "lastName": "Steinberger",
+    "displayName": "Peter Steinberger",
+    "jobTitle": "Clawfather",
+    "company": "OpenAI/OpenClaw",
+    "bio": "OpenClaw builder.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1772238022106001lZo4/attprofile/Avatar_2023_1774543145946001RCA4.png",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/steipete/",
+    "gitHub": "steipete",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018701283001rsNq"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1772238022106001lZo4_20260512035135110.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
       {
         "displayValue": "Online",
         "logicalValue": "Online"
@@ -14281,47 +14281,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1775516734838001pZmI",
-    "speakerId": "1768245294609build26-1775516734838001pZmI",
-    "firstName": "swyx",
-    "lastName": "(Shawn Wang)",
-    "displayName": "swyx (Shawn Wang)",
-    "jobTitle": "founder",
-    "company": "Latent Space",
-    "bio": "founder of latent.space and ai.engineer.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775516734838001pZmI/attprofile/swyxski_1776399310002001T3hw.jpg",
-    "twitter": "",
-    "linkedIn": "x.com/swyx",
-    "gitHub": "github.com/swyxio",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1780439084756001sJdk"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1775516734838001pZmI_20260512123840961.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Broadcast Stage",
-        "logicalValue": "Broadcast Stage"
-      }
-    ],
-    "topic": [],
-    "levels": [],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": []
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1780001467107001fsR5",
     "speakerId": "1768245294609build26-1780001467107001fsR5",
     "firstName": "Gerald",
@@ -14463,6 +14422,61 @@
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775516734838001pZmI",
+    "speakerId": "1768245294609build26-1775516734838001pZmI",
+    "firstName": "swyx",
+    "lastName": "(Shawn Wang)",
+    "displayName": "swyx (Shawn Wang)",
+    "jobTitle": "founder",
+    "company": "Latent Space",
+    "bio": "founder of latent.space and ai.engineer.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775516734838001pZmI/attprofile/swyxski_1776399310002001T3hw.jpg",
+    "twitter": "",
+    "linkedIn": "x.com/swyx",
+    "gitHub": "github.com/swyxio",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018701128001r9yb"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1775516734838001pZmI_20260512123840961.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
       }
     ]
   },
@@ -21208,61 +21222,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1778785147201001uJOv",
-    "speakerId": "1768245294609build26-1778785147201001uJOv",
-    "firstName": "Krunal",
-    "lastName": "Patel",
-    "displayName": "Krunal Patel",
-    "jobTitle": "Sr Manager AI solutions and Platform",
-    "company": "PepsiCo",
-    "bio": "Krunalkumar Patel is an AI Architect with 16+ years of experience in enterprise technology, specializing in Generative AI, computer vision, and scalable Agentic AI platforms. Currently leading Agentic AI architecture initiatives at PepsiCo.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1778785147201001uJOv/attprofile/Profile_Photo.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/krunal-patel-83817021/",
-    "gitHub": "",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018704684001rpfv"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1778785147201001uJOv_20260601120141913.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1772633942097001tO2F",
     "speakerId": "1768245294609build26-1772633942097001tO2F",
     "firstName": "Alex",
@@ -21576,6 +21535,61 @@
     "event": [],
     "sessionLanguage": [],
     "deliveryTypes": [
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1778785147201001uJOv",
+    "speakerId": "1768245294609build26-1778785147201001uJOv",
+    "firstName": "Krunal",
+    "lastName": "Patel",
+    "displayName": "Krunal Patel",
+    "jobTitle": "Sr Manager AI solutions and Platform",
+    "company": "PepsiCo",
+    "bio": "Krunalkumar Patel is an AI Architect with 16+ years of experience in enterprise technology, specializing in Generative AI, computer vision, and scalable Agentic AI platforms. Currently leading Agentic AI architecture initiatives at PepsiCo.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1778785147201001uJOv/attprofile/Profile_Photo.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/krunal-patel-83817021/",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018704684001rpfv"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1778785147201001uJOv_20260601120141913.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
       {
         "displayValue": "Online",
         "logicalValue": "Online"
