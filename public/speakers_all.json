@@ -21899,57 +21899,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1777300452434001pMw7",
-    "speakerId": "1768245294609build26-1777300452434001pMw7",
-    "firstName": "Carie",
-    "lastName": "Fisher",
-    "displayName": "Carie Fisher",
-    "jobTitle": "Sr. Accessibility Program Manager",
-    "company": "GitHub",
-    "bio": "Carie is a Senior Accessibility Program Manager at GitHub, where she builds and scales systems that make accessibility a default, not an afterthought. With 20+ years of experience in inclusive design, developer experience, and emerging technology, she helps teams turn accessibility into a fast-moving, AI-powered engineering advantage.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1777300452434001pMw7/attprofile/Carie_Fisher_cropped_1777647103968001wN2Q.jpg?1778761029366",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/cariefisher",
-    "gitHub": "cehfisher",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1777287294165001SrQc"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1777300452434001pMw7_20260514211341443.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Table Talk",
-        "logicalValue": "Table Talk"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1776800276473001XqU7",
     "speakerId": "1768245294609build26-1776800276473001XqU7",
     "firstName": "Taylor",
@@ -23360,6 +23309,61 @@
   },
   {
     "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1775086360974001J4XY",
+    "speakerId": "1768245294609build26-1775086360974001J4XY",
+    "firstName": "Sebastian",
+    "lastName": "Kohlmeier",
+    "displayName": "Sebastian Kohlmeier",
+    "jobTitle": "Principal PM Manager",
+    "company": "Microsoft",
+    "bio": "Sebastian Kohlmeier is a Principal PM Manager at Microsoft, leading work on AI agent observability spanning evaluation, tracing, monitoring and optimization to empower developers to build reliable and impactful AI agents and applications.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775086360974001J4XY/attprofile/updated%20headshot_1776275124102001kHiX.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/sebastiankohlmeier/",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018716883001rHBl"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1775086360974001J4XY_20260512040803487.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1777915932896001N9El",
     "speakerId": "1768245294609build26-1777915932896001N9El",
     "firstName": "Piero",
@@ -23411,38 +23415,47 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1775086360974001J4XY",
-    "speakerId": "1768245294609build26-1775086360974001J4XY",
-    "firstName": "Sebastian",
-    "lastName": "Kohlmeier",
-    "displayName": "Sebastian Kohlmeier",
-    "jobTitle": "Principal PM Manager",
-    "company": "Microsoft",
-    "bio": "Sebastian Kohlmeier is a Principal PM Manager at Microsoft, leading work on AI agent observability spanning evaluation, tracing, monitoring and optimization to empower developers to build reliable and impactful AI agents and applications.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1775086360974001J4XY/attprofile/updated%20headshot_1776275124102001kHiX.jpg",
+    "localizedId": "en-US-1768245294609build26-1777300452434001pMw7",
+    "speakerId": "1768245294609build26-1777300452434001pMw7",
+    "firstName": "Carie",
+    "lastName": "Fisher",
+    "displayName": "Carie Fisher",
+    "jobTitle": "Sr. Accessibility Program Manager",
+    "company": "GitHub",
+    "bio": "Carie is a Senior Accessibility Program Manager at GitHub, where she builds and scales systems that make accessibility a default, not an afterthought. With 20+ years of experience in inclusive design, developer experience, and emerging technology, she helps teams turn accessibility into a fast-moving, AI-powered engineering advantage.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1777300452434001pMw7/attprofile/Carie_Fisher_cropped_1777647103968001wN2Q.jpg?1778761029366",
     "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/sebastiankohlmeier/",
-    "gitHub": "",
+    "linkedIn": "https://www.linkedin.com/in/cariefisher",
+    "gitHub": "cehfisher",
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018716883001rHBl"
+      "en-US-1774051494766001FDla",
+      "en-US-1777287294165001SrQc"
     ],
     "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1775086360974001J4XY_20260512040803487.avif",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1777300452434001pMw7_20260514211341443.avif",
     "ogTitle": "",
     "ogDescription": null,
     "sessionTypes": [
       {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      {
+        "displayValue": "Table Talk",
+        "logicalValue": "Table Talk"
       }
     ],
     "topic": [],
     "levels": [
       {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      },
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
       }
     ],
     "programmingLanguages": [],
@@ -23459,8 +23472,8 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "Online",
-        "logicalValue": "Online"
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   }
