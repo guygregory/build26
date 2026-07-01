@@ -21442,61 +21442,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1776351028697001ZmDD",
-    "speakerId": "1768245294609build26-1776351028697001ZmDD",
-    "firstName": "Anush",
-    "lastName": "Elangovan",
-    "displayName": "Anush Elangovan",
-    "jobTitle": "Corp. VP, AI software and solutions",
-    "company": "AMD",
-    "bio": "Anush Elangovan leads the Artificial Intelligence Group (AIG) as Corporate Vice President of AI software and solutions.\nAnush has 23 years of industry experience in AI, computer science, compilers, network security, operating systems, math, and its materialization on complex hardware systems. This co-founder and Chief Executive Officer of Nod.ai oversaw product strategy and the overall business until AMD acquired Nod.ai (see related article here) today.\nAnush will lead the acceleration of deploying AI solutions optimized for AMD products while aligning with AMD’s AI growth strategy centered on an open software ecosystem. In the near term, he and his team will introduce the code generation (CodeGen) capabilities from the Nod.ai flagship software, Shark, to unlock customer engagements via the ROCm™ and Vitis™ AI platforms. Over time, Anush will lead the contributions of the Nod.ai team to the AMD Unified AI Stack.\nBefore starting Nod.ai, Anush was instrumental in the graphics stack on the first ARM Chromebook. He led the movement of the Chrome operating system from Debian to Gentoo Linux to enable Google to gain full control of the shipping software. Previously, he was Principal Engineer for Agnilux, which Google acquired. The Agnilux team became crucial to the Chrome OS team, building a fusion of Android and Chrome OS.\nPreviously, Anush was a technical lead at Cisco Systems in its Datacenter Group, creating the first distributed virtual switching platform. He has also been an early member of FireEye, where he led in-memory taint-check analysis for networking and security in virtualized environments. He started his career in an earlier stint at Cisco, contributing to metro ethernet initiatives. Anush holds a Master of Science in computer science from Arizona State University and a Bachelor of Engineering in computer science from the Mepco Schlenk Engineering College at Madurai Kamaraj University in India. He has earned 10 patents. In his spare time, he enjoys skiing, mountaineering, and trail running. Anush lives with his family, including three children and two dogs, in the East Bay of the San Franciso Bay Area.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776351028697001ZmDD/attprofile/Anush%20Pic_1778861529385001JqCI.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/anushelangovan",
-    "gitHub": "",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1775240864817001hZBb"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776351028697001ZmDD_20260528133128899.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1778258032365001A3Wu",
     "speakerId": "1768245294609build26-1778258032365001A3Wu",
     "firstName": "Vishnu Charan",
@@ -21575,6 +21520,61 @@
       {
         "displayValue": "(200) Intermediate",
         "logicalValue": "(200) Intermediate"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776351028697001ZmDD",
+    "speakerId": "1768245294609build26-1776351028697001ZmDD",
+    "firstName": "Anush",
+    "lastName": "Elangovan",
+    "displayName": "Anush Elangovan",
+    "jobTitle": "Corp. VP, AI software and solutions",
+    "company": "AMD",
+    "bio": "Anush Elangovan leads the Artificial Intelligence Group (AIG) as Corporate Vice President of AI software and solutions.\nAnush has 23 years of industry experience in AI, computer science, compilers, network security, operating systems, math, and its materialization on complex hardware systems. This co-founder and Chief Executive Officer of Nod.ai oversaw product strategy and the overall business until AMD acquired Nod.ai (see related article here) today.\nAnush will lead the acceleration of deploying AI solutions optimized for AMD products while aligning with AMD’s AI growth strategy centered on an open software ecosystem. In the near term, he and his team will introduce the code generation (CodeGen) capabilities from the Nod.ai flagship software, Shark, to unlock customer engagements via the ROCm™ and Vitis™ AI platforms. Over time, Anush will lead the contributions of the Nod.ai team to the AMD Unified AI Stack.\nBefore starting Nod.ai, Anush was instrumental in the graphics stack on the first ARM Chromebook. He led the movement of the Chrome operating system from Debian to Gentoo Linux to enable Google to gain full control of the shipping software. Previously, he was Principal Engineer for Agnilux, which Google acquired. The Agnilux team became crucial to the Chrome OS team, building a fusion of Android and Chrome OS.\nPreviously, Anush was a technical lead at Cisco Systems in its Datacenter Group, creating the first distributed virtual switching platform. He has also been an early member of FireEye, where he led in-memory taint-check analysis for networking and security in virtualized environments. He started his career in an earlier stint at Cisco, contributing to metro ethernet initiatives. Anush holds a Master of Science in computer science from Arizona State University and a Bachelor of Engineering in computer science from the Mepco Schlenk Engineering College at Madurai Kamaraj University in India. He has earned 10 patents. In his spare time, he enjoys skiing, mountaineering, and trail running. Anush lives with his family, including three children and two dogs, in the East Bay of the San Franciso Bay Area.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776351028697001ZmDD/attprofile/Anush%20Pic_1778861529385001JqCI.jpg",
+    "twitter": "",
+    "linkedIn": "https://www.linkedin.com/in/anushelangovan",
+    "gitHub": "",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1775240864817001hZBb"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776351028697001ZmDD_20260528133128899.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
       }
     ],
     "programmingLanguages": [],
