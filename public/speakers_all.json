@@ -8206,25 +8206,25 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1770757847067001DhQT",
-    "speakerId": "1768245294609build26-1770757847067001DhQT",
-    "firstName": "Kendra",
-    "lastName": "Springer",
-    "displayName": "Kendra Springer",
-    "jobTitle": "Principal Product Manager",
-    "company": "Microsoft",
-    "bio": "Kendra is Principal Group PM for Agent 365 at Microsoft, helping enterprises scale agentic adoption with cohesive, scalable governance. With 7 years in AI platforms, she previously led teams in Copilot Studio. Passionate about democratizing AI.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1770757847067001DhQT/attprofile/headshot%20%28002%29%202_1777651493774001jlYT.jpg",
+    "localizedId": "en-US-1768245294609build26-1776980112222001zvph",
+    "speakerId": "1768245294609build26-1776980112222001zvph",
+    "firstName": "Parth",
+    "lastName": "Sareen",
+    "displayName": "Parth Sareen",
+    "jobTitle": "Software Engineer",
+    "company": "Ollama",
+    "bio": "",
+    "photo": "",
     "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/kendraspringer/",
-    "gitHub": "kespring_microsoft",
+    "linkedIn": "",
+    "gitHub": "ParthSareen",
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018716723001rkrH"
+      "en-US-1775517798562001H69f"
     ],
     "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1770757847067001DhQT_20260519190644506.avif",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776980112222001zvph_20260512014610808.avif",
     "ogTitle": "",
     "ogDescription": null,
     "sessionTypes": [
@@ -8261,80 +8261,25 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1774285000548001pBWh",
-    "speakerId": "1768245294609build26-1774285000548001pBWh",
-    "firstName": "Josh",
-    "lastName": "Spicer",
-    "displayName": "Josh Spicer",
-    "jobTitle": "SENIOR SOFTWARE ENGINEER",
-    "company": "VS Code",
-    "bio": "Josh is an engineer on the VS Code team building AI developer tools.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774285000548001pBWh/attprofile/9_1780335918631001y8vL.jpg",
+    "localizedId": "en-US-1768245294609build26-1770757847067001DhQT",
+    "speakerId": "1768245294609build26-1770757847067001DhQT",
+    "firstName": "Kendra",
+    "lastName": "Springer",
+    "displayName": "Kendra Springer",
+    "jobTitle": "Principal Product Manager",
+    "company": "Microsoft",
+    "bio": "Kendra is Principal Group PM for Agent 365 at Microsoft, helping enterprises scale agentic adoption with cohesive, scalable governance. With 7 years in AI platforms, she previously led teams in Copilot Studio. Passionate about democratizing AI.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1770757847067001DhQT/attprofile/headshot%20%28002%29%202_1777651493774001jlYT.jpg",
     "twitter": "",
-    "linkedIn": "https://linkedin.com/in/joshspicer",
-    "gitHub": "joshspicer",
+    "linkedIn": "https://www.linkedin.com/in/kendraspringer/",
+    "gitHub": "kespring_microsoft",
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1774018708919001rKEA"
+      "en-US-1774018716723001rkrH"
     ],
     "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1774285000548001pBWh_20260602112524807.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(400) Expert",
-        "logicalValue": "(400) Expert"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "Online",
-        "logicalValue": "Online"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1776980112222001zvph",
-    "speakerId": "1768245294609build26-1776980112222001zvph",
-    "firstName": "Parth",
-    "lastName": "Sareen",
-    "displayName": "Parth Sareen",
-    "jobTitle": "Software Engineer",
-    "company": "Ollama",
-    "bio": "",
-    "photo": "",
-    "twitter": "",
-    "linkedIn": "",
-    "gitHub": "ParthSareen",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1775517798562001H69f"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776980112222001zvph_20260512014610808.avif",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1770757847067001DhQT_20260519190644506.avif",
     "ogTitle": "",
     "ogDescription": null,
     "sessionTypes": [
@@ -8551,6 +8496,61 @@
   },
   {
     "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1774285000548001pBWh",
+    "speakerId": "1768245294609build26-1774285000548001pBWh",
+    "firstName": "Josh",
+    "lastName": "Spicer",
+    "displayName": "Josh Spicer",
+    "jobTitle": "SENIOR SOFTWARE ENGINEER",
+    "company": "VS Code",
+    "bio": "Josh is an engineer on the VS Code team building AI developer tools.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1774285000548001pBWh/attprofile/9_1780335918631001y8vL.jpg",
+    "twitter": "",
+    "linkedIn": "https://linkedin.com/in/joshspicer",
+    "gitHub": "joshspicer",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018708919001rKEA"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1774285000548001pBWh_20260602112524807.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(400) Expert",
+        "logicalValue": "(400) Expert"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1750715119672001uIgP",
     "speakerId": "1768245294609build26-1750715119672001uIgP",
     "firstName": "Devanshi",
@@ -8661,6 +8661,61 @@
   },
   {
     "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776135903186001Orl7",
+    "speakerId": "1768245294609build26-1776135903186001Orl7",
+    "firstName": "Evan",
+    "lastName": "Boyle",
+    "displayName": "Evan Boyle",
+    "jobTitle": "Principal Manager - Software Engineering",
+    "company": "GitHub",
+    "bio": "",
+    "photo": "",
+    "twitter": "",
+    "linkedIn": "",
+    "gitHub": "evanboyle",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1778109100437001YTWq"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776135903186001Orl7_20260512014446148.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "Online",
+        "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1775085931036001BzcI",
     "speakerId": "1768245294609build26-1775085931036001BzcI",
     "firstName": "Sarah",
@@ -8716,38 +8771,47 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1776135903186001Orl7",
-    "speakerId": "1768245294609build26-1776135903186001Orl7",
-    "firstName": "Evan",
-    "lastName": "Boyle",
-    "displayName": "Evan Boyle",
-    "jobTitle": "Principal Manager - Software Engineering",
-    "company": "GitHub",
-    "bio": "",
-    "photo": "",
+    "localizedId": "en-US-1768245294609build26-1776296191511001xsDz",
+    "speakerId": "1768245294609build26-1776296191511001xsDz",
+    "firstName": "Egina",
+    "lastName": "Malaj",
+    "displayName": "Egina Malaj",
+    "jobTitle": "AI Architect",
+    "company": "Microsoft MVP",
+    "bio": "Egina is an AI Architect and Microsoft AI MVP. She has a strong foundation in machine learning and AI system design, building production-ready AI systems and agentic architectures. She is active in building AI community and mentoring.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776296191511001xsDz/attprofile/Profile_Photo.jpg",
     "twitter": "",
-    "linkedIn": "",
-    "gitHub": "evanboyle",
+    "linkedIn": "https://www.linkedin.com/in/eginamalaj/",
+    "gitHub": "eginaml",
     "facebook": "",
     "website": "",
     "sessionsPresenting": [
-      "en-US-1778109100437001YTWq"
+      "en-US-1774493285518001k21x",
+      "en-US-1774493286595001kdVd"
     ],
     "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776135903186001Orl7_20260512014446148.avif",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776296191511001xsDz_20260527141702319.avif",
     "ogTitle": "",
     "ogDescription": null,
     "sessionTypes": [
       {
-        "displayValue": "Breakout",
-        "logicalValue": "Breakout"
+        "displayValue": "Table Talk",
+        "logicalValue": "Table Talk"
+      },
+      {
+        "displayValue": "Table Talk",
+        "logicalValue": "Table Talk"
       }
     ],
     "topic": [],
     "levels": [
       {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
+      },
+      {
+        "displayValue": "(200) Intermediate",
+        "logicalValue": "(200) Intermediate"
       }
     ],
     "programmingLanguages": [],
@@ -8764,8 +8828,8 @@
         "logicalValue": "In-person"
       },
       {
-        "displayValue": "Online",
-        "logicalValue": "Online"
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   },
@@ -8955,70 +9019,6 @@
         "displayValue": "In-person",
         "logicalValue": "In-person"
       },
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1776296191511001xsDz",
-    "speakerId": "1768245294609build26-1776296191511001xsDz",
-    "firstName": "Egina",
-    "lastName": "Malaj",
-    "displayName": "Egina Malaj",
-    "jobTitle": "AI Architect",
-    "company": "Microsoft MVP",
-    "bio": "Egina is an AI Architect and Microsoft AI MVP. She has a strong foundation in machine learning and AI system design, building production-ready AI systems and agentic architectures. She is active in building AI community and mentoring.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776296191511001xsDz/attprofile/Profile_Photo.jpg",
-    "twitter": "",
-    "linkedIn": "https://www.linkedin.com/in/eginamalaj/",
-    "gitHub": "eginaml",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774493285518001k21x",
-      "en-US-1774493286595001kdVd"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776296191511001xsDz_20260527141702319.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Table Talk",
-        "logicalValue": "Table Talk"
-      },
-      {
-        "displayValue": "Table Talk",
-        "logicalValue": "Table Talk"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      },
-      {
-        "displayValue": "(200) Intermediate",
-        "logicalValue": "(200) Intermediate"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
       {
         "displayValue": "In-person",
         "logicalValue": "In-person"
