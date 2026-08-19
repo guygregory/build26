@@ -2515,122 +2515,6 @@
   },
   {
     "@search.score": 1.0,
-    "localizedId": "en-US-1768245294609build26-1776706498871001Ov8x",
-    "speakerId": "1768245294609build26-1776706498871001Ov8x",
-    "firstName": "Chris",
-    "lastName": "Anderson",
-    "displayName": "Chris Anderson",
-    "jobTitle": "PM - Fabric App Dev + Rayfin",
-    "company": "Microsoft",
-    "bio": "building the latest and greatest app dev experiences with Rayfin on Fabric - passionate about javascript, databases, and developer experience.",
-    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776706498871001Ov8x/attprofile/Profile_Photo.jpg",
-    "twitter": "https://www.x.com/cranycodes",
-    "linkedIn": "https://www.linkedin.com/in/crandycodes/",
-    "gitHub": "christopheranderson",
-    "facebook": "",
-    "website": "",
-    "sessionsPresenting": [
-      "en-US-1774018706286001rYPi",
-      "en-US-1777471719673001KaB5",
-      "en-US-1777582642663001tz4F",
-      "en-US-1777582571352001yzY4",
-      "en-US-1777582507758001uo3n",
-      "en-US-1780454779879001kZH6"
-    ],
-    "langLocale": "en-US",
-    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776706498871001Ov8x_20260603163048766.avif",
-    "ogTitle": "",
-    "ogDescription": null,
-    "sessionTypes": [
-      {
-        "displayValue": "Demo",
-        "logicalValue": "Demo"
-      },
-      {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
-      },
-      {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
-      },
-      {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
-      },
-      {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
-      },
-      {
-        "displayValue": "Lab",
-        "logicalValue": "Lab"
-      }
-    ],
-    "topic": [],
-    "levels": [
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      },
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      },
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      },
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      },
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      },
-      {
-        "displayValue": "(300) Advanced",
-        "logicalValue": "(300) Advanced"
-      }
-    ],
-    "programmingLanguages": [],
-    "solutions": [],
-    "communityTopic": [],
-    "learningZoneTopic": [],
-    "theme": [],
-    "solutionArea": [],
-    "event": [],
-    "sessionLanguage": [],
-    "deliveryTypes": [
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      },
-      {
-        "displayValue": "In-person",
-        "logicalValue": "In-person"
-      }
-    ]
-  },
-  {
-    "@search.score": 1.0,
     "localizedId": "en-US-1768245294609build26-1772472228939001By6I",
     "speakerId": "1768245294609build26-1772472228939001By6I",
     "firstName": "Aaron",
@@ -4777,6 +4661,122 @@
       {
         "displayValue": "Online",
         "logicalValue": "Online"
+      }
+    ]
+  },
+  {
+    "@search.score": 1.0,
+    "localizedId": "en-US-1768245294609build26-1776706498871001Ov8x",
+    "speakerId": "1768245294609build26-1776706498871001Ov8x",
+    "firstName": "Chris",
+    "lastName": "Anderson",
+    "displayName": "Chris Anderson",
+    "jobTitle": "PM - Fabric App Dev + Rayfin",
+    "company": "Microsoft",
+    "bio": "building the latest and greatest app dev experiences with Rayfin on Fabric - passionate about javascript, databases, and developer experience.",
+    "photo": "https://static.rainfocus.com/microsoft/build26/att/1776706498871001Ov8x/attprofile/Profile_Photo.jpg",
+    "twitter": "https://www.x.com/crandycodes",
+    "linkedIn": "https://www.linkedin.com/in/crandycodes/",
+    "gitHub": "christopheranderson",
+    "facebook": "",
+    "website": "",
+    "sessionsPresenting": [
+      "en-US-1774018706286001rYPi",
+      "en-US-1777471719673001KaB5",
+      "en-US-1777582642663001tz4F",
+      "en-US-1777582571352001yzY4",
+      "en-US-1777582507758001uo3n",
+      "en-US-1780454779879001kZH6"
+    ],
+    "langLocale": "en-US",
+    "ogImage": "https://mediastream.microsoft.com/Build2026/V1/itsp/1768245294609build26-1776706498871001Ov8x_20260603163048766.avif",
+    "ogTitle": "",
+    "ogDescription": null,
+    "sessionTypes": [
+      {
+        "displayValue": "Demo",
+        "logicalValue": "Demo"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      },
+      {
+        "displayValue": "Lab",
+        "logicalValue": "Lab"
+      }
+    ],
+    "topic": [],
+    "levels": [
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      },
+      {
+        "displayValue": "(300) Advanced",
+        "logicalValue": "(300) Advanced"
+      }
+    ],
+    "programmingLanguages": [],
+    "solutions": [],
+    "communityTopic": [],
+    "learningZoneTopic": [],
+    "theme": [],
+    "solutionArea": [],
+    "event": [],
+    "sessionLanguage": [],
+    "deliveryTypes": [
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
+      },
+      {
+        "displayValue": "In-person",
+        "logicalValue": "In-person"
       }
     ]
   },
